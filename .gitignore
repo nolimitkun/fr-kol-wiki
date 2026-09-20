@@ -1,0 +1,11 @@
+_docs/
+site/
+.venv/
+__pycache__/
+*.pyc
+*.wav
+*.mp3
+*.m4a
+*.webm
+*.part
+.DS_Store

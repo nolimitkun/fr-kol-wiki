@@ -1,0 +1,47 @@
+site_name: France KOL Wiki
+site_description: 法国公共议题长视频的中文翻译与观点知识库
+repo_name: fr-kol-wiki
+docs_dir: _docs
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: 切换深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: 切换浅色模式
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - content.action.view
+
+plugins:
+  - search:
+      lang: [zh, fr, en]
+  - literate-nav:
+      nav_file: SUMMARY.md
+
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
+
+not_in_nav: |
+  sources/**
+  SCHEMA.md
+  SUMMARY.md
+  wiki/log.md

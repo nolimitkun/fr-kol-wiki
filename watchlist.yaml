@@ -1,0 +1,81 @@
+# 初始种子频道。频道入库不代表认同其立场；字段由人维护。
+# kind: independent-media | public-media | parliament | university | think-tank | research | creator
+kols:
+  - slug: thinkerview
+    name: Thinkerview
+    channel: https://www.youtube.com/@thinkerview
+    min_minutes: 30
+    lang: fr
+    kind: independent-media
+    domains: [politics, economy, technology, military, society, environment]
+
+  - slug: france-culture
+    name: France Culture
+    channel: https://www.youtube.com/@FranceCulture
+    min_minutes: 25
+    lang: fr
+    kind: public-media
+    domains: [politics, economy, education, health, society, environment]
+
+  - slug: public-senat
+    name: Public Sénat
+    channel: https://www.youtube.com/@publicsenat
+    min_minutes: 25
+    lang: fr
+    kind: parliament
+    domains: [politics, economy, education, health, society]
+
+  - slug: xerfi-canal
+    name: Xerfi
+    channel: https://www.youtube.com/channel/UClLFPD1pu0nVTR_Y8NCpXJQ
+    min_minutes: 20
+    lang: fr
+    kind: research
+    domains: [economy, technology, society]
+
+  - slug: le-grand-continent
+    name: Mardis Grand Continent
+    channel: https://www.youtube.com/channel/UCFxDBEN7N1QdECRddUvPivQ
+    min_minutes: 25
+    lang: fr
+    kind: think-tank
+    domains: [politics, economy, military, environment]
+
+  - slug: le-collimateur
+    name: Le Collimateur
+    channel: https://www.youtube.com/channel/UCgj1WomILCL92QFQ1P1rZRg
+    min_minutes: 25
+    lang: fr
+    kind: research
+    domains: [military, politics]
+
+  - slug: science-etonnante
+    name: ScienceEtonnante
+    channel: https://www.youtube.com/@ScienceEtonnante
+    min_minutes: 20
+    lang: fr
+    kind: creator
+    domains: [technology, education, environment]
+
+  - slug: inserm
+    name: Inserm
+    channel: https://www.youtube.com/@Inserm
+    min_minutes: 20
+    lang: fr
+    kind: research
+    domains: [health, technology]
+
+  - slug: college-de-france
+    name: Collège de France
+    channel: https://www.youtube.com/@College-de-France
+    min_minutes: 30
+    lang: fr
+    kind: university
+    domains: [education, technology, economy, health, society]
+  - slug: lci
+    name: LCI
+    channel: https://www.youtube.com/channel/UCewhc0fvja891XkpIPGRMxQ
+    min_minutes: 25
+    lang: fr
+    kind: commercial-media
+    domains: [politics, economy, technology, society, environment]
