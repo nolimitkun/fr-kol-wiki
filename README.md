@@ -6,6 +6,7 @@
 
 ## 开始浏览
 
+- **[在线浏览 France KOL Wiki](https://nolimitkun.github.io/fr-kol-wiki/)**（GitHub Pages）
 - [Wiki 首页](wiki/index.md)
 - [编辑与数据规范](SCHEMA.md)
 - [关注频道](watchlist.yaml)
