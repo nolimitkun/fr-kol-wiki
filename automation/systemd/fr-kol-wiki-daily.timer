@@ -1,0 +1,10 @@
+[Unit]
+Description=France KOL Wiki daily update at 08:00 Europe/Paris
+
+[Timer]
+OnCalendar=*-*-* 08:00:00
+Persistent=true
+RandomizedDelaySec=120
+
+[Install]
+WantedBy=timers.target

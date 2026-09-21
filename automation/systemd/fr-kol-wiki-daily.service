@@ -1,0 +1,13 @@
+[Unit]
+Description=France KOL Wiki daily local curation
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStartPre=/usr/bin/mkdir -p %h/.local/state/fr-kol-wiki-nightly
+ExecStart=/usr/bin/flock -n %h/.local/state/fr-kol-wiki-nightly/run.lock %h/.local/bin/fr-kol-wiki-daily-update.sh
+TimeoutStartSec=14400
+Nice=10
+IOSchedulingClass=best-effort
+IOSchedulingPriority=6
