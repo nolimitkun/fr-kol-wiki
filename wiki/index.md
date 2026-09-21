@@ -34,10 +34,10 @@
 
 ## 按视频
 
-- 2026-09-19 · Public Sénat · [教育：家长在学校教育中应处于什么位置？](videos/20260919-public-senat-parents-at-school.md)
+- 2026-09-19 · Public Sénat · [教育：家长到底该管多少？](videos/20260919-public-senat-parents-at-school.md)
 ## 2027 总统选举经济专题
 
 - [2027总统选举经济政策对照](topics/2027-presidential-economic-policy.md)
-- [2027总统选举：七名候选人面对企业界的经济政策辩论](videos/20260827-lci-medef-2027-economic-debate.md)
+- [2027大选经济首辩：七个人都说要救法国，账却完全不是一套](videos/20260827-lci-medef-2027-economic-debate.md)
 - 人物：[Bruno Retailleau](people/bruno-retailleau.md)、[Raphaël Glucksmann](people/raphael-glucksmann.md)、[Édouard Philippe](people/edouard-philippe.md)、[Marine Le Pen](people/marine-le-pen.md)、[Jean-Luc Mélenchon](people/jean-luc-melenchon.md)、[Gabriel Attal](people/gabriel-attal.md)、[Marine Tondelier](people/marine-tondelier.md)
 - 机构：[LCI](organizations/lci.md)、[Medef](organizations/medef.md)

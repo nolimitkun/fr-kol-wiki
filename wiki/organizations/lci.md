@@ -9,4 +9,4 @@ updated: 2026-09-20
 
 ## 已收录
 
-- [2027总统选举：七名候选人面对企业界的经济政策辩论](../videos/20260827-lci-medef-2027-economic-debate.md)（与 Medef 合作，2026-08-27）
+- [2027大选经济首辩：七个人都说要救法国，账却完全不是一套](../videos/20260827-lci-medef-2027-economic-debate.md)（与 Medef 合作，2026-08-27）
