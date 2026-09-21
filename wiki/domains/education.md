@@ -7,4 +7,4 @@
 
 ## 视频
 
-- [教育：家长在学校教育中应处于什么位置？](../videos/20260919-public-senat-parents-at-school.md)（Public Sénat，2026-09-19）
+- [教育：家长到底该管多少？](../videos/20260919-public-senat-parents-at-school.md)（Public Sénat，2026-09-19）
