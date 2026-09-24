@@ -20,11 +20,24 @@ NEW_SOURCES="$STATE_DIR/new-sources.txt"
 RUN_DATE="$(date +%Y%m%d)"
 RUN_STAMP="$(date +%Y%m%d-%H%M%S)"
 LOG="$LOG_DIR/$RUN_DATE.log"
+SUCCESS_MARKER="$STATE_DIR/success-$RUN_DATE"
 
 mkdir -p "$LOG_DIR"
 find "$LOG_DIR" -name '*.log' -mtime +30 -delete
+find "$STATE_DIR" -maxdepth 1 -name 'success-*' -mtime +30 -delete
 exec >>"$LOG" 2>&1
 echo "=== run started $(date -Is) ==="
+
+if [ "${FORCE_RUN:-0}" != "1" ] && [ -e "$SUCCESS_MARKER" ]; then
+  echo "Already completed successfully today; skipping. Set FORCE_RUN=1 to rerun."
+  echo "=== run finished $(date -Is) ==="
+  exit 0
+fi
+
+finish_successfully() {
+  touch "$SUCCESS_MARKER"
+  echo "=== run finished $(date -Is) ==="
+}
 
 if [ ! -f "$PROMPT" ] || [ ! -f "$SELECT_PROMPT" ]; then
   echo "!! missing automation prompt"
@@ -74,7 +87,7 @@ run_codex() {
 uv run scripts/discover.py -n 15 >"$CANDIDATES"
 if ! grep -q 'watch?v=' "$CANDIDATES"; then
   echo "No unseen candidates; no changes."
-  echo "=== run finished $(date -Is) ==="
+  finish_successfully
   exit 0
 fi
 
@@ -92,7 +105,7 @@ fi
 mapfile -t selected_lines < <(sed '/^[[:space:]]*$/d' "$SELECTION")
 if [ "${#selected_lines[@]}" -eq 1 ] && [ "${selected_lines[0]}" = "NONE" ]; then
   echo "No suitable video selected; no changes."
-  echo "=== run finished $(date -Is) ==="
+  finish_successfully
   exit 0
 fi
 if [ "${#selected_lines[@]}" -lt 1 ] || [ "${#selected_lines[@]}" -gt 2 ]; then
@@ -136,7 +149,7 @@ done
 
 if [ "$fetched" -eq 0 ]; then
   echo "No selected video could be fetched; no changes."
-  echo "=== run finished $(date -Is) ==="
+  finish_successfully
   exit 0
 fi
 
@@ -176,7 +189,7 @@ fi
 
 if [ -z "$(git status --porcelain)" ]; then
   echo "No suitable video found; no changes."
-  echo "=== run finished $(date -Is) ==="
+  finish_successfully
   exit 0
 fi
 
@@ -207,4 +220,4 @@ PR_URL="$(gh pr create \
   --body "本地 Codex 每日筛选并整理的内容，必要时使用 RTX 5090 转录。已通过 Wiki lint 与 MkDocs strict build；请人工复核翻译、说话人归属、数字和时间戳后再合并。")"
 
 echo "Created PR: $PR_URL"
-echo "=== run finished $(date -Is) ==="
+finish_successfully
