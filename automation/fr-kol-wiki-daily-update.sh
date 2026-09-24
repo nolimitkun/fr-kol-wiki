@@ -61,7 +61,13 @@ open_daily_pr="$(gh pr list \
   --limit 100 \
   --json headRefName,url \
   --jq '.[] | select(.headRefName | startswith("automation/daily-ingestion-")) | .url')"
-if [ -n "$open_daily_pr" ]; then
+open_daily_branches="$(gh pr list \
+  --repo nolimitkun/fr-kol-wiki \
+  --state open \
+  --limit 100 \
+  --json headRefName \
+  --jq '.[] | select(.headRefName | startswith("automation/daily-ingestion-")) | .headRefName')"
+if [ "${FORCE_RUN:-0}" != "1" ] && [ -n "$open_daily_pr" ]; then
   echo "An earlier daily ingestion PR is still open; waiting for review:"
   echo "$open_daily_pr"
   finish_successfully
@@ -97,7 +103,19 @@ run_codex() {
 }
 
 # 网络操作由这个受信任的外层脚本执行；Codex 的 shell 保持断网。
+seen_backup=""
+if [ -n "$open_daily_branches" ]; then
+  seen_backup="$STATE_DIR/seen-before-open-pr-overlay.txt"
+  cp sources/seen.txt "$seen_backup"
+  while IFS= read -r branch; do
+    git show "origin/$branch:sources/seen.txt" || true
+  done <<<"$open_daily_branches" >>sources/seen.txt
+  sort -u -o sources/seen.txt sources/seen.txt
+fi
 uv run scripts/discover.py -n 15 >"$CANDIDATES"
+if [ -n "$seen_backup" ]; then
+  mv "$seen_backup" sources/seen.txt
+fi
 if ! grep -q 'watch?v=' "$CANDIDATES"; then
   echo "No unseen candidates; no changes."
   finish_successfully
