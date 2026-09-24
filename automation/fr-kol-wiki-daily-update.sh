@@ -10,7 +10,13 @@ REPO="$HOME/workspace/fr-kol-wiki-nightly"
 STATE_DIR="$HOME/.local/state/fr-kol-wiki-nightly"
 LOG_DIR="$STATE_DIR/logs"
 PROMPT="$HOME/.local/share/fr-kol-wiki-automation/daily-prompt.md"
+SELECT_PROMPT="$HOME/.local/share/fr-kol-wiki-automation/selection-prompt.md"
 LAST_MESSAGE="$STATE_DIR/last-message.md"
+SELECTION="$STATE_DIR/selection.txt"
+CANDIDATES="$STATE_DIR/candidates.txt"
+BEFORE_SOURCES="$STATE_DIR/sources-before.txt"
+AFTER_SOURCES="$STATE_DIR/sources-after.txt"
+NEW_SOURCES="$STATE_DIR/new-sources.txt"
 RUN_DATE="$(date +%Y%m%d)"
 RUN_STAMP="$(date +%Y%m%d-%H%M%S)"
 LOG="$LOG_DIR/$RUN_DATE.log"
@@ -20,8 +26,8 @@ find "$LOG_DIR" -name '*.log' -mtime +30 -delete
 exec >>"$LOG" 2>&1
 echo "=== run started $(date -Is) ==="
 
-if [ ! -f "$PROMPT" ]; then
-  echo "!! missing prompt: $PROMPT"
+if [ ! -f "$PROMPT" ] || [ ! -f "$SELECT_PROMPT" ]; then
+  echo "!! missing automation prompt"
   exit 1
 fi
 
@@ -51,19 +57,99 @@ rm -rf "$REPO/_docs" "$REPO/site"
 cd "$REPO"
 BASE_SHA="$(git rev-parse HEAD)"
 
-codex --enable use_legacy_landlock --search exec \
-  --ignore-user-config \
-  --ephemeral \
-  --cd "$REPO" \
-  --model gpt-5.6-sol \
-  --output-last-message "$LAST_MESSAGE" \
-  -c 'approval_policy="never"' \
-  -c 'default_permissions="daily-ingestion"' \
-  -c 'features.network_proxy=true' \
-  -c 'permissions.daily-ingestion.extends=":workspace"' \
-  -c 'permissions.daily-ingestion.network.enabled=true' \
-  -c 'permissions.daily-ingestion.network.domains."*"="allow"' \
-  - <"$PROMPT"
+run_codex() {
+  codex --enable use_legacy_landlock --search exec \
+    --ignore-user-config \
+    --ephemeral \
+    --cd "$REPO" \
+    --model gpt-5.6-sol \
+    --sandbox workspace-write \
+    -c 'approval_policy="never"' \
+    "$@"
+}
+
+# 网络操作由这个受信任的外层脚本执行；Codex 的 shell 保持断网。
+uv run scripts/discover.py -n 15 >"$CANDIDATES"
+if ! grep -q 'watch?v=' "$CANDIDATES"; then
+  echo "No unseen candidates; no changes."
+  echo "=== run finished $(date -Is) ==="
+  exit 0
+fi
+
+{
+  cat "$SELECT_PROMPT"
+  printf '\n\n## 候选列表\n\n'
+  cat "$CANDIDATES"
+} | run_codex --output-last-message "$SELECTION" -
+
+if [ -n "$(git status --porcelain)" ]; then
+  echo "!! selection phase changed the repository"
+  exit 1
+fi
+
+mapfile -t selected_lines < <(sed '/^[[:space:]]*$/d' "$SELECTION")
+if [ "${#selected_lines[@]}" -eq 1 ] && [ "${selected_lines[0]}" = "NONE" ]; then
+  echo "No suitable video selected; no changes."
+  echo "=== run finished $(date -Is) ==="
+  exit 0
+fi
+if [ "${#selected_lines[@]}" -lt 1 ] || [ "${#selected_lines[@]}" -gt 2 ]; then
+  echo "!! invalid selection count: ${#selected_lines[@]}"
+  exit 1
+fi
+
+find sources -path '*/transcript.md' -print | sort >"$BEFORE_SOURCES"
+fetched=0
+for line in "${selected_lines[@]}"; do
+  IFS=$'\t' read -r video_id channel_slug extra <<<"$line"
+  if [[ ! "$video_id" =~ ^[A-Za-z0-9_-]{11}$ ]] || \
+     [[ ! "$channel_slug" =~ ^[a-z0-9-]+$ ]] || \
+     [ -n "${extra:-}" ]; then
+    echo "!! invalid selection line: $line"
+    exit 1
+  fi
+  if ! grep -F "watch?v=$video_id" "$CANDIDATES" | grep -Fq -- "--kol $channel_slug"; then
+    echo "!! selection is not in the discovered candidate list: $line"
+    exit 1
+  fi
+
+  url="https://www.youtube.com/watch?v=$video_id"
+  if uv run scripts/fetch.py "$url" --kol "$channel_slug"; then
+    fetched=$((fetched + 1))
+    continue
+  fi
+
+  echo "No usable French captions for $video_id; trying RTX 5090 transcription."
+  if uv run \
+    --with faster-whisper \
+    --with nvidia-cublas-cu12 \
+    --with nvidia-cudnn-cu12 \
+    scripts/fetch.py "$url" --kol "$channel_slug" \
+    --transcribe --model large-v3-turbo; then
+    fetched=$((fetched + 1))
+  else
+    echo "!! failed to fetch or transcribe $video_id; continuing"
+  fi
+done
+
+if [ "$fetched" -eq 0 ]; then
+  echo "No selected video could be fetched; no changes."
+  echo "=== run finished $(date -Is) ==="
+  exit 0
+fi
+
+find sources -path '*/transcript.md' -print | sort >"$AFTER_SOURCES"
+comm -13 "$BEFORE_SOURCES" "$AFTER_SOURCES" >"$NEW_SOURCES"
+if [ ! -s "$NEW_SOURCES" ]; then
+  echo "!! fetch reported success but no new transcript was found"
+  exit 1
+fi
+
+{
+  cat "$PROMPT"
+  printf '\n\n## 本次新增逐字稿\n\n'
+  cat "$NEW_SOURCES"
+} | run_codex --output-last-message "$LAST_MESSAGE" -
 
 if [ "$(git rev-parse HEAD)" != "$BASE_SHA" ]; then
   echo "!! Codex changed Git history; refusing to push"

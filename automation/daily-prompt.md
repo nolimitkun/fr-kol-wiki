@@ -12,22 +12,9 @@
 ## 今天怎么做
 
 1. 完整阅读 `SCHEMA.md`、`watchlist.yaml`、`wiki/index.md` 和 `wiki/log.md`。
-2. 运行 `uv run scripts/discover.py -n 15` 查看候选。
-3. 选择 **0–2 条**真正值得收录的视频。优先完整论证的访谈、演讲、辩论、圆桌或课程；补足现有领域、人物或观点空白；避免连续堆同一频道、人物和政治光谱。
-4. 跳过新闻快讯、Shorts、预告、直播等待画面、重复上传、纯宣传片和缺少实质内容的视频。明显永远不适合本库的候选，把视频 ID 和理由追加到 `sources/skipped.txt`；只是今天没选上的不要永久跳过。
-5. 对选中的视频先运行：
-
-   ```bash
-   uv run scripts/fetch.py 'https://www.youtube.com/watch?v=VIDEO_ID' --kol CHANNEL_SLUG
-   ```
-
-6. 如果没有可用法语字幕，使用 RTX 5090 本地转录：
-
-   ```bash
-   uv run --with faster-whisper --with nvidia-cublas-cu12 --with nvidia-cudnn-cu12 scripts/fetch.py 'https://www.youtube.com/watch?v=VIDEO_ID' --kol CHANNEL_SLUG --transcribe --model large-v3-turbo
-   ```
-
-7. 完整阅读新逐字稿，再按 `SCHEMA.md` 建视频页，并更新必要的人物、机构、领域、专题、首页索引和更新日志。不要留下只有骨架的页面。
+2. 外层脚本已经完成候选筛选、字幕抓取和必要的 RTX 5090 转录。它会在本提示末尾列出本次新增逐字稿；只处理这些文件。
+3. 完整阅读每份新增逐字稿，再按 `SCHEMA.md` 建视频页，并更新必要的人物、机构、领域、专题、首页索引和更新日志。不要留下只有骨架的页面。
+4. 需要核验时优先使用内置网页搜索和一手官方来源；不要尝试通过 shell 联网。
 
 ## 写作与核验
 
@@ -44,3 +31,5 @@
 - 运行 `uv run scripts/lint.py` 并修复所有问题。
 - 检查 `git diff`，确认只有 `sources/` 和 `wiki/` 的必要变化。
 - 如果今天没有足够好的候选，保持仓库不变并正常结束。
+
+本次新增逐字稿列表将在本提示后面给出。
