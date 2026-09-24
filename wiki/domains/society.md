@@ -4,3 +4,7 @@
 \n## 家庭与教育
 
 - [家长参与、学校责任与教育不平等](../topics/parental-involvement-in-education.md)
+
+## 群体、记忆与暴力
+
+- [“种族灭绝”概念、国际法门槛与追责](../topics/genocide-international-law.md)
