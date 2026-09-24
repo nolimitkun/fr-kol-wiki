@@ -51,7 +51,7 @@ uv run --with mkdocs-material --with mkdocs-literate-nav mkdocs serve
 
 ## 本地每日收录
 
-`automation/` 提供本地日更方案：每天扫描关注频道，最多挑选 2 条高质量长视频；有字幕时直接抓取，没有字幕时调用 NVIDIA GPU 和 `faster-whisper large-v3-turbo` 转录。Codex 按本项目的白话风格翻译、归纳、交叉链接并运行完整校验，最后创建待审 PR，不会自动合并；没有合适候选时不产生提交。
+`automation/` 提供本地日更方案：每天扫描关注频道，最多挑选 2 条高质量长视频。选题优先追踪法国热点，其次关注中法关系及法国华人华裔议题；同时保留内容质量、信息密度和可核验性门槛，不因热度降低收录标准。有字幕时直接抓取，没有字幕时调用 NVIDIA GPU 和 `faster-whisper large-v3-turbo` 转录。Codex 按本项目的白话风格翻译、归纳、交叉链接并运行完整校验，最后创建待审 PR，不会自动合并；没有合适候选时不产生提交。
 
 任务使用独立的 `~/workspace/fr-kol-wiki-nightly` 克隆，不会碰正在编辑的工作区。systemd 模板默认每天巴黎时间 08:00 运行，关机或睡眠错过后会在恢复时补跑。一天内成功运行过会自动跳过重复触发；如果上一份自动内容 PR 还在等待审核，次日也会暂停新增，避免重复收录和 PR 堆积。安装后的日志位于 `~/.local/state/fr-kol-wiki-nightly/logs/`。
 
