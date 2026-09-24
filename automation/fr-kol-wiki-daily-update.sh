@@ -58,7 +58,7 @@ cd "$REPO"
 BASE_SHA="$(git rev-parse HEAD)"
 
 run_codex() {
-  codex --enable use_legacy_landlock exec \
+  codex exec \
     --ignore-user-config \
     --ephemeral \
     --cd "$REPO" \
