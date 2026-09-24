@@ -4,3 +4,8 @@
 \n## 家庭与教育
 
 - [家长参与、学校责任与教育不平等](../topics/parental-involvement-in-education.md)
+
+## 生活成本与交通
+
+- [燃油安全、海运咽喉与战争外溢](../topics/fuel-security-and-geopolitics.md)
+- [柴油危机：法国眼前不是一条断供线，而是三层依赖](../videos/20260923-lci-fuel-crisis.md)

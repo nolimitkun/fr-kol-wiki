@@ -5,3 +5,8 @@
 
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
 - [七名候选人面对企业界的经济政策辩论](../videos/20260827-lci-medef-2027-economic-debate.md)
+
+## 国际经济与能源安全
+
+- [欧洲如何应对中国的产业与技术力量](../topics/europe-china-economic-security.md)
+- [燃油安全、海运咽喉与战争外溢](../topics/fuel-security-and-geopolitics.md)
