@@ -55,6 +55,19 @@ until git ls-remote "$REMOTE" -h refs/heads/main >/dev/null 2>&1; do
   sleep 30
 done
 
+open_daily_pr="$(gh pr list \
+  --repo nolimitkun/fr-kol-wiki \
+  --state open \
+  --limit 100 \
+  --json headRefName,url \
+  --jq '.[] | select(.headRefName | startswith("automation/daily-ingestion-")) | .url')"
+if [ -n "$open_daily_pr" ]; then
+  echo "An earlier daily ingestion PR is still open; waiting for review:"
+  echo "$open_daily_pr"
+  finish_successfully
+  exit 0
+fi
+
 if [ ! -d "$REPO/.git" ]; then
   mkdir -p "$(dirname "$REPO")"
   git clone "$REMOTE" "$REPO"
