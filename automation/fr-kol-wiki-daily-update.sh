@@ -209,12 +209,17 @@ if [ -n "$unexpected" ]; then
   exit 1
 fi
 
-modified_sources="$(git diff HEAD --name-only --diff-filter=M -- sources/ | grep -Ev '^sources/(seen|skipped)\.txt$' || true)"
-deleted_sources="$(git diff HEAD --name-only --diff-filter=D -- sources/ || true)"
-if [ -n "$modified_sources" ] || [ -n "$deleted_sources" ]; then
-  echo "!! immutable source files were modified or deleted"
-  echo "$modified_sources"
-  echo "$deleted_sources"
+immutable_source_changes="$(
+  git diff HEAD --name-status --find-renames -- sources/ |
+    awk '
+      $1 == "A" { next }
+      $1 == "M" && ($2 == "sources/seen.txt" || $2 == "sources/skipped.txt") { next }
+      { print }
+    '
+)"
+if [ -n "$immutable_source_changes" ]; then
+  echo "!! immutable source files were changed"
+  echo "$immutable_source_changes"
   exit 1
 fi
 

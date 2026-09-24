@@ -55,6 +55,14 @@ uv run --with mkdocs-material --with mkdocs-literate-nav mkdocs serve
 
 任务使用独立的 `~/workspace/fr-kol-wiki-nightly` 克隆，不会碰正在编辑的工作区。systemd 模板默认每天巴黎时间 08:00 运行，关机或睡眠错过后会在恢复时补跑。一天内成功运行过会自动跳过重复触发；如果上一份自动内容 PR 还在等待审核，次日也会暂停新增，避免重复收录和 PR 堆积。安装后的日志位于 `~/.local/state/fr-kol-wiki-nightly/logs/`。
 
+首次安装运行：
+
+```bash
+automation/install.sh
+```
+
+安装脚本会检查依赖，把 runner、提示词和 systemd 用户单元复制到上述路径，然后重新加载并启用定时器。无需 `sudo`。
+
 ## 版权与立场
 
 原视频与字幕版权归原作者及发布方所有。本库仅保存研究、引用与评论所需的文本，并链接原视频。人物、机构和观点入库不代表项目认同；内容页应清楚区分发言者观点、编辑归纳和经外部来源核验的事实。
