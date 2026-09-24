@@ -4,7 +4,7 @@ date: 2026-09-23
 source_language: fr
 status: draft
 channel: lci
-people: [sebastien-abis, jean-francois-bureau]
+people: [elizabeth-sheppard-sellam, lucas-menget, sebastien-abis, xavier-de-giacomoni, peer-de-jong, jean-francois-bureau]
 organizations: [lci]
 domains: [economy, military, politics, environment, society]
 topics: [fuel-security-and-geopolitics]
@@ -26,13 +26,13 @@ updated: 2026-09-24
 
 ## 摘要
 
-LCI 从美国可能限制柴油出口讲起，随后把镜头拉到霍尔木兹、曼德海峡和俄乌炼厂攻防。Sébastien Abis 用“地质、工业、物流三重依赖”解释法国为何脆弱：缺本土油气、炼厂减少、进口航线又容易受战争打断。节目也承认，改向印度、中国或海湾国家采购并非立刻可行，因为余量、原油来源和航运路线仍受限制。嘉宾对出路没有共识：有人寄望中美伊谈判和能源设施暂停互袭，也有人认为交战方不会为了欧洲油价改变战略。后半段进一步讨论俄罗斯是否借俄伊合作主动放大危机，但证据主要是演播室口述。整期信息密集、警报色彩也很强，所有战争态势与价格数字都需另行核验。（[00:09:09](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#000909)–[00:23:20](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#002320)，[00:37:36](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#003736)–[00:50:49](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#005049)，[00:51:50](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#005150)–[01:01:00](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#010100)）
+LCI 从美国可能限制柴油出口讲起，随后把镜头拉到霍尔木兹、曼德海峡和俄乌炼厂攻防。Sébastien Abis 用“地质、工业、物流三重依赖”解释法国为何脆弱：缺本土油气、炼厂减少、进口航线又容易受战争打断。节目也承认，改向印度、中国或海湾国家采购并非立刻可行，因为余量、原油来源和航运路线仍受限制。Peer de Jong 对能源休战保留希望，Lucas Menget 则认为乌克兰不会为了欧洲油价停下纵深打击。后半段由 Jean-François Bureau、Elizabeth Sheppard Sellam、Peer de Jong 和 Menget 分别讨论俄罗斯的施压、宣传、俄伊军事合作与反欧洲叙事，但证据主要是演播室口述。整期信息密集、警报色彩也很强，所有战争态势与价格数字都需另行核验。（[00:09:09](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#000909)–[00:23:20](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#002320)，[00:37:36](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#003736)–[00:50:49](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#005049)，[00:51:50](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#005150)–[01:01:00](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#010100)）
 
 ## 先看清节目框架
 
 这是新闻台的危机专题，不是中性的能源审计。片头先给出“情况会恶化”的结论，屏幕文案又用“噩梦”“灾难”等词推动讨论。嘉宾确实解释了供应链，但大量战争态势、价格和产量数字没有在节目里给出处。页面因此只归纳他们的分析，不把演播室地图和口头数字当成已核实事实。（[00:00:01](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#000001)–[00:02:02](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#000202)，[00:09:09](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#000909)–[00:11:11](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#001111)）
 
-节目介绍 Sébastien Abis 为 IRIS 关联研究员、Demeter Club 负责人和俄乌农业问题著作作者；介绍 Jean-François Bureau 为北约前副秘书长。两项身份均仅据节目片头记录，待官方来源核验。（[00:02:02](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#000202)，[00:23:20](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#002320)–[00:24:22](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#002422)）
+节目开场介绍的圆桌嘉宾是 Elizabeth Sheppard Sellam、Lucas Menget、Sébastien Abis、Xavier de Giacomoni 和 Peer de Jong；Jean-François Bureau 在第二段加入。自动字幕把其中多个人名识别错，页面依据 Université de Tours 与 TF1 Info 的公开页面校正拼写；节目所述具体职务仍按播出日期记录。（[00:02:02](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#000202)，[00:23:20](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#002320)–[00:24:22](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#002422)）
 
 ## 法国的问题不是“没油”，而是每一环都要靠别人
 
@@ -42,7 +42,7 @@ Abis 的核心概念是“三重依赖”。第一重是地质：法国缺少本
 
 ## 特朗普说“把柴油留在美国”，为什么欧洲会疼？
 
-嘉宾们的解释是，美国国内同样面对高油价、库存压力和选举，限制出口可以向卡车司机与农场主示好。但炼油不是拧一个单独的柴油水龙头：降低炼厂负荷也会影响汽油和航空煤油，石油企业还需要持续出货，因此禁令是否真正执行、执行到什么程度，都存在不确定性。（[00:03:03](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#000303)–[00:06:07](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#000607)，[00:08:09](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#000809)–[00:12:12](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#001212)）
+Abis 先从高油价、库存压力和中期选举解释特朗普为何想限制出口；Menget 随后把这看成特朗普被伊朗、俄乌战争和国内选举同时逼入角落的保护主义反应。圆桌接着提醒，炼油不是拧一个单独的柴油水龙头：降低炼厂负荷也会影响汽油和航空煤油，石油企业还需要持续出货，因此禁令是否真正执行、执行到什么程度，都存在不确定性。（[00:03:03](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#000303)–[00:07:07](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#000707)，[00:08:09](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#000809)–[00:12:12](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#001212)）
 
 节目一度把俄罗斯、沙特、中国、韩国、日本和印度列作替代来源，现场很快自己拆了这个简单答案：有的供应受制裁，有的航线受阻，有的产品其实用俄罗斯原油炼成，还有的国家没有多余产能。换供应商能分散风险，却不能立刻补回法国失去的炼化能力。（[00:20:18](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#002018)–[00:22:19](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#002219)）
 
@@ -64,11 +64,11 @@ Jean-François Bureau 的判断偏悲观：战争持续已成更确定的风险�
 
 节目称乌克兰持续打击俄罗斯炼厂，俄罗斯则限制成品油出口。即使欧盟已经大幅减少直接进口俄罗斯原油，全球成品油供给缩小仍会推高价格；印度或土耳其炼制的产品还可能使用俄罗斯原油，让“已经脱钩”的说法变得更复杂。（[00:43:42](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#004342)–[00:45:45](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#004545)）
 
-现场对“能源休战”分成两派。一方认为，欧洲燃油压力、美国国内政治和海湾航运可以组合成一项交易。反方说，乌克兰不会为了欧洲加油站价格停掉它认为有效的纵深打击，更不会仅凭俄罗斯口头承诺接受暂停。这个分歧提醒读者：消费者希望降价，并不足以改变交战方的生存计算。（[00:46:46](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#004646)–[00:50:49](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#005049)）
+现场对“能源休战”分成两派。按节目发言顺序，Peer de Jong 认为欧洲燃油压力、美国国内政治和海湾航运仍可能被组合成一项交易；Menget 随即反驳，乌克兰不会为了欧洲加油站价格停掉它认为有效的纵深打击，更不会仅凭俄罗斯口头承诺接受暂停。这个分歧提醒读者：消费者希望降价，并不足以改变交战方的生存计算。（[00:46:46](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#004646)–[00:50:49](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#005049)）
 
 ## 俄罗斯是在制造危机，还是只在利用危机？
 
-后半段节目把两件事混在一起讨论：俄罗斯媒体和官员确实会利用欧洲油价宣传制裁失败；多位嘉宾又进一步断言，俄伊军事合作意在主动扩大欧洲的能源压力。前一层是对传播策略的判断，后一层涉及具体军事行动、技术转移和战略意图，证据要求高得多。仓库没有一手材料，因此页面不把“俄罗斯编排了欧洲燃油危机”写成事实，只记录为嘉宾观点。（[00:51:50](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#005150)–[00:56:57](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#005657)，[00:56:57](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#005657)–[01:01:00](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#010100)）
+后半段节目把两件事放在一起讨论：Bureau 认为俄罗斯不断扩大对欧洲的施压手段；Sheppard Sellam 指出俄方会利用欧洲选举、社交网络和能源焦虑传播分裂叙事；Peer de Jong 又把里海军事技术转运解释为俄伊主动放大西方压力的一部分；Menget 则从普京的反欧洲意识形态解释这种策略。前两层主要是对传播和施压策略的判断，俄伊技术转移及其战略意图则需要更高证据标准。仓库没有一手材料，因此页面不把“俄罗斯编排了欧洲燃油危机”写成事实，只记录为各嘉宾观点。（[00:51:50](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#005150)–[00:56:57](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#005657)，[00:56:57](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#005657)–[01:01:00](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#010100)）
 
 ## 数字和高风险断言：全部待核验
 
@@ -82,7 +82,7 @@ Jean-François Bureau 的判断偏悲观：战争持续已成更确定的风险�
 | 中国 2026 年石油消费将下降 10% | Abis（[00:14:13](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#001413)） | 预测机构、实际/表观消费、全年或阶段数据 |
 | 沙特相关管线日输送能力为 700 万桶且已重新开放 | 主持人与嘉宾（[00:37:36](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#003736)） | 沙特官方与运营方通报 |
 | 俄罗斯原油占欧盟进口从 2022 年初 27% 降至 2025 年 2% | 节目解说（[00:45:45](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#004545)） | Eurostat/欧委会口径及管道豁免 |
-| 俄方每天经里海向伊朗转移军事技术，相关航运量增加逾三分之一 | 嘉宾观点（[00:56:57](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#005657)–[00:57:58](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#005758)） | 官方情报、航运数据、物资性质和时间范围 |
+| 俄方每天经里海向伊朗转移军事技术，相关航运量增加逾三分之一 | Peer de Jong（按节目发言顺序；[00:56:57](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#005657)–[00:57:58](../../sources/lci/20260923-T-bEI5MhHvM/transcript.md#005758)） | 官方情报、航运数据、物资性质和时间范围 |
 
 !!! warning "自动字幕误识别"
     稿中多次把 `détroit`（海峡）转成 “D3”，把 Houthis（胡塞武装）转成近似 “outils”。页面依据上下文采用“霍尔木兹海峡”“曼德海峡”“胡塞武装”，但没有改动原始逐字稿。其他无法可靠还原的专名不作确定拼写。
@@ -102,6 +102,6 @@ Jean-François Bureau 的判断偏悲观：战争持续已成更确定的风险�
 ## 相关页面
 
 - 专题：[燃油安全、海运咽喉与战争外溢](../topics/fuel-security-and-geopolitics.md)
-- 人物：[Sébastien Abis](../people/sebastien-abis.md)、[Jean-François Bureau](../people/jean-francois-bureau.md)
+- 人物：[Elizabeth Sheppard Sellam](../people/elizabeth-sheppard-sellam.md)、[Lucas Menget](../people/lucas-menget.md)、[Sébastien Abis](../people/sebastien-abis.md)、[Xavier de Giacomoni](../people/xavier-de-giacomoni.md)、[Peer de Jong](../people/peer-de-jong.md)、[Jean-François Bureau](../people/jean-francois-bureau.md)
 - 机构：[LCI](../organizations/lci.md)
 - 领域：[经济](../domains/economy.md)、[军事与外交](../domains/military.md)、[政治](../domains/politics.md)、[环境与能源](../domains/environment.md)、[社会与民生](../domains/society.md)
