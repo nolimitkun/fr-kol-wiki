@@ -51,7 +51,7 @@ rm -rf "$REPO/_docs" "$REPO/site"
 cd "$REPO"
 BASE_SHA="$(git rev-parse HEAD)"
 
-codex --search exec \
+codex --enable use_legacy_landlock --search exec \
   --ignore-user-config \
   --ephemeral \
   --cd "$REPO" \
