@@ -63,8 +63,10 @@ run_codex() {
     --ephemeral \
     --cd "$REPO" \
     --model gpt-5.6-sol \
-    --sandbox workspace-write \
     -c 'approval_policy="never"' \
+    -c 'default_permissions="daily-ingestion"' \
+    -c 'permissions.daily-ingestion.extends=":workspace"' \
+    -c 'permissions.daily-ingestion.network.enabled=false' \
     "$@"
 }
 
