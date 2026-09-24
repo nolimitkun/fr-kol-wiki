@@ -6,3 +6,8 @@
 
 - [燃油安全、海运咽喉与战争外溢](../topics/fuel-security-and-geopolitics.md)
 - [柴油危机：法国眼前不是一条断供线，而是三层依赖](../videos/20260923-lci-fuel-crisis.md)
+
+## 国际法
+
+- [“种族灭绝”概念、国际法门槛与追责](../topics/genocide-international-law.md)
+- [Philippe Sands：这个概念为什么既不可少，也可能妨碍追责？](../videos/20250213-le-grand-continent-genocide-concept-philippe-sands.md)

@@ -10,3 +10,8 @@
 
 - [欧洲如何应对中国的产业与技术力量](../topics/europe-china-economic-security.md)
 - [燃油安全、海运咽喉与战争外溢](../topics/fuel-security-and-geopolitics.md)
+
+## 国际法与追责
+
+- [“种族灭绝”概念、国际法门槛与追责](../topics/genocide-international-law.md)
+- [Philippe Sands：这个概念为什么既不可少，也可能妨碍追责？](../videos/20250213-le-grand-continent-genocide-concept-philippe-sands.md)
