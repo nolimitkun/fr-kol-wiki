@@ -5,3 +5,8 @@
 
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
 - [七名候选人面对企业界的经济政策辩论](../videos/20260827-lci-medef-2027-economic-debate.md)
+
+## 国际法与追责
+
+- [“种族灭绝”概念、国际法门槛与追责](../topics/genocide-international-law.md)
+- [Philippe Sands：这个概念为什么既不可少，也可能妨碍追责？](../videos/20250213-le-grand-continent-genocide-concept-philippe-sands.md)
