@@ -5,6 +5,11 @@
 
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
 
+## 技术主权与产业链
+
+- [欧洲如何应对中国的产业与技术力量](../topics/europe-china-economic-security.md)
+- [面对中国经济，欧洲不能只靠加关税追着跑](../videos/20260610-le-grand-continent-chinese-economy.md)
+
 ## 数学、模型与科研工具
 
 - [数学研究如何发现规律：直觉、合作与随机模型](../topics/mathematical-research-and-random-models.md)

@@ -19,6 +19,8 @@
 ## 按专题
 
 - [家长参与、学校责任与教育不平等](topics/parental-involvement-in-education.md)
+- [欧洲如何应对中国的产业与技术力量](topics/europe-china-economic-security.md)
+- [燃油安全、海运咽喉与战争外溢](topics/fuel-security-and-geopolitics.md)
 - [“种族灭绝”概念、国际法门槛与追责](topics/genocide-international-law.md)
 - [数学研究如何发现规律：直觉、合作与随机模型](topics/mathematical-research-and-random-models.md)
 
@@ -29,6 +31,14 @@
 - [Grégoire Borst](people/gregoire-borst.md)
 - [François de Singly](people/francois-de-singly.md)
 - [Naïm Bououchma](people/naim-bououchma.md)
+- [Laurence Boone](people/laurence-boone.md)
+- [Benjamin Braun](people/benjamin-braun.md)
+- [Sébastien Abis](people/sebastien-abis.md)
+- [Jean-François Bureau](people/jean-francois-bureau.md)
+- [Elizabeth Sheppard Sellam](people/elizabeth-sheppard-sellam.md)
+- [Lucas Menget](people/lucas-menget.md)
+- [Xavier de Giacomoni](people/xavier-de-giacomoni.md)
+- [Peer de Jong](people/peer-de-jong.md)
 - [Philippe Sands](people/philippe-sands.md)
 - [Marc Crépon](people/marc-crepon.md)
 - [Perrine Simon-Nahum](people/perrine-simon-nahum.md)
@@ -38,6 +48,7 @@
 ## 按机构
 
 - [Public Sénat](organizations/public-senat.md)
+- [LCI](organizations/lci.md)
 - [Le Grand Continent](organizations/le-grand-continent.md)
 - [法国高等师范学院](organizations/ecole-normale-superieure.md)
 - [ScienceEtonnante](organizations/science-etonnante.md)
@@ -47,6 +58,8 @@
 - 2025-02-13 · Mardis Grand Continent · [“种族灭绝”为什么既不可少，也可能妨碍追责？](videos/20250213-le-grand-continent-genocide-concept-philippe-sands.md)
 - 2025-04-04 · ScienceEtonnante · [数学发现不是硬算出来的：Hugo Duminil-Copin 谈直觉、合作与随机模型](videos/20250404-science-etonnante-hugo-duminil-copin.md)
 - 2026-09-19 · Public Sénat · [教育：家长到底该管多少？](videos/20260919-public-senat-parents-at-school.md)
+- 2026-06-10 · Le Grand Continent · [面对中国经济，欧洲不能只靠加关税追着跑](videos/20260610-le-grand-continent-chinese-economy.md)
+- 2026-09-23 · LCI · [柴油危机：法国眼前不是一条断供线，而是三层依赖](videos/20260923-lci-fuel-crisis.md)
 ## 2027 总统选举经济专题
 
 - [2027总统选举经济政策对照](topics/2027-presidential-economic-policy.md)

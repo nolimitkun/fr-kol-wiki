@@ -2,6 +2,11 @@
 
 覆盖法国国防战略、核威慑、军工、海外部署、欧洲安全、外交政策与战略自主。战争相关材料严格区分当事人观点、公开情报和已核验事实。
 
+## 战争与能源供应链
+
+- [燃油安全、海运咽喉与战争外溢](../topics/fuel-security-and-geopolitics.md)
+- [柴油危机：法国眼前不是一条断供线，而是三层依赖](../videos/20260923-lci-fuel-crisis.md)
+
 ## 国际法
 
 - [“种族灭绝”概念、国际法门槛与追责](../topics/genocide-international-law.md)
