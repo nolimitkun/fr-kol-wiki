@@ -51,9 +51,8 @@ rm -rf "$REPO/_docs" "$REPO/site"
 cd "$REPO"
 BASE_SHA="$(git rev-parse HEAD)"
 
-codex exec \
+codex --search exec \
   --ignore-user-config \
-  --search \
   --ephemeral \
   --cd "$REPO" \
   --model gpt-5.6-sol \
