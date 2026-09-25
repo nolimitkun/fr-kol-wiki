@@ -349,7 +349,7 @@ echo "Created PR: $PR_URL"
 PR_NUMBER="$(gh pr view "$PR_URL" --json number --jq '.number')"
 review_clean=0
 
-for iteration in 1 2 3; do
+for iteration in 1 2 3 4; do
   HEAD_SHA="$(git rev-parse HEAD)"
   echo "Waiting for Codex review of $HEAD_SHA (round $iteration)."
   wait_for_codex_review "$PR_NUMBER" "$HEAD_SHA" "$REVIEW_SINCE"
@@ -361,12 +361,13 @@ for iteration in 1 2 3; do
     break
   fi
 
-  echo "Addressing $(jq 'length' "$REVIEW_THREADS") Codex review thread(s)."
-  address_codex_review "$PR_NUMBER" "$iteration"
-  if [ "$iteration" -eq 3 ]; then
-    echo "!! reached the automatic review-fix limit before a clean re-review"
+  if [ "$iteration" -eq 4 ]; then
+    echo "!! Codex review still has findings after three automatic fix rounds"
     exit 1
   fi
+
+  echo "Addressing $(jq 'length' "$REVIEW_THREADS") Codex review thread(s)."
+  address_codex_review "$PR_NUMBER" "$iteration"
 
   REVIEW_SINCE="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
   gh pr comment "$PR_NUMBER" --body '@codex review'
