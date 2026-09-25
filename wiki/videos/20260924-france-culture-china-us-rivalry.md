@@ -26,7 +26,7 @@ updated: 2026-09-25
 
 ## 摘要
 
-Thomas Snégaroff 从习近平访美切入，让三位嘉宾分别从中国外交、数字治理和经济讲同一场竞争。Alice Ekman 说话像在画一张机构地图：她反复把单个事件放回中国的长期目标，认为北京正用金砖、开发银行、联合国和面向“全球南方”的伙伴关系搭建替代性治理网络。Jean-Baptiste Monnier 更爱抓技术卡点：美国握着先进芯片约束，中国握着稀土和能源扩张能力，欧洲则有关键光刻设备。Sylvie Matelly 不接受“中国一路上升”的简单故事；她追问人民币为何难国际化、内需为何一直起不来，以及自动化与青年就业怎样冲突。三人最后都承认，两国在人工智能上既竞速又试图建立风险沟通，而台湾足以让商业和技术谈判随时翻桌。（[00:08:07](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#000807)–[00:15:13](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#001513)，[00:24:24](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#002424)–[00:37:41](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#003741)）
+Thomas Snégaroff 从习近平访美切入，让三位嘉宾分别从中国外交、数字治理和经济讲同一场竞争。Alice Ekman 说话像在画一张机构地图：她反复把单个事件放回中国的长期目标，认为北京正用金砖、开发银行、联合国和面向“全球南方”的伙伴关系搭建替代性治理网络。Jean-Baptiste Monnier 更爱抓技术卡点：美国握着先进芯片约束，中国握着稀土和能源扩张能力，欧洲则有关键光刻设备。Sylvie Matelly 不接受“中国一路上升”的简单故事；她追问人民币为何难国际化、内需为何一直起不来，以及自动化与青年就业怎样冲突。Ekman 和 Monnier 最后都谈到，两国一边竞逐人工智能，一边试着建立风险沟通机制；谈到台湾时，Ekman 则强调这个议题足以让商业和技术谈判随时翻桌。（[00:08:07](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#000807)–[00:15:13](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#001513)，[00:24:24](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#002424)–[00:37:41](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#003741)）
 
 ## 谁的时间更值钱？
 
