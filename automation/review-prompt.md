@@ -17,5 +17,8 @@
 - 保持中文白话、自然、专业，并保留每位发言人的个人风格。
 - 修复所有确认有效的 review 问题，同时检查相邻文字是否存在同类错误。
 - 完成后运行 `uv run scripts/lint.py`，并检查 `git diff` 只包含必要修改。
+- 如果至少一条建议需要修改，完成修复后在最终回复单独一行写 `REVIEW_RESULT: FIXED`。
+- 只有在逐条核对后确认全部建议都是误报、确实不应修改时，才保持仓库零变化，并在最终回复单独一行写 `REVIEW_RESULT: REJECTED`。不要为了制造 diff 而改字。
+- 最终回复必须且只能包含上述一种 `REVIEW_RESULT`，外层脚本会校验结论和实际 diff 是否一致。
 
 Review threads 会以 JSON 附在本提示后面。

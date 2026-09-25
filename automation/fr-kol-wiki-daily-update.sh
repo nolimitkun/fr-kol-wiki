@@ -191,7 +191,9 @@ fetch_unresolved_codex_threads() {
 
 address_codex_review() {
   local pr_number="$1" iteration="$2"
-  local before_sha thread_id comment_id
+  local before_sha review_result reply_body thread_id comment_id
+
+  REVIEW_ACTION=""
 
   before_sha="$(git rev-parse HEAD)"
   {
@@ -206,20 +208,39 @@ address_codex_review() {
     return 1
   fi
   check_content_changes
-  if [ -z "$(git status --porcelain)" ]; then
-    echo "!! Codex review had unresolved threads but produced no fix"
-    return 1
-  fi
-
-  validate_repo
-  git add sources wiki
-  git commit -m "fix: address automated review feedback ($iteration)"
-  git push origin HEAD
+  review_result="$(grep -E '^REVIEW_RESULT: (FIXED|REJECTED)$' "$LAST_MESSAGE" | tail -n 1 || true)"
+  case "$review_result" in
+    'REVIEW_RESULT: FIXED')
+      if [ -z "$(git status --porcelain)" ]; then
+        echo "!! review result says FIXED but the repository is unchanged"
+        return 1
+      fi
+      validate_repo
+      git add sources wiki
+      git commit -m "fix: address automated review feedback ($iteration)"
+      git push origin HEAD
+      REVIEW_ACTION="FIXED"
+      reply_body='已由每日任务自动核对原文、修复有效问题，并通过 lint 与 strict build。'
+      ;;
+    'REVIEW_RESULT: REJECTED')
+      if [ -n "$(git status --porcelain)" ]; then
+        echo "!! review result says REJECTED but the repository changed"
+        return 1
+      fi
+      validate_repo
+      REVIEW_ACTION="REJECTED"
+      reply_body='每日任务已自动核对相关原文与上下文，确认该建议不需要修改；当前内容已通过 lint 与 strict build。'
+      ;;
+    *)
+      echo "!! missing or invalid structured review result"
+      return 1
+      ;;
+  esac
 
   while IFS=$'\t' read -r thread_id comment_id; do
     gh api --method POST \
       "repos/nolimitkun/fr-kol-wiki/pulls/$pr_number/comments/$comment_id/replies" \
-      -f body='已由每日任务自动核对原文、修复并通过 lint 与 strict build。'
+      -f body="$reply_body"
     # shellcheck disable=SC2016 # GraphQL variables are expanded by GitHub, not Bash.
     gh api graphql \
       -f query='mutation($id:ID!){resolveReviewThread(input:{threadId:$id}){thread{isResolved}}}' \
@@ -375,6 +396,11 @@ for iteration in 1 2 3 4; do
 
   echo "Addressing $(jq 'length' "$REVIEW_THREADS") Codex review thread(s)."
   address_codex_review "$PR_NUMBER" "$iteration"
+  if [ "$REVIEW_ACTION" = "REJECTED" ]; then
+    echo "Codex review findings were checked and rejected without repository changes."
+    review_clean=1
+    break
+  fi
 
   REVIEW_SINCE="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
   gh pr comment "$PR_NUMBER" --body '@codex review'
@@ -426,7 +452,11 @@ for _ in $(seq 1 60); do
   sleep 5
 done
 if [ -z "$run_id" ]; then
-  echo "!! main deployment run was not found"
+  {
+    echo "No deployment run was found after PR $PR_NUMBER was merged as $MERGE_SHA."
+    echo "Resolve the workflow trigger failure, then remove this file to resume daily ingestion."
+  } >"$BLOCK_MARKER"
+  echo "!! main deployment run was not found; wrote blocking marker: $BLOCK_MARKER"
   exit 1
 fi
 
