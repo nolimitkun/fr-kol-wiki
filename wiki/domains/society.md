@@ -10,6 +10,11 @@
 - [燃油安全、海运咽喉与战争外溢](../topics/fuel-security-and-geopolitics.md)
 - [柴油危机：法国眼前不是一条断供线，而是三层依赖](../videos/20260923-lci-fuel-crisis.md)
 
+## 医保、病假与风险共担
+
+- [医保分工、补充保险与病假成本](../topics/health-insurance-cost-sharing.md)
+- [眼镜、病假、互助保险](../videos/20260924-lci-health-insurance-reform.md)
+
 ## 群体、记忆与暴力
 
 - [“种族灭绝”概念、国际法门槛与追责](../topics/genocide-international-law.md)

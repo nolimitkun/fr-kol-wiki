@@ -23,6 +23,8 @@
 - [燃油安全、海运咽喉与战争外溢](topics/fuel-security-and-geopolitics.md)
 - [“种族灭绝”概念、国际法门槛与追责](topics/genocide-international-law.md)
 - [数学研究如何发现规律：直觉、合作与随机模型](topics/mathematical-research-and-random-models.md)
+- [中美系统性竞争：供应链、规则与安全红线](topics/china-us-systemic-rivalry.md)
+- [医保分工、补充保险与病假成本](topics/health-insurance-cost-sharing.md)
 
 ## 按人物
 
@@ -44,6 +46,17 @@
 - [Perrine Simon-Nahum](people/perrine-simon-nahum.md)
 - [Hugo Duminil-Copin](people/hugo-duminil-copin.md)
 - [David Louapre](people/david-louapre.md)
+- [Thomas Snégaroff](people/thomas-snegaroff.md)
+- [Alice Ekman](people/alice-ekman.md)
+- [Jean-Baptiste Monnier](people/jean-baptiste-monnier.md)
+- [Sylvie Matelly](people/sylvie-matelly.md)
+- [Amélie Carrouër](people/amelie-carrouer.md)
+- [Catherine André](people/catherine-andre.md)
+- [Nicolas Bouzou](people/nicolas-bouzou.md)
+- [Frédéric Bizard](people/frederic-bizard.md)
+- [Guillaume Roquette](people/guillaume-roquette.md)
+- [Julien Arnaud](people/julien-arnaud.md)
+- [Dominique Reynié](people/dominique-reynie.md)
 
 ## 按机构
 
@@ -52,6 +65,7 @@
 - [Le Grand Continent](organizations/le-grand-continent.md)
 - [法国高等师范学院](organizations/ecole-normale-superieure.md)
 - [ScienceEtonnante](organizations/science-etonnante.md)
+- [France Culture](organizations/france-culture.md)
 
 ## 按视频
 
@@ -60,6 +74,8 @@
 - 2026-09-19 · Public Sénat · [教育：家长到底该管多少？](videos/20260919-public-senat-parents-at-school.md)
 - 2026-06-10 · Le Grand Continent · [面对中国经济，欧洲不能只靠加关税追着跑](videos/20260610-le-grand-continent-chinese-economy.md)
 - 2026-09-23 · LCI · [柴油危机：法国眼前不是一条断供线，而是三层依赖](videos/20260923-lci-fuel-crisis.md)
+- 2026-09-24 · France Culture · [中美较量不只看关税：时间、能源、芯片和规则都在同一张桌上](videos/20260924-france-culture-china-us-rivalry.md)
+- 2026-09-24 · LCI · [眼镜、病假、互助保险：法国医保省钱，究竟把账单推给谁？](videos/20260924-lci-health-insurance-reform.md)
 ## 2027 总统选举经济专题
 
 - [2027总统选举经济政策对照](topics/2027-presidential-economic-policy.md)

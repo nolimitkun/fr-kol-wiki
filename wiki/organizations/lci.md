@@ -1,6 +1,6 @@
 ---
 title: "LCI"
-updated: 2026-09-24
+updated: 2026-09-25
 ---
 
 # LCI
@@ -11,3 +11,4 @@ updated: 2026-09-24
 
 - [2027大选经济首辩：七个人都说要救法国，账却完全不是一套](../videos/20260827-lci-medef-2027-economic-debate.md)（与 Medef 合作，2026-08-27）
 - [柴油危机：法国眼前不是一条断供线，而是三层依赖](../videos/20260923-lci-fuel-crisis.md)（新闻专题，2026-09-23）
+- [眼镜、病假、互助保险：法国医保省钱，究竟把账单推给谁？](../videos/20260924-lci-health-insurance-reform.md)（医疗政策圆桌，2026-09-24）

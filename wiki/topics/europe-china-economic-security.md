@@ -1,6 +1,6 @@
 ---
 title: "欧洲如何应对中国的产业与技术力量"
-updated: 2026-09-24
+updated: 2026-09-25
 ---
 
 # 欧洲如何应对中国的产业与技术力量
@@ -17,6 +17,8 @@ updated: 2026-09-24
 2. 保护现有前沿技术，并建设跨国研发与融资能力。（[00:43:38](../../sources/le-grand-continent/20260610-Fal6xyweoPA/transcript.md#004338)–[00:44:39](../../sources/le-grand-continent/20260610-Fal6xyweoPA/transcript.md#004439)，[00:47:44](../../sources/le-grand-continent/20260610-Fal6xyweoPA/transcript.md#004744)–[00:48:47](../../sources/le-grand-continent/20260610-Fal6xyweoPA/transcript.md#004847)）
 3. 同时审查商品进口、直接投资、合资与资本流动，避免规则只追上上一种交易形式。（[00:45:41](../../sources/le-grand-continent/20260610-Fal6xyweoPA/transcript.md#004541)–[00:48:47](../../sources/le-grand-continent/20260610-Fal6xyweoPA/transcript.md#004847)）
 4. 公开处理低价绿色产品、减排速度和欧洲工业岗位之间的冲突。（[00:40:32](../../sources/le-grand-continent/20260610-Fal6xyweoPA/transcript.md#004032)–[00:41:34](../../sources/le-grand-continent/20260610-Fal6xyweoPA/transcript.md#004134)）
+
+[France Culture 中美圆桌](../videos/20260924-france-culture-china-us-rivalry.md)补充了外部约束：先进芯片链、稀土、能源和人工智能标准彼此联动，欧洲既是设备和规则的参与者，也可能被中美双方的限制牵动。（[00:24:24](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#002424)–[00:31:30](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#003130)）
 
 ## 仍待补充的视角
 
