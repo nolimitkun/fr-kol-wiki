@@ -10,6 +10,13 @@
 
 - [欧洲如何应对中国的产业与技术力量](../topics/europe-china-economic-security.md)
 - [燃油安全、海运咽喉与战争外溢](../topics/fuel-security-and-geopolitics.md)
+- [中美系统性竞争：供应链、规则与安全红线](../topics/china-us-systemic-rivalry.md)
+- [中美较量不只看关税](../videos/20260924-france-culture-china-us-rivalry.md)
+
+## 社会保障政策
+
+- [医保分工、补充保险与病假成本](../topics/health-insurance-cost-sharing.md)
+- [眼镜、病假、互助保险](../videos/20260924-lci-health-insurance-reform.md)
 
 ## 国际法与追责
 
