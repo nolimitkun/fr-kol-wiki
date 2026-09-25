@@ -6,7 +6,7 @@ BIN_DIR="$HOME/.local/bin"
 DATA_DIR="$HOME/.local/share/fr-kol-wiki-automation"
 SYSTEMD_DIR="$HOME/.config/systemd/user"
 
-for command in codex git gh uv flock systemctl; do
+for command in codex git gh jq uv flock systemctl; do
   if ! command -v "$command" >/dev/null 2>&1; then
     echo "Missing required command: $command" >&2
     exit 1
@@ -19,6 +19,7 @@ install -m 0755 \
   "$BIN_DIR/fr-kol-wiki-daily-update.sh"
 install -m 0644 \
   "$SCRIPT_DIR/daily-prompt.md" \
+  "$SCRIPT_DIR/review-prompt.md" \
   "$SCRIPT_DIR/selection-prompt.md" \
   "$DATA_DIR/"
 install -m 0644 \
