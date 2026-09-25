@@ -23,12 +23,19 @@ RUN_DATE="$(date +%Y%m%d)"
 RUN_STAMP="$(date +%Y%m%d-%H%M%S)"
 LOG="$LOG_DIR/$RUN_DATE.log"
 SUCCESS_MARKER="$STATE_DIR/success-$RUN_DATE"
+BLOCK_MARKER="$STATE_DIR/requires-attention"
 
 mkdir -p "$LOG_DIR"
 find "$LOG_DIR" -name '*.log' -mtime +30 -delete
 find "$STATE_DIR" -maxdepth 1 -name 'success-*' -mtime +30 -delete
 exec >>"$LOG" 2>&1
 echo "=== run started $(date -Is) ==="
+
+if [ -e "$BLOCK_MARKER" ]; then
+  echo "!! a previous post-merge deployment failed; refusing new ingestion"
+  cat "$BLOCK_MARKER"
+  exit 1
+fi
 
 if [ "${FORCE_RUN:-0}" != "1" ] && [ -e "$SUCCESS_MARKER" ]; then
   echo "Already completed successfully today; skipping. Set FORCE_RUN=1 to rerun."
@@ -423,6 +430,14 @@ if [ -z "$run_id" ]; then
   exit 1
 fi
 
-gh run watch "$run_id" --repo nolimitkun/fr-kol-wiki --exit-status
+if ! gh run watch "$run_id" --repo nolimitkun/fr-kol-wiki --exit-status; then
+  {
+    echo "Deployment failed after PR $PR_NUMBER was merged as $MERGE_SHA."
+    echo "Run: https://github.com/nolimitkun/fr-kol-wiki/actions/runs/$run_id"
+    echo "Resolve the deployment failure, then remove this file to resume daily ingestion."
+  } >"$BLOCK_MARKER"
+  echo "!! Pages deployment failed; wrote blocking marker: $BLOCK_MARKER"
+  exit 1
+fi
 echo "Pages deployment passed: https://github.com/nolimitkun/fr-kol-wiki/actions/runs/$run_id"
 finish_successfully
