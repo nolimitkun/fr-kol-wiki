@@ -151,7 +151,7 @@ check_content_changes() {
 }
 
 wait_for_codex_review() {
-  local pr_number="$1" head_sha="$2" since="$3"
+  local pr_number="$1" head_sha="$2" since="$3" reaction_endpoint="$4"
   local waited=0 timeout="${CODEX_REVIEW_TIMEOUT_SECONDS:-1800}"
   local review_id clean_reaction
 
@@ -159,7 +159,7 @@ wait_for_codex_review() {
     review_id="$(gh api "repos/nolimitkun/fr-kol-wiki/pulls/$pr_number/reviews" --paginate \
       --jq ".[] | select(.user.login == \"chatgpt-codex-connector[bot]\" and .commit_id == \"$head_sha\" and .submitted_at >= \"$since\") | .id" |
       tail -n 1 || true)"
-    clean_reaction="$(gh api "repos/nolimitkun/fr-kol-wiki/issues/$pr_number/reactions" --paginate \
+    clean_reaction="$(gh api "$reaction_endpoint" --paginate \
       --jq ".[] | select(.user.login == \"chatgpt-codex-connector[bot]\" and .content == \"+1\" and .created_at >= \"$since\") | .id" |
       tail -n 1 || true)"
 
@@ -375,12 +375,13 @@ PR_URL="$(gh pr create \
 
 echo "Created PR: $PR_URL"
 PR_NUMBER="$(gh pr view "$PR_URL" --json number --jq '.number')"
+REVIEW_REACTION_ENDPOINT="repos/nolimitkun/fr-kol-wiki/issues/$PR_NUMBER/reactions"
 review_clean=0
 
 for iteration in 1 2 3 4; do
   HEAD_SHA="$(git rev-parse HEAD)"
   echo "Waiting for Codex review of $HEAD_SHA (round $iteration)."
-  wait_for_codex_review "$PR_NUMBER" "$HEAD_SHA" "$REVIEW_SINCE"
+  wait_for_codex_review "$PR_NUMBER" "$HEAD_SHA" "$REVIEW_SINCE" "$REVIEW_REACTION_ENDPOINT"
   fetch_unresolved_codex_threads "$PR_NUMBER"
 
   if [ "$(jq 'length' "$REVIEW_THREADS")" -eq 0 ]; then
@@ -403,7 +404,13 @@ for iteration in 1 2 3 4; do
   fi
 
   REVIEW_SINCE="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
-  gh pr comment "$PR_NUMBER" --body '@codex review'
+  REVIEW_COMMENT_URL="$(gh pr comment "$PR_NUMBER" --body '@codex review')"
+  REVIEW_COMMENT_ID="${REVIEW_COMMENT_URL##*issuecomment-}"
+  if [[ ! "$REVIEW_COMMENT_ID" =~ ^[0-9]+$ ]]; then
+    echo "!! could not parse Codex review request comment ID: $REVIEW_COMMENT_URL"
+    exit 1
+  fi
+  REVIEW_REACTION_ENDPOINT="repos/nolimitkun/fr-kol-wiki/issues/comments/$REVIEW_COMMENT_ID/reactions"
 done
 
 if [ "$review_clean" -ne 1 ]; then
