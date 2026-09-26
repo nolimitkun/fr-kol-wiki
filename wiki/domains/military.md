@@ -11,6 +11,9 @@
 
 - [中美系统性竞争：供应链、规则与安全红线](../topics/china-us-systemic-rivalry.md)
 - [中美较量不只看关税](../videos/20260924-france-culture-china-us-rivalry.md)
+- [马克龙任期末：外交权威与国内政治](../topics/macron-end-of-term.md)
+- [马克龙还能左右法国政治吗？](../videos/20260925-france-culture-macron-end-of-term.md)
+- [左翼初选首辩：援乌、欧洲防务与调解分歧](../videos/20260923-lci-left-primary-debate.md)
 
 ## 国际法
 
