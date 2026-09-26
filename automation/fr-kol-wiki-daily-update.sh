@@ -374,11 +374,23 @@ if [ "${FORCE_RUN:-0}" != "1" ] && [ -n "$open_daily_pr" ]; then
   echo "Resuming unfinished daily PR: $open_daily_pr"
   git switch -C "$resume_branch" "origin/$resume_branch"
   resume_pr_number="$(gh pr view "$open_daily_pr" --json number --jq '.number')"
-  latest_review_request="$(gh api "repos/nolimitkun/fr-kol-wiki/issues/$resume_pr_number/comments" --paginate \
-    --jq '[.[] | select(.user.login == "nolimitkun" and .body == "@codex review")] | last | if . == null then empty else [.id, .created_at] | @tsv end')"
+  latest_review_request="$(gh api "repos/nolimitkun/fr-kol-wiki/issues/$resume_pr_number/comments" --paginate --slurp |
+    jq -r 'add | [.[] | select(.user.login == "nolimitkun" and .body == "@codex review")] | last | if . == null then empty else [.id, .created_at] | @tsv end')"
 
   if [ -n "$latest_review_request" ]; then
     IFS=$'\t' read -r resume_comment_id resume_review_since <<<"$latest_review_request"
+    resume_request_epoch="$(date -d "$resume_review_since" +%s)"
+    resume_head_epoch="$(git show -s --format=%ct HEAD)"
+    if [ "$resume_request_epoch" -le "$resume_head_epoch" ]; then
+      echo "Latest Codex review request predates the resumed head; requesting a fresh review."
+      resume_review_since="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+      resume_comment_url="$(gh pr comment "$resume_pr_number" --body '@codex review')"
+      resume_comment_id="${resume_comment_url##*issuecomment-}"
+      if [[ ! "$resume_comment_id" =~ ^[0-9]+$ ]]; then
+        echo "!! could not parse resumed Codex review request comment ID: $resume_comment_url"
+        exit 1
+      fi
+    fi
     resume_reaction_endpoint="repos/nolimitkun/fr-kol-wiki/issues/comments/$resume_comment_id/reactions"
   else
     resume_review_since="$(gh pr view "$open_daily_pr" --json createdAt --jq '.createdAt')"
