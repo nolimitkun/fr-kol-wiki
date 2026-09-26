@@ -4,6 +4,7 @@
 ## 选举中的气候与产业政策
 
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
+- [左翼初选首辩：油价救急与电气化](../videos/20260923-lci-left-primary-debate.md)
 
 ## 转型与供应安全
 

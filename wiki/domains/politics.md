@@ -5,6 +5,13 @@
 
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
 - [七名候选人面对企业界的经济政策辩论](../videos/20260827-lci-medef-2027-economic-debate.md)
+- [2027左翼初选：共同政策与联盟断层](../topics/2027-left-primary.md)
+- [左翼初选首辩：五个人谈团结，最后却在是否联合不屈法国上吵开了](../videos/20260923-lci-left-primary-debate.md)
+
+## 总统职权与任期末政治
+
+- [马克龙任期末：外交权威与国内政治](../topics/macron-end-of-term.md)
+- [马克龙还能左右法国政治吗？](../videos/20260925-france-culture-macron-end-of-term.md)
 
 ## 国际经济与能源安全
 

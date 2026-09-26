@@ -6,3 +6,4 @@
 
 - [医保分工、补充保险与病假成本](../topics/health-insurance-cost-sharing.md)
 - [眼镜、病假、互助保险：法国医保省钱，究竟把账单推给谁？](../videos/20260924-lci-health-insurance-reform.md)
+- [左翼初选首辩：公共补充医保与医疗支出](../videos/20260923-lci-left-primary-debate.md)

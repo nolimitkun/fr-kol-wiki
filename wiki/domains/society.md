@@ -9,6 +9,7 @@
 
 - [燃油安全、海运咽喉与战争外溢](../topics/fuel-security-and-geopolitics.md)
 - [柴油危机：法国眼前不是一条断供线，而是三层依赖](../videos/20260923-lci-fuel-crisis.md)
+- [左翼初选首辩：单亲家庭、住房和工资](../videos/20260923-lci-left-primary-debate.md)
 
 ## 医保、病假与风险共担
 

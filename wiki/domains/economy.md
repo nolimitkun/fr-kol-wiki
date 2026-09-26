@@ -5,6 +5,7 @@
 
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
 - [七名候选人面对企业界的经济政策辩论](../videos/20260827-lci-medef-2027-economic-debate.md)
+- [左翼初选首辩：燃油、工资与债务方案](../videos/20260923-lci-left-primary-debate.md)
 
 ## 产业、贸易与能源价格
 

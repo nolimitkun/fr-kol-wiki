@@ -25,6 +25,8 @@
 - [数学研究如何发现规律：直觉、合作与随机模型](topics/mathematical-research-and-random-models.md)
 - [中美系统性竞争：供应链、规则与安全红线](topics/china-us-systemic-rivalry.md)
 - [医保分工、补充保险与病假成本](topics/health-insurance-cost-sharing.md)
+- [2027左翼初选：共同政策与联盟断层](topics/2027-left-primary.md)
+- [马克龙任期末：外交权威与国内政治](topics/macron-end-of-term.md)
 
 ## 按人物
 
@@ -57,6 +59,12 @@
 - [Guillaume Roquette](people/guillaume-roquette.md)
 - [Julien Arnaud](people/julien-arnaud.md)
 - [Dominique Reynié](people/dominique-reynie.md)
+- [Olivier Faure](people/olivier-faure.md)
+- [Jérôme Guedj](people/jerome-guedj.md)
+- [Emmanuel Maurel](people/emmanuel-maurel.md)
+- [Ségolène Royal](people/segolene-royal.md)
+- [Rémi Lefebvre](people/remi-lefebvre.md)
+- [Isabelle Lasserre](people/isabelle-lasserre.md)
 
 ## 按机构
 
@@ -76,6 +84,8 @@
 - 2026-09-23 · LCI · [柴油危机：法国眼前不是一条断供线，而是三层依赖](videos/20260923-lci-fuel-crisis.md)
 - 2026-09-24 · France Culture · [中美较量不只看关税：时间、能源、芯片和规则都在同一张桌上](videos/20260924-france-culture-china-us-rivalry.md)
 - 2026-09-24 · LCI · [眼镜、病假、互助保险：法国医保省钱，究竟把账单推给谁？](videos/20260924-lci-health-insurance-reform.md)
+- 2026-09-23 · LCI · [左翼初选首辩：五个人谈团结，最后却在是否联合不屈法国上吵开了](videos/20260923-lci-left-primary-debate.md)
+- 2026-09-25 · France Culture · [马克龙还能左右法国政治吗？任期末的外交牌与国内账](videos/20260925-france-culture-macron-end-of-term.md)
 ## 2027 总统选举经济专题
 
 - [2027总统选举经济政策对照](topics/2027-presidential-economic-policy.md)
