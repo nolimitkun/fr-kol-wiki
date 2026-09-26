@@ -76,12 +76,6 @@ open_daily_branches="$(gh pr list \
   --limit 100 \
   --json headRefName \
   --jq '.[] | select(.headRefName | startswith("automation/daily-ingestion-")) | .headRefName')"
-if [ "${FORCE_RUN:-0}" != "1" ] && [ -n "$open_daily_pr" ]; then
-  echo "!! an earlier daily ingestion PR is still open after an unfinished or failed run:"
-  echo "$open_daily_pr"
-  exit 1
-fi
-
 if [ ! -d "$REPO/.git" ]; then
   mkdir -p "$(dirname "$REPO")"
   git clone "$REMOTE" "$REPO"
@@ -96,6 +90,8 @@ rm -rf "$REPO/_docs" "$REPO/site"
 
 cd "$REPO"
 BASE_SHA="$(git rev-parse HEAD)"
+git config user.name "fr-kol-wiki automation"
+git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
 run_codex() {
   codex exec \
@@ -153,7 +149,9 @@ check_content_changes() {
 wait_for_codex_review() {
   local pr_number="$1" head_sha="$2" since="$3" reaction_endpoint="$4"
   local waited=0 timeout="${CODEX_REVIEW_TIMEOUT_SECONDS:-1800}"
-  local review_id clean_reaction
+  local head_short review_id clean_reaction clean_comment
+
+  head_short="${head_sha:0:10}"
 
   while [ "$waited" -lt "$timeout" ]; do
     review_id="$(gh api "repos/nolimitkun/fr-kol-wiki/pulls/$pr_number/reviews" --paginate \
@@ -162,8 +160,11 @@ wait_for_codex_review() {
     clean_reaction="$(gh api "$reaction_endpoint" --paginate \
       --jq ".[] | select(.user.login == \"chatgpt-codex-connector[bot]\" and .content == \"+1\" and .created_at >= \"$since\") | .id" |
       tail -n 1 || true)"
+    clean_comment="$(gh api "repos/nolimitkun/fr-kol-wiki/issues/$pr_number/comments" --paginate \
+      --jq ".[] | select(.user.login == \"chatgpt-codex-connector[bot]\" and .created_at >= \"$since\" and (.body | contains(\"Didn't find any major issues\")) and (.body | contains(\"$head_short\"))) | .id" |
+      tail -n 1 || true)"
 
-    if [ -n "$review_id" ] || [ -n "$clean_reaction" ]; then
+    if [ -n "$review_id" ] || [ -n "$clean_reaction" ] || [ -n "$clean_comment" ]; then
       sleep 2
       return 0
     fi
@@ -247,6 +248,147 @@ address_codex_review() {
       -f id="$thread_id" >/dev/null
   done < <(jq -r '.[] | [.threadId, (.commentId | tostring)] | @tsv' "$REVIEW_THREADS")
 }
+
+process_daily_pr() {
+  local pr_url="$1" review_since="$2" review_reaction_endpoint="$3"
+  local pr_number review_clean=0 iteration head_sha mergeable merge_sha run_id
+  local review_comment_url review_comment_id
+
+  pr_number="$(gh pr view "$pr_url" --json number --jq '.number')"
+
+  for iteration in 1 2 3 4; do
+    head_sha="$(git rev-parse HEAD)"
+    echo "Waiting for Codex review of $head_sha (round $iteration)."
+    wait_for_codex_review "$pr_number" "$head_sha" "$review_since" "$review_reaction_endpoint"
+    fetch_unresolved_codex_threads "$pr_number"
+
+    if [ "$(jq 'length' "$REVIEW_THREADS")" -eq 0 ]; then
+      echo "Codex review is clean."
+      review_clean=1
+      break
+    fi
+
+    if [ "$iteration" -eq 4 ]; then
+      echo "!! Codex review still has findings after three automatic fix rounds"
+      return 1
+    fi
+
+    echo "Addressing $(jq 'length' "$REVIEW_THREADS") Codex review thread(s)."
+    address_codex_review "$pr_number" "$iteration"
+    if [ "$REVIEW_ACTION" = "REJECTED" ]; then
+      echo "Codex review findings were checked and rejected without repository changes."
+      review_clean=1
+      break
+    fi
+
+    review_since="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+    review_comment_url="$(gh pr comment "$pr_number" --body '@codex review')"
+    review_comment_id="${review_comment_url##*issuecomment-}"
+    if [[ ! "$review_comment_id" =~ ^[0-9]+$ ]]; then
+      echo "!! could not parse Codex review request comment ID: $review_comment_url"
+      return 1
+    fi
+    review_reaction_endpoint="repos/nolimitkun/fr-kol-wiki/issues/comments/$review_comment_id/reactions"
+  done
+
+  if [ "$review_clean" -ne 1 ]; then
+    echo "!! PR did not receive a clean Codex review"
+    return 1
+  fi
+
+  echo "Waiting for PR checks."
+  gh pr checks "$pr_number" --watch --fail-fast --interval 10
+
+  mergeable="UNKNOWN"
+  for _ in $(seq 1 30); do
+    mergeable="$(gh pr view "$pr_number" --json mergeable --jq '.mergeable')"
+    if [ "$mergeable" != "UNKNOWN" ]; then
+      break
+    fi
+    sleep 5
+  done
+  if [ "$mergeable" != "MERGEABLE" ]; then
+    echo "!! PR is not mergeable: $mergeable"
+    return 1
+  fi
+
+  head_sha="$(git rev-parse HEAD)"
+  gh pr merge "$pr_number" --merge --match-head-commit "$head_sha"
+  merge_sha="$(gh pr view "$pr_number" --json mergeCommit,state --jq 'select(.state == "MERGED") | .mergeCommit.oid')"
+  if [ -z "$merge_sha" ]; then
+    echo "!! PR merge could not be verified"
+    return 1
+  fi
+  echo "Merged PR $pr_number as $merge_sha."
+
+  run_id=""
+  for _ in $(seq 1 60); do
+    run_id="$(gh run list \
+      --repo nolimitkun/fr-kol-wiki \
+      --workflow 'Check and deploy MkDocs' \
+      --branch main \
+      --limit 20 \
+      --json databaseId,headSha \
+      --jq ".[] | select(.headSha == \"$merge_sha\") | .databaseId" |
+      head -n 1)"
+    if [ -n "$run_id" ]; then
+      break
+    fi
+    sleep 5
+  done
+  if [ -z "$run_id" ]; then
+    {
+      echo "No deployment run was found after PR $pr_number was merged as $merge_sha."
+      echo "Resolve the workflow trigger failure, then remove this file to resume daily ingestion."
+    } >"$BLOCK_MARKER"
+    echo "!! main deployment run was not found; wrote blocking marker: $BLOCK_MARKER"
+    return 1
+  fi
+
+  if ! gh run watch "$run_id" --repo nolimitkun/fr-kol-wiki --exit-status; then
+    {
+      echo "Deployment failed after PR $pr_number was merged as $merge_sha."
+      echo "Run: https://github.com/nolimitkun/fr-kol-wiki/actions/runs/$run_id"
+      echo "Resolve the deployment failure, then remove this file to resume daily ingestion."
+    } >"$BLOCK_MARKER"
+    echo "!! Pages deployment failed; wrote blocking marker: $BLOCK_MARKER"
+    return 1
+  fi
+  echo "Pages deployment passed: https://github.com/nolimitkun/fr-kol-wiki/actions/runs/$run_id"
+}
+
+if [ "${FORCE_RUN:-0}" != "1" ] && [ -n "$open_daily_pr" ]; then
+  open_daily_count="$(printf '%s\n' "$open_daily_pr" | sed '/^[[:space:]]*$/d' | wc -l)"
+  if [ "$open_daily_count" -ne 1 ]; then
+    echo "!! expected one resumable daily PR, found $open_daily_count"
+    echo "$open_daily_pr"
+    exit 1
+  fi
+
+  resume_branch="$open_daily_branches"
+  if [[ ! "$resume_branch" =~ ^automation/daily-ingestion-[0-9]{8}-[0-9]{6}$ ]]; then
+    echo "!! invalid daily PR branch: $resume_branch"
+    exit 1
+  fi
+
+  echo "Resuming unfinished daily PR: $open_daily_pr"
+  git switch -C "$resume_branch" "origin/$resume_branch"
+  resume_pr_number="$(gh pr view "$open_daily_pr" --json number --jq '.number')"
+  latest_review_request="$(gh api "repos/nolimitkun/fr-kol-wiki/issues/$resume_pr_number/comments" --paginate \
+    --jq '[.[] | select(.user.login == "nolimitkun" and .body == "@codex review")] | last | if . == null then empty else [.id, .created_at] | @tsv end')"
+
+  if [ -n "$latest_review_request" ]; then
+    IFS=$'\t' read -r resume_comment_id resume_review_since <<<"$latest_review_request"
+    resume_reaction_endpoint="repos/nolimitkun/fr-kol-wiki/issues/comments/$resume_comment_id/reactions"
+  else
+    resume_review_since="$(gh pr view "$open_daily_pr" --json createdAt --jq '.createdAt')"
+    resume_reaction_endpoint="repos/nolimitkun/fr-kol-wiki/issues/$resume_pr_number/reactions"
+  fi
+
+  process_daily_pr "$open_daily_pr" "$resume_review_since" "$resume_reaction_endpoint"
+  finish_successfully
+  exit 0
+fi
 
 # 网络操作由这个受信任的外层脚本执行；Codex 的 shell 保持断网。
 seen_backup=""
@@ -360,8 +502,6 @@ validate_repo
 
 BRANCH="automation/daily-ingestion-$RUN_STAMP"
 git switch -c "$BRANCH"
-git config user.name "fr-kol-wiki automation"
-git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 git add sources wiki
 git commit -m "content: 每日视频筛选 $RUN_DATE"
 git push --set-upstream origin "$BRANCH"
@@ -376,105 +516,5 @@ PR_URL="$(gh pr create \
 echo "Created PR: $PR_URL"
 PR_NUMBER="$(gh pr view "$PR_URL" --json number --jq '.number')"
 REVIEW_REACTION_ENDPOINT="repos/nolimitkun/fr-kol-wiki/issues/$PR_NUMBER/reactions"
-review_clean=0
-
-for iteration in 1 2 3 4; do
-  HEAD_SHA="$(git rev-parse HEAD)"
-  echo "Waiting for Codex review of $HEAD_SHA (round $iteration)."
-  wait_for_codex_review "$PR_NUMBER" "$HEAD_SHA" "$REVIEW_SINCE" "$REVIEW_REACTION_ENDPOINT"
-  fetch_unresolved_codex_threads "$PR_NUMBER"
-
-  if [ "$(jq 'length' "$REVIEW_THREADS")" -eq 0 ]; then
-    echo "Codex review is clean."
-    review_clean=1
-    break
-  fi
-
-  if [ "$iteration" -eq 4 ]; then
-    echo "!! Codex review still has findings after three automatic fix rounds"
-    exit 1
-  fi
-
-  echo "Addressing $(jq 'length' "$REVIEW_THREADS") Codex review thread(s)."
-  address_codex_review "$PR_NUMBER" "$iteration"
-  if [ "$REVIEW_ACTION" = "REJECTED" ]; then
-    echo "Codex review findings were checked and rejected without repository changes."
-    review_clean=1
-    break
-  fi
-
-  REVIEW_SINCE="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
-  REVIEW_COMMENT_URL="$(gh pr comment "$PR_NUMBER" --body '@codex review')"
-  REVIEW_COMMENT_ID="${REVIEW_COMMENT_URL##*issuecomment-}"
-  if [[ ! "$REVIEW_COMMENT_ID" =~ ^[0-9]+$ ]]; then
-    echo "!! could not parse Codex review request comment ID: $REVIEW_COMMENT_URL"
-    exit 1
-  fi
-  REVIEW_REACTION_ENDPOINT="repos/nolimitkun/fr-kol-wiki/issues/comments/$REVIEW_COMMENT_ID/reactions"
-done
-
-if [ "$review_clean" -ne 1 ]; then
-  echo "!! PR did not receive a clean Codex review"
-  exit 1
-fi
-
-echo "Waiting for PR checks."
-gh pr checks "$PR_NUMBER" --watch --fail-fast --interval 10
-
-mergeable="UNKNOWN"
-for _ in $(seq 1 30); do
-  mergeable="$(gh pr view "$PR_NUMBER" --json mergeable --jq '.mergeable')"
-  if [ "$mergeable" != "UNKNOWN" ]; then
-    break
-  fi
-  sleep 5
-done
-if [ "$mergeable" != "MERGEABLE" ]; then
-  echo "!! PR is not mergeable: $mergeable"
-  exit 1
-fi
-
-HEAD_SHA="$(git rev-parse HEAD)"
-gh pr merge "$PR_NUMBER" --merge --match-head-commit "$HEAD_SHA"
-MERGE_SHA="$(gh pr view "$PR_NUMBER" --json mergeCommit,state --jq 'select(.state == "MERGED") | .mergeCommit.oid')"
-if [ -z "$MERGE_SHA" ]; then
-  echo "!! PR merge could not be verified"
-  exit 1
-fi
-echo "Merged PR $PR_NUMBER as $MERGE_SHA."
-
-run_id=""
-for _ in $(seq 1 60); do
-  run_id="$(gh run list \
-    --repo nolimitkun/fr-kol-wiki \
-    --workflow 'Check and deploy MkDocs' \
-    --branch main \
-    --limit 20 \
-    --json databaseId,headSha \
-    --jq ".[] | select(.headSha == \"$MERGE_SHA\") | .databaseId" |
-    head -n 1)"
-  if [ -n "$run_id" ]; then
-    break
-  fi
-  sleep 5
-done
-if [ -z "$run_id" ]; then
-  {
-    echo "No deployment run was found after PR $PR_NUMBER was merged as $MERGE_SHA."
-    echo "Resolve the workflow trigger failure, then remove this file to resume daily ingestion."
-  } >"$BLOCK_MARKER"
-  echo "!! main deployment run was not found; wrote blocking marker: $BLOCK_MARKER"
-  exit 1
-fi
-
-if ! gh run watch "$run_id" --repo nolimitkun/fr-kol-wiki --exit-status; then
-  {
-    echo "Deployment failed after PR $PR_NUMBER was merged as $MERGE_SHA."
-    echo "Run: https://github.com/nolimitkun/fr-kol-wiki/actions/runs/$run_id"
-    echo "Resolve the deployment failure, then remove this file to resume daily ingestion."
-  } >"$BLOCK_MARKER"
-  echo "!! Pages deployment failed; wrote blocking marker: $BLOCK_MARKER"
-  exit 1
-fi
-echo "Pages deployment passed: https://github.com/nolimitkun/fr-kol-wiki/actions/runs/$run_id"
+process_daily_pr "$PR_URL" "$REVIEW_SINCE" "$REVIEW_REACTION_ENDPOINT"
 finish_successfully
