@@ -4,7 +4,7 @@ date: 2026-09-25
 source_language: fr
 status: draft
 channel: france-culture
-people: [remi-lefebvre, isabelle-lasser]
+people: [remi-lefebvre, isabelle-lasserre]
 organizations: [france-culture]
 domains: [politics, military, economy]
 topics: [macron-end-of-term, ukraine-war, fuel-prices]
