@@ -26,7 +26,7 @@ Thierry Breton 把这场战争拆成三种不对称：伊朗用可持续补充�
 
 ## 摘要
 
-Breton 说话像一位拿着成本表的工业政策官员。他不从单次空袭判断胜负，而是反复追问：一枚拦截弹多少钱、一个月能补多少、谁的工厂还在转、谁先受不了油价和选票。他的核心比喻是“流量对库存”：低成本武器不断补货，高端防空弹却越打越少。随后他把账从战场算到政治。海湾国家花钱换取美国保护，却发现基地和昂贵装备没有带来绝对安全；美国公众、市场和选举周期又比伊朗政权更快施压。谈到欧洲时，他把结论收回自己熟悉的主题：旧秩序靠信任，如今转向力量对比，欧洲仍要守法治，但也得补上军事、技术和市场力量。（[00:02:46](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#000246)–[00:08:49](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#000849)，[00:52:42](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#005242)–[00:59:48](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#005948)）
+Breton 说话像一位拿着成本表的工业政策官员。他不从单次空袭判断胜负，而是反复追问：一枚拦截弹多少钱、一个月能补多少、谁的工厂还在转、谁先受不了油价和选票。他的核心比喻是“流量对库存”：低成本武器不断补货，高端防空弹却越打越少。（[00:15:57](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#001557)–[00:25:08](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#002508)）随后他把账从战场算到政治。海湾国家花钱换取美国保护，却发现基地和昂贵装备没有带来绝对安全；美国公众、市场和选举周期又比伊朗政权更快施压。（[00:25:08](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#002508)–[00:35:18](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#003518)）谈到欧洲时，他把结论收回自己熟悉的主题：旧秩序靠信任，如今转向力量对比，欧洲仍要守法治，但也得补上军事、技术和市场力量。（[00:52:42](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#005242)–[00:59:48](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#005948)）
 
 ## 胜负不只看武器先进不先进
 
@@ -40,7 +40,7 @@ Breton 把海湾安全模式概括为一笔交易：允许美国设基地、购�
 
 ## 时间也是一种武器
 
-他认为民主政治的敏感点在油价、通胀、利率、人员伤亡和选举。伊朗政权则能把更多代价压给本国人口，因此双方承受时间的方式并不对称。Breton 明确说这是“令人遗憾”的优势，而不是对镇压的赞同。主持人纠正了他一处把“数万人死亡”说出口的口误；Breton 随即改成“数万人中的三到四万”这一伤亡说法，但该数字仍待核验。（[00:28:10](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#002810)–[00:35:18](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#003518)）
+他认为民主政治的敏感点在油价、通胀、利率、人员伤亡和选举。伊朗政权则能把更多代价压给本国人口，因此双方承受时间的方式并不对称。Breton 明确说这是“令人遗憾”的优势，而不是对镇压的赞同。Breton 先口误说成“数千万人死亡”，主持人纠正为“数万人”；他随即道歉，并把自己的伤亡说法具体改为“三万到四万”，但该数字仍待核验。（[00:28:10](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#002810)–[00:35:18](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#003518)）
 
 ## 特朗普的话，也被他当成市场工具
 
