@@ -19,6 +19,9 @@
 - [燃油安全、海运咽喉与战争外溢](../topics/fuel-security-and-geopolitics.md)
 - [中美系统性竞争：供应链、规则与安全红线](../topics/china-us-systemic-rivalry.md)
 - [中美较量不只看关税](../videos/20260924-france-culture-china-us-rivalry.md)
+- [中国靠什么跑得快？Dan Wang 谈工业、控制与欧洲的被动](../videos/20260914-thinkerview-dan-wang-china-industry.md)
+- [低成本武器、军工产能与不对称战争](../topics/asymmetric-war-and-defense-industry.md)
+- [Thierry Breton 谈战争的三重不对称](../videos/20260422-le-grand-continent-asymmetric-war-thierry-breton.md)
 
 ## 社会保障政策
 
