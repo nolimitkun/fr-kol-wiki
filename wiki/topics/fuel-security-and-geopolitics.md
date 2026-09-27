@@ -1,6 +1,6 @@
 ---
 title: "燃油安全、海运咽喉与战争外溢"
-updated: 2026-09-25
+updated: 2026-09-27
 ---
 
 # 燃油安全、海运咽喉与战争外溢
@@ -16,6 +16,8 @@ updated: 2026-09-25
 [LCI 燃油危机专题](../videos/20260923-lci-fuel-crisis.md)把美国潜在出口限制、中东航运风险和俄乌炼厂攻防放在一张图里。它的优点是展示冲击如何串联；局限是节目先设定危机结论，许多数字和军事断言没有展示来源。
 
 [France Culture 中美圆桌](../videos/20260924-france-culture-china-us-rivalry.md)从中国侧补充了同一危机：供应来源分散、电气化和制造能力提供缓冲，但进口依赖、全球需求放缓及对伊朗和俄罗斯的政治支持也会产生长期成本。（[00:16:13](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#001613)–[00:24:24](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#002424)）
+
+[Thierry Breton 的访谈](../videos/20260422-le-grand-continent-asymmetric-war-thierry-breton.md)增加了基础设施与政治时间两个维度：石化、电力、港口和海水淡化设施一旦进入互相报复的目标清单，海湾安全与全球油价会同时承压；油价、通胀和选举又会把战场压力迅速传回美国与欧洲。（[00:25:08](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#002508)–[00:30:15](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#003015)）
 
 ## 后续核验与补充
 

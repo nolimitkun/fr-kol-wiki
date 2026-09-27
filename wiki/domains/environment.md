@@ -13,3 +13,5 @@
 - [燃油安全、海运咽喉与战争外溢](../topics/fuel-security-and-geopolitics.md)
 - [柴油危机：法国眼前不是一条断供线，而是三层依赖](../videos/20260923-lci-fuel-crisis.md)
 - [中美较量不只看关税](../videos/20260924-france-culture-china-us-rivalry.md)
+- [中国靠什么跑得快？Dan Wang 谈能源自主与工业竞争](../videos/20260914-thinkerview-dan-wang-china-industry.md)
+- [Thierry Breton 谈油价与海湾基础设施风险](../videos/20260422-le-grand-continent-asymmetric-war-thierry-breton.md)

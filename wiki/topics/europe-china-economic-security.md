@@ -1,6 +1,6 @@
 ---
 title: "欧洲如何应对中国的产业与技术力量"
-updated: 2026-09-25
+updated: 2026-09-27
 ---
 
 # 欧洲如何应对中国的产业与技术力量
@@ -19,6 +19,8 @@ updated: 2026-09-25
 4. 公开处理低价绿色产品、减排速度和欧洲工业岗位之间的冲突。（[00:40:32](../../sources/le-grand-continent/20260610-Fal6xyweoPA/transcript.md#004032)–[00:41:34](../../sources/le-grand-continent/20260610-Fal6xyweoPA/transcript.md#004134)）
 
 [France Culture 中美圆桌](../videos/20260924-france-culture-china-us-rivalry.md)补充了外部约束：先进芯片链、稀土、能源和人工智能标准彼此联动，欧洲既是设备和规则的参与者，也可能被中美双方的限制牵动。（[00:24:24](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#002424)–[00:31:30](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#003130)）
+
+[Dan Wang 的 Thinkerview 访谈](../videos/20260914-thinkerview-dan-wang-china-industry.md)把问题说得更尖：欧洲有足够大的市场，却很少把准入条件变成谈判力量；汽车、能源与人工智能的竞争也说明，守住旧产业地位不等于建设下一轮产能。他仍肯定法国核电、高铁和航空工业留下的工程基础，但质疑欧洲能否接受为更新它们而付出的变化。（[00:06:28](../../sources/thinkerview/20260914-Mls6_9KOpqI/transcript.md#000628)–[00:09:36](../../sources/thinkerview/20260914-Mls6_9KOpqI/transcript.md#000936)，[01:28:49](../../sources/thinkerview/20260914-Mls6_9KOpqI/transcript.md#012849)–[01:35:59](../../sources/thinkerview/20260914-Mls6_9KOpqI/transcript.md#013559)）
 
 ## 仍待补充的视角
 

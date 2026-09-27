@@ -1,7 +1,7 @@
 # 社会与民生
 
 覆盖收入与生活成本、住房、交通、治安、移民与融合、人口、家庭、社会保障、城乡与海外省议题。
-\n## 家庭与教育
+## 家庭与教育
 
 - [家长参与、学校责任与教育不平等](../topics/parental-involvement-in-education.md)
 
@@ -19,3 +19,4 @@
 ## 群体、记忆与暴力
 
 - [“种族灭绝”概念、国际法门槛与追责](../topics/genocide-international-law.md)
+- [Dan Wang 谈侨民、监控与国家控制的边界](../videos/20260914-thinkerview-dan-wang-china-industry.md)

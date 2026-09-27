@@ -3,7 +3,7 @@
 法国公共议题长视频的中文翻译、归纳与观点索引。
 
 !!! note "当前状态"
-    项目骨架已建立，等待摄取首批视频。所有观点页都应链接到原始逐字稿中的真实时间戳。
+    知识库持续摄取中。所有观点页都应链接到原始逐字稿中的真实时间戳。
 
 ## 按领域
 
@@ -27,6 +27,7 @@
 - [医保分工、补充保险与病假成本](topics/health-insurance-cost-sharing.md)
 - [2027左翼初选：共同政策与联盟断层](topics/2027-left-primary.md)
 - [马克龙任期末：外交权威与国内政治](topics/macron-end-of-term.md)
+- [低成本武器、军工产能与不对称战争](topics/asymmetric-war-and-defense-industry.md)
 
 ## 按人物
 
@@ -65,6 +66,8 @@
 - [Ségolène Royal](people/segolene-royal.md)
 - [Rémi Lefebvre](people/remi-lefebvre.md)
 - [Isabelle Lasserre](people/isabelle-lasserre.md)
+- [Thierry Breton](people/thierry-breton.md)
+- [Dan Wang](people/dan-wang.md)
 
 ## 按机构
 
@@ -74,6 +77,7 @@
 - [法国高等师范学院](organizations/ecole-normale-superieure.md)
 - [ScienceEtonnante](organizations/science-etonnante.md)
 - [France Culture](organizations/france-culture.md)
+- [Thinkerview](organizations/thinkerview.md)
 
 ## 按视频
 
@@ -86,6 +90,8 @@
 - 2026-09-24 · LCI · [眼镜、病假、互助保险：法国医保省钱，究竟把账单推给谁？](videos/20260924-lci-health-insurance-reform.md)
 - 2026-09-23 · LCI · [左翼初选首辩：五个人谈团结，最后却在是否联合不屈法国上吵开了](videos/20260923-lci-left-primary-debate.md)
 - 2026-09-25 · France Culture · [马克龙还能左右法国政治吗？任期末的外交牌与国内账](videos/20260925-france-culture-macron-end-of-term.md)
+- 2026-04-22 · Mardis Grand Continent · [廉价无人机怎样拖住昂贵军队？Thierry Breton 谈战争的三重不对称](videos/20260422-le-grand-continent-asymmetric-war-thierry-breton.md)
+- 2026-09-14 · Thinkerview · [中国靠什么跑得快？Dan Wang 谈工业、控制与欧洲的被动](videos/20260914-thinkerview-dan-wang-china-industry.md)
 ## 2027 总统选举经济专题
 
 - [2027总统选举经济政策对照](topics/2027-presidential-economic-policy.md)
