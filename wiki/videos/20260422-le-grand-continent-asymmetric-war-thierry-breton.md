@@ -22,7 +22,7 @@ updated: 2026-09-27
 
 ## 一句话结论
 
-Thierry Breton 把这场战争拆成三种不对称：伊朗用可持续补充的廉价无人机和导弹消耗美方昂贵库存，用更能承受长期痛苦的政治体制拖长时间，再用对海湾基础设施和全球油价的冲击把压力传回美国及其伙伴。（[00:15:57](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#001557)–[00:25:08](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#002508)，[00:33:16](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#003316)–[00:35:18](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#003518)）
+Thierry Breton 把这场战争拆成三种不对称：伊朗用可持续补充的廉价无人机和导弹消耗美方昂贵库存，用更能承受长期痛苦的政治体制拖长时间，再用对海湾基础设施和全球油价的冲击把压力传回美国及其伙伴。（[00:15:57](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#001557)–[00:25:08](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#002508)，[00:26:10](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#002610)–[00:30:15](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#003015)，[00:33:16](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#003316)–[00:35:18](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#003518)）
 
 ## 摘要
 
