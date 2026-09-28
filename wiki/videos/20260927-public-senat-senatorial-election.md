@@ -42,7 +42,7 @@ Public Sénat 用两小时边报票边讨论制度后果。现场政治人物先
 
 LR 参议员 Olivier Paccaud 的答法是，约14人的党团无法给第一大党规定路线；中间派 Hervé Marseille 则拒绝“卫生隔离带”这个说法，主张承认民主结果，同时维持参议院的对话规则。（[00:11:10](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#001110)–[00:15:16](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#001516)）
 
-政治学意义更强的一句来自 Benjamin Morel：问题不只是今天有14名参议员，而是某些选区已经出现两三百名 RN 地方选举人。面对这批决定自己能否连任的人，传统右翼以后是否还愿意强硬对抗 RN，会变成现实压力。（[01:04:12](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#010412)–[01:06:14](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#010614)）
+政治学意义更强的一句来自 Benjamin Morel：问题不只是今天有14名参议员，而是某些选区已经出现两三百名 RN 地方选举人。面对这批决定自己能否连任的人，传统右翼以后是否还愿意强硬对抗 RN，会变成现实压力。（[01:06:14](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#010614)，[01:45:59](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#014559)）
 
 ## LFI 只有一两席，为什么仍让左翼紧张？
 
@@ -68,7 +68,7 @@ Gérard Larcher 在当晚声明中把参议院称为民主不可少的制衡力�
 
 ## 直播里的数字与身份，全部待核验
 
-- `待核验` 178席、64个选区、95%市镇议员、六年任期等选举制度数字，需法国参议院或内政部资料确认。（[00:00:00](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#000000)）
+- `待核验` 178席、64个选区、95%市镇议员、六年任期等选举制度数字，需法国参议院或内政部资料确认。（[00:00:00](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#000000)，[01:22:34](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#012234)）
 - `待核验` RN—UDR 14席、LR约减6席、PS约63席、中央派约57席等当晚投影。（[01:40:54](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#014054)）
 - `待核验` 节目列举的各省当选人、党籍、得票和党团归属；自动字幕中多人姓名明显失真。（[01:53:08](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#015308)–[01:55:09](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#015509)）
 - `待核验` 嘉宾关于农业贸易、股息、地方财政削减和国家债务的所有数字。（[00:30:34](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#003034)，[00:55:02](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#005502)）

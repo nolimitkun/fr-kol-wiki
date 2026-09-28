@@ -77,7 +77,7 @@ Jean-François Delfraissy 和 Yazdan Yazdanpanah 把矛盾拉回制度内部：�
 
 | 节目说法 | 性质 | 缺什么 |
 |---|---|---|
-| 一代人内全球预期寿命增加10年、孕产妇死亡减半、1500万人接受抗逆转录病毒治疗 | `待核验` | WHO、UNAIDS 等原始序列和时间范围（[00:12:20](../../sources/le-grand-continent/20260415-XaxiIR6bga0/transcript.md#001220)） |
+| 一代人内全球预期寿命增加10年、孕产妇死亡减半、1500万人接受抗逆转录病毒治疗 | `待核验` | WHO、UNAIDS 等原始序列和时间范围（[00:13:20](../../sources/le-grand-continent/20260415-XaxiIR6bga0/transcript.md#001320)） |
 | 援助削减到2030年可能造成900万至2300万额外死亡 | `待核验` | 所称《柳叶刀·全球卫生》论文、模型和情景（[00:15:21](../../sources/le-grand-continent/20260415-XaxiIR6bga0/transcript.md#001521)） |
 | 美国同肯尼亚的卫生协议为5年15亿美元 | `待核验` | 两国正式协议（[00:33:39](../../sources/le-grand-continent/20260415-XaxiIR6bga0/transcript.md#003339)） |
 | 该机构收到的研究申请一年增加50% | `待核验` | ANRS MIE 项目统计（[00:42:49](../../sources/le-grand-continent/20260415-XaxiIR6bga0/transcript.md#004249)） |
