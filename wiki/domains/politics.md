@@ -23,6 +23,7 @@
 
 - [欧洲如何应对中国的产业与技术力量](../topics/europe-china-economic-security.md)
 - [燃油安全、海运咽喉与战争外溢](../topics/fuel-security-and-geopolitics.md)
+- [全球卫生为什么会被一条海峡和一届美国政府卡住？](../videos/20260415-le-grand-continent-global-health.md)
 - [中美系统性竞争：供应链、规则与安全红线](../topics/china-us-systemic-rivalry.md)
 - [中美较量不只看关税](../videos/20260924-france-culture-china-us-rivalry.md)
 - [中国靠什么跑得快？Dan Wang 谈工业、控制与欧洲的被动](../videos/20260914-thinkerview-dan-wang-china-industry.md)
