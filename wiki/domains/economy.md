@@ -12,6 +12,7 @@
 - [欧洲如何应对中国的产业与技术力量](../topics/europe-china-economic-security.md)
 - [面对中国经济，欧洲不能只靠加关税追着跑](../videos/20260610-le-grand-continent-chinese-economy.md)
 - [燃油安全、海运咽喉与战争外溢](../topics/fuel-security-and-geopolitics.md)
+- [全球卫生为什么会被一条海峡和一届美国政府卡住？](../videos/20260415-le-grand-continent-global-health.md)
 - [柴油危机：法国眼前不是一条断供线，而是三层依赖](../videos/20260923-lci-fuel-crisis.md)
 - [中美系统性竞争：供应链、规则与安全红线](../topics/china-us-systemic-rivalry.md)
 - [中美较量不只看关税](../videos/20260924-france-culture-china-us-rivalry.md)
