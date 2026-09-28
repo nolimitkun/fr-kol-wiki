@@ -251,7 +251,7 @@ address_codex_review() {
 
 process_daily_pr() {
   local pr_url="$1" review_since="$2" review_reaction_endpoint="$3"
-  local pr_number review_clean=0 fix_round=0 review_round=0 head_sha mergeable merge_sha run_id
+  local pr_number review_clean=0 fix_round review_round=0 head_sha mergeable merge_sha run_id
   local max_fix_rounds="${MAX_REVIEW_FIX_ROUNDS:-8}"
   local review_comment_url review_comment_id
 
@@ -261,6 +261,12 @@ process_daily_pr() {
   fi
 
   pr_number="$(gh pr view "$pr_url" --json number --jq '.number')"
+  fix_round="$(git log --format='%s' "$(git merge-base HEAD origin/main)..HEAD" |
+    grep -Ec '^fix: address automated review feedback \([0-9]+\)$' || true)"
+  if [ "$fix_round" -gt "$max_fix_rounds" ]; then
+    echo "!! PR history already contains $fix_round automated fixes; configured maximum is $max_fix_rounds"
+    return 1
+  fi
 
   while true; do
     review_round=$((review_round + 1))
