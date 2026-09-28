@@ -255,7 +255,7 @@ process_daily_pr() {
   local max_fix_rounds="${MAX_REVIEW_FIX_ROUNDS:-8}"
   local review_comment_url review_comment_id
 
-  if [[ ! "$max_fix_rounds" =~ ^[1-9][0-9]*$ ]] || [ "$max_fix_rounds" -gt 20 ]; then
+  if [[ ! "$max_fix_rounds" =~ ^([1-9]|1[0-9]|20)$ ]]; then
     echo "!! MAX_REVIEW_FIX_ROUNDS must be an integer between 1 and 20"
     return 1
   fi
