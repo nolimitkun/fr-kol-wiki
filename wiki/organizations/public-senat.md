@@ -1,6 +1,6 @@
 ---
 title: "Public Sénat"
-updated: 2026-09-20
+updated: 2026-09-28
 ---
 
 # Public Sénat
@@ -9,4 +9,5 @@ updated: 2026-09-20
 
 ## 已收录
 
+- [2026法国参议院改选：格局没翻盘，为什么仍是一次结构性变化？](../videos/20260927-public-senat-senatorial-election.md)（2026-09-27）
 - [教育：家长到底该管多少？](../videos/20260919-public-senat-parents-at-school.md)（2026-09-19）

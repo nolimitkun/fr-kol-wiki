@@ -18,6 +18,8 @@
 
 ## 按专题
 
+- [2026参议院改选：地方网络进入国家政治](topics/2026-senate-election.md)
+- [全球卫生：援助、主权与科研合作](topics/global-health-governance.md)
 - [家长参与、学校责任与教育不平等](topics/parental-involvement-in-education.md)
 - [欧洲如何应对中国的产业与技术力量](topics/europe-china-economic-security.md)
 - [燃油安全、海运咽喉与战争外溢](topics/fuel-security-and-geopolitics.md)
@@ -31,6 +33,16 @@
 
 ## 按人物
 
+- [Jean-François Delfraissy](people/jean-francois-delfraissy.md)
+- [Mathieu Lamiaux](people/mathieu-lamiaux.md)
+- [Thomas Melonio](people/thomas-melonio.md)
+- [Stéphanie Tchiombiano](people/stephanie-tchiombiano.md)
+- [Yazdan Yazdanpanah](people/yazdan-yazdanpanah.md)
+- [Frédéric Worms](people/frederic-worms.md)
+- [Anne Levade](people/anne-levade.md)
+- [Anne-Charlène Bezzina](people/anne-charlene-bezzina.md)
+- [Benjamin Morel](people/benjamin-morel.md)
+- [Michaël Darmon](people/michael-darmon.md)
 - [Rebecca Fitoussi](people/rebecca-fitoussi.md)
 - [Louise Tourret](people/louise-tourret.md)
 - [Grégoire Borst](people/gregoire-borst.md)
@@ -81,6 +93,8 @@
 
 ## 按视频
 
+- 2026-09-27 · Public Sénat · [2026法国参议院改选：格局没翻盘，为什么仍是一次结构性变化？](videos/20260927-public-senat-senatorial-election.md)
+- 2026-04-15 · Mardis Grand Continent · [全球卫生为什么会被一条海峡和一届美国政府卡住？](videos/20260415-le-grand-continent-global-health.md)
 - 2025-02-13 · Mardis Grand Continent · [“种族灭绝”为什么既不可少，也可能妨碍追责？](videos/20250213-le-grand-continent-genocide-concept-philippe-sands.md)
 - 2025-04-04 · ScienceEtonnante · [数学发现不是硬算出来的：Hugo Duminil-Copin 谈直觉、合作与随机模型](videos/20250404-science-etonnante-hugo-duminil-copin.md)
 - 2026-09-19 · Public Sénat · [教育：家长到底该管多少？](videos/20260919-public-senat-parents-at-school.md)
