@@ -251,14 +251,21 @@ address_codex_review() {
 
 process_daily_pr() {
   local pr_url="$1" review_since="$2" review_reaction_endpoint="$3"
-  local pr_number review_clean=0 iteration head_sha mergeable merge_sha run_id
+  local pr_number review_clean=0 fix_round=0 review_round=0 head_sha mergeable merge_sha run_id
+  local max_fix_rounds="${MAX_REVIEW_FIX_ROUNDS:-8}"
   local review_comment_url review_comment_id
+
+  if [[ ! "$max_fix_rounds" =~ ^[1-9][0-9]*$ ]] || [ "$max_fix_rounds" -gt 20 ]; then
+    echo "!! MAX_REVIEW_FIX_ROUNDS must be an integer between 1 and 20"
+    return 1
+  fi
 
   pr_number="$(gh pr view "$pr_url" --json number --jq '.number')"
 
-  for iteration in 1 2 3 4; do
+  while true; do
+    review_round=$((review_round + 1))
     head_sha="$(git rev-parse HEAD)"
-    echo "Waiting for Codex review of $head_sha (round $iteration)."
+    echo "Waiting for Codex review of $head_sha (review round $review_round; fixes $fix_round/$max_fix_rounds)."
     wait_for_codex_review "$pr_number" "$head_sha" "$review_since" "$review_reaction_endpoint"
     fetch_unresolved_codex_threads "$pr_number"
 
@@ -268,13 +275,14 @@ process_daily_pr() {
       break
     fi
 
-    if [ "$iteration" -eq 4 ]; then
-      echo "!! Codex review still has findings after three automatic fix rounds"
+    if [ "$fix_round" -ge "$max_fix_rounds" ]; then
+      echo "!! Codex review still has findings after $max_fix_rounds automatic fix rounds"
       return 1
     fi
 
+    fix_round=$((fix_round + 1))
     echo "Addressing $(jq 'length' "$REVIEW_THREADS") Codex review thread(s)."
-    address_codex_review "$pr_number" "$iteration"
+    address_codex_review "$pr_number" "$fix_round"
     if [ "$REVIEW_ACTION" = "REJECTED" ]; then
       echo "Codex review findings were checked and rejected without repository changes."
       review_clean=1
