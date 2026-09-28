@@ -19,6 +19,7 @@
 ## 按专题
 
 - [2026参议院改选：地方网络进入国家政治](topics/2026-senate-election.md)
+- [2027总统选举：联盟与地方根基](topics/2027-presidential-election.md)
 - [全球卫生：援助、主权与科研合作](topics/global-health-governance.md)
 - [家长参与、学校责任与教育不平等](topics/parental-involvement-in-education.md)
 - [欧洲如何应对中国的产业与技术力量](topics/europe-china-economic-security.md)

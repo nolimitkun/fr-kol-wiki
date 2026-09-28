@@ -9,6 +9,7 @@
 
 ## 2027 总统选举
 
+- [2027总统选举：联盟与地方根基](../topics/2027-presidential-election.md)
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
 - [七名候选人面对企业界的经济政策辩论](../videos/20260827-lci-medef-2027-economic-debate.md)
 - [2027左翼初选：共同政策与联盟断层](../topics/2027-left-primary.md)

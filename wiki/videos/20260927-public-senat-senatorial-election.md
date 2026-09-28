@@ -86,6 +86,6 @@ Gérard Larcher 在当晚声明中把参议院称为民主不可少的制衡力�
 
 ## 相关页面
 
-- 专题：[2026参议院改选：地方网络进入国家政治](../topics/2026-senate-election.md)
+- 专题：[2026参议院改选：地方网络进入国家政治](../topics/2026-senate-election.md)、[2027总统选举：联盟与地方根基](../topics/2027-presidential-election.md)
 - 机构：[Public Sénat](../organizations/public-senat.md)
 - 领域：[政治](../domains/politics.md)
