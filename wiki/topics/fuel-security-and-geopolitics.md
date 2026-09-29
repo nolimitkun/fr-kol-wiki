@@ -1,6 +1,6 @@
 ---
 title: "燃油安全、海运咽喉与战争外溢"
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # 燃油安全、海运咽喉与战争外溢
@@ -20,6 +20,8 @@ updated: 2026-09-28
 [Le Grand Continent 全球卫生圆桌](../videos/20260415-le-grand-continent-global-health.md)说明了能源冲击怎样越过行业边界：油价和运费上涨会先压迫脆弱的卫生系统，还会经化肥、食品、通胀、利率和主权债务继续传导。（[00:10:18](../../sources/le-grand-continent/20260415-XaxiIR6bga0/transcript.md#001018)–[00:11:19](../../sources/le-grand-continent/20260415-XaxiIR6bga0/transcript.md#001119)，[00:34:40](../../sources/le-grand-continent/20260415-XaxiIR6bga0/transcript.md#003440)–[00:36:42](../../sources/le-grand-continent/20260415-XaxiIR6bga0/transcript.md#003642)）
 
 [Thierry Breton 的访谈](../videos/20260422-le-grand-continent-asymmetric-war-thierry-breton.md)增加了基础设施与政治时间两个维度：石化、电力、港口和海水淡化设施一旦进入互相报复的目标清单，海湾安全与全球油价会同时承压；油价、通胀和选举又会把战场压力迅速传回美国与欧洲。（[00:25:08](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#002508)–[00:30:15](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#003015)）
+
+[伊朗战争全球反应圆桌](../videos/20260312-le-grand-continent-iran-war-global-reactions.md)把传导链再向外推了一步：拉美农业国担心化肥和食品价格，南亚国家担心海湾侨民撤离，欧洲则同时盘算能源、难民和乌克兰战场。相关运输占比、人口和战况尚未获一手资料核验。（[00:13:22](../../sources/le-grand-continent/20260312-wIT3jYnijnE/transcript.md#001322)–[00:16:26](../../sources/le-grand-continent/20260312-wIT3jYnijnE/transcript.md#001626)，[00:35:50](../../sources/le-grand-continent/20260312-wIT3jYnijnE/transcript.md#003550)–[00:38:52](../../sources/le-grand-continent/20260312-wIT3jYnijnE/transcript.md#003852)）
 
 ## 后续核验与补充
 

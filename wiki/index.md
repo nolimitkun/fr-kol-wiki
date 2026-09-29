@@ -18,6 +18,7 @@
 
 ## 按专题
 
+- [伊朗战争的全球反应：谨慎、碎片化与外溢](topics/iran-war-global-reactions.md)
 - [2026参议院改选：地方网络进入国家政治](topics/2026-senate-election.md)
 - [2027总统选举：联盟与地方根基](topics/2027-presidential-election.md)
 - [全球卫生：援助、主权与科研合作](topics/global-health-governance.md)
@@ -34,6 +35,13 @@
 
 ## 按人物
 
+- [Arancha González Laya](people/arancha-gonzalez-laya.md)
+- [Christophe Jaffrelot](people/christophe-jaffrelot.md)
+- [Gaspard Estrada](people/gaspard-estrada.md)
+- [Roger Karoutchi](people/roger-karoutchi.md)
+- [Colombe Brossel](people/colombe-brossel.md)
+- [Guillaume Gontard](people/guillaume-gontard.md)
+- [Aymeric Durox](people/aymeric-durox.md)
 - [Jean-François Delfraissy](people/jean-francois-delfraissy.md)
 - [Mathieu Lamiaux](people/mathieu-lamiaux.md)
 - [Thomas Melonio](people/thomas-melonio.md)
@@ -94,6 +102,8 @@
 
 ## 按视频
 
+- 2026-09-28 · Public Sénat · [RN进参议院之后：谁在守制度，谁在借制度扩张？](videos/20260928-public-senat-counterpower-2027.md)
+- 2026-03-12 · Mardis Grand Continent · [伊朗战争没有重组阵营：各国先算自己的风险账](videos/20260312-le-grand-continent-iran-war-global-reactions.md)
 - 2026-09-27 · Public Sénat · [2026法国参议院改选：格局没翻盘，为什么仍是一次结构性变化？](videos/20260927-public-senat-senatorial-election.md)
 - 2026-04-15 · Mardis Grand Continent · [全球卫生为什么会被一条海峡和一届美国政府卡住？](videos/20260415-le-grand-continent-global-health.md)
 - 2025-02-13 · Mardis Grand Continent · [“种族灭绝”为什么既不可少，也可能妨碍追责？](videos/20250213-le-grand-continent-genocide-concept-philippe-sands.md)

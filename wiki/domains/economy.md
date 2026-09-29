@@ -9,6 +9,8 @@
 
 ## 产业、贸易与能源价格
 
+- [伊朗战争的全球反应：谨慎、碎片化与外溢](../topics/iran-war-global-reactions.md)
+- [伊朗战争没有重组阵营：各国先算自己的风险账](../videos/20260312-le-grand-continent-iran-war-global-reactions.md)
 - [欧洲如何应对中国的产业与技术力量](../topics/europe-china-economic-security.md)
 - [面对中国经济，欧洲不能只靠加关税追着跑](../videos/20260610-le-grand-continent-chinese-economy.md)
 - [燃油安全、海运咽喉与战争外溢](../topics/fuel-security-and-geopolitics.md)
@@ -23,3 +25,7 @@
 
 - [医保分工、补充保险与病假成本](../topics/health-insurance-cost-sharing.md)
 - [眼镜、病假、互助保险](../videos/20260924-lci-health-insurance-reform.md)
+
+## 国家预算与议会
+
+- [RN进参议院之后：谁在守制度，谁在借制度扩张？](../videos/20260928-public-senat-counterpower-2027.md)
