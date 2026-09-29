@@ -2,6 +2,11 @@
 
 覆盖法国国防战略、核威慑、军工、海外部署、欧洲安全、外交政策与战略自主。战争相关材料严格区分当事人观点、公开情报和已核验事实。
 
+## 伊朗战争与全球反应
+
+- [伊朗战争的全球反应：谨慎、碎片化与外溢](../topics/iran-war-global-reactions.md)
+- [伊朗战争没有重组阵营：各国先算自己的风险账](../videos/20260312-le-grand-continent-iran-war-global-reactions.md)
+
 ## 战争与能源供应链
 
 - [低成本武器、军工产能与不对称战争](../topics/asymmetric-war-and-defense-industry.md)
