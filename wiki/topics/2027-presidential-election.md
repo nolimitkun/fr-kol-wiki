@@ -1,6 +1,6 @@
 ---
 title: "2027总统选举：联盟与地方根基"
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # 2027总统选举：联盟与地方根基
@@ -14,6 +14,12 @@ updated: 2026-09-28
 [Public Sénat 参议院选举夜直播](../videos/20260927-public-senat-senatorial-election.md)把这次改选视作总统选举前的一次联盟压力测试。节目中，社会党参议员 Patrick Kanner 预计 RN 会利用新党团向地方民选官员传递竞选信息；主持人和嘉宾也追问，各党是否会把参议院辩论变成支持总统候选人的舞台。（[00:25:27](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#002527)–[00:27:29](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#002729)）
 
 直播还呈现了两条重组线索。右侧，Jordan Bardella 向 LR 的“爱国者”伸手，被分析为既着眼于参议院，也着眼于2027年之后的合作；左侧，LFI 首次取得参议院席位后，各党是否接纳其议员，已经映出总统选举前的联盟分歧。（[01:01:10](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#010110)–[01:03:11](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#010311)，[01:43:55](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#014355)–[01:44:58](../../sources/public-senat/20260927-3Fuz7Tml7R8/transcript.md#014458)）
+
+## 第二份材料
+
+[次日的四党参议员辩论](../videos/20260928-public-senat-counterpower-2027.md)把右侧联盟压力说得更直白。节目播放 Jordan Bardella 向 LR“爱国者”招手、设想总统胜选后组建开放政府的讲话；Colombe Brossel 担心 RN 会借共同投票逐步冲击 LR 的边界，Roger Karoutchi 则强调 LR 要争回流失选民，而不是接受总统选举结果已经注定的说法。（[00:11:14](../../sources/public-senat/20260928--6dY-ExLTHs/transcript.md#001114)–[00:15:17](../../sources/public-senat/20260928--6dY-ExLTHs/transcript.md#001517)）
+
+左侧的边界同样没有定论。新当选的 LFI 参议员 Gabriel Amard 把自己的参议院行动同 Jean-Luc Mélenchon 胜选后的制宪进程相连；生态党团主席 Guillaume Gontard 则说，Amard 能否加入本党团尚未事先约定，要由党团集体决定。（[00:27:35](../../sources/public-senat/20260928--6dY-ExLTHs/transcript.md#002735)–[00:29:35](../../sources/public-senat/20260928--6dY-ExLTHs/transcript.md#002935)）
 
 ## 待继续比较
 
