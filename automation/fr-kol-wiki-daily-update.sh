@@ -252,7 +252,7 @@ address_codex_review() {
 process_daily_pr() {
   local pr_url="$1" review_since="$2" review_reaction_endpoint="$3"
   local pr_number review_clean=0 fix_round review_round=0 head_sha head_ref mergeable merge_sha run_id
-  local branch_deleted=0 remote_head
+  local branch_deleted=0 remote_head remote_sha
   local max_fix_rounds="${MAX_REVIEW_FIX_ROUNDS:-8}"
   local review_comment_url review_comment_id
 
@@ -384,7 +384,15 @@ process_daily_pr() {
         branch_deleted=1
         break
       fi
-      git push origin --delete "$head_ref" || true
+      remote_sha="${remote_head%%[[:space:]]*}"
+      if [ "$remote_sha" != "$head_sha" ]; then
+        echo "!! refusing to delete branch advanced after review: $head_ref ($remote_sha)"
+        break
+      fi
+      if git push --force-with-lease="refs/heads/$head_ref:$head_sha" origin --delete "$head_ref"; then
+        branch_deleted=1
+        break
+      fi
     fi
     sleep 5
   done
