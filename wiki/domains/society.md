@@ -16,6 +16,11 @@
 - [医保分工、补充保险与病假成本](../topics/health-insurance-cost-sharing.md)
 - [眼镜、病假、互助保险](../videos/20260924-lci-health-insurance-reform.md)
 
+## 退休与公共服务
+
+- [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
+- [税加了，债也没降：法国该先省钱、减税，还是投资教育？](../videos/20260929-lci-debt-taxes-growth.md)
+
 ## 群体、记忆与暴力
 
 - [“种族灭绝”概念、国际法门槛与追责](../topics/genocide-international-law.md)

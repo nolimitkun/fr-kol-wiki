@@ -13,3 +13,8 @@
 
 - [数学研究如何发现规律：直觉、合作与随机模型](../topics/mathematical-research-and-random-models.md)
 - [Hugo Duminil-Copin：数学发现不是硬算出来的](../videos/20250404-science-etonnante-hugo-duminil-copin.md)（ScienceEtonnante，2025-04-04）
+
+## 教育投入与国家增长
+
+- [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
+- [税加了，债也没降：法国该先省钱、减税，还是投资教育？](../videos/20260929-lci-debt-taxes-growth.md)
