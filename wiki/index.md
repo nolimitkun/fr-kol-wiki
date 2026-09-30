@@ -32,6 +32,7 @@
 - [2027左翼初选：共同政策与联盟断层](topics/2027-left-primary.md)
 - [马克龙任期末：外交权威与国内政治](topics/macron-end-of-term.md)
 - [低成本武器、军工产能与不对称战争](topics/asymmetric-war-and-defense-industry.md)
+- [法国公共债务、税收与增长路径](topics/france-public-debt-and-growth.md)
 
 ## 按人物
 
@@ -89,6 +90,14 @@
 - [Isabelle Lasserre](people/isabelle-lasserre.md)
 - [Thierry Breton](people/thierry-breton.md)
 - [Dan Wang](people/dan-wang.md)
+- [Anne-Laure Delatte](people/anne-laure-delatte.md)
+- [Élisabeth Martichoux](people/elisabeth-martichoux.md)
+- [Pascal Perri](people/pascal-perri.md)
+- [Jean-Marc Daniel](people/jean-marc-daniel.md)
+- [Michel de Rosen](people/michel-de-rosen.md)
+- [Valérie Niquet](people/valerie-niquet.md)
+- [Pierre-Antoine Donnet](people/pierre-antoine-donnet.md)
+- [Marjorie Paillon](people/marjorie-paillon.md)
 
 ## 按机构
 
@@ -102,6 +111,8 @@
 
 ## 按视频
 
+- 2026-09-29 · LCI · [税加了，债也没降：法国该先省钱、减税，还是投资教育？](videos/20260929-lci-debt-taxes-growth.md)
+- 2026-09-29 · Public Sénat · [中美休战只有两个月：大豆、AI与台湾仍在互相卡位](videos/20260929-public-senat-china-us-truce.md)
 - 2026-09-28 · Public Sénat · [RN进参议院之后：谁在守制度，谁在借制度扩张？](videos/20260928-public-senat-counterpower-2027.md)
 - 2026-03-12 · Mardis Grand Continent · [伊朗战争没有重组阵营：各国先算自己的风险账](videos/20260312-le-grand-continent-iran-war-global-reactions.md)
 - 2026-09-27 · Public Sénat · [2026法国参议院改选：格局没翻盘，为什么仍是一次结构性变化？](videos/20260927-public-senat-senatorial-election.md)

@@ -1,6 +1,6 @@
 ---
 title: "燃油安全、海运咽喉与战争外溢"
-updated: 2026-09-29
+updated: 2026-09-30
 ---
 
 # 燃油安全、海运咽喉与战争外溢
@@ -22,6 +22,8 @@ updated: 2026-09-29
 [Thierry Breton 的访谈](../videos/20260422-le-grand-continent-asymmetric-war-thierry-breton.md)增加了基础设施与政治时间两个维度：石化、电力、港口和海水淡化设施一旦进入互相报复的目标清单，海湾安全与全球油价会同时承压；油价、通胀和选举又会把战场压力迅速传回美国与欧洲。（[00:25:08](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#002508)–[00:30:15](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#003015)）
 
 [伊朗战争全球反应圆桌](../videos/20260312-le-grand-continent-iran-war-global-reactions.md)把传导链再向外推了一步：拉美农业国担心化肥和食品价格，南亚国家担心海湾侨民撤离，欧洲则同时盘算能源、难民和乌克兰战场。相关运输占比、人口和战况尚未获一手资料核验。（[00:13:22](../../sources/le-grand-continent/20260312-wIT3jYnijnE/transcript.md#001322)–[00:16:26](../../sources/le-grand-continent/20260312-wIT3jYnijnE/transcript.md#001626)，[00:35:50](../../sources/le-grand-continent/20260312-wIT3jYnijnE/transcript.md#003550)–[00:38:52](../../sources/le-grand-continent/20260312-wIT3jYnijnE/transcript.md#003852)）
+
+[Public Sénat 中美圆桌](../videos/20260929-public-senat-china-us-truce.md)增加两个亚洲视角。一是台湾若遭封锁，中国也可能面对马六甲海峡的反封锁；二是中国虽希望霍尔木兹恢复通行，却未必能让伊朗革命卫队服从。这把“依赖航道”与“能否控制伙伴”区分开来。（[00:19:35](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#001935)–[00:20:36](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#002036)，[00:35:49](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#003549)–[00:40:53](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#004053)）
 
 ## 后续核验与补充
 

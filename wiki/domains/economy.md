@@ -1,6 +1,10 @@
 # 经济
 
 覆盖财政、税收、就业、产业、企业、贸易、住房、物价、养老金与法国在欧元区的经济议题。数字性断言优先以 INSEE、Banque de France 和 Cour des comptes 资料核验。
+## 公共债务、税收与增长
+
+- [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
+- [税加了，债也没降：法国该先省钱、减税，还是投资教育？](../videos/20260929-lci-debt-taxes-growth.md)
 ## 2027 总统选举
 
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
@@ -19,6 +23,7 @@
 - [中美系统性竞争：供应链、规则与安全红线](../topics/china-us-systemic-rivalry.md)
 - [中美较量不只看关税](../videos/20260924-france-culture-china-us-rivalry.md)
 - [中国靠什么跑得快？Dan Wang 谈工业、控制与欧洲的被动](../videos/20260914-thinkerview-dan-wang-china-industry.md)
+- [中美休战只有两个月：大豆、AI与台湾仍在互相卡位](../videos/20260929-public-senat-china-us-truce.md)
 - [Thierry Breton 谈战争的三重不对称](../videos/20260422-le-grand-continent-asymmetric-war-thierry-breton.md)
 
 ## 医保与公共支出
