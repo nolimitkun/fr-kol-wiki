@@ -22,7 +22,7 @@ updated: 2026-09-30
 
 ## 一句话结论
 
-贸易休战延长两个月并不等于和解：北京靠大豆、稀土和制造链争取时间，华盛顿仍握有先进芯片与地区军事布局；AI失控、台湾和海运通道任何一项都可能让礼仪性的“战略稳定”迅速失效。（[00:03:04](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#000304)–[00:05:07](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#000507)，[00:18:33](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#001833)–[00:27:42](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#002742)）
+贸易休战延长两个月并不等于和解：北京正争取时间，并以大豆、稀土为筹码；中国企业还借迁往东南亚的制造链绕开壁垒。华盛顿仍握有先进芯片与地区军事布局；AI失控、台湾和海运通道任何一项都可能让礼仪性的“战略稳定”迅速失效。（[00:03:04](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#000304)–[00:05:07](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#000507)，[00:11:15](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#001115)–[00:12:17](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#001217)，[00:13:18](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#001318)–[00:15:21](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#001521)，[00:17:31](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#001731)–[00:27:42](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#002742)）
 
 ## 摘要
 
