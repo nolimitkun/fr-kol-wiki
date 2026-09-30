@@ -327,7 +327,7 @@ process_daily_pr() {
   fi
 
   head_sha="$(git rev-parse HEAD)"
-  gh pr merge "$pr_number" --merge --match-head-commit "$head_sha"
+  gh pr merge "$pr_number" --merge --delete-branch --match-head-commit "$head_sha"
   merge_sha="$(gh pr view "$pr_number" --json mergeCommit,state --jq 'select(.state == "MERGED") | .mergeCommit.oid')"
   if [ -z "$merge_sha" ]; then
     echo "!! PR merge could not be verified"
