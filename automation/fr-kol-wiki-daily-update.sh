@@ -396,10 +396,17 @@ process_daily_pr() {
     fi
     sleep 5
   done
+  if [ "$branch_deleted" -eq 1 ]; then
+    if ! git switch -q main; then
+      branch_deleted=0
+    elif git show-ref --verify --quiet "refs/heads/$head_ref" && ! git branch -D "$head_ref"; then
+      branch_deleted=0
+    fi
+  fi
   if [ "$branch_deleted" -ne 1 ]; then
     {
-      echo "PR $pr_number was merged and deployed, but its branch could not be deleted: $head_ref"
-      echo "Delete the remote branch, then remove this file to resume daily ingestion."
+      echo "PR $pr_number was merged and deployed, but branch cleanup did not complete: $head_ref"
+      echo "Delete any remaining local or remote branch, then remove this file to resume daily ingestion."
     } >"$BLOCK_MARKER"
     echo "!! merged branch cleanup failed; wrote blocking marker: $BLOCK_MARKER"
     return 1
