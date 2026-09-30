@@ -32,6 +32,6 @@ updated: 2026-09-30
 
 ## 休战延长两个月，暴露了哪些相互依赖？
 
-[Public Sénat 圆桌](../videos/20260929-public-senat-china-us-truce.md)补上国内政治和具体商品。中国可用大豆采购影响美国农村选区，也可借稀土加工集中度施压；美国与盟友则在先进芯片链和西太平洋军事布局上仍有优势。双方都能卡住对方，也都在寻找替代路线。（[00:13:18](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#001318)–[00:20:36](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#002036)）
+[Public Sénat 圆桌](../videos/20260929-public-senat-china-us-truce.md)补上国内政治和具体商品。中国可用大豆采购影响美国农村选区，也可借稀土加工集中度施压；美国与盟友则在先进芯片链和西太平洋军事布局上仍有优势。双方都能卡住对方，也都在寻找替代路线。（[00:13:18](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#001318)–[00:20:36](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#002036)，[00:24:40](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#002440)–[00:25:41](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#002541)，[00:31:45](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#003145)–[00:33:46](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#003346)）
 
 圆桌还把 AI 的双重性讲得很清楚：它既是生产率与军事竞赛工具，也可能造成事故、突破信息控制。台湾则把芯片、第一岛链和美国国内政治连在一起，无法仅按贸易谈判筹码理解。（[00:21:36](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#002136)–[00:34:48](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#003448)）
