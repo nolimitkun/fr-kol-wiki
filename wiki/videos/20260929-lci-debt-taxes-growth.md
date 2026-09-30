@@ -64,7 +64,7 @@ de Rosen 接受学校需要长期投入，却说预算不是唯一问题，学�
 
 | 节目中的说法 | 来源位置 | 待核验重点 |
 |---|---|---|
-| 法国公共债务约 3595.5 亿欧元、占 GDP 119%，下一年或达 121% | 主持人与 Daniel（[00:21:26](../../sources/lci/20260929-Doog3LEKdsI/transcript.md#002126)–[00:23:29](../../sources/lci/20260929-Doog3LEKdsI/transcript.md#002329)） | 统计季度、公共行政口径、预测来源 |
+| 法国公共债务约 3.5955 万亿欧元、占 GDP 119%，下一年或达 121% | 主持人与 Daniel（[00:21:26](../../sources/lci/20260929-Doog3LEKdsI/transcript.md#002126)–[00:23:29](../../sources/lci/20260929-Doog3LEKdsI/transcript.md#002329)） | 统计季度、公共行政口径、预测来源 |
 | 下一年债务利息约 910 亿欧元，节目口述法国利率约 4.77% | 主持人（[00:23:29](../../sources/lci/20260929-Doog3LEKdsI/transcript.md#002329)） | 是平均融资成本、边际发债收益率还是其他指标 |
 | 法国小学和高等教育人均支出比欧洲平均低约 35% | Delatte（[00:24:30](../../sources/lci/20260929-Doog3LEKdsI/transcript.md#002430)，[00:57:18](../../sources/lci/20260929-Doog3LEKdsI/transcript.md#005718)） | Eurostat 分类、购买力平价及教育阶段 |
 | 交通基础设施税税率拟从约 4.6% 改为最高 12%，收入从 6 亿增至 14 亿欧元 | Perri（[00:28:36](../../sources/lci/20260929-Doog3LEKdsI/transcript.md#002836)–[00:30:37](../../sources/lci/20260929-Doog3LEKdsI/transcript.md#003037)） | 预算条文、计税基础及转嫁限制 |

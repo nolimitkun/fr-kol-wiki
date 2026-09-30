@@ -1,5 +1,5 @@
 ---
-title: "中美休战只有两个月：大豆、AI与台湾仍在互相卡位"
+title: "中美休战延长两个月：大豆、AI与台湾仍在互相卡位"
 date: 2026-09-29
 source_language: fr
 status: draft
@@ -12,7 +12,7 @@ viewpoint: [parliamentary-channel-geopolitics-panel]
 updated: 2026-09-30
 ---
 
-# 中美休战只有两个月：大豆、AI与台湾仍在互相卡位
+# 中美休战延长两个月：大豆、AI与台湾仍在互相卡位
 
 - 原视频：[Public Sénat / YouTube](https://www.youtube.com/watch?v=lGHhTItljVo)
 - 原始资料：[法语自动字幕逐字稿](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md)
@@ -22,7 +22,7 @@ updated: 2026-09-30
 
 ## 一句话结论
 
-两个月的贸易休战不是和解：北京靠大豆、稀土和制造链争取时间，华盛顿仍握有先进芯片与地区军事布局；AI失控、台湾和海运通道任何一项都可能让礼仪性的“战略稳定”迅速失效。（[00:03:04](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#000304)–[00:05:07](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#000507)，[00:18:33](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#001833)–[00:27:42](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#002742)）
+贸易休战延长两个月并不等于和解：北京靠大豆、稀土和制造链争取时间，华盛顿仍握有先进芯片与地区军事布局；AI失控、台湾和海运通道任何一项都可能让礼仪性的“战略稳定”迅速失效。（[00:03:04](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#000304)–[00:05:07](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#000507)，[00:18:33](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#001833)–[00:27:42](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#002742)）
 
 ## 摘要
 

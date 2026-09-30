@@ -112,7 +112,7 @@
 ## 按视频
 
 - 2026-09-29 · LCI · [税加了，债也没降：法国该先省钱、减税，还是投资教育？](videos/20260929-lci-debt-taxes-growth.md)
-- 2026-09-29 · Public Sénat · [中美休战只有两个月：大豆、AI与台湾仍在互相卡位](videos/20260929-public-senat-china-us-truce.md)
+- 2026-09-29 · Public Sénat · [中美休战延长两个月：大豆、AI与台湾仍在互相卡位](videos/20260929-public-senat-china-us-truce.md)
 - 2026-09-28 · Public Sénat · [RN进参议院之后：谁在守制度，谁在借制度扩张？](videos/20260928-public-senat-counterpower-2027.md)
 - 2026-03-12 · Mardis Grand Continent · [伊朗战争没有重组阵营：各国先算自己的风险账](videos/20260312-le-grand-continent-iran-war-global-reactions.md)
 - 2026-09-27 · Public Sénat · [2026法国参议院改选：格局没翻盘，为什么仍是一次结构性变化？](videos/20260927-public-senat-senatorial-election.md)
