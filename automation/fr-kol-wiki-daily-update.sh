@@ -251,7 +251,8 @@ address_codex_review() {
 
 process_daily_pr() {
   local pr_url="$1" review_since="$2" review_reaction_endpoint="$3"
-  local pr_number review_clean=0 fix_round review_round=0 head_sha mergeable merge_sha run_id
+  local pr_number review_clean=0 fix_round review_round=0 head_sha head_ref mergeable merge_sha run_id
+  local branch_deleted=0 remote_head
   local max_fix_rounds="${MAX_REVIEW_FIX_ROUNDS:-8}"
   local review_comment_url review_comment_id
 
@@ -327,7 +328,12 @@ process_daily_pr() {
   fi
 
   head_sha="$(git rev-parse HEAD)"
-  gh pr merge "$pr_number" --merge --delete-branch --match-head-commit "$head_sha"
+  head_ref="$(gh pr view "$pr_number" --json headRefName --jq '.headRefName')"
+  if [[ ! "$head_ref" =~ ^automation/daily-ingestion-[0-9]{8}-[0-9]{6}$ ]]; then
+    echo "!! refusing to delete unexpected PR branch: $head_ref"
+    return 1
+  fi
+  gh pr merge "$pr_number" --merge --match-head-commit "$head_sha"
   merge_sha="$(gh pr view "$pr_number" --json mergeCommit,state --jq 'select(.state == "MERGED") | .mergeCommit.oid')"
   if [ -z "$merge_sha" ]; then
     echo "!! PR merge could not be verified"
@@ -369,6 +375,28 @@ process_daily_pr() {
     return 1
   fi
   echo "Pages deployment passed: https://github.com/nolimitkun/fr-kol-wiki/actions/runs/$run_id"
+
+  # Keep deployment verification independent from branch cleanup: a merge may
+  # succeed even when a later remote deletion encounters a transient failure.
+  for _ in $(seq 1 5); do
+    if remote_head="$(git ls-remote --heads origin "refs/heads/$head_ref")"; then
+      if [ -z "$remote_head" ]; then
+        branch_deleted=1
+        break
+      fi
+      git push origin --delete "$head_ref" || true
+    fi
+    sleep 5
+  done
+  if [ "$branch_deleted" -ne 1 ]; then
+    {
+      echo "PR $pr_number was merged and deployed, but its branch could not be deleted: $head_ref"
+      echo "Delete the remote branch, then remove this file to resume daily ingestion."
+    } >"$BLOCK_MARKER"
+    echo "!! merged branch cleanup failed; wrote blocking marker: $BLOCK_MARKER"
+    return 1
+  fi
+  echo "Deleted merged branch: $head_ref"
 }
 
 if [ "${FORCE_RUN:-0}" != "1" ] && [ -n "$open_daily_pr" ]; then
