@@ -13,6 +13,8 @@
 
 ## 产业、贸易与能源价格
 
+- [战争生态学：欧洲转型的安全、产业与公平](../topics/war-ecology-and-european-transition.md)
+- [霍尔木兹把欧洲堵在哪？欧洲产业、财政与货币政策的缺口](../videos/20260408-le-grand-continent-war-ecology-europe.md)
 - [伊朗战争的全球反应：谨慎、碎片化与外溢](../topics/iran-war-global-reactions.md)
 - [伊朗战争没有重组阵营：各国先算自己的风险账](../videos/20260312-le-grand-continent-iran-war-global-reactions.md)
 - [欧洲如何应对中国的产业与技术力量](../topics/europe-china-economic-security.md)
