@@ -8,6 +8,8 @@
 
 ## 转型与供应安全
 
+- [战争生态学：欧洲转型的安全、产业与公平](../topics/war-ecology-and-european-transition.md)
+- [霍尔木兹把欧洲堵在哪？从能源冲击到“战争生态学”](../videos/20260408-le-grand-continent-war-ecology-europe.md)
 - [欧洲如何应对中国的产业与技术力量](../topics/europe-china-economic-security.md)
 - [面对中国经济，欧洲不能只靠加关税追着跑](../videos/20260610-le-grand-continent-chinese-economy.md)
 - [燃油安全、海运咽喉与战争外溢](../topics/fuel-security-and-geopolitics.md)

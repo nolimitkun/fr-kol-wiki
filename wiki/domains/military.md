@@ -9,6 +9,8 @@
 
 ## 战争与能源供应链
 
+- [战争生态学：欧洲转型的安全、产业与公平](../topics/war-ecology-and-european-transition.md)
+- [霍尔木兹把欧洲堵在哪？从能源冲击到“战争生态学”](../videos/20260408-le-grand-continent-war-ecology-europe.md)
 - [低成本武器、军工产能与不对称战争](../topics/asymmetric-war-and-defense-industry.md)
 - [Thierry Breton 谈战争的三重不对称](../videos/20260422-le-grand-continent-asymmetric-war-thierry-breton.md)
 - [燃油安全、海运咽喉与战争外溢](../topics/fuel-security-and-geopolitics.md)

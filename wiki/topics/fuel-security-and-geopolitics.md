@@ -1,6 +1,6 @@
 ---
 title: "燃油安全、海运咽喉与战争外溢"
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 
 # 燃油安全、海运咽喉与战争外溢
@@ -18,6 +18,8 @@ updated: 2026-09-30
 [France Culture 中美圆桌](../videos/20260924-france-culture-china-us-rivalry.md)从中国侧补充了同一危机：供应来源分散、电气化和制造能力提供缓冲，但进口依赖、全球需求放缓及对伊朗和俄罗斯的政治支持也会产生长期成本。（[00:16:13](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#001613)–[00:24:24](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#002424)）
 
 [Le Grand Continent 全球卫生圆桌](../videos/20260415-le-grand-continent-global-health.md)说明了能源冲击怎样越过行业边界：油价和运费上涨会先压迫脆弱的卫生系统，还会经化肥、食品、通胀、利率和主权债务继续传导。（[00:10:18](../../sources/le-grand-continent/20260415-XaxiIR6bga0/transcript.md#001018)–[00:11:19](../../sources/le-grand-continent/20260415-XaxiIR6bga0/transcript.md#001119)，[00:34:40](../../sources/le-grand-continent/20260415-XaxiIR6bga0/transcript.md#003440)–[00:36:42](../../sources/le-grand-continent/20260415-XaxiIR6bga0/transcript.md#003642)）
+
+[“战争生态学”圆桌](../videos/20260408-le-grand-continent-war-ecology-europe.md)把供应冲击推到欧洲政治层面：能源依赖不只是价格风险，也是工业和战略弱点；短期价格保护的速度又远快于供暖、交通和生产体系转型，危机意识因此未必能自动变成支持。（[00:18:50](../../sources/le-grand-continent/20260408-kimmE8O5fBA/transcript.md#001850)–[00:22:53](../../sources/le-grand-continent/20260408-kimmE8O5fBA/transcript.md#002253)）
 
 [Thierry Breton 的访谈](../videos/20260422-le-grand-continent-asymmetric-war-thierry-breton.md)增加了基础设施与政治时间两个维度：石化、电力、港口和海水淡化设施一旦进入互相报复的目标清单，海湾安全与全球油价会同时承压；油价、通胀和选举又会把战场压力迅速传回美国与欧洲。（[00:25:08](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#002508)–[00:30:15](../../sources/le-grand-continent/20260422-8vjpelNsos8/transcript.md#003015)）
 
