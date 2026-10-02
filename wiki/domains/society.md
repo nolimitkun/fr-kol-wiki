@@ -4,6 +4,8 @@
 ## 家庭与教育
 
 - [家长参与、学校责任与教育不平等](../topics/parental-involvement-in-education.md)
+- [课外托管、儿童保护与责任连续性](../topics/periscolaire-child-protection.md)
+- [孩子进了校门，谁负责到底？](../videos/20261001-public-senat-periscolaire-violence.md)
 
 ## 生活成本与交通
 

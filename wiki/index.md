@@ -18,6 +18,7 @@
 
 ## 按专题
 
+- [课外托管、儿童保护与责任连续性](topics/periscolaire-child-protection.md)
 - [战争生态学：欧洲转型的安全、产业与公平](topics/war-ecology-and-european-transition.md)
 - [伊朗战争的全球反应：谨慎、碎片化与外溢](topics/iran-war-global-reactions.md)
 - [2026参议院改选：地方网络进入国家政治](topics/2026-senate-election.md)
@@ -37,6 +38,12 @@
 
 ## 按人物
 
+- [Édouard Geffray](people/edouard-geffray.md)
+- [Agnès Evren](people/agnes-evren.md)
+- [Catherine Belrhiti](people/catherine-belrhiti.md)
+- [Jean-Gérard Paumier](people/jean-gerard-paumier.md)
+- [Adel Ziane](people/adel-ziane.md)
+- [Gérald Darmanin](people/gerald-darmanin.md)
 - [Pierre Charbonnier](people/pierre-charbonnier.md)
 - [Amy Dahan](people/amy-dahan.md)
 - [Romain Svartzman](people/romain-swartzman.md)
@@ -115,6 +122,7 @@
 
 ## 按视频
 
+- 2026-10-01 · Public Sénat · [孩子进了校门，谁负责到底？法国课外托管暴力调查追问责任断层](videos/20261001-public-senat-periscolaire-violence.md)
 - 2026-09-29 · LCI · [税加了，债也没降：法国该先省钱、减税，还是投资教育？](videos/20260929-lci-debt-taxes-growth.md)
 - 2026-09-29 · Public Sénat · [中美休战延长两个月：大豆、AI与台湾仍在互相卡位](videos/20260929-public-senat-china-us-truce.md)
 - 2026-09-28 · Public Sénat · [RN进参议院之后：谁在守制度，谁在借制度扩张？](videos/20260928-public-senat-counterpower-2027.md)
