@@ -26,7 +26,7 @@ updated: 2026-10-03
 
 ## 摘要
 
-这场对话从高中封校与示威出发，却没有停在口号上。Antoine 和 Livie 把压力拆成一天：早上 8 点进校，下午 18 点40分离开，中间有长时间空档，回家还要做约两小时作业；从高一开始，持续性考核又让每次失误都像在给 Parcoursup 留案底。Livie 从小学缺教师讲起，也直说家庭并不站在同一条起跑线——有些父母不懂法语，学校却假装所有学生在家获得同样帮助。数学家 Laure Saint-Raymond 沿着这条线反问学校的节奏：人学走路本来就有快慢，反复催一个六个月大的孩子也不会让他立刻会走。她要减少一刀切的时间约束，用导师、小组、项目和课内文体活动给不同学生真正的选择。节目最后转向暴力。学生不接受只谈学生一方的暴力，同时明确主张和平动员；他们最尖锐的控诉不是“没人同意”，而是基本条件本不该等到堵门后才进入对话。（[00:20:23](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#002023)–[00:23:26](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#002326)，[00:24:28](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#002428)–[00:29:35](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#002935)，[00:30:36](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#003036)–[00:34:36](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#003436)）
+这场对话从高中封校与示威出发，却没有停在口号上。Antoine 和 Livie 把压力拆成一天：早上 8 点进校，下午 18 点40分离开，中间有长时间空档，回家还要做约两小时作业；从高二开始，持续性考核又让每次失误都像在给 Parcoursup 留案底。Livie 从小学缺教师讲起，也直说家庭并不站在同一条起跑线——有些父母不懂法语，学校却假装所有学生在家获得同样帮助。数学家 Laure Saint-Raymond 沿着这条线反问学校的节奏：人学走路本来就有快慢，反复催一个六个月大的孩子也不会让他立刻会走。她要减少一刀切的时间约束，用导师、小组、项目和课内文体活动给不同学生真正的选择。节目最后转向暴力。学生不接受只谈学生一方的暴力，同时明确主张和平动员；他们最尖锐的控诉不是“没人同意”，而是基本条件本不该等到堵门后才进入对话。（[00:20:23](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#002023)–[00:23:26](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#002326)，[00:24:28](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#002428)–[00:29:35](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#002935)，[00:30:36](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#003036)–[00:34:36](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#003436)）
 
 ## 学校说人人平等，回家以后却完全不同
 
@@ -36,7 +36,7 @@ Saint-Raymond 把这个矛盾说成共和国学校内部的悖论：它以平等
 
 ## Parcoursup 把学习变成“不准出错”
 
-Antoine 觉得改革后的升学制度把全国学生放进同一场竞争，却没有补上地区和学校之间的资源落差。Livie 的说法更直白：进入高一后，每门课的持续性考核都可能影响档案，课堂从“为了好奇而学”变成“为了排名而学”；一旦不懂某个概念，学生会觉得再也没有追回来的空间。（[00:11:14](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#001114)–[00:14:17](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#001417)）
+Antoine 觉得改革后的升学制度把全国学生放进同一场竞争，却没有补上地区和学校之间的资源落差。Livie 的说法更直白：进入高二后，每门课的持续性考核都可能影响档案，课堂从“为了好奇而学”变成“为了排名而学”；一旦不懂某个概念，学生会觉得再也没有追回来的空间。（[00:11:14](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#001114)–[00:14:17](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#001417)）
 
 Saint-Raymond 不接受“平等会压低优秀”的二选一。她的意思是，平等应保证每个人都有机会尝试、辨别和找到适合自己的方向，不是要求所有人做同一件事。她也把学习动力放在分数前面：数字时代只说“必须学”说服不了学生，学校若持续挤压好奇心，平均成绩和拔尖表现都会失去根。（[00:15:18](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#001518)–[00:18:22](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#001822)）
 
