@@ -1,6 +1,6 @@
 ---
 title: "France Culture"
-updated: 2026-09-26
+updated: 2026-10-03
 ---
 
 # France Culture
@@ -11,3 +11,4 @@ updated: 2026-09-26
 
 - [中美较量不只看关税：时间、能源、芯片和规则都在同一张桌上](../videos/20260924-france-culture-china-us-rivalry.md)（地缘政治圆桌，2026-09-24）
 - [马克龙还能左右法国政治吗？任期末的外交牌与国内账](../videos/20260925-france-culture-macron-end-of-term.md)（政治分析，2026-09-25）
+- [从缺课到18点40分：法国高中生为什么说学校让人喘不过气？](../videos/20261002-france-culture-lycee-pressure.md)（高中生与学者对话，2026-10-02）
