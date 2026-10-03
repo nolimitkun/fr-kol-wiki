@@ -2,6 +2,11 @@
 
 覆盖法国宪政与第五共和国、政党与选举、公共政策、地方治理、欧盟政治及民主制度。具体争议拆分为 `topics/` 专题页，并列不同立场与时间线。
 
+## 社会运动与国家回应
+
+- [2026年高中生动员：教育诉求、暴力与国家回应](../topics/2026-high-school-mobilization.md)
+- [高中生动员变成治安危机？LCI争论暴力、诉求与国家失灵](../videos/20261002-lci-high-school-violence.md)
+
 ## 议会与地方政治
 
 - [课外托管、儿童保护与责任连续性](../topics/periscolaire-child-protection.md)

@@ -18,6 +18,7 @@
 
 ## 按专题
 
+- [2026年高中生动员：教育诉求、暴力与国家回应](topics/2026-high-school-mobilization.md)
 - [课外托管、儿童保护与责任连续性](topics/periscolaire-child-protection.md)
 - [战争生态学：欧洲转型的安全、产业与公平](topics/war-ecology-and-european-transition.md)
 - [伊朗战争的全球反应：谨慎、碎片化与外溢](topics/iran-war-global-reactions.md)
@@ -38,6 +39,10 @@
 
 ## 按人物
 
+- [Laure Saint-Raymond](people/laure-saint-raymond.md)
+- [Guillaume Farde](people/guillaume-farde.md)
+- [Émilie Zapalski](people/emilie-zapalski.md)
+- [Carole Zerbib](people/carole-zerbib.md)
 - [Édouard Geffray](people/edouard-geffray.md)
 - [Agnès Evren](people/agnes-evren.md)
 - [Catherine Belrhiti](people/catherine-belrhiti.md)
@@ -122,6 +127,8 @@
 
 ## 按视频
 
+- 2026-10-02 · France Culture · [从缺课到18点40分：法国高中生为什么说学校让人喘不过气？](videos/20261002-france-culture-lycee-pressure.md)
+- 2026-10-02 · LCI · [高中生动员变成治安危机？LCI争论暴力、诉求与国家失灵](videos/20261002-lci-high-school-violence.md)
 - 2026-10-01 · Public Sénat · [孩子进了校门，谁负责到底？法国课外托管暴力调查追问责任断层](videos/20261001-public-senat-periscolaire-violence.md)
 - 2026-09-29 · LCI · [税加了，债也没降：法国该先省钱、减税，还是投资教育？](videos/20260929-lci-debt-taxes-growth.md)
 - 2026-09-29 · Public Sénat · [中美休战延长两个月：大豆、AI与台湾仍在互相卡位](videos/20260929-public-senat-china-us-truce.md)

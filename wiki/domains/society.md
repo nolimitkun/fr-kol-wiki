@@ -1,6 +1,13 @@
 # 社会与民生
 
 覆盖收入与生活成本、住房、交通、治安、移民与融合、人口、家庭、社会保障、城乡与海外省议题。
+
+## 青年动员与公共秩序
+
+- [2026年高中生动员：教育诉求、暴力与国家回应](../topics/2026-high-school-mobilization.md)
+- [从缺课到18点40分](../videos/20261002-france-culture-lycee-pressure.md)
+- [高中生动员变成治安危机？](../videos/20261002-lci-high-school-violence.md)
+
 ## 家庭与教育
 
 - [家长参与、学校责任与教育不平等](../topics/parental-involvement-in-education.md)
