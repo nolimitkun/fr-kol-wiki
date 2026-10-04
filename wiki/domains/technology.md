@@ -4,6 +4,8 @@
 ## 产业与人工智能
 
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
+- [俄乌基础设施战与欧洲安全](../topics/russia-ukraine-infrastructure-and-european-security.md)
+- [无人机、人工智能与未来战争](../videos/20261003-lci-russia-ukraine-escalation.md)
 
 ## 技术主权与产业链
 

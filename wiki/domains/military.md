@@ -2,6 +2,11 @@
 
 覆盖法国国防战略、核威慑、军工、海外部署、欧洲安全、外交政策与战略自主。战争相关材料严格区分当事人观点、公开情报和已核验事实。
 
+## 俄乌战争与欧洲安全
+
+- [俄乌基础设施战与欧洲安全](../topics/russia-ukraine-infrastructure-and-european-security.md)
+- [炸桥、断电、核威胁：俄罗斯施压升级，欧洲该把哪些话当真？](../videos/20261003-lci-russia-ukraine-escalation.md)
+
 ## 伊朗战争与全球反应
 
 - [伊朗战争的全球反应：谨慎、碎片化与外溢](../topics/iran-war-global-reactions.md)

@@ -1,6 +1,6 @@
 ---
 title: "LCI"
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # LCI
@@ -15,3 +15,5 @@ updated: 2026-10-03
 - [眼镜、病假、互助保险：法国医保省钱，究竟把账单推给谁？](../videos/20260924-lci-health-insurance-reform.md)（医疗政策圆桌，2026-09-24）
 - [左翼初选首辩：五个人谈团结，最后却在是否联合不屈法国上吵开了](../videos/20260923-lci-left-primary-debate.md)（2027年左翼初选辩论，2026-09-23）
 - [高中生动员变成治安危机？LCI争论暴力、诉求与国家失灵](../videos/20261002-lci-high-school-violence.md)（治安与政治圆桌，2026-10-02）
+- [先恢复秩序，还是先回应学生？](../videos/20261002-lci-high-school-political-debate.md)（三党议员教育与治安辩论，2026-10-02）
+- [炸桥、断电、核威胁：俄罗斯施压升级，欧洲该把哪些话当真？](../videos/20261003-lci-russia-ukraine-escalation.md)（俄乌战争与欧洲安全专题，2026-10-03）
