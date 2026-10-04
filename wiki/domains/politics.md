@@ -6,6 +6,7 @@
 
 - [2026年高中生动员：教育诉求、暴力与国家回应](../topics/2026-high-school-mobilization.md)
 - [高中生动员变成治安危机？LCI争论暴力、诉求与国家失灵](../videos/20261002-lci-high-school-violence.md)
+- [先恢复秩序，还是先回应学生？三名议员把高中危机吵成责任之争](../videos/20261002-lci-high-school-political-debate.md)
 
 ## 议会与地方政治
 
@@ -43,6 +44,8 @@
 - [中美休战延长两个月：大豆、AI与台湾仍在互相卡位](../videos/20260929-public-senat-china-us-truce.md)
 - [低成本武器、军工产能与不对称战争](../topics/asymmetric-war-and-defense-industry.md)
 - [Thierry Breton 谈战争的三重不对称](../videos/20260422-le-grand-continent-asymmetric-war-thierry-breton.md)
+- [俄乌基础设施战与欧洲安全](../topics/russia-ukraine-infrastructure-and-european-security.md)
+- [炸桥、断电、核威胁：俄罗斯施压升级，欧洲该把哪些话当真？](../videos/20261003-lci-russia-ukraine-escalation.md)
 
 ## 社会保障政策
 

@@ -1,6 +1,6 @@
 # 2026年高中生动员：教育诉求、暴力与国家回应
 
-本专题并列两种很不一样的镜头。France Culture 让高中生从缺教师、家庭差异、Parcoursup 和碎片化课表讲起；LCI 从袭警和纵火画面进入，讨论外来破坏者、国家能力、家长责任与政治组织。两者互相补足，也互相纠偏：只听学生经验会漏掉现场安全，只看暴力画面则会让长期教育问题从画面外消失。
+本专题并列三种很不一样的镜头。France Culture 让高中生从缺教师、家庭差异、Parcoursup 和碎片化课表讲起；LCI 的评论圆桌讨论外来破坏者、国家能力与政治组织，议员圆桌则把同一危机变成执政党、RN 与 LFI 的责任之争。三者互相补足，也互相纠偏：只听学生经验会漏掉现场安全，只看暴力画面则会让长期教育问题从画面外消失。
 
 ## 共识：长期问题先于暴力爆发
 
@@ -18,6 +18,12 @@ Laure Saint-Raymond 认为组织改革与增加投入必须同时发生，并明
 
 LCI 后半场集中追问 LFI。节目援引的情报材料据称记录了议员和极左组织参与动员，但 Guillaume Farde 明确划线：没有材料证明 LFI 指挥到场破坏者。支持学生动员、发表可能激化对立的言论、组织具体违法行为，需要三套不同证据。Dominique Reynié 关于“起义策略”的说法应作为其政治判断阅读。（[LCI 视频页](../videos/20261002-lci-high-school-violence.md)，[00:52:00](../../sources/lci/20261002-O6my7utFeUc/transcript.md#005200)–[01:00:08](../../sources/lci/20261002-O6my7utFeUc/transcript.md#010008)）
 
+同日另一场 LCI 圆桌把这条线摆到台前。Priscilla Thévenot 说 LFI 到场是在煽火，Jean-Philippe Tanguy 认为该党想制造持续动员却控制不了暴力；Manuel Bompard 则承认本党到校门口，但把它解释成倾听和建立政治出口。节目没有给出组织具体违法行为的证据，因此三人的说法都应按党派归责阅读。（[议员圆桌视频页](../videos/20261002-lci-high-school-political-debate.md)，[00:13:18](../../sources/lci/20261002-zZvdogH_fUM/transcript.md#001318)–[00:22:27](../../sources/lci/20261002-zZvdogH_fUM/transcript.md#002227)）
+
+## 分歧四：让家庭赔偿，是责任还是连坐？
+
+Tanguy 和 Thévenot 支持追究未成年人父母的赔偿责任，后者直接从母亲身份说“孩子闯祸，我就应负责”。Bompard 反驳说，这会把一个孩子的违法成本压到贫困家庭及其他孩子身上。三方又把民事责任、损害赔偿与削减社会福利混在一起；现行法律和执行条件需要官方文本另行核验。（[议员圆桌视频页](../videos/20261002-lci-high-school-political-debate.md)，[00:40:41](../../sources/lci/20261002-zZvdogH_fUM/transcript.md#004041)–[00:44:46](../../sources/lci/20261002-zZvdogH_fUM/transcript.md#004446)）
+
 ## 仍待核验
 
 - 动员、封校、伤员、拘留和财产损失的官方逐日数据；
@@ -30,3 +36,4 @@ LCI 后半场集中追问 LFI。节目援引的情报材料据称记录了议员
 
 - [从缺课到18点40分：法国高中生为什么说学校让人喘不过气？](../videos/20261002-france-culture-lycee-pressure.md)（France Culture，2026-10-02）
 - [高中生动员变成治安危机？LCI争论暴力、诉求与国家失灵](../videos/20261002-lci-high-school-violence.md)（LCI，2026-10-02）
+- [先恢复秩序，还是先回应学生？三名议员把高中危机吵成责任之争](../videos/20261002-lci-high-school-political-debate.md)（LCI，2026-10-02）
