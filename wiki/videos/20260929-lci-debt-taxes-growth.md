@@ -6,7 +6,7 @@ status: draft
 channel: lci
 people: [anne-laure-delatte, elisabeth-martichoux, pascal-perri, jean-marc-daniel, michel-de-rosen]
 organizations: [lci]
-domains: [economy, politics, education, society]
+domains: [economy, finance, politics, education, society]
 topics: [france-public-debt-and-growth]
 viewpoint: [commercial-news-economic-policy-panel]
 updated: 2026-09-30

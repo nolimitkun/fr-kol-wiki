@@ -6,7 +6,7 @@ status: draft
 channel: lci
 people: [olivier-faure, raphael-glucksmann, jerome-guedj, emmanuel-maurel, segolene-royal]
 organizations: [lci]
-domains: [politics, economy, military, environment, society, health]
+domains: [politics, economy, real-estate, military, environment, society, health]
 topics: [2027-left-primary, 2027-presidential-economic-policy, ukraine-war, israel-palestine]
 viewpoint: [left-primary-debate, multi-candidate-election-debate]
 updated: 2026-09-26

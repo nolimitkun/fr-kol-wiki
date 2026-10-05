@@ -6,7 +6,7 @@ status: draft
 channel: lci
 people: [amelie-carrouer, catherine-andre, nicolas-bouzou, frederic-bizard, guillaume-roquette, julien-arnaud, dominique-reynie]
 organizations: [lci, medef]
-domains: [health, economy, society, politics]
+domains: [health, insurance, economy, society, politics]
 topics: [health-insurance-cost-sharing]
 viewpoint: [commercial-news-health-policy-panel]
 updated: 2026-09-25
