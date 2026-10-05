@@ -8,6 +8,7 @@
 - [从缺课到18点40分：法国高中生为什么说学校让人喘不过气？](../videos/20261002-france-culture-lycee-pressure.md)（France Culture，2026-10-02）
 - [高中生动员变成治安危机？](../videos/20261002-lci-high-school-violence.md)（LCI，2026-10-02）
 - [先恢复秩序，还是先回应学生？](../videos/20261002-lci-high-school-political-debate.md)（LCI，2026-10-02）
+- [校门口要钱，债市却在催账](../videos/20261004-lci-lycee-debt-government-pressure.md)（LCI，2026-10-04）
 
 ## 儿童保护与课外托管
 

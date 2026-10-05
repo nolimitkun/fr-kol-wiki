@@ -1,6 +1,6 @@
 ---
 title: "Public Sénat"
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # Public Sénat
@@ -9,6 +9,7 @@ updated: 2026-10-02
 
 ## 已收录
 
+- [谁杀死了法国工业？一部纪录片追查半世纪的共同责任](../videos/20261003-public-senat-french-deindustrialization.md)（历史经济纪录片，2026-10-03）
 - [孩子进了校门，谁负责到底？法国课外托管暴力调查追问责任断层](../videos/20261001-public-senat-periscolaire-violence.md)（参议院调查听证，2026-10-01）
 - [中美休战延长两个月：大豆、AI与台湾仍在互相卡位](../videos/20260929-public-senat-china-us-truce.md)（国际关系圆桌，2026-09-29）
 - [RN进参议院之后：谁在守制度，谁在借制度扩张？](../videos/20260928-public-senat-counterpower-2027.md)（2026-09-28）

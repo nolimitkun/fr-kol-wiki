@@ -1,6 +1,6 @@
 ---
 title: "法国公共债务、税收与增长路径"
-updated: 2026-09-30
+updated: 2026-10-05
 ---
 
 # 法国公共债务、税收与增长路径
@@ -20,3 +20,9 @@ Michel de Rosen 的因果链相反：企业拿到太多补贴，也承担太多�
 - Conseil d'orientation des retraites 的退休生活水平预测；
 - 企业减税、补贴与投资效果的官方评估；
 - 不同收入和年龄群体承担预算修复成本的分布分析。
+
+## 第二场争论：是缺钱，还是有钱却没有可信计划？
+
+[10月4日 LCI 圆桌](../videos/20261004-lci-lycee-debt-government-pressure.md)把教育危机直接接到债务市场。Philippe Dessertine 说，所谓四百三十亿欧元努力只是减慢支出增长，利息上升又会让债务自行加速。他不赞成直接类比希腊，理由是法国仍有大量储蓄；真正需要的是把资金从“旧经济”导向创造新价值的投资。（[00:35:43](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#003543)–[00:36:43](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#003643)，[00:45:51](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#004551)–[00:48:54](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#004854)）
+
+Christian Saint-Étienne 把问题说得更政治化：法德利差扩大不是单纯的全球利率变化，而是市场不再相信法国执政者会控制支出。他要求延后退休并禁止社保赤字，却允许国家为投资借款。这组主张把“所有赤字都一样坏”的口号拆开，但其数据和市场因果仍待官方资料核验。（[00:36:43](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#003643)–[00:39:44](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#003944)，[00:48:54](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#004854)–[00:50:57](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#005057)）

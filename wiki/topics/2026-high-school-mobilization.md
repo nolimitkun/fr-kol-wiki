@@ -2,6 +2,12 @@
 
 本专题并列三种很不一样的镜头。France Culture 让高中生从缺教师、家庭差异、Parcoursup 和碎片化课表讲起；LCI 的评论圆桌讨论外来破坏者、国家能力与政治组织，议员圆桌则把同一危机变成执政党、RN 与 LFI 的责任之争。三者互相补足，也互相纠偏：只听学生经验会漏掉现场安全，只看暴力画面则会让长期教育问题从画面外消失。
 
+## 10月4日：治安答案仍绕不开教育预算
+
+[LCI 后续圆桌](../videos/20261004-lci-lycee-debt-government-pressure.md)把冲突带到立法与财政层面。Carole Zerbib 既描述教师、校长遭攻击和社交平台的暴力竞赛，也把学生诉求分成校舍、食堂、厕所、时间表等地方问题，以及缺教师和制度安排等国家问题。（[00:05:10](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#000510)–[00:12:19](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#001219)，[00:31:38](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#003138)–[00:33:40](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#003340)）
+
+Philippe Guibert 对反破坏法案的群体连带责任提出异议，同时说政府仍需从教育预算、地区校舍责任和学校作息改革给出政治回应。节目由此暴露出核心矛盾：惩罚能处理具体违法，却不能自动恢复学生与学校之间的谈判。（[00:12:19](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#001219)–[00:17:27](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#001727)，[00:28:35](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#002835)–[00:31:38](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#003138)）
+
 ## 共识：长期问题先于暴力爆发
 
 两档节目都承认，教师缺席、校舍、医护与心理支持并非动员后临时拼出的口号。France Culture 的学生把这些问题追溯到小学和初中，并说明资源差距如何进入升学竞争；LCI 的学生组织与评论员也承认，部长在局势升级后才正式接见代表。（[France Culture 视频页](../videos/20261002-france-culture-lycee-pressure.md)，[00:08:08](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#000808)–[00:14:17](../../sources/france-culture/20261002-b-IoERTYV38/transcript.md#001417)；[LCI 视频页](../videos/20261002-lci-high-school-violence.md)，[00:06:13](../../sources/lci/20261002-O6my7utFeUc/transcript.md#000613)–[00:09:17](../../sources/lci/20261002-O6my7utFeUc/transcript.md#000917)）
