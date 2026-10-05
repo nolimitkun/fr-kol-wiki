@@ -9,6 +9,8 @@
 
 ## 技术主权与产业链
 
+- [法国去工业化：能源、金融化与全球竞争](../topics/french-deindustrialization.md)
+- [谁杀死了法国工业？生产、研发与技术能力为何一起外流](../videos/20261003-public-senat-french-deindustrialization.md)
 - [欧洲如何应对中国的产业与技术力量](../topics/europe-china-economic-security.md)
 - [面对中国经济，欧洲不能只靠加关税追着跑](../videos/20260610-le-grand-continent-chinese-economy.md)
 - [中美系统性竞争：供应链、规则与安全红线](../topics/china-us-systemic-rivalry.md)

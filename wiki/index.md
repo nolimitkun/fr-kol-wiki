@@ -22,6 +22,7 @@
 
 ## 按专题
 
+- [法国去工业化：能源、金融化与全球竞争](topics/french-deindustrialization.md)
 - [俄乌基础设施战与欧洲安全](topics/russia-ukraine-infrastructure-and-european-security.md)
 - [2026年高中生动员：教育诉求、暴力与国家回应](topics/2026-high-school-mobilization.md)
 - [课外托管、儿童保护与责任连续性](topics/periscolaire-child-protection.md)
@@ -44,6 +45,18 @@
 
 ## 按人物
 
+- [Arlette Chabot](people/arlette-chabot.md)
+- [Philippe Guibert](people/philippe-guibert.md)
+- [Philippe Dessertine](people/philippe-dessertine.md)
+- [Christian Saint-Étienne](people/christian-saint-etienne.md)
+- [Jérôme Fourquet](people/jerome-fourquet.md)
+- [Pascal Lamy](people/pascal-lamy.md)
+- [Louis Gallois](people/louis-gallois.md)
+- [Marion Fontaine](people/marion-fontaine.md)
+- [Aurore Lalucq](people/aurore-lalucq.md)
+- [Nicolas Dufourcq](people/nicolas-dufourcq.md)
+- [Fabien Gâche](people/fabien-gache.md)
+- [Arnaud Montebourg](people/arnaud-montebourg.md)
 - [Priscilla Thévenot](people/priscilla-thevenot.md)
 - [Jean-Philippe Tanguy](people/jean-philippe-tanguy.md)
 - [Manuel Bompard](people/manuel-bompard.md)
@@ -137,6 +150,8 @@
 
 ## 按视频
 
+- 2026-10-04 · LCI · [校门口要钱，债市却在催账：法国政府怎样同时面对高中危机与财政失信？](videos/20261004-lci-lycee-debt-government-pressure.md)
+- 2026-10-03 · Public Sénat · [谁杀死了法国工业？一部纪录片追查半世纪的共同责任](videos/20261003-public-senat-french-deindustrialization.md)
 - 2026-10-03 · LCI · [炸桥、断电、核威胁：俄罗斯施压升级，欧洲该把哪些话当真？](videos/20261003-lci-russia-ukraine-escalation.md)
 - 2026-10-02 · LCI · [先恢复秩序，还是先回应学生？三名议员把高中危机吵成责任之争](videos/20261002-lci-high-school-political-debate.md)
 - 2026-10-02 · France Culture · [从缺课到18点40分：法国高中生为什么说学校让人喘不过气？](videos/20261002-france-culture-lycee-pressure.md)

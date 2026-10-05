@@ -6,6 +6,8 @@
 
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
 - [税加了，债也没降：法国该先省钱、减税，还是投资教育？](../videos/20260929-lci-debt-taxes-growth.md)
+- [校门口要钱，债市却在催账](../videos/20261004-lci-lycee-debt-government-pressure.md)
+- [谁杀死了法国工业？股东回报、企业出售与长期投资](../videos/20261003-public-senat-french-deindustrialization.md)
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
 - [2027大选经济首辩：七个人都说要救法国，账却完全不是一套](../videos/20260827-lci-medef-2027-economic-debate.md)
 

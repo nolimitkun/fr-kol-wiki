@@ -8,6 +8,11 @@
 - [从缺课到18点40分](../videos/20261002-france-culture-lycee-pressure.md)
 - [高中生动员变成治安危机？](../videos/20261002-lci-high-school-violence.md)
 - [先恢复秩序，还是先回应学生？](../videos/20261002-lci-high-school-political-debate.md)
+- [校门口要钱，债市却在催账](../videos/20261004-lci-lycee-debt-government-pressure.md)
+
+## 工业地区与劳动身份
+
+- [谁杀死了法国工业？关厂之后的家庭、地方与工人身份](../videos/20261003-public-senat-french-deindustrialization.md)
 
 ## 家庭与教育
 

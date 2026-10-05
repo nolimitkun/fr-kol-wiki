@@ -5,6 +5,7 @@
 
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
 - [税加了，债也没降：法国该先省钱、减税，还是投资教育？](../videos/20260929-lci-debt-taxes-growth.md)
+- [校门口要钱，债市却在催账](../videos/20261004-lci-lycee-debt-government-pressure.md)
 ## 2027 总统选举
 
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
@@ -13,6 +14,8 @@
 
 ## 产业、贸易与能源价格
 
+- [法国去工业化：能源、金融化与全球竞争](../topics/french-deindustrialization.md)
+- [谁杀死了法国工业？一部纪录片追查半世纪的共同责任](../videos/20261003-public-senat-french-deindustrialization.md)
 - [战争生态学：欧洲转型的安全、产业与公平](../topics/war-ecology-and-european-transition.md)
 - [霍尔木兹把欧洲堵在哪？欧洲产业、财政与货币政策的缺口](../videos/20260408-le-grand-continent-war-ecology-europe.md)
 - [伊朗战争的全球反应：谨慎、碎片化与外溢](../topics/iran-war-global-reactions.md)

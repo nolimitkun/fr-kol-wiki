@@ -7,6 +7,10 @@
 - [医保分工、补充保险与病假成本](../topics/health-insurance-cost-sharing.md)
 - [眼镜、病假、互助保险：法国医保省钱，究竟把账单推给谁？](../videos/20260924-lci-health-insurance-reform.md)
 
+## 财产损失与责任保险
+
+- [校门口要钱，债市却在催账：反破坏法案怎样把损失推向家庭、纳税人与保险](../videos/20261004-lci-lycee-debt-government-pressure.md)
+
 ## 后续重点
 
 优先补充住房与灾害保险、汽车保险、养老与寿险、再保险，以及气候风险、监管变化和保费上涨怎样改变家庭与企业的成本。
