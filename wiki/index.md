@@ -9,6 +9,10 @@
 
 - [政治](domains/politics.md)
 - [经济](domains/economy.md)
+- [房地产](domains/real-estate.md)
+- [金融](domains/finance.md)
+- [银行](domains/banking.md)
+- [保险](domains/insurance.md)
 - [科技](domains/technology.md)
 - [军事与外交](domains/military.md)
 - [教育](domains/education.md)

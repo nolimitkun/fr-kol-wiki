@@ -6,7 +6,7 @@ status: draft
 channel: lci
 people: [bruno-retailleau, raphael-glucksmann, edouard-philippe, marine-le-pen, jean-luc-melenchon, gabriel-attal, marine-tondelier]
 organizations: [lci, medef]
-domains: [politics, economy, technology, environment]
+domains: [politics, economy, finance, real-estate, technology, environment]
 topics: [2027-presidential-economic-policy, public-debt, reindustrialization, pensions, business-taxation]
 viewpoint: [multi-party-election-debate, employer-hosted]
 updated: 2026-09-21

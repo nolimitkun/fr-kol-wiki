@@ -56,6 +56,9 @@ def main() -> None:
     total = 0
     for kol, result in results:
         print(f"\n## {kol['name']} ({kol['slug']})")
+        domains = "、".join(kol.get("domains", []))
+        if domains:
+            print(f"  关注领域：{domains}")
         if result is None:
             print("  !! 超时")
             continue
