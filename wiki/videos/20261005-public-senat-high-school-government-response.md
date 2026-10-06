@@ -30,7 +30,7 @@ updated: 2026-10-06
 
 ## 全国都缺老师，但缺法并不一样
 
-Souidi 把“教师不足”拆成地区问题。他称 Créteil 小学教师招聘从 2005 年每 100 个岗位约 250 名候选人，降到 2020 年代约 90 名；即使全录取也填不满。动员起点学校的合同教师比例和年轻教师比例也据称明显高于全国。数字都待核验，但他的论证很清楚：全国预算和岗位总数无法说明某个地区能否留住有经验教师。（[00:10:19](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001019)–[00:12:21](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001221)）
+Souidi 把“教师不足”拆成地区问题。他称 Créteil 小学教师招聘从 2005 年每 100 个岗位约 250 名候选人，降到 2020 年代约 90 名；即使全录取也填不满。动员起点学校的合同教师比例和年轻教师比例也据称明显高于全国。数字都待核验，但他的论证很清楚：全国预算和岗位总数无法说明某个地区的招聘是否足以填补岗位，也看不出当地教师队伍的构成。（[00:10:19](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001019)–[00:12:21](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001221)）
 
 Tourret 从采访经验出发，反复把问题拉回学生生活：几个月没有数学或哲学老师，Parcoursup 又把升学位置不足变成个人焦虑。她还提醒，同样一名“公立高中生”，在巴黎名校由资深正式教师授课，与在 Créteil 面对合同教师和频繁更换人员，国家实际投入并不相同。（[00:05:15](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#000515)–[00:10:19](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001019)，[00:18:25](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001825)–[00:21:27](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#002127)）
 

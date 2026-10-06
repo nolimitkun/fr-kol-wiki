@@ -4,7 +4,7 @@
 
 ## 10月5日：平均数解释不了 Créteil，治安也代替不了谈判
 
-[Public Sénat 圆桌](../videos/20261005-public-senat-high-school-government-response.md)把资源差距讲得更细。Youssef Souidi 用教师招聘、合同教师和年龄结构说明，Créteil 的短缺不是全国平均意义上的“少一点人”，而是招不到、留不住和经验分布不均。人口变化也分叉：巴黎学生减少，近郊部分地区增加，国家岗位与地方校舍投资不能按同一比例机械收缩。（[00:10:19](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001019)–[00:12:21](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001221)，[00:20:27](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#002027)–[00:23:31](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#002331)）
+[Public Sénat 圆桌](../videos/20261005-public-senat-high-school-government-response.md)把资源差距讲得更细。Youssef Souidi 用教师招聘、合同教师和年龄结构说明，Créteil 的短缺不是全国平均意义上的“少一点人”，而是招聘吸引力不足、合同教师较多，教师队伍也明显更年轻。人口变化也分叉：巴黎学生减少，近郊部分地区增加，国家岗位与地方校舍投资不能按同一比例机械收缩。（[00:10:19](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001019)–[00:12:21](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001221)，[00:20:27](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#002027)–[00:23:31](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#002331)）
 
 圆桌也把“警察是否过度用力”改写成专业能力问题。Stéphane Vernay 区分以维持秩序为专业的机动宪兵、CRS 与临时投入的普通警员，认为法国缺少一致的降级冲突原则。谈到拟议的连带赔偿时，多位嘉宾担心未直接破坏者、兄弟姐妹和依赖补助的家庭一起受罚。法案文本、执法个案和伤亡数字仍待官方资料核验。（[00:37:42](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#003742)–[00:39:43](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#003943)，[00:40:49](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#004049)–[00:45:54](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#004554)）
 
