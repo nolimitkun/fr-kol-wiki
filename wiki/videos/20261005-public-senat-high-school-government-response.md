@@ -61,7 +61,7 @@ Tourret 不否认纵火和攻击校舍的危险，却坚持责任并不对称：
 | 教育预算增加 12 亿欧元，但政府还需完成 540 亿欧元努力 | Jourdin 与 Vernay（[00:13:21](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001321)，[00:16:24](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001624)） | 预算年份、名义/实际变化、财政方案状态 |
 | 法国高中生均支出比 OECD 平均高 28% | 主持人（[00:19:26](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001926)） | OECD 指标、年份、购买力口径 |
 | 运动以来超过 5000 次拘留、14 人羁押 | 主持人转述司法部（[00:30:38](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#003038)） | 原始通报、未成年人比例、司法状态 |
-| 190 名学生、908 名教职人员受伤，六项警察监察调查 | 主持人（[00:39:43](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#003943)） | 伤情定义、统计区间、调查事项 |
+| 190 名学生受伤、教职人员亦有伤者，六项警察监察调查 | 主持人（[00:39:43](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#003943)） | 教职人员伤者数的自动字幕识别不可靠；另待核验伤情定义、统计区间与调查事项 |
 
 ## 法中术语
 
