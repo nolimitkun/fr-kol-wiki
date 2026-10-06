@@ -45,6 +45,13 @@
 
 ## 按人物
 
+- [Christine Lavarde](people/christine-lavarde.md)
+- [Olivier Lluansi](people/olivier-lluansi.md)
+- [Nadine Levratto](people/nadine-levratto.md)
+- [Anne-Sophie Alsif](people/anne-sophie-alsif.md)
+- [Youssef Souidi](people/youssef-souidi.md)
+- [Stéphane Vernay](people/stephane-vernay.md)
+- [Steve Jourdin](people/steve-jourdin.md)
 - [Arlette Chabot](people/arlette-chabot.md)
 - [Philippe Guibert](people/philippe-guibert.md)
 - [Philippe Dessertine](people/philippe-dessertine.md)
@@ -150,6 +157,8 @@
 
 ## 按视频
 
+- 2026-10-05 · Public Sénat · [教师缺口早就知道，为什么等到冲突才回应？法国高中危机追问资源与警务](videos/20261005-public-senat-high-school-government-response.md)
+- 2026-10-03 · Public Sénat · [工业没死，但还救得回来吗？法国四位专家争论保护、能源与人才](videos/20261003-public-senat-industry-new-model.md)
 - 2026-10-04 · LCI · [校门口要钱，债市却在催账：法国政府怎样同时面对高中危机与财政失信？](videos/20261004-lci-lycee-debt-government-pressure.md)
 - 2026-10-03 · Public Sénat · [谁杀死了法国工业？一部纪录片追查半世纪的共同责任](videos/20261003-public-senat-french-deindustrialization.md)
 - 2026-10-03 · LCI · [炸桥、断电、核威胁：俄罗斯施压升级，欧洲该把哪些话当真？](videos/20261003-lci-russia-ukraine-escalation.md)

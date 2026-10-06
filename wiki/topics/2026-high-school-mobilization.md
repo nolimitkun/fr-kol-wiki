@@ -2,6 +2,12 @@
 
 本专题并列三种很不一样的镜头。France Culture 让高中生从缺教师、家庭差异、Parcoursup 和碎片化课表讲起；LCI 的评论圆桌讨论外来破坏者、国家能力与政治组织，议员圆桌则把同一危机变成执政党、RN 与 LFI 的责任之争。三者互相补足，也互相纠偏：只听学生经验会漏掉现场安全，只看暴力画面则会让长期教育问题从画面外消失。
 
+## 10月5日：平均数解释不了 Créteil，治安也代替不了谈判
+
+[Public Sénat 圆桌](../videos/20261005-public-senat-high-school-government-response.md)把资源差距讲得更细。Youssef Souidi 用教师招聘、合同教师和年龄结构说明，Créteil 的短缺不是全国平均意义上的“少一点人”，而是招聘吸引力不足、合同教师较多，教师队伍也明显更年轻。人口变化也分叉：巴黎学生减少，近郊部分地区增加，国家岗位与地方校舍投资不能按同一比例机械收缩。（[00:10:19](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001019)–[00:12:21](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001221)，[00:20:27](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#002027)–[00:23:31](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#002331)）
+
+圆桌也把“警察是否过度用力”改写成专业能力问题。Stéphane Vernay 区分以维持秩序为专业的机动宪兵、CRS 与临时投入的普通警员，认为法国缺少一致的降级冲突原则。谈到拟议的连带赔偿时，多位嘉宾担心未直接破坏者、兄弟姐妹和依赖补助的家庭一起受罚。法案文本、执法个案和伤亡数字仍待官方资料核验。（[00:37:42](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#003742)–[00:39:43](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#003943)，[00:40:49](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#004049)–[00:45:54](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#004554)）
+
 ## 10月4日：治安答案仍绕不开教育预算
 
 [LCI 后续圆桌](../videos/20261004-lci-lycee-debt-government-pressure.md)把冲突带到立法与财政层面。Carole Zerbib 既描述教师、校长遭攻击和社交平台的暴力竞赛，也把学生诉求分成校舍、食堂、厕所、时间表等地方问题，以及缺教师和制度安排等国家问题。（[00:05:10](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#000510)–[00:12:19](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#001219)，[00:31:38](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#003138)–[00:33:40](../../sources/lci/20261004-3tBimWxXUMo/transcript.md#003340)）
@@ -43,3 +49,4 @@ Tanguy 和 Thévenot 支持追究未成年人父母的赔偿责任，后者直�
 - [从缺课到18点40分：法国高中生为什么说学校让人喘不过气？](../videos/20261002-france-culture-lycee-pressure.md)（France Culture，2026-10-02）
 - [高中生动员变成治安危机？LCI争论暴力、诉求与国家失灵](../videos/20261002-lci-high-school-violence.md)（LCI，2026-10-02）
 - [先恢复秩序，还是先回应学生？三名议员把高中危机吵成责任之争](../videos/20261002-lci-high-school-political-debate.md)（LCI，2026-10-02）
+- [教师缺口早就知道，为什么等到冲突才回应？](../videos/20261005-public-senat-high-school-government-response.md)（Public Sénat，2026-10-05）
