@@ -9,6 +9,7 @@
 - [高中生动员变成治安危机？](../videos/20261002-lci-high-school-violence.md)（LCI，2026-10-02）
 - [先恢复秩序，还是先回应学生？](../videos/20261002-lci-high-school-political-debate.md)（LCI，2026-10-02）
 - [校门口要钱，债市却在催账](../videos/20261004-lci-lycee-debt-government-pressure.md)（LCI，2026-10-04）
+- [教师缺口早就知道，为什么等到冲突才回应？](../videos/20261005-public-senat-high-school-government-response.md)（Public Sénat，2026-10-05）
 
 ## 儿童保护与课外托管
 
@@ -32,3 +33,7 @@
 
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
 - [税加了，债也没降：法国该先省钱、减税，还是投资教育？](../videos/20260929-lci-debt-taxes-growth.md)
+
+## 职业教育与工业人才
+
+- [工业没死，但还救得回来吗？](../videos/20261003-public-senat-industry-new-model.md)

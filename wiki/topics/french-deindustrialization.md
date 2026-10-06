@@ -1,6 +1,6 @@
 ---
 title: "法国去工业化：能源、金融化与全球竞争"
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # 法国去工业化：能源、金融化与全球竞争
@@ -19,6 +19,12 @@ updated: 2026-10-05
 
 Marion Fontaine 提醒，工厂曾连接住房、学校、体育、家庭角色和地方自豪。关厂损失的不只是岗位，还包括共同生活的组织方式。这个视角能解释为何产业政策会和地区不平等、政治怨恨及身份危机连在一起。（[00:17:30](../../sources/public-senat/20261003-PGwxjV714sk/transcript.md#001730)–[00:21:34](../../sources/public-senat/20261003-PGwxjV714sk/transcript.md#002134)）
 
+## 纪录片之后：保护什么，怎样重建？
+
+[同日圆桌](../videos/20261003-public-senat-industry-new-model.md)先给“工业死亡”降温，又给乐观踩刹车。Anne-Sophie Alsif 以工业仍约占增加值一成、航空仍有竞争力说明生产没有归零；Olivier Lluansi 则提醒生产性岗位仍在流失，产业网络的密度可能已经不足以支撑反弹。（[00:02:02](../../sources/public-senat/20261003-k2DzOyEDEFQ/transcript.md#000202)–[00:04:04](../../sources/public-senat/20261003-k2DzOyEDEFQ/transcript.md#000404)，[00:10:09](../../sources/public-senat/20261003-k2DzOyEDEFQ/transcript.md#001009)）
+
+出路上的共识是欧洲不能单靠企业降成本对抗中美补贴与保护，法国也需要跨越二三十年的稳定方向。分歧在政策颗粒度：Nadine Levratto 建议从药品、稀土等危机暴露入手；Christine Lavarde 批评国家重点扩散到失去重点；Alsif 希望国家定方向、企业作选择；Lluansi 则先问哪些生产对抗危机和生态转型不可缺。（[00:23:23](../../sources/public-senat/20261003-k2DzOyEDEFQ/transcript.md#002323)–[00:24:24](../../sources/public-senat/20261003-k2DzOyEDEFQ/transcript.md#002424)，[00:26:27](../../sources/public-senat/20261003-k2DzOyEDEFQ/transcript.md#002627)–[00:33:33](../../sources/public-senat/20261003-k2DzOyEDEFQ/transcript.md#003333)）
+
 ## 仍缺什么
 
 - INSEE、DARES 与 Eurostat 对工厂、工业就业、增加值和生产率的长期同口径序列；
@@ -26,3 +32,8 @@ Marion Fontaine 提醒，工厂曾连接住房、学校、体育、家庭角色�
 - 欧盟国家援助、竞争与共同产业工具在不同时期的官方制度资料；
 - 代表性企业出售、外资持股、研发迁移与供应链依赖的公司及监管文件；
 - 关厂对健康、家庭、地方财政和投票行为影响的可复核研究。
+
+## 视频
+
+- [谁杀死了法国工业？一部纪录片追查半世纪的共同责任](../videos/20261003-public-senat-french-deindustrialization.md)
+- [工业没死，但还救得回来吗？法国四位专家争论保护、能源与人才](../videos/20261003-public-senat-industry-new-model.md)
