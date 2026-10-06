@@ -38,7 +38,7 @@ Tourret 从采访经验出发，反复把问题拉回学生生活：几个月没
 
 圆桌承认全国生源下降，却用地方轨迹纠正平均数。Souidi 称 2005—2025 年巴黎中学生减少约 8%，Seine-Saint-Denis 增加约 14%，Val-de-Marne 增加约 8%。校舍又归大区等地方政府负责，于是国家教师编制、地方建设能力和人口迁移必须一起看；巴黎空出的空间和岗位不能自动搬到近郊。（[00:20:27](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#002027)–[00:23:31](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#002331)）
 
-Vernay 替政府说明另一套账：若学生减少，少删一些教师岗位，理论上可以降低师生比并腾出工资空间。但他也承认这是长期调整，无法回答眼前的缺课和动员。Tourret 的反驳则是教育不能只作为当年开支看；大学位置不足、教师购买力下降和长期少投入，最终会以更高社会成本回来。（[00:15:24](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001524)–[00:19:26](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001926)，[00:22:29](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#002229)–[00:23:31](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#002331)）
+Vernay 替政府说明另一套账：若学生减少，少删一些教师岗位，理论上可以降低师生比并腾出工资空间。但他也承认这是长期调整，无法回答眼前的缺课和动员。（[00:22:29](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#002229)–[00:23:31](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#002331)）Tourret 的反驳是教育不能只作为当年开支看；法国已经在为教育投入不足付出代价，大学扩招后却没有足够学位。（[00:17:25](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001725)–[00:18:25](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001825)）Souidi 随后补充，教师自 2010 年前后因指数点冻结而损失大量购买力，高校生均支出也随着学生人数激增而下降。（[00:18:25](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001825)–[00:19:26](../../sources/public-senat/20261005-9EXvMypuNYM/transcript.md#001926)）
 
 ## 支持运动，不等于组织暴力
 
