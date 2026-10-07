@@ -26,7 +26,7 @@ updated: 2026-10-07
 
 ## 摘要
 
-圆桌从示威规模和暴力切入，很快分成三条线。参议员 Olivier Paccaud 承认教师替补问题多年未解，也反复替多数警员与地方政府辩护；他喜欢拿 1986 年自己的游行经验做对照，把今天的现场说成更难控制。社会学者 Maxime Quijoux 关注动员一开始就很强的警务和拘留规模，担心未成年人第一次参与政治便把国家理解成强制力量。历史学者 Jean Garrigues 把运动放进历次学生抗议与 1968 年之后的保守反弹，提醒社会恐惧可能产生与运动目标相反的选举后果。评论员 Jonathan Bouchet-Petersen 则最警惕政府和反对党抢走学生的话语：他区分示威、骚乱和政党支持，也承认跨行业联盟目前更多是口号。最后一段回到校舍，嘉宾对“大区已经尽力”还是 Seine-Saint-Denis 被较少照顾再次正面冲突。节目提供了政治分歧，不提供案件调查；所有伤情、拘留、预算和地区投入数字均待官方核验。（[00:04:16](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#000416)–[00:13:25](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#001325)，[00:31:43](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#003143)–[00:36:52](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#003652)，[00:37:52](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#003752)–[00:43:54](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#004354)）
+圆桌从示威规模和暴力切入，很快分成三条线。参议员 Olivier Paccaud 承认教师替补问题多年未解，也反复替多数警员与地方政府辩护；他喜欢拿 1986 年自己的游行经验做对照，把今天的现场说成更难控制。社会学者 Maxime Quijoux 关注动员一开始就很强的警务和拘留规模，担心强力警务进一步加深青年对警察的不信任。历史学者 Jean Garrigues 把运动放进历次学生抗议与 1968 年之后的保守反弹，提醒社会恐惧可能产生与运动目标相反的选举后果。评论员 Jonathan Bouchet-Petersen 则最警惕政府和反对党抢走学生的话语：他区分示威、骚乱和政党支持，也承认跨行业联盟目前更多是口号。最后一段回到校舍，嘉宾对“大区已经尽力”还是 Seine-Saint-Denis 被较少照顾再次正面冲突。节目提供了政治分歧，不提供案件调查；所有伤情、拘留、预算和地区投入数字均待官方核验。（[00:04:16](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#000416)–[00:13:25](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#001325)，[00:24:37](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#002437)–[00:26:40](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#002640)，[00:31:43](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#003143)–[00:36:52](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#003652)，[00:37:52](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#003752)–[00:43:54](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#004354)）
 
 ## 没有一项新改革，为什么运动还是突然爆发？
 
@@ -44,7 +44,7 @@ Paccaud 拿自己参与撰写的报告作道具，语气像在质问行政管理
 
 Paccaud 的底线是，多数警员在更难控制的现场保持克制，少数偏差不能抹成整个制度。他承认培训可以改进，却把今天与 1986 年相比，认为主动冲击警察的人更多、拒绝服从也更强。（[00:20:32](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#002032)，[00:27:41](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#002741)–[00:28:42](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#002842)）
 
-Quijoux 的切口完全相反。他从拘留数量、未成年人比例和严重伤情出发，认为处置强度本身需要解释；他还观察到 10 月 6 日现场警力较少，因此推断不同日期可能有不同政治与指挥选择。这个推断应按其观点阅读，节目没有展示警令或完整执法记录。（[00:24:37](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#002437)–[00:26:40](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#002640)）
+Quijoux 的切口完全相反。他从拘留数量、未成年人比例和严重伤情出发，认为处置强度本身需要解释；他还观察到 10 月 6 日现场警力较少，因此推断不同日期可能有不同政治与指挥选择。这个推断应按其观点阅读，节目没有展示警令或完整执法记录。（[00:07:17](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#000717)–[00:08:18](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#000818)，[00:24:37](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#002437)–[00:26:40](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#002640)）
 
 Garrigues 站在中间：他承认存在警察越界和展示秩序的政治意图，也强调少数破坏者的暴力特殊性；但他最担心警务争论吞掉更深的学校危机。（[00:22:34](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#002234)–[00:23:35](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#002335)）
 
