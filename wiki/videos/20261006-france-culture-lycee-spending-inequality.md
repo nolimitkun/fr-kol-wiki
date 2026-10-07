@@ -42,7 +42,7 @@ Huillery 用教师招聘说明地区差距。她称 Créteil 小学教师考试�
 
 ## 学生说的不是抽象预算，而是 35 个人和一名不存在的护士
 
-学生 Abou 说，35 人的语言课很难让每个人开口；一次校内外事故叠加时约有二十人不适，学校却据称已两年没有护士。Soa 补上身体感受：教室夏天过热、冬天过冷，校舍问题几十年反复出现。两人反对暴力，却把示威说成让决策者听见日常条件的办法。（[00:18:26](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#001826)–[00:22:29](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#002229)）
+学生 Abou 说，35 人的语言课很难让每个人开口；一次校内外事故叠加时约有二十人不适，学校却据称已两年没有护士。Soa 补上身体感受：教室夏天过热、冬天过冷，校舍问题几十年反复出现。Soa 明确反对暴力，并把示威说成让决策者听见日常条件的办法。（[00:18:26](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#001826)–[00:22:29](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#002229)）
 
 El Kaouchi 的说法带着长期任教者的火气。她称自己在该校 27 年，第一次遇到共同课程班级达到 35 至 36 人；学校虽有“预防暴力”标签，给教师带来工龄晋升优惠，却没有给学生换来更小班额。她不拿全国模型替代经验，而是反复说“我只能讲我这里”。（[00:22:29](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#002229)–[00:25:32](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#002532)）
 
