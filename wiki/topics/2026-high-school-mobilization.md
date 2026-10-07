@@ -1,6 +1,18 @@
 # 2026年高中生动员：教育诉求、暴力与国家回应
 
-本专题并列三种很不一样的镜头。France Culture 让高中生从缺教师、家庭差异、Parcoursup 和碎片化课表讲起；LCI 的评论圆桌讨论外来破坏者、国家能力与政治组织，议员圆桌则把同一危机变成执政党、RN 与 LFI 的责任之争。三者互相补足，也互相纠偏：只听学生经验会漏掉现场安全，只看暴力画面则会让长期教育问题从画面外消失。
+本专题并列四种很不一样的镜头。France Culture 让高中生从缺教师、家庭差异、Parcoursup 和碎片化课表讲起，又请教育经济学者拆开“高中生均支出高”的口径；LCI 的评论圆桌讨论外来破坏者、国家能力与政治组织，议员圆桌则把同一危机变成执政党、RN 与 LFI 的责任之争；Public Sénat 继续追问警务强度和运动能否连接其他社会不满。几种镜头互相补足，也互相纠偏：只听学生经验会漏掉现场安全，只看暴力画面则会让长期教育问题从画面外消失。
+
+## 10月6日：高生均支出为何没有变成小班和稳定替补？
+
+[France Culture 对话](../videos/20261006-france-culture-lycee-spending-inequality.md)先把一个悖论拆开。Élise Huillery 解释，高中教师类别、工资与法定授课时数会抬高生均支出，但这笔钱不会自动变成更小班额。她把小学与普通中学教师低薪、高中缺员、地区招聘困难和高等教育容量分成不同问题；面对校舍地区差距，她也明确承认缺少研究，不能猜测大区的分配逻辑。（[00:03:05](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#000305)–[00:09:12](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#000912)，[00:12:16](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#001216)–[00:14:18](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#001418)）
+
+学生和 Ayat El Kaouchi 给出另一种证据：35 至 36 人的班级、长期缺少校医护、冬冷夏热的教室，以及 Parcoursup 带来的不透明筛选感。Huillery 同意透明度问题，却把平台分配与 BTS、IUT、本科位置不足分开，避免让一个算法替公共投入不足背完责任。（[00:20:29](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#002029)–[00:25:32](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#002532)，[00:28:37](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#002837)–[00:30:39](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#003039)）
+
+## 10月6日：运动扩大了，但“斗争汇流”仍是问号
+
+[Public Sénat 圆桌](../videos/20261006-public-senat-high-school-movement-convergence.md)不再只问学生要什么，而是问警务回应会不会反过来扩大运动。Olivier Paccaud 承认替补政策多年失灵，却为多数警员的克制辩护；Maxime Quijoux 从拘留和严重伤情追问处置强度；Jean Garrigues 担心警务争论吞掉教育问题；Jonathan Bouchet-Petersen 则坚持把示威、骚乱与政党支持拆开。（[00:10:20](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#001020)–[00:12:23](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#001223)，[00:20:32](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#002032)–[00:28:42](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#002842)）
+
+学生、教师、工会与农业组织的声援还不是稳定联盟。圆桌认为，不同群体既要找到共同利益，也要相信行动能够取胜；否则“斗争汇流”仍更像总罢工号召失去力量后的新词。节目最后关于 Île-de-France 是否少照顾 Seine-Saint-Denis 的冲突，也因缺少分区预算而保持待核验。（[00:29:43](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#002943)–[00:36:52](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#003652)，[00:42:54](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#004254)–[00:43:54](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#004354)）
 
 ## 10月5日：平均数解释不了 Créteil，治安也代替不了谈判
 
@@ -50,3 +62,5 @@ Tanguy 和 Thévenot 支持追究未成年人父母的赔偿责任，后者直�
 - [高中生动员变成治安危机？LCI争论暴力、诉求与国家失灵](../videos/20261002-lci-high-school-violence.md)（LCI，2026-10-02）
 - [先恢复秩序，还是先回应学生？三名议员把高中危机吵成责任之争](../videos/20261002-lci-high-school-political-debate.md)（LCI，2026-10-02）
 - [教师缺口早就知道，为什么等到冲突才回应？](../videos/20261005-public-senat-high-school-government-response.md)（Public Sénat，2026-10-05）
+- [高中生均花得不少，为什么教室还是挤？](../videos/20261006-france-culture-lycee-spending-inequality.md)（France Culture，2026-10-06）
+- [高中生的怒火会烧到别处吗？](../videos/20261006-public-senat-high-school-movement-convergence.md)（Public Sénat，2026-10-06）

@@ -45,6 +45,12 @@
 
 ## 按人物
 
+- [Élise Huillery](people/elise-huillery.md)
+- [Ayat El Kaouchi](people/ayat-el-kaouchi.md)
+- [Olivier Paccaud](people/olivier-paccaud.md)
+- [Maxime Quijoux](people/maxime-quijoux.md)
+- [Jean Garrigues](people/jean-garrigues.md)
+- [Jonathan Bouchet-Petersen](people/jonathan-bouchet-petersen.md)
 - [Christine Lavarde](people/christine-lavarde.md)
 - [Olivier Lluansi](people/olivier-lluansi.md)
 - [Nadine Levratto](people/nadine-levratto.md)
@@ -157,6 +163,8 @@
 
 ## 按视频
 
+- 2026-10-06 · France Culture · [高中生均花得不少，为什么教室还是挤？法国教育投入卡在工资结构与地域差距](videos/20261006-france-culture-lycee-spending-inequality.md)
+- 2026-10-06 · Public Sénat · [高中生的怒火会烧到别处吗？一场运动夹在教育缺口、警务争议与大选之间](videos/20261006-public-senat-high-school-movement-convergence.md)
 - 2026-10-05 · Public Sénat · [教师缺口早就知道，为什么等到冲突才回应？法国高中危机追问资源与警务](videos/20261005-public-senat-high-school-government-response.md)
 - 2026-10-03 · Public Sénat · [工业没死，但还救得回来吗？法国四位专家争论保护、能源与人才](videos/20261003-public-senat-industry-new-model.md)
 - 2026-10-04 · LCI · [校门口要钱，债市却在催账：法国政府怎样同时面对高中危机与财政失信？](videos/20261004-lci-lycee-debt-government-pressure.md)

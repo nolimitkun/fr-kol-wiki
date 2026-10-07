@@ -41,3 +41,4 @@
 
 - [RN进参议院之后：谁在守制度，谁在借制度扩张？](../videos/20260928-public-senat-counterpower-2027.md)
 - [教师缺口早就知道，为什么等到冲突才回应？](../videos/20261005-public-senat-high-school-government-response.md)
+- [高中生均花得不少，为什么教室还是挤？](../videos/20261006-france-culture-lycee-spending-inequality.md)
