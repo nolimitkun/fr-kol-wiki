@@ -30,7 +30,7 @@ updated: 2026-10-07
 
 ## 没有一项新改革，为什么运动还是突然爆发？
 
-Garrigues 认为，这次动员并非针对一项刚通过的改革，反而说明缺教师、工作条件与地域不平等已经积得很深。他再加上一层代际解释：疫情经验、气候焦虑、住房和社会上升通道收窄，共同制造“未来不再可欲”的感受。这是历史解释，不是已经验证的单一因果链。（[00:08:18](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#000818)–[00:10:20](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#001020)）
+Garrigues 认为，这次动员并非针对一项刚通过的改革，反而说明缺教师、工作条件与地域不平等已经积得很深。他再加上一层代际解释：疫情经验、气候焦虑和社会上升通道收窄，共同制造“未来不再可欲”的感受。这是历史解释，不是已经验证的单一因果链。（[00:08:18](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#000818)–[00:10:20](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#001020)）
 
 Quijoux 从现场看到的则是大选焦虑。他称示威中的反 RN 口号甚至多于反政府口号，因而拒绝把参与者当成只会被政党操纵的孩子。Bouchet-Petersen 补充，社交网络让 Créteil 的经历能迅速传到其他城市，较富裕学校也可能出于代际团结加入。（[00:12:23](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#001223)–[00:14:26](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#001426)）
 
