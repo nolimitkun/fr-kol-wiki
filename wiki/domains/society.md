@@ -10,6 +10,8 @@
 - [先恢复秩序，还是先回应学生？](../videos/20261002-lci-high-school-political-debate.md)
 - [校门口要钱，债市却在催账](../videos/20261004-lci-lycee-debt-government-pressure.md)
 - [教师缺口早就知道，为什么等到冲突才回应？](../videos/20261005-public-senat-high-school-government-response.md)
+- [高中生均花得不少，为什么教室还是挤？](../videos/20261006-france-culture-lycee-spending-inequality.md)
+- [高中生的怒火会烧到别处吗？](../videos/20261006-public-senat-high-school-movement-convergence.md)
 
 ## 工业地区与劳动身份
 

@@ -1,6 +1,6 @@
 ---
 title: "Public Sénat"
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Public Sénat
@@ -9,6 +9,7 @@ updated: 2026-10-06
 
 ## 已收录
 
+- [高中生的怒火会烧到别处吗？](../videos/20261006-public-senat-high-school-movement-convergence.md)（教育、警务与社会运动圆桌，2026-10-06）
 - [教师缺口早就知道，为什么等到冲突才回应？](../videos/20261005-public-senat-high-school-government-response.md)（教育与公共秩序圆桌，2026-10-05）
 - [工业没死，但还救得回来吗？](../videos/20261003-public-senat-industry-new-model.md)（产业政策圆桌，2026-10-03）
 - [谁杀死了法国工业？一部纪录片追查半世纪的共同责任](../videos/20261003-public-senat-french-deindustrialization.md)（历史经济纪录片，2026-10-03）
