@@ -45,6 +45,10 @@
 
 ## 按人物
 
+- [Roland Lescure](people/roland-lescure.md)
+- [David Amiel](people/david-amiel.md)
+- [Amélie de Montchalin](people/amelie-de-montchalin.md)
+- [Michaël Zemmour](people/michael-zemmour.md)
 - [Élise Huillery](people/elise-huillery.md)
 - [Ayat El Kaouchi](people/ayat-el-kaouchi.md)
 - [Olivier Paccaud](people/olivier-paccaud.md)
@@ -154,6 +158,7 @@
 ## 按机构
 
 - [Public Sénat](organizations/public-senat.md)
+- [法国高级公共财政委员会](organizations/haut-conseil-des-finances-publiques.md)
 - [LCI](organizations/lci.md)
 - [Le Grand Continent](organizations/le-grand-continent.md)
 - [法国高等师范学院](organizations/ecole-normale-superieure.md)
@@ -163,6 +168,8 @@
 
 ## 按视频
 
+- 2026-10-07 · Public Sénat · [5%赤字是底线，还是乐观目标？法国两位部长为2027预算答辩](videos/20261007-public-senat-budget-2027-ministers.md)
+- 2026-10-07 · Public Sénat · [省下的钱先被利息吃掉：法国财政监督机构拆解2027预算](videos/20261007-public-senat-hcfp-budget-2027.md)
 - 2026-10-06 · France Culture · [高中生均花得不少，为什么教室还是挤？法国教育投入卡在工资结构与地域差距](videos/20261006-france-culture-lycee-spending-inequality.md)
 - 2026-10-06 · Public Sénat · [高中生的怒火会烧到别处吗？一场运动夹在教育缺口、警务争议与大选之间](videos/20261006-public-senat-high-school-movement-convergence.md)
 - 2026-10-05 · Public Sénat · [教师缺口早就知道，为什么等到冲突才回应？法国高中危机追问资源与警务](videos/20261005-public-senat-high-school-government-response.md)

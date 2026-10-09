@@ -1,6 +1,6 @@
 ---
 title: "Public Sénat"
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Public Sénat
@@ -9,6 +9,8 @@ updated: 2026-10-07
 
 ## 已收录
 
+- [5%赤字是底线，还是乐观目标？法国两位部长为2027预算答辩](../videos/20261007-public-senat-budget-2027-ministers.md)（政府预算听证，2026-10-07）
+- [省下的钱先被利息吃掉：法国财政监督机构拆解2027预算](../videos/20261007-public-senat-hcfp-budget-2027.md)（HCFP 预算意见听证，2026-10-07）
 - [高中生的怒火会烧到别处吗？](../videos/20261006-public-senat-high-school-movement-convergence.md)（教育、警务与社会运动圆桌，2026-10-06）
 - [教师缺口早就知道，为什么等到冲突才回应？](../videos/20261005-public-senat-high-school-government-response.md)（教育与公共秩序圆桌，2026-10-05）
 - [工业没死，但还救得回来吗？](../videos/20261003-public-senat-industry-new-model.md)（产业政策圆桌，2026-10-03）
