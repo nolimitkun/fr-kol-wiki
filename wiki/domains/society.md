@@ -38,6 +38,8 @@
 
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
 - [税加了，债也没降：法国该先省钱、减税，还是投资教育？](../videos/20260929-lci-debt-taxes-growth.md)
+- [2027预算答辩：福利、养老金与地方公共服务由谁分担](../videos/20261007-public-senat-budget-2027-ministers.md)
+- [HCFP拆解2027预算的分配与增长风险](../videos/20261007-public-senat-hcfp-budget-2027.md)
 
 ## 群体、记忆与暴力
 
