@@ -39,4 +39,4 @@ Christian Saint-Étienne 把问题说得更政治化：法德利差扩大不是�
 
 [10月9日 LCI 圆桌](../videos/20261009-lci-education-budget-debt.md)追踪预算委员会撤回或扩大多项税收安排。节目把静态影响合计为接近四十亿欧元，但也提醒委员会表决不是最终法律文本。Stéphane Manigold 支持保护加班收入，却把退休和其他税务退让称为选举算计；Roland Gillet 从现收现付养老金与风险溢价追问代际成本；Isabelle This Saint-Jean 则要求避免只看削支，保留增长型投资并让巨额继承承担更多修复成本。（[00:28:33](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#002833)–[00:40:43](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#004043)）
 
-圆桌最后用 Édouard Philippe 的生育补助方案测试财政可信度。嘉宾并不否认青年住房、生育和代际制度问题，却要求把三百五十欧元补助与三千欧元减税的资金来源、目标人群和效果证据同时拿出来。这把债务专题重新接回一个分配问题：财政纪律不是抽象总额，而是谁仍能得到支出、谁先失去优惠。（[00:51:56](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#005156)–[01:01:06](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#010106)）
+圆桌最后用 Édouard Philippe 的生育补助方案测试财政可信度。嘉宾并不否认青年住房、生育和代际制度问题，却要求把三百五十欧元起、随收入递减的补助与三千欧元减税的资金来源、目标人群和效果证据同时拿出来。这把债务专题重新接回一个分配问题：财政纪律不是抽象总额，而是谁仍能得到支出、谁先失去优惠。（[00:51:56](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#005156)–[01:01:06](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#010106)）
