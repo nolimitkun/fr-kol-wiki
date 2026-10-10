@@ -56,7 +56,7 @@ Nijdam 还把矛头对准部分私立高教。她称，一些传播类学校用�
 
 ## 文凭升了，工资为什么没跟上？
 
-节目图表称，按不变价格计算，初入职场者的工资中位数整体略升，但长学制高教毕业者在 2023 年的购买力低于 1990 年；短学制高教毕业者则越来越靠近最低工资。Nijdam 把这种体验称为“青年折价”：雇主让新人先忍几年低薪，承诺以后再说。她强调，这不仅困住低收入家庭，也让中产青年难以想象买房和成家。（[00:28:32](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#002832)–[00:32:36](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#003236)）
+节目图表统计的是取得文凭后 1 至 4 年的青年雇员。按不变价格计算，这一群体的工资中位数整体略升，但长学制高教毕业者在 2023 年的购买力低于 1990 年；短学制高教毕业者则越来越靠近最低工资。Nijdam 把这种体验称为“青年折价”：雇主让新人先忍几年低薪，承诺以后再说。她强调，这不仅困住低收入家庭，也让中产青年难以想象买房和成家。（[00:28:32](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#002832)–[00:32:36](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#003236)）
 
 Ihaddadene 对“先忍耐换希望”的批评更尖。她把实习、公民服务和部分补贴学徒岗位称为“有工作的味道，却不完全是工作”的公共装置：它们可能产生补贴套利、替代正式员工，并让青年成为景气变化时最先增减的变量。她用“饥饿游戏”形容青年不断攒实习、国际经历和证书，才有机会碰到过去被视为起点的长期合同。（[00:32:36](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#003236)–[00:36:42](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#003642)）
 
@@ -75,7 +75,7 @@ Ihaddadene 最后的追问改变了问题：如果技术确实减少必要劳动
 | 约三分之一青年因工作附近找不到住房而放弃岗位；五分之一学生交租后每月不足 100 欧元 | 节目与 Nijdam（[00:08:09](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#000809)–[00:09:10](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#000910)） | 调查样本、年份、收入与支出口径 |
 | 青年中仅 7% 把工作放在次要位置，80% 即使没有财务需要也愿继续工作 | Jourdin 转述（[00:12:12](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#001212)） | Institut Montaigne 原始问卷和样本 |
 | 16至30岁青年中，96%要自主、95%要有趣工作、93%要良好同事关系 | Jourdin 转述（[00:12:12](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#001212)–[00:13:12](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#001312)） | INJEP 研究原文及选项措辞 |
-| 2023年长学制高教毕业者初职工资中位数约 2,000 欧元，1990年不变价约 2,280 欧元 | 节目图表（[00:28:32](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#002832)–[00:30:34](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#003034)） | INSEE 数据表、净额/毛额、全职和毕业后年限 |
+| 取得文凭后 1 至 4 年的长学制高教毕业青年雇员，2023年工资中位数约 2,000 欧元，1990年不变价约 2,280 欧元 | 节目图表（[00:28:32](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#002832)–[00:30:34](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#003034)） | INSEE 数据表、净额/毛额、全职和毕业后年限 |
 | 两个月以上全职实习每月最低补贴约 630至700欧元 | 主持人（[00:32:36](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#003236)） | 2026 年法定标准、小时数和例外 |
 
 !!! warning "姓名、身份与数据"
