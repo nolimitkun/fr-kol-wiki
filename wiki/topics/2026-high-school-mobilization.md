@@ -2,6 +2,12 @@
 
 本专题并列四种很不一样的镜头。France Culture 让高中生从缺教师、家庭差异、Parcoursup 和碎片化课表讲起，又请教育经济学者拆开“高中生均支出高”的口径；LCI 的评论圆桌讨论外来破坏者、国家能力与政治组织，议员圆桌则把同一危机变成执政党、RN 与 LFI 的责任之争；Public Sénat 继续追问警务强度和运动能否连接其他社会不满。几种镜头互相补足，也互相纠偏：只听学生经验会漏掉现场安全，只看暴力画面则会让长期教育问题从画面外消失。
 
+## 10月9日：三千名替补从哪里来？
+
+[LCI 圆桌](../videos/20261009-lci-education-budget-debt.md)把政府调动三千名 TZR 的承诺拆成两问。Laurent Frajerman 说，替补教师暂时没有匹配缺口，不等于拿钱不工作；若把不同学科的人临时派去辅导和看管，政府可能只修了在校人数。Julien Arnaud 则提醒，调动仍需学区行政安排，发布一个大数字却不解释来源，会让学生更怀疑此前为什么一直缺课。（[00:03:06](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#000306)–[00:06:11](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#000611)，[00:17:23](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#001723)–[00:19:25](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#001925)）
+
+Isabelle This Saint-Jean 把教师缺口放进青年就业、AI、气候和升学焦虑，认为单项技术回应不足以让运动退潮。Frajerman 还质疑政府咨询表单过于粗糙，无法可靠判断不同学校诉求；运动缺少全国协调后，谁有资格替学生排序，成了新的政治争夺。（[00:07:13](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#000713)–[00:09:16](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#000916)，[00:14:21](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#001421)–[00:16:21](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#001621)）
+
 ## 10月6日：高生均支出为何没有变成小班和稳定替补？
 
 [France Culture 对话](../videos/20261006-france-culture-lycee-spending-inequality.md)先把一个悖论拆开。Élise Huillery 解释，高中教师类别、工资与法定授课时数会抬高生均支出，但这笔钱不会自动变成更小班额。她把小学与普通中学教师低薪、高中缺员、地区招聘困难和高等教育容量分成不同问题；面对校舍地区差距，她也明确承认缺少研究，不能猜测大区的分配逻辑。（[00:03:05](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#000305)–[00:09:12](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#000912)，[00:12:16](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#001216)–[00:14:18](../../sources/france-culture/20261006-bvFwljGPWNg/transcript.md#001418)）

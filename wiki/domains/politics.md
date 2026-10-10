@@ -10,6 +10,7 @@
 - [校门口要钱，债市却在催账](../videos/20261004-lci-lycee-debt-government-pressure.md)
 - [教师缺口早就知道，为什么等到冲突才回应？](../videos/20261005-public-senat-high-school-government-response.md)
 - [高中生的怒火会烧到别处吗？](../videos/20261006-public-senat-high-school-movement-convergence.md)
+- [老师从哪来，钱又从哪来？](../videos/20261009-lci-education-budget-debt.md)
 
 ## 产业政策与主权
 

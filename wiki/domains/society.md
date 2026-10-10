@@ -12,6 +12,12 @@
 - [教师缺口早就知道，为什么等到冲突才回应？](../videos/20261005-public-senat-high-school-government-response.md)
 - [高中生均花得不少，为什么教室还是挤？](../videos/20261006-france-culture-lycee-spending-inequality.md)
 - [高中生的怒火会烧到别处吗？](../videos/20261006-public-senat-high-school-movement-convergence.md)
+- [老师从哪来，钱又从哪来？](../videos/20261009-lci-education-budget-debt.md)
+
+## 青年就业、住房与家庭形成
+
+- [青年就业、工作入口与代际承诺](../topics/youth-employment-and-work.md)
+- [文凭越来越高，入口越来越窄：法国青年就业卡在哪里？](../videos/20261007-public-senat-youth-unemployment.md)
 
 ## 工业地区与劳动身份
 

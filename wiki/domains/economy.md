@@ -1,6 +1,12 @@
 # 经济
 
 覆盖财政、税收、就业、产业、企业、贸易、住房、物价、养老金与法国在欧元区的经济议题。数字性断言优先以 INSEE、Banque de France 和 Cour des comptes 资料核验。
+## 青年就业与工作入口
+
+- [青年就业、工作入口与代际承诺](../topics/youth-employment-and-work.md)
+- [文凭越来越高，入口越来越窄：法国青年就业卡在哪里？](../videos/20261007-public-senat-youth-unemployment.md)
+- [老师从哪来，钱又从哪来？](../videos/20261009-lci-education-budget-debt.md)
+
 ## 公共债务、税收与增长
 
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
@@ -8,6 +14,7 @@
 - [校门口要钱，债市却在催账](../videos/20261004-lci-lycee-debt-government-pressure.md)
 - [5%赤字是底线，还是乐观目标？法国两位部长为2027预算答辩](../videos/20261007-public-senat-budget-2027-ministers.md)
 - [省下的钱先被利息吃掉：法国财政监督机构拆解2027预算](../videos/20261007-public-senat-hcfp-budget-2027.md)
+- [老师从哪来，钱又从哪来？](../videos/20261009-lci-education-budget-debt.md)
 ## 2027 总统选举
 
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
