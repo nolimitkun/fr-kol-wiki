@@ -9,6 +9,7 @@
 - [校门口要钱，债市却在催账](../videos/20261004-lci-lycee-debt-government-pressure.md)
 - [5%赤字是底线，还是乐观目标？法国两位部长为2027预算答辩](../videos/20261007-public-senat-budget-2027-ministers.md)
 - [省下的钱先被利息吃掉：法国财政监督机构拆解2027预算](../videos/20261007-public-senat-hcfp-budget-2027.md)
+- [老师从哪来，钱又从哪来？法国把教育让步放进债务账本](../videos/20261009-lci-education-budget-debt.md)
 - [谁杀死了法国工业？股东回报、企业出售与长期投资](../videos/20261003-public-senat-french-deindustrialization.md)
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
 - [2027大选经济首辩：七个人都说要救法国，账却完全不是一套](../videos/20260827-lci-medef-2027-economic-debate.md)

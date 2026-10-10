@@ -22,6 +22,7 @@
 
 ## 按专题
 
+- [青年就业、工作入口与代际承诺](topics/youth-employment-and-work.md)
 - [法国去工业化：能源、金融化与全球竞争](topics/french-deindustrialization.md)
 - [俄乌基础设施战与欧洲安全](topics/russia-ukraine-infrastructure-and-european-security.md)
 - [2026年高中生动员：教育诉求、暴力与国家回应](topics/2026-high-school-mobilization.md)
@@ -45,6 +46,13 @@
 
 ## 按人物
 
+- [Isabelle This Saint-Jean](people/isabelle-this-saint-jean.md)
+- [Roland Gillet](people/roland-gillet.md)
+- [Laurent Frajerman](people/laurent-frajerman.md)
+- [Stéphane Manigold](people/stephane-manigold.md)
+- [Suzanne Nijdam](people/suzanne-nijdam.md)
+- [Franck Morel](people/franck-morel.md)
+- [Florence Ihaddadene](people/florence-ihaddadene.md)
 - [Roland Lescure](people/roland-lescure.md)
 - [David Amiel](people/david-amiel.md)
 - [Amélie de Montchalin](people/amelie-de-montchalin.md)
@@ -168,6 +176,8 @@
 
 ## 按视频
 
+- 2026-10-09 · LCI · [老师从哪来，钱又从哪来？法国把教育让步放进债务账本](videos/20261009-lci-education-budget-debt.md)
+- 2026-10-07 · Public Sénat · [文凭越来越高，入口越来越窄：法国青年就业卡在哪里？](videos/20261007-public-senat-youth-unemployment.md)
 - 2026-10-07 · Public Sénat · [5%赤字是底线，还是乐观目标？法国两位部长为2027预算答辩](videos/20261007-public-senat-budget-2027-ministers.md)
 - 2026-10-07 · Public Sénat · [省下的钱先被利息吃掉：法国财政监督机构拆解2027预算](videos/20261007-public-senat-hcfp-budget-2027.md)
 - 2026-10-06 · France Culture · [高中生均花得不少，为什么教室还是挤？法国教育投入卡在工资结构与地域差距](videos/20261006-france-culture-lycee-spending-inequality.md)

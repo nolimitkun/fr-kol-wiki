@@ -14,3 +14,8 @@
 - [左翼初选首辩：公共补充医保与医疗支出](../videos/20260923-lci-left-primary-debate.md)
 - [2027预算答辩：社保赤字、病假与药品报销](../videos/20261007-public-senat-budget-2027-ministers.md)
 - [HCFP拆账：健康支出、财政乘数与未定措施](../videos/20261007-public-senat-hcfp-budget-2027.md)
+
+## 青年生活条件与医疗人才
+
+- [青年就业、工作入口与代际承诺](../topics/youth-employment-and-work.md)
+- [文凭越来越高，入口越来越窄：住房挤压医疗，培养又对不上缺口](../videos/20261007-public-senat-youth-unemployment.md)
