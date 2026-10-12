@@ -2,6 +2,11 @@
 
 覆盖法国国防战略、核威慑、军工、海外部署、欧洲安全、外交政策与战略自主。战争相关材料严格区分当事人观点、公开情报和已核验事实。
 
+## 以色列—巴勒斯坦与战争问责
+
+- [以色列选举、10月7日问责与巴勒斯坦前景](../topics/israel-election-october-7-accountability.md)
+- [战争还没结账，以色列先要投票：10月7日问责如何压住选举](../videos/20261007-public-senat-israel-election-accountability.md)
+
 ## 俄乌战争与欧洲安全
 
 - [俄乌基础设施战与欧洲安全](../topics/russia-ukraine-infrastructure-and-european-security.md)
