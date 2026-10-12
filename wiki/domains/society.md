@@ -2,6 +2,11 @@
 
 覆盖收入与生活成本、住房、交通、治安、移民与融合、人口、家庭、社会保障、城乡与海外省议题。
 
+## 媒体、专家与公共讨论
+
+- [智库、媒体与政治影响力](../topics/think-tanks-media-and-political-influence.md)
+- [谁在替政党生产主意？](../videos/20261011-france-culture-think-tanks-influence.md)
+
 ## 青年动员与公共秩序
 
 - [2026年高中生动员：教育诉求、暴力与国家回应](../topics/2026-high-school-mobilization.md)
@@ -50,4 +55,6 @@
 ## 群体、记忆与暴力
 
 - [“种族灭绝”概念、国际法门槛与追责](../topics/genocide-international-law.md)
+- [以色列选举、10月7日问责与巴勒斯坦前景](../topics/israel-election-october-7-accountability.md)
+- [战争还没结账，以色列先要投票](../videos/20261007-public-senat-israel-election-accountability.md)
 - [Dan Wang 谈侨民、监控与国家控制的边界](../videos/20260914-thinkerview-dan-wang-china-industry.md)

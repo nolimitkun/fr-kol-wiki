@@ -2,6 +2,11 @@
 
 覆盖法国宪政与第五共和国、政党与选举、公共政策、地方治理、欧盟政治及民主制度。具体争议拆分为 `topics/` 专题页，并列不同立场与时间线。
 
+## 知识生产与政治影响
+
+- [智库、媒体与政治影响力](../topics/think-tanks-media-and-political-influence.md)
+- [谁在替政党生产主意？法国智库争论独立、媒体与影响力](../videos/20261011-france-culture-think-tanks-influence.md)
+
 ## 社会运动与国家回应
 
 - [2026年高中生动员：教育诉求、暴力与国家回应](../topics/2026-high-school-mobilization.md)
@@ -72,3 +77,5 @@
 
 - [“种族灭绝”概念、国际法门槛与追责](../topics/genocide-international-law.md)
 - [Philippe Sands：这个概念为什么既不可少，也可能妨碍追责？](../videos/20250213-le-grand-continent-genocide-concept-philippe-sands.md)
+- [以色列选举、10月7日问责与巴勒斯坦前景](../topics/israel-election-october-7-accountability.md)
+- [战争还没结账，以色列先要投票](../videos/20261007-public-senat-israel-election-accountability.md)

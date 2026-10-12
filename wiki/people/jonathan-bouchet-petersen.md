@@ -1,6 +1,6 @@
 ---
 title: "Jonathan Bouchet-Petersen"
-updated: 2026-10-07
+updated: 2026-10-12
 ---
 
 # Jonathan Bouchet-Petersen
@@ -14,3 +14,11 @@ updated: 2026-10-07
 谈“斗争汇流”时，他同样压低预期：各组织正在声援，但距离 1968 年式学生—工人联合还很远。最后谈校舍，他从家庭和居住经验出发，直接说同属 Île-de-France 的 93 与 94 省投入差异明显；这一判断尚无节目内预算表支撑。（[00:29:43](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#002943)–[00:32:45](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#003245)，[00:42:54](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#004254)–[00:43:54](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#004354)）
 
 来源：[高中生的怒火会烧到别处吗？](../videos/20261006-public-senat-high-school-movement-convergence.md)
+
+## 2026-10-07：竞选被压缩成“Netanyahu 去或留”
+
+他把 Netanyahu 与选民的长期关系说成一笔安全交换：争议可以暂时容忍，前提是国家得到保护。10 月 7 日打破了承诺，但战争中的团结效应又延缓了政治清算。（[01:09:12](../../sources/public-senat/20261007-f4qS9bd61e8/transcript.md#010912)–[01:11:13](../../sources/public-senat/20261007-f4qS9bd61e8/transcript.md#011113)）
+
+他将竞选概括为“Netanyahu 停，还是继续”，同时提醒反对派由差异很大的力量组成，赢得席位和组出政府不是一回事。（[01:11:13](../../sources/public-senat/20261007-f4qS9bd61e8/transcript.md#011113)–[01:13:16](../../sources/public-senat/20261007-f4qS9bd61e8/transcript.md#011316)）
+
+来源：[战争还没结账，以色列先要投票](../videos/20261007-public-senat-israel-election-accountability.md)

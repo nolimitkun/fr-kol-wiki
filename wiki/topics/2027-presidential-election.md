@@ -1,6 +1,6 @@
 ---
 title: "2027总统选举：联盟与地方根基"
-updated: 2026-09-29
+updated: 2026-10-12
 ---
 
 # 2027总统选举：联盟与地方根基
@@ -27,3 +27,7 @@ updated: 2026-09-29
 - RN、LR及中间派在参议院表决中合作或划界的实际记录；
 - 社会党、生态党、共产党与LFI如何处理共同候选人和议会合作；
 - 地方选举人网络能否持续转化为全国竞选资源。
+
+## 政策从哪里来？
+
+[France Culture 的智库圆桌](../videos/20261011-france-culture-think-tanks-influence.md)补上一条竞选基础设施：当政党内部专题组变弱，智库会提供调查、政策选项、专家和媒体表达。它们能让竞选讨论更有材料，也让资金、利益和民主监督问题变得更重要。（[00:45:54](../../sources/france-culture/20261011-SAx9CGf8iDg/transcript.md#004554)–[00:49:57](../../sources/france-culture/20261011-SAx9CGf8iDg/transcript.md#004957)）

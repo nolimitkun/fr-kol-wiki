@@ -22,6 +22,8 @@
 
 ## 按专题
 
+- [智库、媒体与政治影响力](topics/think-tanks-media-and-political-influence.md)
+- [以色列选举、10月7日问责与巴勒斯坦前景](topics/israel-election-october-7-accountability.md)
 - [青年就业、工作入口与代际承诺](topics/youth-employment-and-work.md)
 - [法国去工业化：能源、金融化与全球竞争](topics/french-deindustrialization.md)
 - [俄乌基础设施战与欧洲安全](topics/russia-ukraine-infrastructure-and-european-security.md)
@@ -46,6 +48,12 @@
 
 ## 按人物
 
+- [Marie-Pierre de Bailliencourt](people/marie-pierre-de-bailliencourt.md)
+- [Gilles Finchelstein](people/gilles-finchelstein.md)
+- [Lucile Desmoulins](people/lucile-desmoulins.md)
+- [Frédéric Sawicki](people/frederic-sawicki.md)
+- [Alain Dieckhoff](people/alain-dieckhoff.md)
+- [Agnès Levallois](people/agnes-levallois.md)
 - [Isabelle This Saint-Jean](people/isabelle-this-saint-jean.md)
 - [Roland Gillet](people/roland-gillet.md)
 - [Laurent Frajerman](people/laurent-frajerman.md)
@@ -165,6 +173,8 @@
 
 ## 按机构
 
+- [Institut Montaigne](organizations/institut-montaigne.md)
+- [Fondation Jean-Jaurès](organizations/fondation-jean-jaures.md)
 - [Public Sénat](organizations/public-senat.md)
 - [法国高级公共财政委员会](organizations/haut-conseil-des-finances-publiques.md)
 - [LCI](organizations/lci.md)
@@ -176,6 +186,8 @@
 
 ## 按视频
 
+- 2026-10-11 · France Culture · [谁在替政党生产主意？法国智库争论独立、媒体与影响力](videos/20261011-france-culture-think-tanks-influence.md)
+- 2026-10-07 · Public Sénat · [战争还没结账，以色列先要投票：10月7日问责如何压住选举](videos/20261007-public-senat-israel-election-accountability.md)
 - 2026-10-09 · LCI · [老师从哪来，钱又从哪来？法国把教育让步放进债务账本](videos/20261009-lci-education-budget-debt.md)
 - 2026-10-07 · Public Sénat · [文凭越来越高，入口越来越窄：法国青年就业卡在哪里？](videos/20261007-public-senat-youth-unemployment.md)
 - 2026-10-07 · Public Sénat · [5%赤字是底线，还是乐观目标？法国两位部长为2027预算答辩](videos/20261007-public-senat-budget-2027-ministers.md)
