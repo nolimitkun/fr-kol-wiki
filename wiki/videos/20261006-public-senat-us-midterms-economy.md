@@ -26,13 +26,13 @@ updated: 2026-10-13
 
 ## 摘要
 
-四位嘉宾没有给出同一张美国账单。Thérèse Rebière 紧盯指标背后的分配：增长过度靠 AI 和金融投资，2025 年工资还有追赶通胀的成分，到了 2026 年却再次落后。Romuald Sciora 从纽约生活出发，账算得最疼：房租、医保和食品把看似不错的收入迅速吃光；他语气激烈，称特朗普没有制造全部问题，却让医疗削减、关税和战争把压力推高。Richard Werly 则故意泼冷水：他看到价格上涨，也看到股市、就业和“国家没有经济危机”的体感，提醒反特朗普者不要只读欧洲叙事。Steve Jourdin 用反讽收尾，把政府入股战略企业和派现金称作特朗普对传统共和党小政府逻辑的背离。争论的核心不是数字谁真谁假，而是宏观表现、家庭体感和政治叙事为何能同时成立。（[00:49:59](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#004959)–[01:00:10](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#010010)，[01:16:32](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#011632)–[01:20:37](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#012037)）
+四位嘉宾没有给出同一张美国账单。Thérèse Rebière 紧盯指标背后的分配：增长的一部分由 AI 支撑，2025 年工资还有追赶通胀的成分，到了 2026 年却再次落后。Romuald Sciora 从纽约生活出发，账算得最疼：房租、医保和食品把看似不错的收入迅速吃光；他语气激烈，称特朗普没有制造全部问题，却让医疗削减、关税和战争把压力推高。Richard Werly 则故意泼冷水：他看到价格上涨，也看到股市、就业和“国家没有经济危机”的体感，提醒反特朗普者不要只读欧洲叙事。Steve Jourdin 用反讽收尾，把政府入股战略企业和派现金称作特朗普对传统共和党小政府逻辑的背离。争论的核心不是数字谁真谁假，而是宏观表现、家庭体感和政治叙事为何能同时成立。（[00:49:59](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#004959)–[01:00:10](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#010010)，[01:16:32](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#011632)–[01:20:37](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#012037)）
 
 ## 经济“还行”，为什么家庭还是喘不过气？
 
-Rebière 先把增长拆开：她说美国增长仍为正，也强于法国，但相当部分来自 AI、科技和金融投资，未必创造足够就业，更不能直接说明购买力。她还区分 2025 与 2026：前一年工资上涨含有对拜登时期通胀的追赶，节目播出时工资增速又低于通胀。这些增速和因果均待美国官方数据核验。（[00:49:59](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#004959)–[00:55:07](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#005507)）
+Rebière 先把增长拆开：她说美国增长仍为正，也强于法国，但增长的一部分由 AI 行业支撑，未必创造足够就业，更不能直接说明购买力。她还区分 2025 与 2026：前一年工资上涨含有对拜登时期通胀的追赶，节目播出时工资增速又低于通胀。这些增速和因果均待美国官方数据核验。（[00:49:59](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#004959)–[00:55:07](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#005507)）
 
-Sciora 不报抽象均值，直接摊开纽约家庭预算。他假设一对夫妻月入 8,000 美元，再扣税、三居室租金和最低限度医保，几乎不剩孩子食品、交通和娱乐的钱。他也讲自己的药费从每月几十美元涨到上百美元。这是个人经验和示例预算，不能代表全美家庭，但很清楚地展示了“收入不低仍缺安全垫”的体感。（[00:56:07](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#005607)–[00:59:10](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#005910)）
+Sciora 不报抽象均值，直接摊开纽约家庭预算。他假设一对夫妻月入 8,000 美元，再扣税、两居室（父母一间卧室、两个孩子合住一间）的租金和最低限度医保，几乎不剩孩子食品、交通和娱乐的钱。他也讲自己的药费从每月几十美元涨到上百美元。这是个人经验和示例预算，不能代表全美家庭，但很清楚地展示了“收入不低仍缺安全垫”的体感。（[00:56:07](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#005607)–[00:59:10](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#005910)）
 
 Werly 的反方提醒同样重要。他在美国采访时听到食品和汽油变贵，却没有普遍听到“特朗普把经济搞坏”；股市上涨通过养老金和投资账户触达不少家庭，就业也仍存在。他的结论很克制：许多人确实受苦，但美国尚不能被描述为经济危机中的国家。（[00:52:01](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#005201)–[00:53:03](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#005303)，[00:59:10](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#005910)–[01:00:10](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#010010)）
 
