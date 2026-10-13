@@ -2,6 +2,16 @@
 
 追踪法国的公共债务、财政金融、储蓄、债券、资本市场与金融监管，重点解释政策、利率和市场波动怎样传到企业融资、家庭账本和公共服务。页面不构成投资或交易建议。
 
+## 利率、预期与稳定化
+
+- [货币政策怎样稳定经济：预期、规则与家庭消费](../topics/monetary-policy-stabilization.md)
+- [央行怎样稳住经济？Woodford 与 Hall 把预期、消费和规则装进模型](../videos/20261012-france-culture-nobel-woodford-hall.md)
+
+## 美国家庭资产与信贷
+
+- [美国中期选举的经济账：物价、关税与国家干预](../topics/us-midterms-economy.md)
+- [股市创新高，日子却更贵：美国中期选举要给特朗普的经济投什么票？](../videos/20261006-public-senat-us-midterms-economy.md)
+
 ## 债务、预算与融资
 
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)

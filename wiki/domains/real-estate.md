@@ -8,6 +8,11 @@
 - [文凭越来越高，入口越来越窄：法国青年就业卡在哪里？](../videos/20261007-public-senat-youth-unemployment.md)
 - [老师从哪来，钱又从哪来？住房与不稳定就业怎样压住生育](../videos/20261009-lci-education-budget-debt.md)
 
+## 美国住房负担与信贷
+
+- [美国中期选举的经济账：物价、关税与国家干预](../topics/us-midterms-economy.md)
+- [股市创新高，日子却更贵：房价、约7%房贷与租住压力](../videos/20261006-public-senat-us-midterms-economy.md)
+
 ## 住房与2027选举
 
 - [左翼初选首辩：五个人谈团结，最后却在是否联合不屈法国上吵开了](../videos/20260923-lci-left-primary-debate.md)

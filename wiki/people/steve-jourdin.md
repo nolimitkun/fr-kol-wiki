@@ -1,6 +1,6 @@
 ---
 title: "Steve Jourdin"
-updated: 2026-10-10
+updated: 2026-10-13
 ---
 
 # Steve Jourdin
@@ -18,3 +18,9 @@ updated: 2026-10-10
 他集中用调查数字反驳“Z世代懒惰”：工作仍是多数青年独立、融入社会和实现自我的重要来源，他们要的是自主、有趣的内容、良好关系和生活平衡。他最后把代际冲突压成一句话：青年可能不是更懒，只是更不愿接受父母一代习惯忍受的条件。调查原文与样本仍待核验。（[00:11:11](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#001111)–[00:13:12](../../sources/public-senat/20261007-fuoHMkfgANU/transcript.md#001312)）
 
 来源：[文凭越来越高，入口越来越窄](../videos/20261007-public-senat-youth-unemployment.md)
+
+## 2026-10-06：特朗普不是社会主义者，但共和党的国家观变了
+
+他用反讽串起政府入股芯片、锂和稀土企业，以及向成年人派发 5,000 美元的竞选承诺，把特朗普叫作“不自知的同志”。笑点之后的判断是：这不是特朗普变成社会主义者，而是共和党正在离开里根式“小政府、少干预”语言。（[01:16:32](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#011632)–[01:18:34](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#011834)）
+
+来源：[股市创新高，日子却更贵](../videos/20261006-public-senat-us-midterms-economy.md)

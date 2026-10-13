@@ -1,6 +1,6 @@
 ---
 title: "France Culture"
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # France Culture
@@ -9,6 +9,7 @@ updated: 2026-10-12
 
 ## 已收录
 
+- [央行怎样稳住经济？Woodford 与 Hall 把预期、消费和规则装进模型](../videos/20261012-france-culture-nobel-woodford-hall.md)（宏观稳定化、货币政策与家庭消费专题，2026-10-12）
 - [谁在替政党生产主意？法国智库争论独立、媒体与影响力](../videos/20261011-france-culture-think-tanks-influence.md)（智库、媒体与政策影响圆桌，2026-10-11）
 - [中美较量不只看关税：时间、能源、芯片和规则都在同一张桌上](../videos/20260924-france-culture-china-us-rivalry.md)（地缘政治圆桌，2026-09-24）
 - [马克龙还能左右法国政治吗？任期末的外交牌与国内账](../videos/20260925-france-culture-macron-end-of-term.md)（政治分析，2026-09-25）

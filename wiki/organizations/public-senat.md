@@ -1,6 +1,6 @@
 ---
 title: "Public Sénat"
-updated: 2026-10-12
+updated: 2026-10-13
 ---
 
 # Public Sénat
@@ -9,6 +9,7 @@ updated: 2026-10-12
 
 ## 已收录
 
+- [股市创新高，日子却更贵：美国中期选举要给特朗普的经济投什么票？](../videos/20261006-public-senat-us-midterms-economy.md)（美国物价、关税与中期选举圆桌，2026-10-06；同一上传前半段为已收录高中危机节目的近重复内容）
 - [战争还没结账，以色列先要投票：10月7日问责如何压住选举](../videos/20261007-public-senat-israel-election-accountability.md)（以色列选举、战争问责与巴勒斯坦前景圆桌，2026-10-07；同一上传的前半段为已收录节目的重复内容）
 - [文凭越来越高，入口越来越窄：法国青年就业卡在哪里？](../videos/20261007-public-senat-youth-unemployment.md)（青年就业圆桌，2026-10-07）
 - [5%赤字是底线，还是乐观目标？法国两位部长为2027预算答辩](../videos/20261007-public-senat-budget-2027-ministers.md)（政府预算听证，2026-10-07）
