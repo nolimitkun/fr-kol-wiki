@@ -22,6 +22,8 @@
 
 ## 按专题
 
+- [美国中期选举的经济账：物价、关税与国家干预](topics/us-midterms-economy.md)
+- [货币政策怎样稳定经济：预期、规则与家庭消费](topics/monetary-policy-stabilization.md)
 - [智库、媒体与政治影响力](topics/think-tanks-media-and-political-influence.md)
 - [以色列选举、10月7日问责与巴勒斯坦前景](topics/israel-election-october-7-accountability.md)
 - [青年就业、工作入口与代际承诺](topics/youth-employment-and-work.md)
@@ -48,6 +50,11 @@
 
 ## 按人物
 
+- [Béatrice Cherrier](people/beatrice-cherrier.md)
+- [Pierrick Clerc](people/pierrick-clerc.md)
+- [Thérèse Rebière](people/therese-rebiere.md)
+- [Romuald Sciora](people/romuald-sciora.md)
+- [Richard Werly](people/richard-werly.md)
 - [Marie-Pierre de Bailliencourt](people/marie-pierre-de-bailliencourt.md)
 - [Gilles Finchelstein](people/gilles-finchelstein.md)
 - [Lucile Desmoulins](people/lucile-desmoulins.md)
@@ -186,6 +193,8 @@
 
 ## 按视频
 
+- 2026-10-12 · France Culture · [央行怎样稳住经济？Woodford 与 Hall 把预期、消费和规则装进模型](videos/20261012-france-culture-nobel-woodford-hall.md)
+- 2026-10-06 · Public Sénat · [股市创新高，日子却更贵：美国中期选举要给特朗普的经济投什么票？](videos/20261006-public-senat-us-midterms-economy.md)
 - 2026-10-11 · France Culture · [谁在替政党生产主意？法国智库争论独立、媒体与影响力](videos/20261011-france-culture-think-tanks-influence.md)
 - 2026-10-07 · Public Sénat · [战争还没结账，以色列先要投票：10月7日问责如何压住选举](videos/20261007-public-senat-israel-election-accountability.md)
 - 2026-10-09 · LCI · [老师从哪来，钱又从哪来？法国把教育让步放进债务账本](videos/20261009-lci-education-budget-debt.md)

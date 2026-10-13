@@ -4,7 +4,10 @@
 
 ## 当前收录
 
-银行业专题正在扩充。现有经济政策内容涉及公共信用、债务与融资背景，可先参见：[金融](finance.md)。
+- [货币政策怎样稳定经济：预期、规则与家庭消费](../topics/monetary-policy-stabilization.md)
+- [央行怎样稳住经济？Woodford 与 Hall 把预期、消费和规则装进模型](../videos/20261012-france-culture-nobel-woodford-hall.md)
+
+当前材料主要解释央行怎样借利率规则和前瞻指引影响预期，以及为什么央行不愿完全放弃裁量。商业银行、信贷传导与法国银行业仍待补充。
 
 ## 后续重点
 

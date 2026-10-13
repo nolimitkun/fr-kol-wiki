@@ -1,6 +1,6 @@
 ---
 title: "中美系统性竞争：供应链、规则与安全红线"
-updated: 2026-09-30
+updated: 2026-10-13
 ---
 
 # 中美系统性竞争：供应链、规则与安全红线
@@ -35,3 +35,7 @@ updated: 2026-09-30
 [Public Sénat 圆桌](../videos/20260929-public-senat-china-us-truce.md)补上国内政治和具体商品。中国可用大豆采购影响美国农村选区，也可借稀土加工集中度施压；美国与盟友则在先进芯片链和西太平洋军事布局上仍有优势。双方都能卡住对方，也都在寻找替代路线。（[00:13:18](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#001318)–[00:20:36](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#002036)，[00:24:40](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#002440)–[00:25:41](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#002541)，[00:31:45](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#003145)–[00:33:46](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#003346)）
 
 圆桌还把 AI 的双重性讲得很清楚：它既是生产率与军事竞赛工具，也可能造成事故、突破信息控制。台湾则把芯片、第一岛链和美国国内政治连在一起，无法仅按贸易谈判筹码理解。（[00:21:36](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#002136)–[00:34:48](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#003448)）
+
+## 关税怎样变成美国国内政治？
+
+[美国中期选举经济圆桌](../videos/20261006-public-senat-us-midterms-economy.md)补上关税在美国国内的传播逻辑。保护主义容易包装成“重新控制边境”，特朗普还把税率当作逼贸易伙伴让步的工具；但中国及其他伙伴的反制、企业成本和消费者价格会让这把武器回弹。节目中的税率、贸易和就业数字均待官方材料核验。（[01:05:15](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#010515)–[01:13:28](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#011328)）

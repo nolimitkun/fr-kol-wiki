@@ -2,6 +2,11 @@
 
 覆盖法国宪政与第五共和国、政党与选举、公共政策、地方治理、欧盟政治及民主制度。具体争议拆分为 `topics/` 专题页，并列不同立场与时间线。
 
+## 美国选举与经济叙事
+
+- [美国中期选举的经济账：物价、关税与国家干预](../topics/us-midterms-economy.md)
+- [股市创新高，日子却更贵：美国中期选举要给特朗普的经济投什么票？](../videos/20261006-public-senat-us-midterms-economy.md)
+
 ## 知识生产与政治影响
 
 - [智库、媒体与政治影响力](../topics/think-tanks-media-and-political-influence.md)

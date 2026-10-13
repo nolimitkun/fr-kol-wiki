@@ -1,6 +1,16 @@
 # 经济
 
 覆盖财政、税收、就业、产业、企业、贸易、住房、物价、养老金与法国在欧元区的经济议题。数字性断言优先以 INSEE、Banque de France 和 Cour des comptes 资料核验。
+
+## 货币政策与家庭消费
+
+- [货币政策怎样稳定经济：预期、规则与家庭消费](../topics/monetary-policy-stabilization.md)
+- [央行怎样稳住经济？Woodford 与 Hall 把预期、消费和规则装进模型](../videos/20261012-france-culture-nobel-woodford-hall.md)
+
+## 美国物价、贸易与选举
+
+- [美国中期选举的经济账：物价、关税与国家干预](../topics/us-midterms-economy.md)
+- [股市创新高，日子却更贵：美国中期选举要给特朗普的经济投什么票？](../videos/20261006-public-senat-us-midterms-economy.md)
 ## 青年就业与工作入口
 
 - [青年就业、工作入口与代际承诺](../topics/youth-employment-and-work.md)
