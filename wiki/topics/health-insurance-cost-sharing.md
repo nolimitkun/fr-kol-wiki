@@ -27,6 +27,6 @@ updated: 2026-10-14
 
 ## 2027 社保预算：节支会停在公共账上吗？
 
-[参议院听证](../videos/20261013-public-senat-social-security-budget.md)把同一问题推进到具体预算。政府要把报销集中到“疗效已证明”的药品，提高医疗免赔额上限，并通过谈判压低病假成本。David Amiel 说，这样才能保住基层就医、医院和创新治疗；反对者则担心基本医保少付后，补充保险、保费和个人自付会接手，低收入患者还可能推迟就医。（[00:31:50](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#003150)–[00:34:54](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#003454)，[00:50:14](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#005014)–[00:51:17](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#005117)）
+[参议院听证](../videos/20261013-public-senat-social-security-budget.md)把同一问题推进到具体预算。政府要把报销集中到“疗效已证明”的药品，提高医疗免赔额上限，并通过谈判压低病假成本。David Amiel 说，这样才能保住基层就医、医院和创新治疗；反对者则担心基本医保少付后，补充保险、保费和个人自付会接手，低收入患者还可能推迟就医。（[00:08:16](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#000816)–[00:09:19](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#000919)，[00:31:50](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#003150)–[00:34:54](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#003454)，[00:50:14](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#005014)–[00:51:17](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#005117)）
 
 这场听证仍没有回答三项核心问题：各收入组会多付多少，补充保险会怎样调价，短期少就医会不会形成日后更高成本。相关预算、医疗和保险断言均待官方资料核验。
