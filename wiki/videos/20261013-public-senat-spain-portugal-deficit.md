@@ -6,7 +6,7 @@ status: draft
 channel: public-senat
 people: [anne-sophie-alsif, ana-navarro-pedro, simon-pierre-sengayrac, jonathan-bouchet-petersen]
 organizations: [public-senat, fondation-jean-jaures]
-domains: [economy, finance, banking, real-estate, politics, society]
+domains: [economy, finance, politics, society]
 topics: [france-public-debt-and-growth]
 viewpoint: [comparative-macroeconomics, social-democratic-demand-policy, fiscal-consolidation-debate]
 updated: 2026-10-14
@@ -50,7 +50,7 @@ Alsif 说，老龄化让医疗等行业出现“数学上的”劳动力缺口�
 
 ## 法国的问题不是会不会破产，而是钱花在哪里
 
-Alsif 不接受“法国即将希腊化”的类比。她列出欧洲央行和欧洲稳定机制，认为欧元区已有危机工具；但她也承认法国付出的风险溢价在上升。她把市场疑虑归到两件事：债务更多用于经常支出而非形成资产，议会也拿不出可信的长期轨迹。（[00:37:43](../../sources/public-senat/20261013-18UQIYUf5fs/transcript.md#003743)–[00:40:45](../../sources/public-senat/20261013-18UQIYUf5fs/transcript.md#004045)）这段讨论也把利率传导到住房和银行信贷：债务融资变贵，会推高按揭、消费信贷和企业现金成本；节目中的利率与规模数字均待核验。（[00:37:43](../../sources/public-senat/20261013-18UQIYUf5fs/transcript.md#003743)–[00:38:44](../../sources/public-senat/20261013-18UQIYUf5fs/transcript.md#003844)）
+Alsif 不接受“法国即将希腊化”的类比。她列出欧洲央行和欧洲稳定机制，认为欧元区已有危机工具；但她也承认法国付出的风险溢价在上升。她把市场疑虑归到两件事：债务更多用于经常支出而非形成资产，议会也拿不出可信的长期轨迹。（[00:37:43](../../sources/public-senat/20261013-18UQIYUf5fs/transcript.md#003743)–[00:40:45](../../sources/public-senat/20261013-18UQIYUf5fs/transcript.md#004045)）
 
 ## 关键数字与事实性断言：待核验
 
@@ -87,4 +87,4 @@ Alsif 不接受“法国即将希腊化”的类比。她列出欧洲央行和�
 - 人物：[Anne-Sophie Alsif](../people/anne-sophie-alsif.md)、[Ana Navarro Pedro](../people/ana-navarro-pedro.md)、[Simon-Pierre Sengayrac](../people/simon-pierre-sengayrac.md)、[Jonathan Bouchet-Petersen](../people/jonathan-bouchet-petersen.md)
 - 机构：[Public Sénat](../organizations/public-senat.md)、[Fondation Jean-Jaurès](../organizations/fondation-jean-jaures.md)
 - 专题：[法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
-- 领域：[经济](../domains/economy.md)、[金融](../domains/finance.md)、[银行](../domains/banking.md)、[房地产](../domains/real-estate.md)、[政治](../domains/politics.md)、[社会与民生](../domains/society.md)
+- 领域：[经济](../domains/economy.md)、[金融](../domains/finance.md)、[政治](../domains/politics.md)、[社会与民生](../domains/society.md)

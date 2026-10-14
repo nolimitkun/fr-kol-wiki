@@ -45,7 +45,7 @@ Amiel 的开场仍是他熟悉的硬框架：社保支出不是冻结，而是�
 
 政府把优先次序说得很清楚：基层就医和医院投资优先，药品只报销“疗效已证明”的部分，医疗免赔额年度上限从 50 欧元升到 70 欧元。Amiel 称这不是退出医疗，而是把钱集中到有效治疗和创新。（[00:31:50](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#003150)–[00:34:54](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#003454)）
 
-多名参议员提出相反传导链：基本医保少付，补充保险和保费就可能多付；自付增加会让低收入者推迟就医，眼前节余可能变成日后更贵的治疗。Amiel 没有给出分布影响，只重申 2026 年医保支出目标守住了，2027 年措施包括已经实施的免赔额和共付比例调整，以及每年约增 10 亿欧元的病假支出改革。（[00:24:43](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#002443)–[00:27:47](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#002747)，[00:50:14](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#005014)–[00:51:17](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#005117)，[01:04:34](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#010434)–[01:06:36](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#010636)）
+多名参议员提出相反传导链：基本医保少付，补充保险和保费就可能多付；自付增加会让低收入者推迟就医，眼前节余可能变成日后更贵的治疗。Amiel 没有给出分布影响，只重申 2026 年医保支出目标守住了，2027 年措施包括已经实施的免赔额和共付比例调整，以及改革以压住当前每年约增 10 亿欧元的病假支出。（[00:24:43](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#002443)–[00:27:47](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#002747)，[00:50:14](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#005014)–[00:51:17](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#005117)，[01:04:34](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#010434)–[01:06:36](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#010636)）
 
 ## 企业减免：就业保险，还是低工资陷阱？
 
