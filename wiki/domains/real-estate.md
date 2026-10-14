@@ -5,6 +5,7 @@
 ## 青年住房与就业流动
 
 - [青年就业、工作入口与代际承诺](../topics/youth-employment-and-work.md)
+- [先紧缩，还是先增长？南欧住房压力与法国按揭利率](../videos/20261013-public-senat-spain-portugal-deficit.md)
 - [文凭越来越高，入口越来越窄：法国青年就业卡在哪里？](../videos/20261007-public-senat-youth-unemployment.md)
 - [老师从哪来，钱又从哪来？住房与不稳定就业怎样压住生育](../videos/20261009-lci-education-budget-debt.md)
 

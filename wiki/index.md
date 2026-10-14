@@ -50,6 +50,8 @@
 
 ## 按人物
 
+- [Ana Navarro Pedro](people/ana-navarro-pedro.md)
+- [Simon-Pierre Sengayrac](people/simon-pierre-sengayrac.md)
 - [Béatrice Cherrier](people/beatrice-cherrier.md)
 - [Pierrick Clerc](people/pierrick-clerc.md)
 - [Thérèse Rebière](people/therese-rebiere.md)
@@ -193,6 +195,8 @@
 
 ## 按视频
 
+- 2026-10-13 · Public Sénat · [社保赤字砍一半，账单给谁？法国参议院追问养老金、医疗与缴费减免](videos/20261013-public-senat-social-security-budget.md)
+- 2026-10-13 · Public Sénat · [先紧缩，还是先增长？西班牙、葡萄牙给法国的答案并不相同](videos/20261013-public-senat-spain-portugal-deficit.md)
 - 2026-10-12 · France Culture · [央行怎样稳住经济？Woodford 与 Hall 把预期、消费和规则装进模型](videos/20261012-france-culture-nobel-woodford-hall.md)
 - 2026-10-06 · Public Sénat · [股市创新高，日子却更贵：美国中期选举要给特朗普的经济投什么票？](videos/20261006-public-senat-us-midterms-economy.md)
 - 2026-10-11 · France Culture · [谁在替政党生产主意？法国智库争论独立、媒体与影响力](videos/20261011-france-culture-think-tanks-influence.md)

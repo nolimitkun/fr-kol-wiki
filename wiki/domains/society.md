@@ -43,11 +43,13 @@
 ## 医保、病假与风险共担
 
 - [医保分工、补充保险与病假成本](../topics/health-insurance-cost-sharing.md)
+- [社保赤字砍一半，账单给谁？](../videos/20261013-public-senat-social-security-budget.md)
 - [眼镜、病假、互助保险](../videos/20260924-lci-health-insurance-reform.md)
 
 ## 退休与公共服务
 
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
+- [先紧缩，还是先增长？南欧工资、移民与紧缩代价](../videos/20261013-public-senat-spain-portugal-deficit.md)
 - [税加了，债也没降：法国该先省钱、减税，还是投资教育？](../videos/20260929-lci-debt-taxes-growth.md)
 - [2027预算答辩：福利、养老金与地方公共服务由谁分担](../videos/20261007-public-senat-budget-2027-ministers.md)
 - [HCFP拆解2027预算的分配与增长风险](../videos/20261007-public-senat-hcfp-budget-2027.md)

@@ -1,6 +1,6 @@
 ---
 title: "Fondation Jean-Jaurès"
-updated: 2026-10-12
+updated: 2026-10-14
 ---
 
 # Fondation Jean-Jaurès
@@ -9,4 +9,5 @@ updated: 2026-10-12
 
 ## 本库材料
 
+- [先紧缩，还是先增长？西班牙、葡萄牙给法国的答案并不相同](../videos/20261013-public-senat-spain-portugal-deficit.md)
 - [谁在替政党生产主意？法国智库争论独立、媒体与影响力](../videos/20261011-france-culture-think-tanks-influence.md)
