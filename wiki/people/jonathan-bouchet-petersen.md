@@ -1,6 +1,6 @@
 ---
 title: "Jonathan Bouchet-Petersen"
-updated: 2026-10-12
+updated: 2026-10-14
 ---
 
 # Jonathan Bouchet-Petersen
@@ -22,3 +22,9 @@ updated: 2026-10-12
 他将竞选概括为“Netanyahu 停，还是继续”，同时提醒反对派由差异很大的力量组成，赢得席位和组出政府不是一回事。（[01:11:13](../../sources/public-senat/20261007-f4qS9bd61e8/transcript.md#011113)–[01:13:16](../../sources/public-senat/20261007-f4qS9bd61e8/transcript.md#011316)）
 
 来源：[战争还没结账，以色列先要投票](../videos/20261007-public-senat-israel-election-accountability.md)
+
+## 2026-10-13：每听见“奇迹”，先问谁的工资
+
+他在经济学家之间扮演分配账的追问者。西班牙和葡萄牙的增长、赤字都好看，他却反复把讨论拉回低工资和不平等。他也观察移民话语的政治落差：法国主流政党常承认企业缺人，却很少像 Pedro Sánchez 那样公开给移民正面价值；极右翼执政后又可能因用工现实软化口号。（[00:23:30](../../sources/public-senat/20261013-18UQIYUf5fs/transcript.md#002330)–[00:24:30](../../sources/public-senat/20261013-18UQIYUf5fs/transcript.md#002430)，[00:26:32](../../sources/public-senat/20261013-18UQIYUf5fs/transcript.md#002632)–[00:30:37](../../sources/public-senat/20261013-18UQIYUf5fs/transcript.md#003037)）
+
+来源：[先紧缩，还是先增长？](../videos/20261013-public-senat-spain-portugal-deficit.md)

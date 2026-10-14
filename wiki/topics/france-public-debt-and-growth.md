@@ -1,6 +1,6 @@
 ---
 title: "法国公共债务、税收与增长路径"
-updated: 2026-10-09
+updated: 2026-10-14
 ---
 
 # 法国公共债务、税收与增长路径
@@ -40,3 +40,13 @@ Christian Saint-Étienne 把问题说得更政治化：法德利差扩大不是�
 [10月9日 LCI 圆桌](../videos/20261009-lci-education-budget-debt.md)追踪预算委员会撤回或扩大多项税收安排。节目把静态影响合计为接近四十亿欧元，但也提醒委员会表决不是最终法律文本。Stéphane Manigold 支持保护加班收入，却把退休和其他税务退让称为选举算计；Roland Gillet 从现收现付养老金与风险溢价追问代际成本；Isabelle This Saint-Jean 则要求避免只看削支，保留增长型投资并让巨额继承承担更多修复成本。（[00:28:33](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#002833)–[00:40:43](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#004043)）
 
 圆桌最后用 Édouard Philippe 的生育补助方案测试财政可信度。嘉宾并不否认青年住房、生育和代际制度问题，却要求把三百五十欧元起、随收入递减的补助与三千欧元减税的资金来源、目标人群和效果证据同时拿出来。这把债务专题重新接回一个分配问题：财政纪律不是抽象总额，而是谁仍能得到支出、谁先失去优惠。（[00:51:56](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#005156)–[01:01:06](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#010106)）
+
+## 南欧对照：不是“紧缩成功”四个字
+
+[西班牙、葡萄牙圆桌](../videos/20261013-public-senat-spain-portugal-deficit.md)把法国争论放进一个更长的时间轴。Anne-Sophie Alsif 区分工资与消费带来的短期需求、生产性投资留下的长期产能；Ana Navarro Pedro 则用企业关闭、人口外流和个人见闻，反对把葡萄牙恢复归功于早年紧缩。Simon-Pierre Sengayrac 的说法更直接：紧缩压低增长时，会反过来妨碍减债。（[00:07:06](../../sources/public-senat/20261013-18UQIYUf5fs/transcript.md#000706)–[00:10:11](../../sources/public-senat/20261013-18UQIYUf5fs/transcript.md#001011)，[00:14:20](../../sources/public-senat/20261013-18UQIYUf5fs/transcript.md#001420)–[00:20:25](../../sources/public-senat/20261013-18UQIYUf5fs/transcript.md#002025)）
+
+这组材料不能证明某个国家模式可复制，却让法国的选择更具体：减债速度多快，哪些投资不能砍，工资与移民怎样补需求和劳动力，以及债务究竟形成资产还是只填经常支出。圆桌引用的南欧财政、就业和欧盟资金数据仍待官方资料核验。
+
+## 社保预算：同一个总额，至少四种账单
+
+[社保预算听证](../videos/20261013-public-senat-social-security-budget.md)进一步展示“怎么减”不是技术细节。政府拟冻结部分养老金、提高医疗自付、调整雇主缴费减免并压病假成本；参议员则提出资本收入、遗产、股息或恢复退休改革等替代方案。David Amiel 坚持赤字目标不动、措施可换，但对医疗目标的压力测试、家庭分布影响和 ACOSS 融资后备方案交代有限。（[00:08:16](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#000816)–[00:09:19](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#000919)，[00:13:26](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#001326)–[00:20:37](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#002037)，[00:24:43](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#002443)–[00:29:49](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#002949)，[00:45:10](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#004510)–[00:46:10](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#004610)，[00:57:26](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#005726)–[00:59:30](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#005930)）
