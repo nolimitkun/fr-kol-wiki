@@ -13,6 +13,6 @@ updated: 2026-10-15
 
 ## 2026-10-14 养老金与代际分配
 
-她把部委养老金数据的政治作用说得很直：信息过去零散到无法被公民理解，如今集中公布既是透明，也是为下一轮退休改革铺路。她更关心公共服务的机会成本——教育预算里用于既有退休承诺的钱，不能同时拿去给在职教师。谈方案时，她支持按缴费年限而非单一法定年龄，并愿意接受个人也承担一部分努力。（[00:11:28](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001128)–[00:14:30](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001430)，[00:50:04](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#005004)–[00:51:06](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#005106)）
+她把部委养老金数据的政治作用说得很直：信息过去零散到无法被公民理解，如今集中公布既是透明，也是为下一轮退休改革铺路。她更关心公共服务的机会成本——教育预算里用于既有退休承诺的钱，不能同时拿去给在职教师。谈到代际分担时，她表示自己也愿意作出努力。（[00:11:28](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001128)–[00:14:30](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001430)，[00:50:04](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#005004)–[00:51:06](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#005106)）
 
 来源：[养老金藏进部委预算后，谁来买单？](../videos/20261014-lci-public-pensions-generations.md)
