@@ -20,6 +20,7 @@
 ## 公共债务、税收与增长
 
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
+- [养老金藏进部委预算后，谁来买单？](../videos/20261014-lci-public-pensions-generations.md)
 - [先紧缩，还是先增长？西班牙、葡萄牙给法国的答案并不相同](../videos/20261013-public-senat-spain-portugal-deficit.md)
 - [社保赤字砍一半，账单给谁？](../videos/20261013-public-senat-social-security-budget.md)
 - [税加了，债也没降：法国该先省钱、减税，还是投资教育？](../videos/20260929-lci-debt-taxes-growth.md)

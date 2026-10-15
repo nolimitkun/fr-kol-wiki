@@ -50,6 +50,10 @@
 
 ## 按人物
 
+- [François Langlais](people/francois-langlais.md)
+- [Christian de Boissieu](people/christian-de-boissieu.md)
+- [Benjamin Coria](people/benjamin-coria.md)
+- [Bruno Le Maire](people/bruno-le-maire.md)
 - [Ana Navarro Pedro](people/ana-navarro-pedro.md)
 - [Simon-Pierre Sengayrac](people/simon-pierre-sengayrac.md)
 - [Béatrice Cherrier](people/beatrice-cherrier.md)
@@ -195,6 +199,8 @@
 
 ## 按视频
 
+- 2026-10-15 · Public Sénat · [三千名替补教师够不够？法国教育部长为缺课、校舍与高中危机答辩](videos/20261015-public-senat-education-minister-hearing.md)
+- 2026-10-14 · LCI · [养老金藏进部委预算后，谁来买单？法国争论公务员退休、青年与债务](videos/20261014-lci-public-pensions-generations.md)
 - 2026-10-13 · Public Sénat · [社保赤字砍一半，账单给谁？法国参议院追问养老金、医疗与缴费减免](videos/20261013-public-senat-social-security-budget.md)
 - 2026-10-13 · Public Sénat · [先紧缩，还是先增长？西班牙、葡萄牙给法国的答案并不相同](videos/20261013-public-senat-spain-portugal-deficit.md)
 - 2026-10-12 · France Culture · [央行怎样稳住经济？Woodford 与 Hall 把预期、消费和规则装进模型](videos/20261012-france-culture-nobel-woodford-hall.md)

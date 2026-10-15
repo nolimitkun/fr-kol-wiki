@@ -2,6 +2,12 @@
 
 本专题并列四种很不一样的镜头。France Culture 让高中生从缺教师、家庭差异、Parcoursup 和碎片化课表讲起，又请教育经济学者拆开“高中生均支出高”的口径；LCI 的评论圆桌讨论外来破坏者、国家能力与政治组织，议员圆桌则把同一危机变成执政党、RN 与 LFI 的责任之争；Public Sénat 继续追问警务强度和运动能否连接其他社会不满。几种镜头互相补足，也互相纠偏：只听学生经验会漏掉现场安全，只看暴力画面则会让长期教育问题从画面外消失。
 
+## 10月15日：部长拿出调度方案，参议员追问制度为什么先失灵
+
+[教育部长参议院听证](../videos/20261015-public-senat-education-minister-hearing.md)给“三千名替补”补上了行政解释。Édouard Geffray 说，学区过去按学科分栏管理替补，缺少学校整体视图；新工具找出约三千名未在班级授课的 TZR，多数正被派出，另增聘 920 个全时当量处理稀缺学科。参议员的追问没有停在人数：未续聘合同教师与重新招人是否矛盾，人口下降应削编还是缩班，长期停课又怎样补回。（[00:11:09](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#001109)–[00:15:11](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#001511)，[01:37:45](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#013745)–[01:44:54](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#014454)）
+
+听证也让“倾听”有了可检查的承诺。学生投稿据称会按学校和大区返还，清理个人资料后开放数据；职业高中生在代表机构中的席位也将增加。但从意见到预算仍缺一段：部长只承诺结合投稿提出预算修正，没有列出逐项采纳标准。动员、伤员、损失课时、教师到岗及预算数字均缺仓库内同期官方资料，仍待核验。（[00:52:50](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#005250)–[00:55:54](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#005554)，[02:01:08](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#020108)–[02:03:08](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#020308)）
+
 ## 10月9日：三千名替补从哪里来？
 
 [LCI 圆桌](../videos/20261009-lci-education-budget-debt.md)把政府调动三千名 TZR 的承诺拆成两问。Laurent Frajerman 说，替补教师暂时没有匹配缺口，不等于拿钱不工作；若把不同学科的人临时派去辅导和看管，政府可能只修了在校人数。Julien Arnaud 则提醒，调动仍需学区行政安排，发布一个大数字却不解释来源，会让学生更怀疑此前为什么一直缺课。（[00:03:06](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#000306)–[00:06:11](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#000611)，[00:17:23](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#001723)–[00:19:25](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#001925)）
@@ -64,6 +70,7 @@ Tanguy 和 Thévenot 支持追究未成年人父母的赔偿责任，后者直�
 
 ## 视频
 
+- [三千名替补教师够不够？法国教育部长为缺课、校舍与高中危机答辩](../videos/20261015-public-senat-education-minister-hearing.md)（Public Sénat，2026-10-15）
 - [从缺课到18点40分：法国高中生为什么说学校让人喘不过气？](../videos/20261002-france-culture-lycee-pressure.md)（France Culture，2026-10-02）
 - [高中生动员变成治安危机？LCI争论暴力、诉求与国家失灵](../videos/20261002-lci-high-school-violence.md)（LCI，2026-10-02）
 - [先恢复秩序，还是先回应学生？三名议员把高中危机吵成责任之争](../videos/20261002-lci-high-school-political-debate.md)（LCI，2026-10-02）
