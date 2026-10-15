@@ -1,9 +1,9 @@
 ---
-title: "François Langlais"
+title: "François Lenglet"
 updated: 2026-10-15
 ---
 
-# François Langlais
+# François Lenglet
 
 节目介绍他为 TF1-LCI 经济评论员；播出日职务待官方一手来源核验。
 

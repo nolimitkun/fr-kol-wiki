@@ -53,6 +53,6 @@ Christian Saint-Étienne 把问题说得更政治化：法德利差扩大不是�
 
 ## 公务员养老金：公开成本，还是重命名赤字？
 
-[LCI 圆桌](../videos/20261014-lci-public-pensions-generations.md)围绕一组按部委摊开的养老金数据形成两套解释。François Langlais 和 Christian de Boissieu 认为，国家填补公务员养老账户的资金压缩了教育等部门的政策空间，也说明退休承诺没有充分融资。Benjamin Coria 则要求把公务员较低在职工资、就业保障和退休待遇看作完整契约，反对把雇主成本直接改称“隐藏赤字”。（[00:05:15](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#000515)–[00:11:28](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001128)，[00:15:30](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001530)–[00:19:38](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001938)）
+[LCI 圆桌](../videos/20261014-lci-public-pensions-generations.md)围绕一组按部委摊开的养老金数据形成两套解释。François Lenglet 和 Christian de Boissieu 认为，国家填补公务员养老账户的资金压缩了教育等部门的政策空间，也说明退休承诺没有充分融资。Benjamin Coriat 则要求把公务员较低在职工资、就业保障和退休待遇看作完整契约，反对把雇主成本直接改称“隐藏赤字”。（[00:05:15](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#000515)–[00:11:28](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001128)，[00:15:30](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001530)–[00:19:38](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001938)）
 
 改革处方也分叉。一边主张现退休者接受部分购买力损失、青年增加劳动，并逐步加入积累制；另一边要求扩大税基，把高财富和税收优惠一并纳入。双方都诉诸增长和工业政策，却没有解决过渡期由谁先承担成本。节目引用的养老金账户、支出占比和宏观预测缺少仓库内同期官方资料，仍待核验。（[00:40:40](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#004040)–[00:52:07](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#005207)）

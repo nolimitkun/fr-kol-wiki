@@ -50,9 +50,9 @@
 
 ## 按人物
 
-- [François Langlais](people/francois-langlais.md)
+- [François Lenglet](people/francois-lenglet.md)
 - [Christian de Boissieu](people/christian-de-boissieu.md)
-- [Benjamin Coria](people/benjamin-coria.md)
+- [Benjamin Coriat](people/benjamin-coriat.md)
 - [Bruno Le Maire](people/bruno-le-maire.md)
 - [Ana Navarro Pedro](people/ana-navarro-pedro.md)
 - [Simon-Pierre Sengayrac](people/simon-pierre-sengayrac.md)
