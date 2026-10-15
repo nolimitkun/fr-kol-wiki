@@ -13,6 +13,7 @@
 - [高中生均花得不少，为什么教室还是挤？](../videos/20261006-france-culture-lycee-spending-inequality.md)（France Culture，2026-10-06）
 - [高中生的怒火会烧到别处吗？](../videos/20261006-public-senat-high-school-movement-convergence.md)（Public Sénat，2026-10-06）
 - [老师从哪来，钱又从哪来？](../videos/20261009-lci-education-budget-debt.md)（LCI，2026-10-09）
+- [三千名替补教师够不够？法国教育部长为缺课、校舍与高中危机答辩](../videos/20261015-public-senat-education-minister-hearing.md)（Public Sénat，2026-10-15）
 
 ## 青年就业与教育出口
 
@@ -42,6 +43,7 @@
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
 - [税加了，债也没降：法国该先省钱、减税，还是投资教育？](../videos/20260929-lci-debt-taxes-growth.md)
 - [2027预算答辩：教育增量与学生生活成本](../videos/20261007-public-senat-budget-2027-ministers.md)
+- [养老金藏进部委预算后，谁来买单？教育预算里的退休承诺](../videos/20261014-lci-public-pensions-generations.md)
 
 ## 职业教育与工业人才
 

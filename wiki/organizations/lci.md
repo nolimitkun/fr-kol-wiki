@@ -1,6 +1,6 @@
 ---
 title: "LCI"
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 # LCI
@@ -9,6 +9,7 @@ updated: 2026-10-05
 
 ## 已收录
 
+- [养老金藏进部委预算后，谁来买单？法国争论公务员退休、青年与债务](../videos/20261014-lci-public-pensions-generations.md)（公务员养老金、代际分配与债务圆桌，2026-10-14）
 - [老师从哪来，钱又从哪来？法国把教育让步放进债务账本](../videos/20261009-lci-education-budget-debt.md)（教育、预算与债务圆桌，2026-10-09）
 - [校门口要钱，债市却在催账：法国政府怎样同时面对高中危机与财政失信？](../videos/20261004-lci-lycee-debt-government-pressure.md)（教育、治安与财政圆桌，2026-10-04）
 - [税加了，债也没降：法国该先省钱、减税，还是投资教育？](../videos/20260929-lci-debt-taxes-growth.md)（财政与增长圆桌，2026-09-29）

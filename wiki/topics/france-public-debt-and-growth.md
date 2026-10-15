@@ -1,6 +1,6 @@
 ---
 title: "法国公共债务、税收与增长路径"
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # 法国公共债务、税收与增长路径
@@ -50,3 +50,9 @@ Christian Saint-Étienne 把问题说得更政治化：法德利差扩大不是�
 ## 社保预算：同一个总额，至少四种账单
 
 [社保预算听证](../videos/20261013-public-senat-social-security-budget.md)进一步展示“怎么减”不是技术细节。政府拟冻结部分养老金、提高医疗自付、调整雇主缴费减免并压病假成本；参议员则提出资本收入、遗产、股息或恢复退休改革等替代方案。David Amiel 坚持赤字目标不动、措施可换，但对医疗目标的压力测试、家庭分布影响和 ACOSS 融资后备方案交代有限。（[00:08:16](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#000816)–[00:09:19](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#000919)，[00:13:26](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#001326)–[00:20:37](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#002037)，[00:24:43](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#002443)–[00:29:49](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#002949)，[00:45:10](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#004510)–[00:46:10](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#004610)，[00:57:26](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#005726)–[00:59:30](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#005930)）
+
+## 公务员养老金：公开成本，还是重命名赤字？
+
+[LCI 圆桌](../videos/20261014-lci-public-pensions-generations.md)围绕一组按部委摊开的养老金数据形成两套解释。François Lenglet 和 Christian de Boissieu 认为，国家填补公务员养老账户的资金压缩了教育等部门的政策空间，也说明退休承诺没有充分融资。Benjamin Coriat 则要求把公务员较低在职工资、就业保障和退休待遇看作完整契约，反对把雇主成本直接改称“隐藏赤字”。（[00:05:15](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#000515)–[00:11:28](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001128)，[00:15:30](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001530)–[00:19:38](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001938)）
+
+改革处方也分叉。一边主张现退休者接受部分购买力损失、青年增加劳动，并逐步加入积累制；另一边要求扩大税基，把高财富和税收优惠一并纳入。双方都诉诸增长和工业政策，却没有解决过渡期由谁先承担成本。节目引用的养老金账户、支出占比和宏观预测缺少仓库内同期官方资料，仍待核验。（[00:40:40](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#004040)–[00:52:07](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#005207)）
