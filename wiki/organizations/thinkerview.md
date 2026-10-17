@@ -1,6 +1,6 @@
 ---
 title: "Thinkerview"
-updated: 2026-09-27
+updated: 2026-10-17
 ---
 
 # Thinkerview
@@ -9,4 +9,5 @@ updated: 2026-09-27
 
 ## 已收录
 
+- [钱留在法国，工厂就会回来吗？Lluansi 与 Montebourg 争论储蓄、欧洲与再工业化](../videos/20260512-thinkerview-lluansi-montebourg-reindustrialization.md)（2026-05-12）
 - [中国靠什么跑得快？Dan Wang 谈工业、控制与欧洲的被动](../videos/20260914-thinkerview-dan-wang-china-industry.md)（2026-09-14）

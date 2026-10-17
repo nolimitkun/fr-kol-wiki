@@ -17,3 +17,4 @@
 - [中美较量不只看关税](../videos/20260924-france-culture-china-us-rivalry.md)
 - [中国靠什么跑得快？Dan Wang 谈能源自主与工业竞争](../videos/20260914-thinkerview-dan-wang-china-industry.md)
 - [Thierry Breton 谈油价与海湾基础设施风险](../videos/20260422-le-grand-continent-asymmetric-war-thierry-breton.md)
+- [钱留在法国，工厂就会回来吗？EPR2 成本与核燃料循环](../videos/20260512-thinkerview-lluansi-montebourg-reindustrialization.md)

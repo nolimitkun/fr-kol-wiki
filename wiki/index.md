@@ -183,6 +183,11 @@
 - [Valérie Niquet](people/valerie-niquet.md)
 - [Pierre-Antoine Donnet](people/pierre-antoine-donnet.md)
 - [Marjorie Paillon](people/marjorie-paillon.md)
+- [Anna Maria Merlo](people/anna-maria-merlo.md)
+- [Juan Rozé Dorado](people/juan-roze-dorado.md)
+- [Hans Stark](people/hans-stark.md)
+- [Tam Tran Huy](people/tam-tran-huy.md)
+- [Christelle Craplet](people/christelle-craplet.md)
 
 ## 按机构
 
@@ -199,6 +204,8 @@
 
 ## 按视频
 
+- 2026-10-09 · Public Sénat · [法国的危机，邻国怎么看？从高中抗议、债务风险到左翼初选](videos/20261009-public-senat-france-crises-left-primary.md)
+- 2026-05-12 · Thinkerview · [钱留在法国，工厂就会回来吗？Lluansi 与 Montebourg 争论储蓄、欧洲与再工业化](videos/20260512-thinkerview-lluansi-montebourg-reindustrialization.md)
 - 2026-10-15 · Public Sénat · [三千名替补教师够不够？法国教育部长为缺课、校舍与高中危机答辩](videos/20261015-public-senat-education-minister-hearing.md)
 - 2026-10-14 · LCI · [养老金藏进部委预算后，谁来买单？法国争论公务员退休、青年与债务](videos/20261014-lci-public-pensions-generations.md)
 - 2026-10-13 · Public Sénat · [社保赤字砍一半，账单给谁？法国参议院追问养老金、医疗与缴费减免](videos/20261013-public-senat-social-security-budget.md)

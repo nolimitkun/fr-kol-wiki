@@ -1,6 +1,6 @@
 ---
 title: "法国去工业化：能源、金融化与全球竞争"
-updated: 2026-10-06
+updated: 2026-10-17
 ---
 
 # 法国去工业化：能源、金融化与全球竞争
@@ -33,7 +33,12 @@ Marion Fontaine 提醒，工厂曾连接住房、学校、体育、家庭角色�
 - 代表性企业出售、外资持股、研发迁移与供应链依赖的公司及监管文件；
 - 关厂对健康、家庭、地方财政和投票行为影响的可复核研究。
 
+## 从诊断转向融资：储蓄怎样进工厂？
+
+[Lluansi 与 Montebourg 的 Thinkerview 对谈](../videos/20260512-thinkerview-lluansi-montebourg-reindustrialization.md)把诊断推进到资金配置。两人都要求把一小部分法国居民储蓄导向非上市中小企业，并用公共采购扩大本国产业订单。Lluansi 强调可操作的区域基金、企业扩产和核电成本；Montebourg 则要求强制改变金融流向、重谈欧盟权限并提高对华保护。方案把金融、贸易和能源接成一条链，但节目所报储蓄规模、就业潜力和采购金额仍待官方资料核验。（[00:31:45](../../sources/thinkerview/20260512-q3KU2-L0cv4/transcript.md#003145)–[00:48:06](../../sources/thinkerview/20260512-q3KU2-L0cv4/transcript.md#004806)，[01:39:15](../../sources/thinkerview/20260512-q3KU2-L0cv4/transcript.md#013915)–[01:46:29](../../sources/thinkerview/20260512-q3KU2-L0cv4/transcript.md#014629)）
+
 ## 视频
 
 - [谁杀死了法国工业？一部纪录片追查半世纪的共同责任](../videos/20261003-public-senat-french-deindustrialization.md)
 - [工业没死，但还救得回来吗？法国四位专家争论保护、能源与人才](../videos/20261003-public-senat-industry-new-model.md)
+- [钱留在法国，工厂就会回来吗？Lluansi 与 Montebourg 争论储蓄、欧洲与再工业化](../videos/20260512-thinkerview-lluansi-montebourg-reindustrialization.md)

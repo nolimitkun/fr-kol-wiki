@@ -18,6 +18,7 @@
 - [高中生均花得不少，为什么教室还是挤？](../videos/20261006-france-culture-lycee-spending-inequality.md)
 - [高中生的怒火会烧到别处吗？](../videos/20261006-public-senat-high-school-movement-convergence.md)
 - [老师从哪来，钱又从哪来？](../videos/20261009-lci-education-budget-debt.md)
+- [法国的危机，邻国怎么看？分权、警务与未成年示威者](../videos/20261009-public-senat-france-crises-left-primary.md)
 
 ## 青年就业、住房与家庭形成
 
@@ -27,6 +28,7 @@
 ## 工业地区与劳动身份
 
 - [谁杀死了法国工业？关厂之后的家庭、地方与工人身份](../videos/20261003-public-senat-french-deindustrialization.md)
+- [钱留在法国，工厂就会回来吗？地方生产与社会凝聚](../videos/20260512-thinkerview-lluansi-montebourg-reindustrialization.md)
 
 ## 家庭与教育
 

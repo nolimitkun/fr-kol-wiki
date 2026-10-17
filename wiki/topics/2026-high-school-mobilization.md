@@ -2,6 +2,10 @@
 
 本专题并列四种很不一样的镜头。France Culture 让高中生从缺教师、家庭差异、Parcoursup 和碎片化课表讲起，又请教育经济学者拆开“高中生均支出高”的口径；LCI 的评论圆桌讨论外来破坏者、国家能力与政治组织，议员圆桌则把同一危机变成执政党、RN 与 LFI 的责任之争；Public Sénat 继续追问警务强度和运动能否连接其他社会不满。几种镜头互相补足，也互相纠偏：只听学生经验会漏掉现场安全，只看暴力画面则会让长期教育问题从画面外消失。
 
+## 10月9日：邻国镜子把分权与警务摆上桌
+
+[Public Sénat 欧洲记者圆桌](../videos/20261009-public-senat-france-crises-left-primary.md)承认西班牙、德国、意大利同样有教师和校舍问题，却认为教育权力更分散，使不满较少同时冲向中央政府。警务比较更有冲突：Juan Rozé Dorado 批评法国警方主动接触未成年示威者，Hans Stark 则提醒其他国家面对暴力团体也会强硬。各国权限、装备和个案都缺官方资料，这只能作为观察框架。（[00:07:10](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#000710)–[00:25:34](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#002534)）
+
 ## 10月15日：部长拿出调度方案，参议员追问制度为什么先失灵
 
 [教育部长参议院听证](../videos/20261015-public-senat-education-minister-hearing.md)给“三千名替补”补上了行政解释。Édouard Geffray 说，学区过去按学科分栏管理替补，缺少学校整体视图；新工具找出约三千名未在班级授课的 TZR，多数正被派出，另增聘 920 个全时当量处理稀缺学科。参议员的追问没有停在人数：未续聘合同教师与重新招人是否矛盾，人口下降应削编还是缩班，长期停课又怎样补回。（[00:11:09](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#001109)–[00:15:11](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#001511)，[01:37:45](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#013745)–[01:44:54](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#014454)）

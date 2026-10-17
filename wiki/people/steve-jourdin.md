@@ -1,6 +1,6 @@
 ---
 title: "Steve Jourdin"
-updated: 2026-10-13
+updated: 2026-10-17
 ---
 
 # Steve Jourdin
@@ -24,3 +24,9 @@ updated: 2026-10-13
 他用反讽串起政府入股芯片、锂和稀土企业，以及向成年人派发 5,000 美元的竞选承诺，把特朗普叫作“不自知的同志”。笑点之后的判断是：这不是特朗普变成社会主义者，而是共和党正在离开里根式“小政府、少干预”语言。（[01:16:32](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#011632)–[01:18:34](../../sources/public-senat/20261006-jUuX4dZEHv4/transcript.md#011834)）
 
 来源：[股市创新高，日子却更贵](../videos/20261006-public-senat-us-midterms-economy.md)
+
+## 2026-10-09：首轮赢多少，决定胜者能否带走党
+
+他把初选当成组织资源之争：Glucksmann 需要社会党的钱、议员和地方网络，社会党也需要总统候选人维持影响。因而首轮压倒性胜利、二轮险胜或落败，不只是排名差异，而会改变随后整合左翼和重组政党的能力。（[00:50:01](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#005001)–[00:52:04](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#005204)，[01:23:29](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#012329)–[01:25:32](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#012532)）
+
+来源：[法国的危机，邻国怎么看？](../videos/20261009-public-senat-france-crises-left-primary.md)
