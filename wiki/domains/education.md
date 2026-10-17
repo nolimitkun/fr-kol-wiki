@@ -14,6 +14,7 @@
 - [高中生的怒火会烧到别处吗？](../videos/20261006-public-senat-high-school-movement-convergence.md)（Public Sénat，2026-10-06）
 - [老师从哪来，钱又从哪来？](../videos/20261009-lci-education-budget-debt.md)（LCI，2026-10-09）
 - [三千名替补教师够不够？法国教育部长为缺课、校舍与高中危机答辩](../videos/20261015-public-senat-education-minister-hearing.md)（Public Sénat，2026-10-15）
+- [法国的危机，邻国怎么看？教育分权与学生动员](../videos/20261009-public-senat-france-crises-left-primary.md)（Public Sénat，2026-10-09）
 
 ## 青年就业与教育出口
 

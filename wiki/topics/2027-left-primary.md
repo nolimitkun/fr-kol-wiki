@@ -1,6 +1,6 @@
 ---
 title: "2027左翼初选：共同政策与联盟断层"
-updated: 2026-09-26
+updated: 2026-10-17
 ---
 
 # 2027左翼初选：共同政策与联盟断层
@@ -28,3 +28,7 @@ updated: 2026-09-26
 - 初选组织方正式规则、候选资格与投票费用；
 - 五人的正式纲领、财政测算和联盟承诺；
 - 初选结果与各人此后是否履行支持胜者的承诺。
+
+## 投票前夜：这是选总统候选人，也是争社会党的控制权
+
+[Public Sénat 圆桌](../videos/20261009-public-senat-france-crises-left-primary.md)拒绝预测小规模选民，却给出两条竞争逻辑。全国民调位置可能推动投票者选择 Glucksmann；党内身份又可能促使社会党成员阻止非党员取得党的资源和代表权。嘉宾一致把是否与 LFI 合作视为最清楚的断层，并提醒首轮获胜和进入第二轮后才获胜会产生不同的党内权力结构。（[00:46:57](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#004657)–[00:50:01](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#005001)，[00:56:08](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#005608)–[00:57:09](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#005709)，[01:24:30](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#012430)–[01:26:33](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#012633)）

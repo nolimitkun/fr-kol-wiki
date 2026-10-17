@@ -16,6 +16,7 @@
 - [青年就业、工作入口与代际承诺](../topics/youth-employment-and-work.md)
 - [文凭越来越高，入口越来越窄：法国青年就业卡在哪里？](../videos/20261007-public-senat-youth-unemployment.md)
 - [老师从哪来，钱又从哪来？](../videos/20261009-lci-education-budget-debt.md)
+- [法国的危机，邻国怎么看？](../videos/20261009-public-senat-france-crises-left-primary.md)
 
 ## 公共债务、税收与增长
 
@@ -39,6 +40,7 @@
 - [法国去工业化：能源、金融化与全球竞争](../topics/french-deindustrialization.md)
 - [谁杀死了法国工业？一部纪录片追查半世纪的共同责任](../videos/20261003-public-senat-french-deindustrialization.md)
 - [工业没死，但还救得回来吗？](../videos/20261003-public-senat-industry-new-model.md)
+- [钱留在法国，工厂就会回来吗？](../videos/20260512-thinkerview-lluansi-montebourg-reindustrialization.md)
 - [战争生态学：欧洲转型的安全、产业与公平](../topics/war-ecology-and-european-transition.md)
 - [霍尔木兹把欧洲堵在哪？欧洲产业、财政与货币政策的缺口](../videos/20260408-le-grand-continent-war-ecology-europe.md)
 - [伊朗战争的全球反应：谨慎、碎片化与外溢](../topics/iran-war-global-reactions.md)

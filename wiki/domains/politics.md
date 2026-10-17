@@ -26,6 +26,7 @@
 
 - [谁杀死了法国工业？政府选择与产业主权](../videos/20261003-public-senat-french-deindustrialization.md)
 - [工业没死，但还救得回来吗？](../videos/20261003-public-senat-industry-new-model.md)
+- [钱留在法国，工厂就会回来吗？](../videos/20260512-thinkerview-lluansi-montebourg-reindustrialization.md)
 
 ## 议会与地方政治
 
@@ -42,6 +43,7 @@
 - [七名候选人面对企业界的经济政策辩论](../videos/20260827-lci-medef-2027-economic-debate.md)
 - [2027左翼初选：共同政策与联盟断层](../topics/2027-left-primary.md)
 - [左翼初选首辩：五个人谈团结，最后却在是否联合不屈法国上吵开了](../videos/20260923-lci-left-primary-debate.md)
+- [初选投票前夜：候选人之争，也是社会党控制权之争](../videos/20261009-public-senat-france-crises-left-primary.md)
 
 ## 总统职权与任期末政治
 

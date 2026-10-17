@@ -1,6 +1,6 @@
 ---
 title: "法国公共债务、税收与增长路径"
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # 法国公共债务、税收与增长路径
@@ -56,3 +56,9 @@ Christian Saint-Étienne 把问题说得更政治化：法德利差扩大不是�
 [LCI 圆桌](../videos/20261014-lci-public-pensions-generations.md)围绕一组按部委摊开的养老金数据形成两套解释。François Lenglet 和 Christian de Boissieu 认为，国家填补公务员养老账户的资金压缩了教育等部门的政策空间，也说明退休承诺没有充分融资。Benjamin Coriat 则要求把公务员较低在职工资、就业保障和退休待遇看作完整契约，反对把雇主成本直接改称“隐藏赤字”。（[00:05:15](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#000515)–[00:11:28](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001128)，[00:15:30](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001530)–[00:19:38](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001938)）
 
 改革处方也分叉。一边主张现退休者接受部分购买力损失、青年增加劳动，并逐步加入积累制；另一边要求扩大税基，把高财富和税收优惠一并纳入。双方都诉诸增长和工业政策，却没有解决过渡期由谁先承担成本。节目引用的养老金账户、支出占比和宏观预测缺少仓库内同期官方资料，仍待核验。（[00:40:40](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#004040)–[00:52:07](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#005207)）
+
+## 邻国视角与再工业化派：两种不同的债务警报
+
+[Public Sénat 的欧洲记者圆桌](../videos/20261009-public-senat-france-crises-left-primary.md)既警告利息与选举僵局，也反对把法国直接类比希腊：法国仍有投资吸引力和更厚的经济资产。嘉宾所引外资持债比例、利息金额和南欧财政数据仍待官方核验。（[00:34:45](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#003445)–[00:43:55](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#004355)）
+
+[Thinkerview 对谈](../videos/20260512-thinkerview-lluansi-montebourg-reindustrialization.md)则区分“维持生活方式的坏债”和用于教育、基础设施、生产投资的“好债”，并试图用居民储蓄少靠新增公共债务恢复产能。分类很清楚，但仍需回答项目回报和风险由谁承担。（[00:15:32](../../sources/thinkerview/20260512-q3KU2-L0cv4/transcript.md#001532)–[00:17:34](../../sources/thinkerview/20260512-q3KU2-L0cv4/transcript.md#001734)，[00:31:45](../../sources/thinkerview/20260512-q3KU2-L0cv4/transcript.md#003145)–[00:48:06](../../sources/thinkerview/20260512-q3KU2-L0cv4/transcript.md#004806)）

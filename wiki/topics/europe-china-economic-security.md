@@ -1,6 +1,6 @@
 ---
 title: "欧洲如何应对中国的产业与技术力量"
-updated: 2026-09-27
+updated: 2026-10-17
 ---
 
 # 欧洲如何应对中国的产业与技术力量
@@ -21,6 +21,8 @@ updated: 2026-09-27
 [France Culture 中美圆桌](../videos/20260924-france-culture-china-us-rivalry.md)补充了外部约束：先进芯片链、稀土、能源和人工智能标准彼此联动，欧洲既是设备和规则的参与者，也可能被中美双方的限制牵动。（[00:24:24](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#002424)–[00:31:30](../../sources/france-culture/20260924--Tkdxka3Zeo/transcript.md#003130)）
 
 [Dan Wang 的 Thinkerview 访谈](../videos/20260914-thinkerview-dan-wang-china-industry.md)把问题说得更尖：欧洲有足够大的市场，却很少把准入条件变成谈判力量；汽车、能源与人工智能的竞争也说明，守住旧产业地位不等于建设下一轮产能。他仍肯定法国核电、高铁和航空工业留下的工程基础，但质疑欧洲能否接受为更新它们而付出的变化。（[00:06:28](../../sources/thinkerview/20260914-Mls6_9KOpqI/transcript.md#000628)–[00:09:36](../../sources/thinkerview/20260914-Mls6_9KOpqI/transcript.md#000936)，[01:28:49](../../sources/thinkerview/20260914-Mls6_9KOpqI/transcript.md#012849)–[01:35:59](../../sources/thinkerview/20260914-Mls6_9KOpqI/transcript.md#013559)）
+
+[Lluansi 与 Montebourg 的对谈](../videos/20260512-thinkerview-lluansi-montebourg-reindustrialization.md)从法国国内工具补上另一面：将储蓄导向中小工业、调整公共采购，并把有竞争力的核电成本视为法国能否保住欧洲低碳可调度电力供应者位置的关键。Montebourg 的对华“保护”语言比 Lluansi 更激烈；两人都没有在节目中量化消费者成本、贸易报复或欧盟伙伴反应。（[00:30:44](../../sources/thinkerview/20260512-q3KU2-L0cv4/transcript.md#003044)–[00:43:58](../../sources/thinkerview/20260512-q3KU2-L0cv4/transcript.md#004358)，[01:42:21](../../sources/thinkerview/20260512-q3KU2-L0cv4/transcript.md#014221)–[01:44:26](../../sources/thinkerview/20260512-q3KU2-L0cv4/transcript.md#014426)）
 
 ## 仍待补充的视角
 

@@ -24,6 +24,8 @@
 - [省下的钱先被利息吃掉：法国财政监督机构拆解2027预算](../videos/20261007-public-senat-hcfp-budget-2027.md)
 - [老师从哪来，钱又从哪来？法国把教育让步放进债务账本](../videos/20261009-lci-education-budget-debt.md)
 - [谁杀死了法国工业？股东回报、企业出售与长期投资](../videos/20261003-public-senat-french-deindustrialization.md)
+- [法国的危机，邻国怎么看？外资持债、利息与政治空间](../videos/20261009-public-senat-france-crises-left-primary.md)
+- [钱留在法国，工厂就会回来吗？储蓄如何进入产业融资](../videos/20260512-thinkerview-lluansi-montebourg-reindustrialization.md)
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
 - [2027大选经济首辩：七个人都说要救法国，账却完全不是一套](../videos/20260827-lci-medef-2027-economic-debate.md)
 
