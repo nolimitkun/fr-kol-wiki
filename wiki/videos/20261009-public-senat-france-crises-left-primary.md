@@ -55,7 +55,7 @@ updated: 2026-10-17
 
 - `观点` Craplet 拒绝假装能精确预测：潜在投票者规模太小，常规抽样不可靠；全国总统投票意向只能说明 Glucksmann 相对位置，不能推出初选结果。（[00:46:57](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#004657)–[00:49:00](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#004900)）
 - `观点` Sawicki 把初选看成两种“有用票”的竞争：一边选全国民调较高的人，另一边阻止非社会党人借初选接管党的代表权和资源。（[00:49:00](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#004900)–[00:50:01](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#005001)）
-- `观点` 圆桌认为五人在经济社会政策上差距有限，真正清晰的断层是未来是否与“不屈法国”（LFI）合作。Steve Jourdin 还提醒，首轮险胜与压倒性胜利会产生完全不同的党内权力关系。（[00:56:08](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#005608)–[00:57:09](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#005709)，[01:24:30](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#012430)–[01:26:33](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#012633)）
+- `观点` 圆桌认为五人在经济社会政策上差距有限，真正清晰的断层是未来是否与“不屈法国”（LFI）合作。Steve Jourdin 还提醒，首轮获胜与进入第二轮后才获胜，会产生不同的党内权力关系。（[00:56:08](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#005608)–[00:57:09](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#005709)，[01:24:30](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#012430)–[01:26:33](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#012633)）
 
 ## 关键数字与待核验断言
 

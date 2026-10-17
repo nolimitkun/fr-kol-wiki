@@ -27,6 +27,6 @@ updated: 2026-10-17
 
 ## 2026-10-09：首轮赢多少，决定胜者能否带走党
 
-他把初选当成组织资源之争：Glucksmann 需要社会党的钱、议员和地方网络，社会党也需要总统候选人维持影响。因而首轮压倒性胜利、二轮险胜或落败，不只是排名差异，而会改变随后整合左翼和重组政党的能力。（[00:50:01](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#005001)–[00:52:04](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#005204)，[01:23:29](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#012329)–[01:25:32](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#012532)）
+他把初选当成组织资源之争：Glucksmann 需要社会党的钱、议员和地方网络，社会党也需要总统候选人维持影响。因而是在首轮获胜，还是进入第二轮后才获胜，不只是程序差异，也会改变随后的党内力量关系。（[00:50:01](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#005001)–[00:52:04](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#005204)，[00:56:08](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#005608)–[00:57:09](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#005709)，[01:23:29](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#012329)–[01:25:32](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#012532)）
 
 来源：[法国的危机，邻国怎么看？](../videos/20261009-public-senat-france-crises-left-primary.md)
