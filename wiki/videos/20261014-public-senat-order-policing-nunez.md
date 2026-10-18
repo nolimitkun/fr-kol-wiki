@@ -22,7 +22,7 @@ updated: 2026-10-18
 
 ## 一句话结论
 
-Laurent Nuñez 把法国街头警务划成两套规则：有组织的合法游行要靠对话和“降级”，一旦出现纵火、抢掠或袭警就转为“城市暴力”；参议员追问的正是这条线谁来画，以及政府拟让未亲手破坏、但留在暴力人群中的人承担最高一万欧元连带民责，会不会把举证困难转嫁给示威者。（[00:10:11](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#001011)–[00:14:17](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#001417)，[00:16:19](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#001619)–[00:20:23](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#002023)）
+Laurent Nuñez 把法国街头警务划成两套规则：有组织的合法游行要靠对话和“降级”，一旦出现纵火、抢掠或袭警就转为“城市暴力”；参议员追问的正是这条线谁来画，以及政府拟让未亲手破坏、但经驱散警告仍留在暴力人群中且无法不知道现场正发生暴力或破坏的人承担最高一万欧元连带民责，会不会把举证困难转嫁给示威者。（[00:10:11](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#001011)–[00:14:17](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#001417)，[00:16:19](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#001619)–[00:20:23](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#002023)）
 
 ## 摘要
 
@@ -38,7 +38,7 @@ Nuñez 把正常游行描述成一项协作工程：警力不必沿路线展示�
 
 部长说高中封锁只有在校方请求、入口完全被堵且学校仍要开课时才清场；部分封锁若仍留有入口，警方只在外围保护。他又坚持，蒙面者投掷物品或实施破坏时，警员无法在现场凭年龄决定是否拦截，未成年人差异主要由后续司法程序处理。（[00:06:06](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#000606)–[00:09:11](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#000911)，[00:39:46](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#003946)–[00:40:46](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#004046)）
 
-多名参议员不接受只讲抽象比例原则。他们列举重伤个案，追问普通警员是否受过足够的群体处置训练，也质疑“先看使用武力时的情境、不能以结果倒推合法性”的说法是否忽略了错误识别与旁观者受伤。Nuñez 承认地方警力训练仍有明显缺口，并称严重个案已交监察或司法调查；这些个案、伤情和调查进度均待官方资料核验。（[00:23:26](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#002326)–[00:26:31](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#002631)，[01:11:25](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#011125)–[01:17:35](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#011735)）
+多名参议员不接受只讲抽象比例原则。他们列举重伤个案，追问普通警员是否受过足够的群体处置训练，也质疑“先看使用武力时的情境、不能以结果倒推合法性”的说法是否忽略了错误识别与旁观者受伤。Nuñez 承认地方警力训练仍有明显缺口，并称严重个案已交监察或司法调查；这些个案、伤情和调查进度均待官方资料核验。（[00:37:42](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#003742)–[00:39:46](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#003946)，[00:43:48](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#004348)–[00:45:50](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#004550)）
 
 ## 中间武器是在拉开距离，还是制造新的伤害？
 
