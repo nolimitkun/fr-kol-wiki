@@ -32,11 +32,11 @@ Laurent Nuñez 把法国街头警务划成两套规则：有组织的合法游�
 
 Nuñez 把正常游行描述成一项协作工程：警力不必沿路线展示，而是在纵深待命；发生个别破坏后完成行动便撤回；组织者和警方提前协商路线，现场联络员持续交换风险信息。他因此反驳“法国没有降级策略”，说这些做法已经写进全国维护秩序方案。（[00:10:11](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#001011)–[00:12:14](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#001214)）
 
-他的转折也很鲜明：一旦进入抢掠、纵火和有组织袭警，警方按另一份城市暴力操作指南行动，不再受传统游行方案约束。参议员提醒，这条边界可能瞬间移动，普通示威者也可能与破坏者混在同一空间；Nuñez 的回答主要依赖警方对现场行为的分类，没有给出独立触发程序。（[00:14:17](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#001417)–[00:16:19](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#001619)，[00:22:26](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#002226)–[00:24:29](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#002429)）
+他的转折也很鲜明：一旦进入抢掠、纵火和有组织袭警，警方按另一份城市暴力操作指南行动，不再受传统游行方案约束。参议员提醒，这条边界可能瞬间移动，普通示威者也可能与破坏者混在同一空间；Nuñez 的回答主要依赖警方对现场行为的分类，没有给出独立触发程序。（[00:14:17](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#001417)–[00:16:19](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#001619)，[01:08:20](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#010820)–[01:11:25](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#011125)）
 
 ## 面对未成年人，比例原则够不够？
 
-部长说高中封锁只有在校方请求、入口完全被堵且学校仍要开课时才清场；部分封锁若仍留有入口，警方只在外围保护。他又坚持，蒙面者投掷物品或实施破坏时，警员无法在现场凭年龄决定是否拦截，未成年人差异主要由后续司法程序处理。（[00:06:06](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#000606)–[00:09:11](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#000911)，[00:39:46](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#003946)–[00:40:46](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#004046)）
+部长说高中封锁只有在校方请求、入口完全被堵且学校仍要开课时才清场；部分封锁若仍留有入口，警方只在外围保护。他又说，知道现场多数是未成年人，警员行动时应更讲分寸、格外留意；但面对投掷物品或实施破坏的蒙面者，警员很难当场分辨是 16 岁还是 25 岁，拘捕后的司法制度才会按年龄作进一步区分。（[00:06:06](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#000606)–[00:09:11](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#000911)，[00:39:46](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#003946)–[00:41:47](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#004147)）
 
 多名参议员不接受只讲抽象比例原则。他们列举重伤个案，追问普通警员是否受过足够的群体处置训练，也质疑“先看使用武力时的情境、不能以结果倒推合法性”的说法是否忽略了错误识别与旁观者受伤。Nuñez 承认地方警力训练仍有明显缺口，并称严重个案已交监察或司法调查；这些个案、伤情和调查进度均待官方资料核验。（[00:37:42](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#003742)–[00:39:46](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#003946)，[00:43:48](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#004348)–[00:45:50](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#004550)）
 
