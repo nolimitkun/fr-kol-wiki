@@ -1,6 +1,6 @@
 ---
 title: "Guillaume Farde"
-updated: 2026-10-04
+updated: 2026-10-18
 ---
 
 # Guillaume Farde
@@ -18,3 +18,9 @@ updated: 2026-10-04
 在三名议员互相追责时，他把镜头里的警察用力拉回程序判断：催泪弹不能平射，但是否存在正当防卫、手段是否相称，要结合现场并由调查判断。他没有用一段视频替代司法结论，也明确说把不同来源的暴力互相抵销是一个“负和游戏”。（[00:06:10](../../sources/lci/20261002-zZvdogH_fUM/transcript.md#000610)–[00:12:17](../../sources/lci/20261002-zZvdogH_fUM/transcript.md#001217)）
 
 来源：[先恢复秩序，还是先回应学生？](../videos/20261002-lci-high-school-political-debate.md)
+
+## 2026-10-17 从游行到抢掠的三阶段
+
+他继续用分类压住直播画面的混乱：合法示威者、寻求与警方对抗的暴力小组、趁警力分散而抢店的机会型犯罪者，可能先后出现在同一地点，但目的和责任不同。他也不把警力问题简化成“人数不够”：开放城市无法全部封闭，小组多点移动会让调度位置和反应速度比总人数更关键。（[00:12:12](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#001212)–[00:15:13](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#001513)，[00:47:45](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#004745)–[00:54:50](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#005450)）
+
+来源：[一场游行，三种人群](../videos/20261017-lci-protests-violence-order.md)

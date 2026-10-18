@@ -50,6 +50,7 @@
 
 ## 按人物
 
+- [Laurent Nuñez](people/laurent-nunez.md)
 - [François Lenglet](people/francois-lenglet.md)
 - [Christian de Boissieu](people/christian-de-boissieu.md)
 - [Benjamin Coriat](people/benjamin-coriat.md)
@@ -204,6 +205,8 @@
 
 ## 按视频
 
+- 2026-10-17 · LCI · [一场游行，三种人群：法国多城暴力后，诉求还听得见吗？](videos/20261017-lci-protests-violence-order.md)
+- 2026-10-14 · Public Sénat · [示威一变骚乱，规则就该换吗？法国参议院追问警务、武器与“破坏者付费”](videos/20261014-public-senat-order-policing-nunez.md)
 - 2026-10-09 · Public Sénat · [法国的危机，邻国怎么看？从高中抗议、债务风险到左翼初选](videos/20261009-public-senat-france-crises-left-primary.md)
 - 2026-05-12 · Thinkerview · [钱留在法国，工厂就会回来吗？Lluansi 与 Montebourg 争论储蓄、欧洲与再工业化](videos/20260512-thinkerview-lluansi-montebourg-reindustrialization.md)
 - 2026-10-15 · Public Sénat · [三千名替补教师够不够？法国教育部长为缺课、校舍与高中危机答辩](videos/20261015-public-senat-education-minister-hearing.md)

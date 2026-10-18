@@ -1,6 +1,6 @@
 ---
 title: "LCI"
-updated: 2026-10-15
+updated: 2026-10-18
 ---
 
 # LCI
@@ -9,6 +9,7 @@ updated: 2026-10-15
 
 ## 已收录
 
+- [一场游行，三种人群：法国多城暴力后，诉求还听得见吗？](../videos/20261017-lci-protests-violence-order.md)（多城示威、破坏与抢掠直播圆桌，2026-10-17）
 - [养老金藏进部委预算后，谁来买单？法国争论公务员退休、青年与债务](../videos/20261014-lci-public-pensions-generations.md)（公务员养老金、代际分配与债务圆桌，2026-10-14）
 - [老师从哪来，钱又从哪来？法国把教育让步放进债务账本](../videos/20261009-lci-education-budget-debt.md)（教育、预算与债务圆桌，2026-10-09）
 - [校门口要钱，债市却在催账：法国政府怎样同时面对高中危机与财政失信？](../videos/20261004-lci-lycee-debt-government-pressure.md)（教育、治安与财政圆桌，2026-10-04）
