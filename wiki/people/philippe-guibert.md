@@ -13,6 +13,6 @@ updated: 2026-10-18
 
 ## 2026-10-17 公共机构受袭会把政治推向秩序
 
-他把多城公共机构和行政官员住所受袭理解为有准备的政治暴力，并认为机会型抢掠附着在其后。这个组织归属判断缺少节目内调查材料，仍待核验；更可确认的是他的政治预测：若画面只剩纵火和抢掠，最终受益者会是要求更强秩序的力量，而非街头运动。（[00:28:24](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#002824)–[00:30:26](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#003026)，[00:34:29](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#003429)–[00:35:29](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#003529)）
+他把多城公共机构和行政官员住所受袭理解为有准备的政治暴力，并认为机会型抢掠附着在其后。这个组织归属判断缺少节目内调查材料，仍待核验；更可确认的是他的政治预测：若画面只剩纵火和抢掠，最终受益者会是要求更强秩序的力量，而非街头运动。（[00:28:24](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#002824)–[00:30:26](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#003026)，[00:34:29](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#003429)–[00:35:29](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#003529)，[00:52:50](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#005250)–[00:53:50](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#005350)）
 
 来源：[一场游行，三种人群](../videos/20261017-lci-protests-violence-order.md)

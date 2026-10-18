@@ -38,11 +38,11 @@ Farde 按行动目的分三层。合法示威者带着标语和具体诉求；�
 
 Guibert 把市政厅、警务设施和行政长官住所受袭理解成对国家权威的定点挑战。他的逻辑是：目标跨城市重复、地点具有象征性，不能仅用临时起意解释。Frajerman 同意这是当天最不同寻常的部分，却提醒“有组织核心”不等于所有参与者都属于同一组织，社交网络也可能让一小群人带动更松散的跟随者。（[00:34:29](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#003429)–[00:35:29](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#003529)，[00:43:40](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#004340)–[00:45:42](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#004542)）
 
-圆桌随后推演政治后果。Frajerman 和 Guibert 都觉得暴力画面更可能制造恐惧和强硬治安需求，让右翼与 RN 获利；他们也质疑 Jean-Luc Mélenchon 把当日青年动员称为比“五月风暴”更强。这是选举影响预测，不是已经发生的民意变化。（[00:32:26](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#003226)–[00:35:29](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#003529)，[00:52:50](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#005250)–[00:56:52](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#005652)）
+圆桌随后推演政治后果。Guibert 认为暴力画面会催生更强硬的治安要求，最终让“秩序党”得利；Frajerman 也预判恐惧和恢复秩序的诉求会强化右翼与 RN。另一个判断只来自 Frajerman：他认为 Jean-Luc Mélenchon 把当日青年动员说成比“五月风暴”更强，是荒谬的比较。这些都是政治影响预测，不是已经发生的民意变化。（[00:32:26](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#003226)–[00:33:27](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#003327)，[00:52:50](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#005250)–[00:53:50](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#005350)，[00:55:51](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#005551)–[00:56:52](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#005652)）
 
 ## 只谈暴力，会不会再次奖励暴力？
 
-Zapalski 的反驳抓住政府回应的时间顺序。她说学生从 9 月中旬已在谈缺教师、鼠患、桌椅、供暖和过长在校时间，国家却到街头冲突后才作出明显回应；这可能让旁观者得出危险结论：和平说话没人听，烧起来才有资源。她不为抢掠辩护，而是拒绝让抢掠替所有诉求下定义。（[00:31:26](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#003126)–[00:36:30](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#003630)）
+Zapalski 的反驳抓住政府回应的时间顺序。她说学生从 9 月中旬已在谈缺教师、鼠患、桌椅和供暖，国家却到街头冲突后才作出明显回应；这可能让旁观者得出危险结论：和平说话没人听，烧起来才有资源。她不为抢掠辩护，而是拒绝让抢掠替所有诉求下定义。（[00:31:26](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#003126)–[00:36:30](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#003630)）
 
 Farde 在结尾给出更窄的判断：当天没有运输、农业、渔业等行业的大规模同步行动，因此不能叫“斗争汇流”；社会不满仍会持续，暴力则可能出现又消失。两人的差别在尺度：Zapalski 担心国家如何被年轻人理解，Farde 判断的是不同群体有没有形成可观察的共同动员。（[00:57:53](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#005753)–[01:01:55](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#010155)）
 
