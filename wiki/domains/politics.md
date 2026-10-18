@@ -14,6 +14,8 @@
 
 ## 社会运动与国家回应
 
+- [示威一变骚乱，规则就该换吗？](../videos/20261014-public-senat-order-policing-nunez.md)
+- [一场游行，三种人群：法国多城暴力后，诉求还听得见吗？](../videos/20261017-lci-protests-violence-order.md)
 - [2026年高中生动员：教育诉求、暴力与国家回应](../topics/2026-high-school-mobilization.md)
 - [高中生动员变成治安危机？LCI争论暴力、诉求与国家失灵](../videos/20261002-lci-high-school-violence.md)
 - [先恢复秩序，还是先回应学生？三名议员把高中危机吵成责任之争](../videos/20261002-lci-high-school-political-debate.md)

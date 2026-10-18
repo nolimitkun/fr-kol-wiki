@@ -9,6 +9,8 @@
 
 ## 青年动员与公共秩序
 
+- [示威一变骚乱，规则就该换吗？](../videos/20261014-public-senat-order-policing-nunez.md)
+- [一场游行，三种人群](../videos/20261017-lci-protests-violence-order.md)
 - [2026年高中生动员：教育诉求、暴力与国家回应](../topics/2026-high-school-mobilization.md)
 - [从缺课到18点40分](../videos/20261002-france-culture-lycee-pressure.md)
 - [高中生动员变成治安危机？](../videos/20261002-lci-high-school-violence.md)

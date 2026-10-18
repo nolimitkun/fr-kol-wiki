@@ -2,6 +2,12 @@
 
 本专题并列四种很不一样的镜头。France Culture 让高中生从缺教师、家庭差异、Parcoursup 和碎片化课表讲起，又请教育经济学者拆开“高中生均支出高”的口径；LCI 的评论圆桌讨论外来破坏者、国家能力与政治组织，议员圆桌则把同一危机变成执政党、RN 与 LFI 的责任之争；Public Sénat 继续追问警务强度和运动能否连接其他社会不满。几种镜头互相补足，也互相纠偏：只听学生经验会漏掉现场安全，只看暴力画面则会让长期教育问题从画面外消失。
 
+## 10月14日至17日：警务规则进入法案，街头又把分类打乱
+
+[内政部长参议院听证](../videos/20261014-public-senat-order-policing-nunez.md)把“维护秩序”和“城市暴力”写成两套行动框架：全国维护秩序方案面向有组织示威，要求低可见部署、组织者联络和行动后撤回，也强调机动与快速反应；一旦警方把抢掠、纵火或袭警等现场归为“城市暴力”，则改用另一份操作指南，并可使用中间武器。拟议“破坏者付费”制度还要把责任扩到未亲手造成具体损失、但经警告仍留在暴力聚集中且不可能不知道现场正发生暴力或破坏的人。参议员追问这会不会把集体现场变成集体责任，Nuñez 承认警告方式和实际执行仍需补强。（[00:10:11](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#001011)–[00:20:23](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#002023)，[00:29:34](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#002934)–[00:32:37](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#003237)，[00:35:40](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#003540)–[00:36:40](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#003640)，[00:46:51](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#004651)–[00:47:52](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#004752)，[00:52:58](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#005258)–[00:55:02](../../sources/public-senat/20261014-lLmXzfM-z5c/transcript.md#005502)）
+
+三天后的 [LCI 直播圆桌](../videos/20261017-lci-protests-violence-order.md)显示，现场恰恰很难套进一个标签。Guillaume Farde 区分合法示威、主动对抗警方的政治化小组和趁乱抢店者；Émilie Zapalski 则担心暴力画面把教师、校舍与生活成本诉求全部挤掉。评论员关于跨城袭击由极左统一组织的判断缺少节目内证据，只能作为待核验观点。（[00:12:12](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#001212)–[00:15:13](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#001513)，[00:28:24](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#002824)–[00:36:30](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#003630)）
+
 ## 10月9日：邻国镜子把分权与警务摆上桌
 
 [Public Sénat 欧洲记者圆桌](../videos/20261009-public-senat-france-crises-left-primary.md)承认西班牙、德国、意大利同样有教师和校舍问题，却认为教育权力更分散，使不满较少同时冲向中央政府。警务比较更有冲突：Juan Rozé Dorado 批评法国警方主动接触未成年示威者，Hans Stark 则提醒其他国家面对暴力团体也会强硬。各国权限、装备和个案都缺官方资料，这只能作为观察框架。（[00:07:10](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#000710)–[00:25:34](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#002534)）
@@ -74,6 +80,8 @@ Tanguy 和 Thévenot 支持追究未成年人父母的赔偿责任，后者直�
 
 ## 视频
 
+- [一场游行，三种人群：法国多城暴力后，诉求还听得见吗？](../videos/20261017-lci-protests-violence-order.md)（LCI，2026-10-17）
+- [示威一变骚乱，规则就该换吗？法国参议院追问警务、武器与“破坏者付费”](../videos/20261014-public-senat-order-policing-nunez.md)（Public Sénat，2026-10-14）
 - [三千名替补教师够不够？法国教育部长为缺课、校舍与高中危机答辩](../videos/20261015-public-senat-education-minister-hearing.md)（Public Sénat，2026-10-15）
 - [从缺课到18点40分：法国高中生为什么说学校让人喘不过气？](../videos/20261002-france-culture-lycee-pressure.md)（France Culture，2026-10-02）
 - [高中生动员变成治安危机？LCI争论暴力、诉求与国家失灵](../videos/20261002-lci-high-school-violence.md)（LCI，2026-10-02）

@@ -1,6 +1,6 @@
 ---
 title: "Public Sénat"
-updated: 2026-10-17
+updated: 2026-10-18
 ---
 
 # Public Sénat
@@ -9,6 +9,7 @@ updated: 2026-10-17
 
 ## 已收录
 
+- [示威一变骚乱，规则就该换吗？法国参议院追问警务、武器与“破坏者付费”](../videos/20261014-public-senat-order-policing-nunez.md)（内政部长就维护秩序与民事追责接受参议院听证，2026-10-14）
 - [法国的危机，邻国怎么看？从高中抗议、债务风险到左翼初选](../videos/20261009-public-senat-france-crises-left-primary.md)（欧洲比较与左翼初选圆桌，2026-10-09）
 - [三千名替补教师够不够？法国教育部长为缺课、校舍与高中危机答辩](../videos/20261015-public-senat-education-minister-hearing.md)（教育部长参议院听证，2026-10-15）
 - [社保赤字砍一半，账单给谁？法国参议院追问养老金、医疗与缴费减免](../videos/20261013-public-senat-social-security-budget.md)（社保预算听证，2026-10-13；同一上传后段为已收录国家预算听证的重复剪辑）
