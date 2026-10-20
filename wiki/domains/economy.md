@@ -59,6 +59,7 @@
 ## 医保与公共支出
 
 - [医保分工、补充保险与病假成本](../topics/health-insurance-cost-sharing.md)
+- [养老金少涨、短病假少赔：法国劳动部长怎样分摊社保缺口？](../videos/20261019-public-senat-labor-minister-social-budget.md)
 - [眼镜、病假、互助保险](../videos/20260924-lci-health-insurance-reform.md)
 
 ## 国家预算与议会

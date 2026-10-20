@@ -189,6 +189,10 @@
 - [Hans Stark](people/hans-stark.md)
 - [Tam Tran Huy](people/tam-tran-huy.md)
 - [Christelle Craplet](people/christelle-craplet.md)
+- [Rémi Bourguignon](people/remi-bourguignon.md)
+- [Aurore Malval](people/aurore-malval.md)
+- [Stewart Chau](people/stewart-chau.md)
+- [Jean-Pierre Farandou](people/jean-pierre-farandou.md)
 
 ## 按机构
 
@@ -205,6 +209,8 @@
 
 ## 按视频
 
+- 2026-10-19 · Public Sénat · [养老金少涨、短病假少赔：法国劳动部长怎样分摊社保缺口？](videos/20261019-public-senat-labor-minister-social-budget.md)
+- 2026-10-19 · Public Sénat · [暴力过后只谈秩序，法国政府会不会把诉求也一起清场？](videos/20261019-public-senat-urban-violence-government-response.md)
 - 2026-10-17 · LCI · [一场游行，三种人群：法国多城暴力后，诉求还听得见吗？](videos/20261017-lci-protests-violence-order.md)
 - 2026-10-14 · Public Sénat · [示威一变骚乱，规则就该换吗？法国参议院追问警务、武器与“破坏者付费”](videos/20261014-public-senat-order-policing-nunez.md)
 - 2026-10-09 · Public Sénat · [法国的危机，邻国怎么看？从高中抗议、债务风险到左翼初选](videos/20261009-public-senat-france-crises-left-primary.md)
