@@ -22,11 +22,11 @@ updated: 2026-10-20
 
 ## 一句话结论
 
-四名嘉宾都拒绝把周末暴力概括成法国人的“骚乱文化”，却对病因分成三路：Aurore Malval 看到国家权威在马克龙任期末塌陷，Rémi Bourguignon 要先把和平示威、政治性破坏和机会型抢掠拆开，Stewart Chau 则警告，政府把社会分成善恶两营，会让本已失去政治信任的人更加退出民主。（[00:10:23](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#001023)–[00:15:28](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#001528)，[00:24:40](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#002440)–[00:26:41](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#002641)）
+面对“骚乱文化”这个标签，嘉宾给出的不是共同答案：Rémi Bourguignon 明确反对，Stewart Chau 用民调说明多数人不认同以暴力表达诉求，Aurore Malval 则把反复失序归因于马克龙任期末国家权威的塌陷；Anne-Charlène Bezzina 随后讨论的是非常权力能否应对危机。（[00:10:23](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#001023)–[00:16:30](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#001630)，[00:16:30](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#001630)–[00:19:34](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#001934)）
 
 ## 摘要
 
-节目在暴力周末后的第一个工作日追问政府为何误判规模，以及恢复秩序会不会吞掉学生、生活成本和公共服务诉求。Bourguignon 说，这不是一个统一运动，而是高中生、学生、其他社会诉求、革命性小团体和抢掠者临时叠在一起；正因为诉求与组织都分散，政府很难预判，也不能用一个标签处理。Malval 的话更尖，她把警力不足和未听预警放进“马克龙主义的末期”，认为国家已经显得无力。Chau 不替暴力开脱，却不断把镜头拉回和平示威者和公众信任：人们既珍惜示威权，也要求警察权威和减少不平等。Bezzina 则给出制度刹车：宪法第16条、解散议会和紧急状态都能处理权力或秩序危机，却不能回答教育与购买力问题。四人的共同担忧是，政府若只加码警务，RN 最容易把混乱兑换成“强人”需求。（[00:04:16](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#000416)–[00:09:23](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#000923)，[00:16:30](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#001630)–[00:21:35](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#002135)，[00:33:46](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#003346)–[00:42:55](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#004255)）
+节目在暴力周末后的第一个工作日追问政府为何误判规模，以及恢复秩序会不会吞掉学生、生活成本和公共服务诉求。Bourguignon 说，这不是一个统一运动，而是高中生、学生、其他社会诉求、革命性小团体和抢掠者临时叠在一起；正因为诉求与组织都分散，政府很难预判，也不能用一个标签处理。Malval 的话更尖，她把警力不足和未听预警放进“马克龙主义的末期”，认为国家已经显得无力。Chau 不替暴力开脱，却不断把镜头拉回和平示威者和公众信任：人们既珍惜示威权，也要求警察权威和减少不平等。Bezzina 则给出制度刹车：宪法第16条、解散议会和紧急状态都能处理权力或秩序危机，却不能回答教育与购买力问题。谈到选举后果，Malval 认为混乱让 RN 轻易占据“秩序党”位置，Chau 和 Bezzina 警告“强人”需求与威权诱惑，Bourguignon 则把重点放在社会诉求与对话上。（[00:04:16](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#000416)–[00:09:23](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#000923)，[00:16:30](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#001630)–[00:21:35](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#002135)，[00:33:46](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#003346)–[00:42:55](../../sources/public-senat/20261019-oKUSty9fGHw/transcript.md#004255)）
 
 ## 一场游行，为什么变成三种行动？
 
