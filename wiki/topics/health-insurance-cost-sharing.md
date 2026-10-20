@@ -1,6 +1,6 @@
 ---
 title: "医保分工、补充保险与病假成本"
-updated: 2026-10-14
+updated: 2026-10-20
 ---
 
 # 医保分工、补充保险与病假成本
@@ -30,3 +30,7 @@ updated: 2026-10-14
 [参议院听证](../videos/20261013-public-senat-social-security-budget.md)把同一问题推进到具体预算。政府要把报销集中到“疗效已证明”的药品，提高医疗免赔额上限，并通过谈判压低病假成本。David Amiel 说，这样才能保住基层就医、医院和创新治疗；反对者则担心基本医保少付后，补充保险、保费和个人自付会接手，低收入患者还可能推迟就医。（[00:08:16](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#000816)–[00:09:19](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#000919)，[00:31:50](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#003150)–[00:34:54](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#003454)，[00:50:14](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#005014)–[00:51:17](../../sources/public-senat/20261013-7g1MX6IXEfw/transcript.md#005117)）
 
 这场听证仍没有回答三项核心问题：各收入组会多付多少，补充保险会怎样调价，短期少就医会不会形成日后更高成本。相关预算、医疗和保险断言均待官方资料核验。
+
+## 劳动部长把短假和长假分开，证据够不够？
+
+[劳动部长听证](../videos/20261019-public-senat-labor-minister-social-budget.md)提出另一种病假改革：降低短期病假的保护或激励，把资源转向严重长假与缺少雇主补充保障的约三百万劳动者。Jean-Pierre Farandou 认为短假来不及核查、部分企业协议又覆盖等待期，已经接近“随手请假”；参议员则提醒，标准建议时长未必充分处理多病共存。争议因此不只是由谁付钱，也包括怎样区分滥用、工作条件和真实医疗需要。（[00:16:25](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#001625)–[00:17:26](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#001726)，[00:25:35](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#002535)–[00:28:39](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#002839)，[01:01:17](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#010117)–[01:02:18](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#010218)）

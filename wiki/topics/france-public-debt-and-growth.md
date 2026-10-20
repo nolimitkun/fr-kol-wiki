@@ -1,6 +1,6 @@
 ---
 title: "法国公共债务、税收与增长路径"
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # 法国公共债务、税收与增长路径
@@ -56,6 +56,10 @@ Christian Saint-Étienne 把问题说得更政治化：法德利差扩大不是�
 [LCI 圆桌](../videos/20261014-lci-public-pensions-generations.md)围绕一组按部委摊开的养老金数据形成两套解释。François Lenglet 和 Christian de Boissieu 认为，国家填补公务员养老账户的资金压缩了教育等部门的政策空间，也说明退休承诺没有充分融资。Benjamin Coriat 则要求把公务员较低在职工资、就业保障和退休待遇看作完整契约，反对把雇主成本直接改称“隐藏赤字”。（[00:05:15](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#000515)–[00:11:28](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001128)，[00:15:30](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001530)–[00:19:38](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#001938)）
 
 改革处方也分叉。一边主张现退休者接受部分购买力损失、青年增加劳动，并逐步加入积累制；另一边要求扩大税基，把高财富和税收优惠一并纳入。双方都诉诸增长和工业政策，却没有解决过渡期由谁先承担成本。节目引用的养老金账户、支出占比和宏观预测缺少仓库内同期官方资料，仍待核验。（[00:40:40](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#004040)–[00:52:07](../../sources/lci/20261014-lJOXBVLjVo0/transcript.md#005207)）
+
+## 劳动部长的账：把自动规则改成年度谈判
+
+[劳动部长听证](../videos/20261019-public-senat-labor-minister-social-budget.md)给养老金节支补上了执行方案：1260欧元以下全额指数化，以上在初始方案中不涨，再配合税收扣除上限调整，由退休者承担约55亿欧元。Jean-Pierre Farandou 还提出，未来可仿照补充养老金，让社会伙伴每年谈涨幅、国家最后仲裁。反方追问的是生活而非比例：独居且仍付房租的人，即使养老金略高于1260欧元，也未必有吸收通胀的空间。（[00:12:22](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#001222)–[00:14:24](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#001424)，[00:23:33](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#002333)–[00:25:35](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#002535)，[00:49:02](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#004902)–[00:51:04](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#005104)）
 
 ## 邻国视角与再工业化派：两种不同的债务警报
 

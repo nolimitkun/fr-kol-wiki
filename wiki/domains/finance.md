@@ -15,6 +15,7 @@
 ## 债务、预算与融资
 
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
+- [养老金少涨、短病假少赔：法国劳动部长怎样分摊社保缺口？](../videos/20261019-public-senat-labor-minister-social-budget.md)
 - [养老金藏进部委预算后，谁来买单？](../videos/20261014-lci-public-pensions-generations.md)
 - [先紧缩，还是先增长？西班牙、葡萄牙给法国的答案并不相同](../videos/20261013-public-senat-spain-portugal-deficit.md)
 - [社保赤字砍一半，账单给谁？社保融资、ACOSS 与市场利率](../videos/20261013-public-senat-social-security-budget.md)

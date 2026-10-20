@@ -47,6 +47,7 @@
 ## 医保、病假与风险共担
 
 - [医保分工、补充保险与病假成本](../topics/health-insurance-cost-sharing.md)
+- [养老金少涨、短病假少赔：法国劳动部长怎样分摊社保缺口？](../videos/20261019-public-senat-labor-minister-social-budget.md)
 - [社保赤字砍一半，账单给谁？](../videos/20261013-public-senat-social-security-budget.md)
 - [眼镜、病假、互助保险](../videos/20260924-lci-health-insurance-reform.md)
 
@@ -62,6 +63,7 @@
 
 ## 群体、记忆与暴力
 
+- [暴力过后只谈秩序，法国政府会不会把诉求也一起清场？](../videos/20261019-public-senat-urban-violence-government-response.md)
 - [“种族灭绝”概念、国际法门槛与追责](../topics/genocide-international-law.md)
 - [以色列选举、10月7日问责与巴勒斯坦前景](../topics/israel-election-october-7-accountability.md)
 - [战争还没结账，以色列先要投票](../videos/20261007-public-senat-israel-election-accountability.md)
