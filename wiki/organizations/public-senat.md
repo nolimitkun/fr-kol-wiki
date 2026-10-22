@@ -1,6 +1,6 @@
 ---
 title: "Public Sénat"
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Public Sénat
@@ -9,6 +9,7 @@ updated: 2026-10-20
 
 ## 已收录
 
+- [多装无人机，还是少制造恐惧？法国争论示威警务、司法与军队守卫](../videos/20261021-public-senat-senate-public-order-report.md)（参议院报告、监控、司法处置与军队静态守卫圆桌，2026-10-21）
 - [养老金少涨、短病假少赔：法国劳动部长怎样分摊社保缺口？](../videos/20261019-public-senat-labor-minister-social-budget.md)（劳动部长就养老金、病假、失业保险与工伤分支接受参议院听证，2026-10-19）
 - [暴力过后只谈秩序，法国政府会不会把诉求也一起清场？](../videos/20261019-public-senat-urban-violence-government-response.md)（城市暴力、紧急权力与选举后果圆桌，2026-10-19）
 - [示威一变骚乱，规则就该换吗？法国参议院追问警务、武器与“破坏者付费”](../videos/20261014-public-senat-order-policing-nunez.md)（内政部长就维护秩序与民事追责接受参议院听证，2026-10-14）

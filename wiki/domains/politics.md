@@ -14,6 +14,9 @@
 
 ## 社会运动与国家回应
 
+- [法国示威警务：距离、机动与自由边界](../topics/public-order-policing.md)
+- [多装无人机，还是少制造恐惧？](../videos/20261021-public-senat-senate-public-order-report.md)
+- [拉开距离，还是冲上去？](../videos/20261009-le-collimateur-french-public-order-doctrine.md)
 - [示威一变骚乱，规则就该换吗？](../videos/20261014-public-senat-order-policing-nunez.md)
 - [一场游行，三种人群：法国多城暴力后，诉求还听得见吗？](../videos/20261017-lci-protests-violence-order.md)
 - [2026年高中生动员：教育诉求、暴力与国家回应](../topics/2026-high-school-mobilization.md)

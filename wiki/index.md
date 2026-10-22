@@ -22,6 +22,7 @@
 
 ## 按专题
 
+- [法国示威警务：距离、机动与自由边界](topics/public-order-policing.md)
 - [美国中期选举的经济账：物价、关税与国家干预](topics/us-midterms-economy.md)
 - [货币政策怎样稳定经济：预期、规则与家庭消费](topics/monetary-policy-stabilization.md)
 - [智库、媒体与政治影响力](topics/think-tanks-media-and-political-influence.md)
@@ -50,6 +51,11 @@
 
 ## 按人物
 
+- [Christophe Maresca](people/christophe-maresca.md)
+- [Alexandre Jubelin](people/alexandre-jubelin.md)
+- [Jacqueline Eustache-Brinio](people/jacqueline-eustache-brinio.md)
+- [Vincent Brengarth](people/vincent-brengarth.md)
+- [Abdoulaye Kanté](people/abdoulaye-kante.md)
 - [Laurent Nuñez](people/laurent-nunez.md)
 - [François Lenglet](people/francois-lenglet.md)
 - [Christian de Boissieu](people/christian-de-boissieu.md)
@@ -196,6 +202,7 @@
 
 ## 按机构
 
+- [Le Collimateur](organizations/le-collimateur.md)
 - [Institut Montaigne](organizations/institut-montaigne.md)
 - [Fondation Jean-Jaurès](organizations/fondation-jean-jaures.md)
 - [Public Sénat](organizations/public-senat.md)
@@ -209,6 +216,8 @@
 
 ## 按视频
 
+- 2026-10-21 · Public Sénat · [多装无人机，还是少制造恐惧？法国争论示威警务、司法与军队守卫](videos/20261021-public-senat-senate-public-order-report.md)
+- 2026-10-09 · Le Collimateur · [拉开距离，还是冲上去？一名机动宪兵拆解法国示威警务的矛盾](videos/20261009-le-collimateur-french-public-order-doctrine.md)
 - 2026-10-19 · Public Sénat · [养老金少涨、短病假少赔：法国劳动部长怎样分摊社保缺口？](videos/20261019-public-senat-labor-minister-social-budget.md)
 - 2026-10-19 · Public Sénat · [暴力过后只谈秩序，法国政府会不会把诉求也一起清场？](videos/20261019-public-senat-urban-violence-government-response.md)
 - 2026-10-17 · LCI · [一场游行，三种人群：法国多城暴力后，诉求还听得见吗？](videos/20261017-lci-protests-violence-order.md)
