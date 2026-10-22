@@ -14,7 +14,7 @@
 
 ## 报告争议：加强识别，也可能加强寒蝉效应
 
-[Public Sénat 圆桌](../videos/20261021-public-senat-senate-public-order-report.md)把政策选择推到两端。Eustache-Brinio支持随队检察官、无人机、算法视频与更重处罚，认为守法者无需害怕监控；Brengarth则说，预防性拘留和持续拍摄会先赶走风险承受力较低的普通人。Kanté居中谈操作：他支持中间武器和更快的机动单位，也承认情报低估和静态部署难以同时应付侧街抢掠。（[00:08:23](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#000823)–[00:15:32](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#001532)，[00:19:37](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#001937)–[00:27:47](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#002747)，[00:28:47](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#002847)–[00:34:54](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#003454)）
+[Public Sénat 圆桌](../videos/20261021-public-senat-senate-public-order-report.md)把政策选择推到两端。Eustache-Brinio支持随队检察官、无人机、算法视频与更重处罚，认为守法者无需害怕监控；Brengarth则说，警方会把拘留当作预防性维护公共秩序的工具，因此不少案件后来撤案。他另从示威自由出发，认为持续拍摄和中间武器的威慑效应会让一些公民放弃示威。Kanté居中谈操作：他支持中间武器和更快的机动单位，也承认情报低估和静态部署难以同时应付侧街抢掠。（[00:08:23](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#000823)–[00:15:32](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#001532)，[00:19:37](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#001937)–[00:27:47](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#002747)，[00:28:47](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#002847)–[00:34:54](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#003454)）
 
 ## 军队边界：释放警力，不等于消除风险
 
