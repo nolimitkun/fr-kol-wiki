@@ -22,7 +22,7 @@ updated: 2026-10-22
 
 ## 一句话结论
 
-这场辩论没有解决“安全还是自由”，却把冲突说清了：强硬派要靠情报、无人机、快速审判和更多机动警力压住破坏者；自由权律师则警告，预防性拘留、算法监控和中间武器会先把普通人吓离街头，最终只剩最不怕风险的人占据现场。（[00:06:20](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#000620)–[00:13:30](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#001330)，[00:28:47](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#002847)–[00:34:54](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#003454)）
+这场辩论没有解决“安全还是自由”，却把冲突说清了：强硬派要靠情报、无人机、快速审判和更多机动警力压住破坏者；自由权律师则警告，预防性拘留、算法监控和中间武器会让一些没有暴力意图的人也不敢走上街头。（[00:06:20](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#000620)–[00:13:30](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#001330)，[00:28:47](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#002847)–[00:34:54](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#003454)）
 
 ## 摘要
 
