@@ -4,7 +4,7 @@
 
 ## 10月21日：报告开出更多工具，自由边界仍没有共识
 
-[Public Sénat 圆桌](../videos/20261021-public-senat-senate-public-order-report.md)围绕一份参议院维护秩序报告争论随队检察官、无人机、算法视频、快速审判和机动警力。Jacqueline Eustache-Brinio 把惩罚视为恢复规则的前提；Vincent Brengarth 则担心预防性拘留和监控先把和平参与者赶离街头。Abdoulaye Kanté区分维护秩序与城市暴力，要求增加快速单位，却也承认此前低估了人数与暴力风险。报告原文、法律状态和事件数据均待官方资料核验。（[00:06:20](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#000620)–[00:15:32](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#001532)，[00:19:37](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#001937)–[00:27:47](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#002747)，[00:28:47](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#002847)–[00:34:54](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#003454)）
+[Public Sénat 圆桌](../videos/20261021-public-senat-senate-public-order-report.md)围绕一份参议院维护秩序报告争论随队检察官、无人机、算法视频、快速审判和机动警力。Jacqueline Eustache-Brinio 把惩罚视为恢复规则的前提；Vincent Brengarth 则认为，警方把拘留用作预防性工具，可以解释为何许多案件后来撤案。（[00:06:20](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#000620)–[00:13:30](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#001330)）他另担心无人机监控和中间武器产生威慑，让一些没有暴力意图的人也不敢上街示威。（[00:28:47](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#002847)–[00:34:54](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#003454)）Abdoulaye Kanté区分维护秩序与城市暴力，要求增加快速单位，却也承认此前低估了人数与暴力风险。（[00:19:37](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#001937)–[00:27:47](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#002747)）报告原文、法律状态和事件数据均待官方资料核验。
 
 ## 10月14日至17日：警务规则进入法案，街头又把分类打乱
 
