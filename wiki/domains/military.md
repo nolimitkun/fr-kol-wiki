@@ -2,6 +2,12 @@
 
 覆盖法国国防战略、核威慑、军工、海外部署、欧洲安全、外交政策与战略自主。战争相关材料严格区分当事人观点、公开情报和已核验事实。
 
+## 军队、宪兵与国内秩序边界
+
+- [法国示威警务：距离、机动与自由边界](../topics/public-order-policing.md)
+- [拉开距离，还是冲上去？一名机动宪兵拆解法国示威警务的矛盾](../videos/20261009-le-collimateur-french-public-order-doctrine.md)
+- [多装无人机，还是少制造恐惧？军队静态守卫的边界](../videos/20261021-public-senat-senate-public-order-report.md)
+
 ## 以色列—巴勒斯坦与战争问责
 
 - [以色列选举、10月7日问责与巴勒斯坦前景](../topics/israel-election-october-7-accountability.md)
