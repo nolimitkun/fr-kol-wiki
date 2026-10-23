@@ -4,6 +4,7 @@
 
 ## 当前收录
 
+- [十年期利率越过5%：国债成本怎样传到银行、企业与家庭信贷](../videos/20261022-public-senat-finances-red-alert.md)
 - [货币政策怎样稳定经济：预期、规则与家庭消费](../topics/monetary-policy-stabilization.md)
 - [央行怎样稳住经济？Woodford 与 Hall 把预期、消费和规则装进模型](../videos/20261012-france-culture-nobel-woodford-hall.md)
 - [钱留在法国，工厂就会回来吗？银行与区域产业基金](../videos/20260512-thinkerview-lluansi-montebourg-reindustrialization.md)

@@ -21,6 +21,8 @@
 ## 公共债务、税收与增长
 
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
+- [十年期国债收益率到了5%，该砍支出还是向巨富收一次重税？](../videos/20261022-france-culture-solidarity-tax-debt.md)
+- [十年期利率越过5%：骚乱、预算僵局和法国债务怎样滚成雪球？](../videos/20261022-public-senat-finances-red-alert.md)
 - [养老金藏进部委预算后，谁来买单？](../videos/20261014-lci-public-pensions-generations.md)
 - [先紧缩，还是先增长？西班牙、葡萄牙给法国的答案并不相同](../videos/20261013-public-senat-spain-portugal-deficit.md)
 - [社保赤字砍一半，账单给谁？](../videos/20261013-public-senat-social-security-budget.md)

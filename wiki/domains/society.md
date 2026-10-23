@@ -9,6 +9,8 @@
 
 ## 青年动员与公共秩序
 
+- [十年期国债收益率到了5%，该砍支出还是向巨富收一次重税？](../videos/20261022-france-culture-solidarity-tax-debt.md)
+- [十年期利率越过5%：骚乱、预算僵局和法国债务怎样滚成雪球？](../videos/20261022-public-senat-finances-red-alert.md)
 - [法国示威警务：距离、机动与自由边界](../topics/public-order-policing.md)
 - [多装无人机，还是少制造恐惧？](../videos/20261021-public-senat-senate-public-order-report.md)
 - [拉开距离，还是冲上去？](../videos/20261009-le-collimateur-french-public-order-doctrine.md)
