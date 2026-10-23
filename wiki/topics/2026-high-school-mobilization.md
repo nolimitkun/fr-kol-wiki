@@ -1,5 +1,11 @@
 # 2026年高中生动员：教育诉求、暴力与国家回应
 
+## 10月22日：钱从哪里来，争论终于落到税制
+
+[France Culture 对谈](../videos/20261022-france-culture-solidarity-tax-debt.md)把学生诉求接到大学入口：高中毕业生增加后，IUT、BTS 和计算机等专业名额没有同步扩张，Parcoursup 的不透明又让学生无法预测选科与录取的关系。Cagé 与 Piketty 因而拒绝把教育增支当作可有可无，并用高财富税回答“钱从哪来”。相关人均投入、名额和教师数据待核验。（[00:03:01](../../sources/france-culture/20261022-633S1krLFYA/transcript.md#000301)–[00:10:06](../../sources/france-culture/20261022-633S1krLFYA/transcript.md#001006)）
+
+[Public Sénat 圆桌](../videos/20261022-public-senat-finances-red-alert.md)则把同一笔教育支出放进5%利率的预算环境。This Saint-Jean 称教育是未来投资，支持先灭火；Capo-Canellas 同意需要回应，却要求任何新增资金都有对应节省，不能继续靠“开支票”处理每场危机。这里的分歧不是要不要听学生，而是危机支出是否应先于财政配套。（[00:25:30](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#002530)–[00:29:35](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#002935)）
+
 本专题并列四种很不一样的镜头。France Culture 让高中生从缺教师、家庭差异、Parcoursup 和碎片化课表讲起，又请教育经济学者拆开“高中生均支出高”的口径；LCI 的评论圆桌讨论外来破坏者、国家能力与政治组织，议员圆桌则把同一危机变成执政党、RN 与 LFI 的责任之争；Public Sénat 继续追问警务强度和运动能否连接其他社会不满。几种镜头互相补足，也互相纠偏：只听学生经验会漏掉现场安全，只看暴力画面则会让长期教育问题从画面外消失。
 
 ## 10月21日：报告开出更多工具，自由边界仍没有共识

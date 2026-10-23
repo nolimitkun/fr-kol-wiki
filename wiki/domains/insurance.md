@@ -11,6 +11,7 @@
 
 ## 财产损失与责任保险
 
+- [十年期利率越过5%：骚乱损失先由谁赔？](../videos/20261022-public-senat-finances-red-alert.md)
 - [校门口要钱，债市却在催账：反破坏法案怎样把损失推向家庭、纳税人与保险](../videos/20261004-lci-lycee-debt-government-pressure.md)
 
 ## 后续重点

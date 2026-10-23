@@ -14,6 +14,7 @@
 
 ## 社会运动与国家回应
 
+- [十年期利率越过5%：骚乱、预算僵局和法国债务怎样滚成雪球？](../videos/20261022-public-senat-finances-red-alert.md)
 - [法国示威警务：距离、机动与自由边界](../topics/public-order-policing.md)
 - [多装无人机，还是少制造恐惧？](../videos/20261021-public-senat-senate-public-order-report.md)
 - [拉开距离，还是冲上去？](../videos/20261009-le-collimateur-french-public-order-doctrine.md)
@@ -43,6 +44,7 @@
 
 ## 2027 总统选举
 
+- [债务到了5%，该砍支出还是向巨富收一次重税？](../videos/20261022-france-culture-solidarity-tax-debt.md)
 - [2027总统选举：联盟与地方根基](../topics/2027-presidential-election.md)
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
 - [七名候选人面对企业界的经济政策辩论](../videos/20260827-lci-medef-2027-economic-debate.md)

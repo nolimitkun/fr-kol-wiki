@@ -5,6 +5,12 @@ updated: 2026-10-20
 
 # 法国公共债务、税收与增长路径
 
+## 5%利率之后：一边要稳预算，一边要重置财富税
+
+[France Culture 对谈](../videos/20261022-france-culture-solidarity-tax-debt.md)给出最激进的资产端方案。Thomas Piketty 主张对2017—2027年间超过一亿欧元的财富增值征收50%，以后再设5%和10%的累进年税，并允许以股份缴纳；Julia Cagé 则把收入用途接到教育、医疗和乡村公共服务。主持人连续追问迁居、市场反应和初创企业现金问题，使方案的税基、执行和法律缺口暴露出来。八千亿欧元收入估算与历史类比均待核验。（[00:21:17](../../sources/france-culture/20261022-633S1krLFYA/transcript.md#002117)–[00:35:28](../../sources/france-culture/20261022-633S1krLFYA/transcript.md#003528)）
+
+[Public Sénat 圆桌](../videos/20261022-public-senat-finances-red-alert.md)从另一侧描述风险：骚乱压消费与旅游，预算僵局增加政治折价，国债利率再传到住房、企业融资和利息支出。Isabelle This Saint-Jean 反对把5%直接说成融资中断，主张慢而可信地修复财政；Vincent Capo-Canellas 更担心窗口关闭，要求先让预算通过。两场节目由此形成真正分歧：用财富端的一次重置快速降债，还是用预算纪律逐步恢复可信度；两边的数字都未获仓库内官方材料复核。（[00:15:24](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#001524)–[00:24:29](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#002429)，[00:25:30](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#002530)–[00:29:35](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#002935)）
+
 这个专题不把财政争论缩成“加税还是减支”。它追踪三个连在一起的问题：谁承担预算修复，哪些公共支出会创造长期能力，以及企业减负能否转化为投资、就业和生产率。
 
 ## 第一场争论：所有人都要增长，手段却相反
