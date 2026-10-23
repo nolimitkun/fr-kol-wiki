@@ -1,5 +1,5 @@
 ---
-title: "债务到了5%，该砍支出还是向巨富收一次重税？Cagé 与 Piketty 正面算账"
+title: "十年期国债收益率到了5%，该砍支出还是向巨富收一次重税？Cagé 与 Piketty 正面算账"
 date: 2026-10-22
 source_language: fr
 status: draft
@@ -12,7 +12,7 @@ viewpoint: [economist-analysis, progressive-taxation-advocacy]
 updated: 2026-10-23
 ---
 
-# 债务到了5%，该砍支出还是向巨富收一次重税？Cagé 与 Piketty 正面算账
+# 十年期国债收益率到了5%，该砍支出还是向巨富收一次重税？Cagé 与 Piketty 正面算账
 
 - 原视频：[France Culture / YouTube](https://www.youtube.com/watch?v=633S1krLFYA)
 - 原始资料：[法语自动字幕逐字稿](../../sources/france-culture/20261022-633S1krLFYA/transcript.md)

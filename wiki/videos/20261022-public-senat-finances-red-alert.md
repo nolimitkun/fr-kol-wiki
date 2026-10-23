@@ -4,7 +4,7 @@ date: 2026-10-22
 source_language: fr
 status: draft
 channel: public-senat
-people: [vincent-capo-canellas, isabelle-this-saint-jean, clemence-le-maitre, fanny-guinochet]
+people: [vincent-capo-canellas, isabelle-this-saint-jean, clemence-lemaistre, fanny-guinochet]
 organizations: [public-senat]
 domains: [economy, finance, banking, insurance, real-estate, politics, society]
 topics: [france-public-debt-and-growth, 2026-high-school-mobilization]
@@ -26,13 +26,13 @@ updated: 2026-10-23
 
 ## 摘要
 
-节目先从“骚乱已造成十亿欧元损失”这个未经核验的估算出发。Isabelle This Saint-Jean 马上拆成两层：店铺库存、公共建筑等直接损失只是小头，消费、企业信心和投资者定价的连锁反应更难算。Clémence Le Maître 把这种链条叫“越滚越大的雪球”，Fanny Guinochet 的语气最像市场快报，逐项列旅游取消、股价抛售和风险溢价。Vincent Capo-Canellas 则不断把问题拉回预算执行：地方政府承担大量公共投资，国家不能一面要求增长，一面让地方先断粮。
+节目先从“骚乱已造成十亿欧元损失”这个未经核验的估算出发。Isabelle This Saint-Jean 马上拆成两层：店铺库存、公共建筑等直接损失只是小头，消费、企业信心和投资者定价的连锁反应更难算。Clémence Lemaistre 把这种链条叫“越滚越大的雪球”，Fanny Guinochet 的语气最像市场快报，逐项列旅游取消、股价抛售和风险溢价。Vincent Capo-Canellas 则不断把问题拉回预算执行：地方政府承担大量公共投资，国家不能一面要求增长，一面让地方先断粮。
 
 中段出现重要纠偏。This Saint-Jean 承认情况严重，却反对把法国说成希腊式失去融资能力：新债仍有超额认购，国家总体财富与对外收支也要一起看。她还提醒，财政调整太快会压低增长，反过来恶化债务率。Capo-Canellas 更担心时间窗口收窄，称稳定债务所需五年调整已从约一千二百五十亿升到一千八百至两千亿欧元；他支持用宪法第49条第3款让预算过关，但承认这会带来倒阁风险。所有估算、法律状态和职务均待官方材料复核。（[00:17:26](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#001726)–[00:24:29](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#002429)，[00:35:40](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#003540)–[00:38:44](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#003844)）
 
 ## 十亿欧元只是看得见的账
 
-This Saint-Jean 解释，直接损失通常按受损商户、库存和公共建筑估算，但更大的不确定性来自家庭推迟消费、企业信心下降和融资成本上升。Le Maître 补充，零售和旅游首先受打击，且节目所引商业景气调查发生在骚乱前，因此还没有包含后续冲击。这些数据和因果强度均待核验。（[00:04:13](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000413)–[00:08:17](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000817)）
+This Saint-Jean 解释，直接损失通常按受损商户、库存和公共建筑估算，但更大的不确定性来自家庭推迟消费、企业信心下降和融资成本上升。Lemaistre 补充，零售和旅游首先受打击，且节目所引商业景气调查发生在骚乱前，因此还没有包含后续冲击。这些数据和因果强度均待核验。（[00:04:13](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000413)–[00:08:17](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000817)）
 
 Guinochet 把境外投资者的反应讲得很直：他们看到暴力和政治失灵，会卖股票、要求更高国债回报。她把法国十年期收益率约 5.1% 与德国、西班牙、意大利作比较，并说社会危机改变了 2023 年骚乱时尚未改变的市场判断。这是媒体评论者对市场行为的解释，并非已建立的单一因果关系。（[00:09:19](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000919)–[00:14:22](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#001422)）
 
@@ -50,7 +50,7 @@ This Saint-Jean 把给高中和大学的钱称为未来投资，主张当前危�
 
 节目称国民议会对政府预算改动很大，政府又坚持 2027 年赤字 5% 目标，于是第49条第3款和预算法令被当成两道“护栏”。Capo-Canellas 反对直接用法令：既缺少议会表决，也无法像正常审议那样修正草案的法律瑕疵。他倾向 49.3，即便政府随后可能被不信任案推翻，也应先让国家有预算。这里涉及当时预算进程与宪法解释，待官方文本核验。（[00:31:39](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#003139)–[00:36:41](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#003641)）
 
-Le Maître 对议会更不客气。她把大量互不兼容的修正案描述成各党提前为总统选举占位，认为妥协尚未出现。This Saint-Jean 的收尾则更谨慎：法国有自己的多年失误，但战争、气候、AI 和普遍升息也是欧洲共同约束，不能把一切都归结为“法国人的傲慢”。（[00:37:42](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#003742)–[00:40:47](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#004047)）
+Lemaistre 对议会更不客气。她把大量互不兼容的修正案描述成各党提前为总统选举占位，认为妥协尚未出现。This Saint-Jean 的收尾则更谨慎：法国有自己的多年失误，但战争、气候、AI 和普遍升息也是欧洲共同约束，不能把一切都归结为“法国人的傲慢”。（[00:37:42](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#003742)–[00:40:47](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#004047)）
 
 ## 关键断言：待核验
 
@@ -74,7 +74,7 @@ Le Maître 对议会更不客气。她把大量互不兼容的修正案描述成
 
 ## 关联页面
 
-- 人物：[Vincent Capo-Canellas](../people/vincent-capo-canellas.md)、[Isabelle This Saint-Jean](../people/isabelle-this-saint-jean.md)、[Clémence Le Mestre](../people/clemence-le-maitre.md)、[Fanny Guinochet](../people/fanny-guinochet.md)
+- 人物：[Vincent Capo-Canellas](../people/vincent-capo-canellas.md)、[Isabelle This Saint-Jean](../people/isabelle-this-saint-jean.md)、[Clémence Lemaistre](../people/clemence-lemaistre.md)、[Fanny Guinochet](../people/fanny-guinochet.md)
 - 机构：[Public Sénat](../organizations/public-senat.md)
 - 专题：[法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)、[2026年高中生动员](../topics/2026-high-school-mobilization.md)
 - 领域：[经济](../domains/economy.md)、[金融](../domains/finance.md)、[银行](../domains/banking.md)、[保险](../domains/insurance.md)、[房地产](../domains/real-estate.md)、[政治](../domains/politics.md)、[社会与民生](../domains/society.md)

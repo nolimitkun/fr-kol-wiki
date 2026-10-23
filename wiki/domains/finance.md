@@ -15,7 +15,7 @@
 ## 债务、预算与融资
 
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
-- [债务到了5%，该砍支出还是向巨富收一次重税？](../videos/20261022-france-culture-solidarity-tax-debt.md)
+- [十年期国债收益率到了5%，该砍支出还是向巨富收一次重税？](../videos/20261022-france-culture-solidarity-tax-debt.md)
 - [十年期利率越过5%：骚乱、预算僵局和法国债务怎样滚成雪球？](../videos/20261022-public-senat-finances-red-alert.md)
 - [养老金少涨、短病假少赔：法国劳动部长怎样分摊社保缺口？](../videos/20261019-public-senat-labor-minister-social-budget.md)
 - [养老金藏进部委预算后，谁来买单？](../videos/20261014-lci-public-pensions-generations.md)

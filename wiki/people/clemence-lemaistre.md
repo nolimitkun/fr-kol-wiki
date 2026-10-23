@@ -1,11 +1,11 @@
 ---
-title: "Clémence Le Mestre"
+title: "Clémence Lemaistre"
 updated: 2026-10-23
 ---
 
-# Clémence Le Mestre
+# Clémence Lemaistre
 
-法国经济媒体从业者。Public Sénat 在 2026-10-22 节目中介绍她为《回声报》编辑部副主任；自动字幕所示姓名不稳定，本页拼写和职务待本人或机构一手资料核验。（[00:03:13](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000313)–[00:04:13](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000413)）
+法国经济媒体从业者。Public Sénat 在 2026-10-22 节目中介绍她为《回声报》编辑部副主任；自动字幕将姓名识别为“Le Maestre”等不稳定形式。（[00:03:13](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000313)–[00:04:13](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000413)）
 
 ## 2026-10-22：社会冲击、利率和议会僵局会一起滚大
 

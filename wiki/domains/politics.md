@@ -44,7 +44,7 @@
 
 ## 2027 总统选举
 
-- [债务到了5%，该砍支出还是向巨富收一次重税？](../videos/20261022-france-culture-solidarity-tax-debt.md)
+- [十年期国债收益率到了5%，该砍支出还是向巨富收一次重税？](../videos/20261022-france-culture-solidarity-tax-debt.md)
 - [2027总统选举：联盟与地方根基](../topics/2027-presidential-election.md)
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
 - [七名候选人面对企业界的经济政策辩论](../videos/20260827-lci-medef-2027-economic-debate.md)

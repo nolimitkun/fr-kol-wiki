@@ -54,7 +54,7 @@
 - [Julia Cagé](people/julia-cage.md)
 - [Thomas Piketty](people/thomas-piketty.md)
 - [Vincent Capo-Canellas](people/vincent-capo-canellas.md)
-- [Clémence Le Mestre](people/clemence-le-maitre.md)
+- [Clémence Lemaistre](people/clemence-lemaistre.md)
 - [Fanny Guinochet](people/fanny-guinochet.md)
 - [Christophe Maresca](people/christophe-maresca.md)
 - [Alexandre Jubelin](people/alexandre-jubelin.md)
@@ -221,7 +221,7 @@
 
 ## 按视频
 
-- 2026-10-22 · France Culture · [债务到了5%，该砍支出还是向巨富收一次重税？Cagé 与 Piketty 正面算账](videos/20261022-france-culture-solidarity-tax-debt.md)
+- 2026-10-22 · France Culture · [十年期国债收益率到了5%，该砍支出还是向巨富收一次重税？Cagé 与 Piketty 正面算账](videos/20261022-france-culture-solidarity-tax-debt.md)
 - 2026-10-22 · Public Sénat · [十年期利率越过5%：骚乱、预算僵局和法国债务怎样滚成雪球？](videos/20261022-public-senat-finances-red-alert.md)
 - 2026-10-21 · Public Sénat · [多装无人机，还是少制造恐惧？法国争论示威警务、司法与军队守卫](videos/20261021-public-senat-senate-public-order-report.md)
 - 2026-10-09 · Le Collimateur · [拉开距离，还是冲上去？一名机动宪兵拆解法国示威警务的矛盾](videos/20261009-le-collimateur-french-public-order-doctrine.md)
