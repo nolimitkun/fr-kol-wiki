@@ -22,7 +22,7 @@ updated: 2026-10-23
 
 ## 一句话结论
 
-这场圆桌没有把 5% 当作法国立刻破产的按钮，却一致承认风险正在互相放大：暴力打击消费和旅游，政治僵局削弱预算可信度，更高国债收益率又会传到房贷、企业融资和利息支出；真正分歧是该用更快削支恢复信任，还是慢一些、保住教育和增长型投资。（[00:04:13](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000413)–[00:08:17](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000817)，[00:15:24](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#001524)–[00:24:29](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#002429)）
+这场圆桌没有把 5% 当作法国立刻破产的按钮，却一致承认风险正在互相放大：暴力打击消费和旅游，政治僵局削弱预算可信度，更高国债收益率又会传到房贷、企业融资和利息支出；真正分歧是该用更快削支恢复信任，还是慢一些、保住教育和增长型投资。（[00:02:11](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000211)–[00:03:13](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000313)，[00:04:13](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000413)–[00:08:17](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000817)，[00:15:24](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#001524)–[00:24:29](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#002429)）
 
 ## 摘要
 
@@ -38,7 +38,7 @@ Guinochet 把境外投资者的反应讲得很直：他们看到暴力和政治�
 
 ## 5%会怎样传到家庭和企业？
 
-圆桌的共同链条是：国家新发债成本上升，银行和其他融资渠道随之变贵，企业投资、住房贷款与家庭消费承压；国债利息又挤占教育、国防等预算。嘉宾称利息支出可能从 2020 年约三百亿升到 2026 年约七百九十亿，并在 2030 年超过一千二百五十亿欧元。这些是节目引用的预测，不是编辑核验。（[00:14:22](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#001422)–[00:17:26](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#001726)，[00:30:37](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#003037)）
+圆桌的共同链条是：国家新发债成本上升，银行和其他融资渠道随之变贵，企业投资、住房贷款与家庭消费承压；国债利息又挤占教育、国防等预算。嘉宾称利息支出可能从 2020 年约三百亿升到 2026 年约七百九十亿，并在 2030 年超过一千二百五十亿欧元。这些是节目引用的预测，不是编辑核验。（[00:02:11](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000211)–[00:03:13](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000313)，[00:14:22](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#001422)–[00:17:26](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#001726)，[00:21:27](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#002127)–[00:22:27](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#002227)，[00:30:37](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#003037)）
 
 This Saint-Jean 给恐慌踩了刹车：法国仍能发行债券，认购需求据称约为发行量两倍；公共部门虽负债，但私人资产和整体对外收支不能从判断中抹掉。她区分“债务很重”与“已无法滚续”，反对把屏幕上的债务时钟本身当作结论。（[00:17:26](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#001726)–[00:20:27](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#002027)）
 
@@ -58,7 +58,7 @@ Lemaistre 对议会更不客气。她把大量互不兼容的修正案描述成�
 |---|---|---|
 | 骚乱直接损失已超过10亿欧元 | 主持人口播（[00:00:09](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000009)） | 政府、保险业与地方政府最终口径 |
 | 十年期国债收益率超过5%，为2002年以来首次 | 节目报道（[00:00:09](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000009)–[00:02:11](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#000211)） | 交易时点、债券基准与历史序列 |
-| 2030年债务利息将超过1250亿欧元 | Guinochet（[00:15:24](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#001524)） | 预算预测、利率和通胀假设 |
+| 2030年债务利息将超过1250亿欧元 | Lemaistre（[00:15:24](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#001524)） | 预算预测、利率和通胀假设 |
 | 稳债所需五年调整从1250亿升至1800—2000亿欧元 | Capo-Canellas（[00:22:27](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#002227)–[00:24:29](../../sources/public-senat/20261022-D6ncXFYNi34/transcript.md#002429)） | 报告原文、基线和“调整”定义 |
 
 ## 法中术语表
