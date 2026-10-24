@@ -14,6 +14,7 @@
 
 ## 债务、预算与融资
 
+- [秩序牌能把 RN 送进爱丽舍宫吗？RN的竞选预算与退休账](../videos/20261023-public-senat-rn-congress-presidential-strategy.md)
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
 - [十年期国债收益率到了5%，该砍支出还是向巨富收一次重税？](../videos/20261022-france-culture-solidarity-tax-debt.md)
 - [十年期利率越过5%：骚乱、预算僵局和法国债务怎样滚成雪球？](../videos/20261022-public-senat-finances-red-alert.md)

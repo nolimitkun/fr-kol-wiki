@@ -1,6 +1,6 @@
 ---
 title: "2027总统选举：联盟与地方根基"
-updated: 2026-10-23
+updated: 2026-10-24
 ---
 
 # 2027总统选举：联盟与地方根基
@@ -35,3 +35,9 @@ updated: 2026-10-23
 ## 政策从哪里来？
 
 [France Culture 的智库圆桌](../videos/20261011-france-culture-think-tanks-influence.md)补上一条竞选基础设施：当政党内部专题组变弱，智库会提供调查、政策选项、专家和媒体表达。它们能让竞选讨论更有材料，也让资金、利益和民主监督问题变得更重要。（[00:45:54](../../sources/france-culture/20261011-SAx9CGf8iDg/transcript.md#004554)–[00:49:57](../../sources/france-culture/20261011-SAx9CGf8iDg/transcript.md#004957)）
+
+## RN怎样把秩序变成竞选舞台？
+
+[Public Sénat 的 RN 党代会圆桌](../videos/20261023-public-senat-rn-congress-presidential-strategy.md)认为，社会暴力与反对示威给了 RN 展示“秩序党”形象的机会。Lauriane Clément 观察到 Le Pen 与 Bardella 已分别扮演总统和总理角色；Pascal Perrineau 则提醒，Bardella 的争议既可能拖累“去妖魔化”，也可能让 Le Pen 在胜选后另找更利于右翼结盟的总理。报道、诉讼和民调均待核验。（[00:54:52](../../sources/public-senat/20261023--22gqoFLWdk/transcript.md#005452)–[01:02:59](../../sources/public-senat/20261023--22gqoFLWdk/transcript.md#010259)，[01:04:00](../../sources/public-senat/20261023--22gqoFLWdk/transcript.md#010400)–[01:10:06](../../sources/public-senat/20261023--22gqoFLWdk/transcript.md#011006)）
+
+[网络安全听证](../videos/20261022-public-senat-cyber-foreign-interference.md)补上选举基础设施风险。Nicolas Roche 说，境外账号更常放大法国既有分裂，而非从零制造社会运动；Viginum 方面则担心生成式 AI 与平台变现让跨语言操纵更便宜。相关机构权限和2027选举保护安排待核验。（[01:11:20](../../sources/public-senat/20261022-tyzHYI3Pxaw/transcript.md#011120)–[01:21:32](../../sources/public-senat/20261022-tyzHYI3Pxaw/transcript.md#012132)）

@@ -1,6 +1,6 @@
 ---
 title: "Public Sénat"
-updated: 2026-10-23
+updated: 2026-10-24
 ---
 
 # Public Sénat
@@ -9,6 +9,8 @@ updated: 2026-10-23
 
 ## 已收录
 
+- [秩序牌能把 RN 送进爱丽舍宫吗？党代会、Bardella 风波与经济软肋](../videos/20261023-public-senat-rn-congress-presidential-strategy.md)（RN党代会、竞选秩序叙事与经济路线圆桌，2026-10-23；同一上传前半段为已收录财政节目的重复内容）
+- [冰箱连着公网，选举连着平台：法国怎样挡住网络攻击与境外操纵？](../videos/20261022-public-senat-cyber-foreign-interference.md)（SGDSN、ANSSI与Viginum网络安全听证，2026-10-22）
 - [十年期利率越过5%：骚乱、预算僵局和法国债务怎样滚成雪球？](../videos/20261022-public-senat-finances-red-alert.md)（骚乱经济冲击、主权融资与预算程序圆桌，2026-10-22）
 - [多装无人机，还是少制造恐惧？法国争论示威警务、司法与军队守卫](../videos/20261021-public-senat-senate-public-order-report.md)（参议院报告、监控、司法处置与军队静态守卫圆桌，2026-10-21）
 - [养老金少涨、短病假少赔：法国劳动部长怎样分摊社保缺口？](../videos/20261019-public-senat-labor-minister-social-budget.md)（劳动部长就养老金、病假、失业保险与工伤分支接受参议院听证，2026-10-19）

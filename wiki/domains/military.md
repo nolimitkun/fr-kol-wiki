@@ -2,6 +2,11 @@
 
 覆盖法国国防战略、核威慑、军工、海外部署、欧洲安全、外交政策与战略自主。战争相关材料严格区分当事人观点、公开情报和已核验事实。
 
+## 混合威胁与国家韧性
+
+- [网络干预、网络安全与国家韧性](../topics/cybersecurity-and-foreign-interference.md)
+- [冰箱连着公网，选举连着平台：法国怎样挡住网络攻击与境外操纵？](../videos/20261022-public-senat-cyber-foreign-interference.md)
+
 ## 军队、宪兵与国内秩序边界
 
 - [法国示威警务：距离、机动与自由边界](../topics/public-order-policing.md)
