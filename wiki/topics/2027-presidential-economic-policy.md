@@ -1,6 +1,6 @@
 ---
 title: "2027总统选举经济政策对照"
-updated: 2026-09-26
+updated: 2026-10-24
 ---
 
 # 2027总统选举经济政策对照
@@ -14,6 +14,8 @@ updated: 2026-09-26
 [LCI/Medef 七人经济政策辩论](../videos/20260827-lci-medef-2027-economic-debate.md)是由雇主组织设定议程的企业政策对照。其价值在于七人在同一场合回应相同问题；局限在于劳动者、公共服务使用者与非企业社会组织没有直接提问。
 
 [LCI 左翼初选首辩](../videos/20260923-lci-left-primary-debate.md)补上了普通选民提问下的左翼内部比较。五人普遍接受提高低工资、绿色工业投资和税收再分配，但在普遍补贴还是定向补贴、公共支出怎么省、以及是否与 LFI 合作上分裂。
+
+[Public Sénat 的 RN 圆桌](../videos/20261023-public-senat-rn-congress-presidential-strategy.md)补入右翼民粹路线。节目分析认为，RN 一面向企业承诺减税、降费与简化，一面向工薪选民承诺把法定退休年龄降回62岁；削减欧盟出资、限制劳动移民和加入退休资本积累制又分别牵动企业、传统右翼与基层选民。方案数字与正式版本均待核验。（[01:13:11](../../sources/public-senat/20261023--22gqoFLWdk/transcript.md#011311)–[01:25:25](../../sources/public-senat/20261023--22gqoFLWdk/transcript.md#012525)）
 
 ## 初步政策坐标
 

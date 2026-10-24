@@ -4,11 +4,14 @@
 
 ## 媒体、专家与公共讨论
 
+- [网络干预、网络安全与国家韧性](../topics/cybersecurity-and-foreign-interference.md)
+- [冰箱连着公网，选举连着平台：境外账号怎样放大国内冲突](../videos/20261022-public-senat-cyber-foreign-interference.md)
 - [智库、媒体与政治影响力](../topics/think-tanks-media-and-political-influence.md)
 - [谁在替政党生产主意？](../videos/20261011-france-culture-think-tanks-influence.md)
 
 ## 青年动员与公共秩序
 
+- [秩序牌能把 RN 送进爱丽舍宫吗？](../videos/20261023-public-senat-rn-congress-presidential-strategy.md)
 - [十年期国债收益率到了5%，该砍支出还是向巨富收一次重税？](../videos/20261022-france-culture-solidarity-tax-debt.md)
 - [十年期利率越过5%：骚乱、预算僵局和法国债务怎样滚成雪球？](../videos/20261022-public-senat-finances-red-alert.md)
 - [法国示威警务：距离、机动与自由边界](../topics/public-order-policing.md)

@@ -33,6 +33,7 @@
 - [老师从哪来，钱又从哪来？](../videos/20261009-lci-education-budget-debt.md)
 ## 2027 总统选举
 
+- [秩序牌能把 RN 送进爱丽舍宫吗？RN的退休、欧洲与企业账](../videos/20261023-public-senat-rn-congress-presidential-strategy.md)
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
 - [七名候选人面对企业界的经济政策辩论](../videos/20260827-lci-medef-2027-economic-debate.md)
 - [左翼初选首辩：燃油、工资与债务方案](../videos/20260923-lci-left-primary-debate.md)

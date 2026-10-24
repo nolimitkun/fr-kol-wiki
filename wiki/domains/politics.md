@@ -44,6 +44,9 @@
 
 ## 2027 总统选举
 
+- [秩序牌能把 RN 送进爱丽舍宫吗？党代会、Bardella 风波与经济软肋](../videos/20261023-public-senat-rn-congress-presidential-strategy.md)
+- [冰箱连着公网，选举连着平台：境外干预与选举保护](../videos/20261022-public-senat-cyber-foreign-interference.md)
+- [网络干预、网络安全与国家韧性](../topics/cybersecurity-and-foreign-interference.md)
 - [十年期国债收益率到了5%，该砍支出还是向巨富收一次重税？](../videos/20261022-france-culture-solidarity-tax-debt.md)
 - [2027总统选举：联盟与地方根基](../topics/2027-presidential-election.md)
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)

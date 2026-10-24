@@ -22,6 +22,7 @@
 
 ## 按专题
 
+- [网络干预、网络安全与国家韧性](topics/cybersecurity-and-foreign-interference.md)
 - [法国示威警务：距离、机动与自由边界](topics/public-order-policing.md)
 - [美国中期选举的经济账：物价、关税与国家干预](topics/us-midterms-economy.md)
 - [货币政策怎样稳定经济：预期、规则与家庭消费](topics/monetary-policy-stabilization.md)
@@ -51,6 +52,12 @@
 
 ## 按人物
 
+- [Nicolas Roche](people/nicolas-roche.md)
+- [Vincent Strubel](people/vincent-strubel.md)
+- [Anne-Sophie D’Ivernois](people/anne-sophie-divernois.md)
+- [Pascal Perrineau](people/pascal-perrineau.md)
+- [Lauriane Clément](people/lauriane-clement.md)
+- [Laure Salvaing](people/laure-salvaing.md)
 - [Julia Cagé](people/julia-cage.md)
 - [Thomas Piketty](people/thomas-piketty.md)
 - [Vincent Capo-Canellas](people/vincent-capo-canellas.md)
@@ -221,6 +228,8 @@
 
 ## 按视频
 
+- 2026-10-23 · Public Sénat · [秩序牌能把 RN 送进爱丽舍宫吗？党代会、Bardella 风波与经济软肋](videos/20261023-public-senat-rn-congress-presidential-strategy.md)
+- 2026-10-22 · Public Sénat · [冰箱连着公网，选举连着平台：法国怎样挡住网络攻击与境外操纵？](videos/20261022-public-senat-cyber-foreign-interference.md)
 - 2026-10-22 · France Culture · [十年期国债收益率到了5%，该砍支出还是向巨富收一次重税？Cagé 与 Piketty 正面算账](videos/20261022-france-culture-solidarity-tax-debt.md)
 - 2026-10-22 · Public Sénat · [十年期利率越过5%：骚乱、预算僵局和法国债务怎样滚成雪球？](videos/20261022-public-senat-finances-red-alert.md)
 - 2026-10-21 · Public Sénat · [多装无人机，还是少制造恐惧？法国争论示威警务、司法与军队守卫](videos/20261021-public-senat-senate-public-order-report.md)

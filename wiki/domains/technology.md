@@ -3,6 +3,8 @@
 覆盖人工智能、数字主权、科研、能源技术、航空航天、创业与产业创新，同时关注欧盟监管和法国科研体系。
 ## 产业与人工智能
 
+- [网络干预、网络安全与国家韧性](../topics/cybersecurity-and-foreign-interference.md)
+- [冰箱连着公网，选举连着平台：网络攻击、生成式AI与平台风险](../videos/20261022-public-senat-cyber-foreign-interference.md)
 - [青年就业、工作入口与代际承诺](../topics/youth-employment-and-work.md)
 - [文凭越来越高，入口越来越窄：AI会先拿走初级岗位吗？](../videos/20261007-public-senat-youth-unemployment.md)
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)
