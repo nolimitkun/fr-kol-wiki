@@ -4,6 +4,7 @@
 
 ## 美国选举与经济叙事
 
+- [民主党要向左，还是先赢回来？美国中期选举把生活成本、身份与党内路线摆上桌](../videos/20261022-public-senat-us-democrats-midterms.md)
 - [美国中期选举的经济账：物价、关税与国家干预](../topics/us-midterms-economy.md)
 - [股市创新高，日子却更贵：美国中期选举要给特朗普的经济投什么票？](../videos/20261006-public-senat-us-midterms-economy.md)
 
@@ -63,6 +64,8 @@
 
 ## 国际经济与能源安全
 
+- [欧盟长期预算：共同野心、成员国账本与地方权力](../topics/eu-long-term-budget.md)
+- [两万亿欧元还不够？欧盟长期预算争论谁出钱、谁拿钱，以及谁说了算](../videos/20261024-public-senat-eu-long-term-budget.md)
 - [战争生态学：欧洲转型的安全、产业与公平](../topics/war-ecology-and-european-transition.md)
 - [霍尔木兹把欧洲堵在哪？](../videos/20260408-le-grand-continent-war-ecology-europe.md)
 - [伊朗战争的全球反应：谨慎、碎片化与外溢](../topics/iran-war-global-reactions.md)

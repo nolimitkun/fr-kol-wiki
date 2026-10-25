@@ -2,6 +2,11 @@
 
 覆盖法国国防战略、核威慑、军工、海外部署、欧洲安全、外交政策与战略自主。战争相关材料严格区分当事人观点、公开情报和已核验事实。
 
+## 欧洲安全与共同预算
+
+- [欧盟长期预算：共同野心、成员国账本与地方权力](../topics/eu-long-term-budget.md)
+- [两万亿欧元还不够？欧盟长期预算争论谁出钱、谁拿钱，以及谁说了算](../videos/20261024-public-senat-eu-long-term-budget.md)
+
 ## 混合威胁与国家韧性
 
 - [网络干预、网络安全与国家韧性](../topics/cybersecurity-and-foreign-interference.md)

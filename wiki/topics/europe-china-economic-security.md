@@ -1,9 +1,13 @@
 ---
 title: "欧洲如何应对中国的产业与技术力量"
-updated: 2026-10-17
+updated: 2026-10-25
 ---
 
 # 欧洲如何应对中国的产业与技术力量
+
+## 保护与创新必须一起做
+
+Clément Beaune 把中国工业竞争称为欧洲的生死问题。他的处方不是只加贸易壁垒，而是把贸易防御、欧洲生产和技术创新同时推进；节目中的就业、补贴和成本差数字仍待官方资料核验。（[视频](../videos/20261024-public-senat-eu-long-term-budget.md)，[00:01:01](../../sources/public-senat/20261024-npulfIDYc5c/transcript.md#000101)–[00:03:02](../../sources/public-senat/20261024-npulfIDYc5c/transcript.md#000302)）
 
 ## 问题不是“开放还是关门”
 

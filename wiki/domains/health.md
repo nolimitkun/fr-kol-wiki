@@ -2,6 +2,10 @@
 
 覆盖公共卫生、医保、医院体系、基层医疗、药品与生物医学研究。页面不提供个体医疗建议；高风险断言须经 Santé publique France、HAS、ANSM 或同行评议研究复核。
 
+## 美国医保与选举
+
+- [民主党要向左，还是先赢回来？美国中期选举把生活成本、身份与党内路线摆上桌](../videos/20261022-public-senat-us-democrats-midterms.md)
+
 ## 全球卫生治理
 
 - [全球卫生：援助、主权与科研合作](../topics/global-health-governance.md)

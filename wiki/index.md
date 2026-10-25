@@ -22,6 +22,7 @@
 
 ## 按专题
 
+- [欧盟长期预算：共同野心、成员国账本与地方权力](topics/eu-long-term-budget.md)
 - [网络干预、网络安全与国家韧性](topics/cybersecurity-and-foreign-interference.md)
 - [法国示威警务：距离、机动与自由边界](topics/public-order-policing.md)
 - [美国中期选举的经济账：物价、关税与国家干预](topics/us-midterms-economy.md)
@@ -52,6 +53,13 @@
 
 ## 按人物
 
+- [Clément Beaune](people/clement-beaune.md)
+- [Younous Omarjee](people/younous-omarjee.md)
+- [Charles Goerens](people/charles-goerens.md)
+- [Tristan Cabello](people/tristan-cabello.md)
+- [Ludivine Gilli](people/ludivine-gilli.md)
+- [Gallagher Fenwick](people/gallagher-fenwick.md)
+- [Christine Ockrent](people/christine-ockrent.md)
 - [Nicolas Roche](people/nicolas-roche.md)
 - [Vincent Strubel](people/vincent-strubel.md)
 - [Anne-Sophie D’Ivernois](people/anne-sophie-divernois.md)
@@ -228,6 +236,8 @@
 
 ## 按视频
 
+- 2026-10-24 · Public Sénat · [两万亿欧元还不够？欧盟长期预算争论谁出钱、谁拿钱，以及谁说了算](videos/20261024-public-senat-eu-long-term-budget.md)
+- 2026-10-22 · Public Sénat · [民主党要向左，还是先赢回来？美国中期选举把生活成本、身份与党内路线摆上桌](videos/20261022-public-senat-us-democrats-midterms.md)
 - 2026-10-23 · Public Sénat · [秩序牌能把 RN 送进爱丽舍宫吗？党代会、Bardella 风波与经济软肋](videos/20261023-public-senat-rn-congress-presidential-strategy.md)
 - 2026-10-22 · Public Sénat · [冰箱连着公网，选举连着平台：法国怎样挡住网络攻击与境外操纵？](videos/20261022-public-senat-cyber-foreign-interference.md)
 - 2026-10-22 · France Culture · [十年期国债收益率到了5%，该砍支出还是向巨富收一次重税？Cagé 与 Piketty 正面算账](videos/20261022-france-culture-solidarity-tax-debt.md)

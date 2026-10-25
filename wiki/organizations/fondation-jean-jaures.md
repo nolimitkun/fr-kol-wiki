@@ -1,6 +1,6 @@
 ---
 title: "Fondation Jean-Jaurès"
-updated: 2026-10-14
+updated: 2026-10-25
 ---
 
 # Fondation Jean-Jaurès
@@ -9,5 +9,6 @@ updated: 2026-10-14
 
 ## 本库材料
 
+- [民主党要向左，还是先赢回来？美国中期选举把生活成本、身份与党内路线摆上桌](../videos/20261022-public-senat-us-democrats-midterms.md)
 - [先紧缩，还是先增长？西班牙、葡萄牙给法国的答案并不相同](../videos/20261013-public-senat-spain-portugal-deficit.md)
 - [谁在替政党生产主意？法国智库争论独立、媒体与影响力](../videos/20261011-france-culture-think-tanks-influence.md)

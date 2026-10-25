@@ -1,9 +1,13 @@
 ---
 title: "法国公共债务、税收与增长路径"
-updated: 2026-10-20
+updated: 2026-10-25
 ---
 
 # 法国公共债务、税收与增长路径
+
+## 政治信用怎样传到家庭利率
+
+Clément Beaune 承认国际通胀也在推高利率，但认为法国预算僵局和选举风险加重了融资压力。他要求尽快通过可信预算，并把市场问题直接落到住房按揭和教育投资；节目对 5% 收益率与法德利差的表述混杂，数值待核验。（[视频](../videos/20261024-public-senat-eu-long-term-budget.md)，[00:15:13](../../sources/public-senat/20261024-npulfIDYc5c/transcript.md#001513)–[00:17:15](../../sources/public-senat/20261024-npulfIDYc5c/transcript.md#001715)）
 
 ## 5%利率之后：一边要稳预算，一边要重置财富税
 
