@@ -1,5 +1,11 @@
 # 2026年高中生动员：教育诉求、暴力与国家回应
 
+## 10月22日：危机从学生与警方之间，传到校长办公室
+
+[Public Sénat 综合节目](../videos/20261022-public-senat-government-school-leaders-crisis.md)把政府答辩、维护秩序报告与校长工会听证放在一起。政府承诺从替补、学生民主、校舍、升学和班额五处回应；校长工会却说，更急的问题是人员系统接不上空岗、上级要求冒险维持线下课程，以及校领导被迫承担消防、安保和政治沟通三种责任。Agnès Andersen 把这种处境概括成既当“替罪羊”又当“保险丝”。（[00:08:16](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#000816)–[00:11:20](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#001120)，[00:41:54](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#004154)–[00:48:01](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#004801)，[00:59:18](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#005918)–[01:05:26](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#010526)）
+
+听证还留下一个不能抹平的分歧：有人称 Parcoursup 本身高效透明，问题在高校位置不足；另一些工会代表和 Guillaume Gontard 认为，缺少升学辅导、人工解释与申诉机会，使平台成为焦虑的集中出口。平台规则、位置数量和辅导人员配置仍待官方资料核验。（[00:48:01](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#004801)–[00:50:06](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#005006)，[01:09:28](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#010928)–[01:11:29](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#011129)，[01:24:42](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#012442)–[01:27:47](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#012747)）
+
 ## 10月22日：钱从哪里来，争论终于落到税制
 
 [France Culture 对谈](../videos/20261022-france-culture-solidarity-tax-debt.md)把学生诉求接到大学入口：高中毕业生增加后，IUT、BTS 和计算机等专业名额没有同步扩张，Parcoursup 的不透明又让学生无法预测选科与录取的关系。Cagé 与 Piketty 因而拒绝把教育增支当作可有可无，并用高财富税回答“钱从哪来”。相关人均投入、名额和教师数据待核验。（[00:03:01](../../sources/france-culture/20261022-633S1krLFYA/transcript.md#000301)–[00:10:06](../../sources/france-culture/20261022-633S1krLFYA/transcript.md#001006)，[00:19:16](../../sources/france-culture/20261022-633S1krLFYA/transcript.md#001916)–[00:22:19](../../sources/france-culture/20261022-633S1krLFYA/transcript.md#002219)）
@@ -90,6 +96,7 @@ Tanguy 和 Thévenot 支持追究未成年人父母的赔偿责任，后者直�
 
 ## 视频
 
+- [政府说要两条腿走路，校长却说快撑不住了](../videos/20261022-public-senat-government-school-leaders-crisis.md)（Public Sénat，2026-10-22）
 - [多装无人机，还是少制造恐惧？法国争论示威警务、司法与军队守卫](../videos/20261021-public-senat-senate-public-order-report.md)（Public Sénat，2026-10-21）
 - [暴力过后只谈秩序，法国政府会不会把诉求也一起清场？](../videos/20261019-public-senat-urban-violence-government-response.md)（Public Sénat，2026-10-19）
 - [一场游行，三种人群：法国多城暴力后，诉求还听得见吗？](../videos/20261017-lci-protests-violence-order.md)（LCI，2026-10-17）

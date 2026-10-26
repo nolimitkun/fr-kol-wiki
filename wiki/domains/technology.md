@@ -4,6 +4,7 @@
 ## 产业与人工智能
 
 - [网络干预、网络安全与国家韧性](../topics/cybersecurity-and-foreign-interference.md)
+- [几枚蓝星怎样骗过一整个舆论场？AI造假、分发与模型投毒的边界](../videos/20261023-france-culture-russian-interference-blue-stars.md)
 - [冰箱连着公网，选举连着平台：网络攻击、生成式AI与平台风险](../videos/20261022-public-senat-cyber-foreign-interference.md)
 - [青年就业、工作入口与代际承诺](../topics/youth-employment-and-work.md)
 - [文凭越来越高，入口越来越窄：AI会先拿走初级岗位吗？](../videos/20261007-public-senat-youth-unemployment.md)
