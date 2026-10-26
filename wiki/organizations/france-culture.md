@@ -1,6 +1,6 @@
 ---
 title: "France Culture"
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 # France Culture
@@ -9,6 +9,7 @@ updated: 2026-10-23
 
 ## 已收录
 
+- [几枚蓝星怎样骗过一整个舆论场？法国追查俄式干预的低成本链条](../videos/20261023-france-culture-russian-interference-blue-stars.md)（境外数字干预、媒体放大与生成式AI风险，2026-10-23）
 - [十年期国债收益率到了5%，该砍支出还是向巨富收一次重税？](../videos/20261022-france-culture-solidarity-tax-debt.md)（教育投入、财富税与公共债务辩论，2026-10-22）
 - [央行怎样稳住经济？Woodford 与 Hall 把预期、消费和规则装进模型](../videos/20261012-france-culture-nobel-woodford-hall.md)（宏观稳定化、货币政策与家庭消费专题，2026-10-12）
 - [谁在替政党生产主意？法国智库争论独立、媒体与影响力](../videos/20261011-france-culture-think-tanks-influence.md)（智库、媒体与政策影响圆桌，2026-10-11）

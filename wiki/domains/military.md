@@ -10,6 +10,7 @@
 ## 混合威胁与国家韧性
 
 - [网络干预、网络安全与国家韧性](../topics/cybersecurity-and-foreign-interference.md)
+- [几枚蓝星怎样骗过一整个舆论场？物理行动与数字放大的干预链](../videos/20261023-france-culture-russian-interference-blue-stars.md)
 - [冰箱连着公网，选举连着平台：法国怎样挡住网络攻击与境外操纵？](../videos/20261022-public-senat-cyber-foreign-interference.md)
 
 ## 军队、宪兵与国内秩序边界

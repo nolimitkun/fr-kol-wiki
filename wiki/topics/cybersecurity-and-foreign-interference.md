@@ -5,6 +5,12 @@ updated: 2026-10-24
 
 # 网络干预、网络安全与国家韧性
 
+## 2026年10月23日：物理涂鸦如何接上假账号
+
+[France Culture 长访谈](../videos/20261023-france-culture-russian-interference-blue-stars.md)把境外干预拆成物理触发、协调放大和真实舆论反应三段。Marc-Antoine Brillant 说，判断重点不是一张照片真假，而是首发时间、账号同步和既往传播网络；主持人 François Saltiel 则追问媒体为何替低成本行动完成最后一跳。Brillant 同时划清技术检测、情报判断和政治公开归责，不能从账号关联直接跳到某位国家领导人下令。（[00:05:06](../../sources/france-culture/20261023-FqvcFZ8oIV8/transcript.md#000506)–[00:13:12](../../sources/france-culture/20261023-FqvcFZ8oIV8/transcript.md#001312)，[00:34:36](../../sources/france-culture/20261023-FqvcFZ8oIV8/transcript.md#003436)–[00:36:38](../../sources/france-culture/20261023-FqvcFZ8oIV8/transcript.md#003638)）
+
+对生成式 AI，他列出造假、批量放大和情绪说服三种用途，却明确说全流程自动化行动尚未被发现，规模化分发仍是瓶颈；模型投毒也属于存在但仍边缘的风险。这为专题补上一条重要限制：内容生产更便宜，不等于注意力获取已经自动化。（[00:55:55](../../sources/france-culture/20261023-FqvcFZ8oIV8/transcript.md#005555)–[01:03:01](../../sources/france-culture/20261023-FqvcFZ8oIV8/transcript.md#010301)）
+
 ## 范围
 
 追踪法国怎样防范网络攻击、关键设施破坏和境外数字干预，以及国家、企业、地方政府、平台和公众之间怎样分责。页面严格区分网络犯罪、国内虚假信息与具有境外来源的干预；攻击归因、法律权限和受害规模若无仓库内一手资料，一律待核验。

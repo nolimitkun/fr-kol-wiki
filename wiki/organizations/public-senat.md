@@ -1,6 +1,6 @@
 ---
 title: "Public Sénat"
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 # Public Sénat
@@ -9,6 +9,7 @@ updated: 2026-10-25
 
 ## 已收录
 
+- [政府说要两条腿走路，校长却说快撑不住了：法国危机回应的三层断裂](../videos/20261022-public-senat-government-school-leaders-crisis.md)（政府答辩、维护秩序报告与校长工会听证，2026-10-22；报告部分与前一日节目有重叠）
 - [两万亿欧元还不够？欧盟长期预算争论谁出钱、谁拿钱，以及谁说了算](../videos/20261024-public-senat-eu-long-term-budget.md)（欧盟长期预算、产业主权、青年政治与法国融资成本，2026-10-24）
 - [民主党要向左，还是先赢回来？美国中期选举把生活成本、身份与党内路线摆上桌](../videos/20261022-public-senat-us-democrats-midterms.md)（美国民主党党内路线与中期选举，2026-10-22；同一上传前半段为已收录示威警务圆桌）
 - [秩序牌能把 RN 送进爱丽舍宫吗？党代会、Bardella 风波与经济软肋](../videos/20261023-public-senat-rn-congress-presidential-strategy.md)（RN党代会、竞选秩序叙事与经济路线圆桌，2026-10-23；同一上传前半段为已收录财政节目的重复内容）

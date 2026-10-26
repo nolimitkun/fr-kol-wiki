@@ -15,6 +15,7 @@
 
 ## 社会运动与国家回应
 
+- [政府说要两条腿走路，校长却说快撑不住了](../videos/20261022-public-senat-government-school-leaders-crisis.md)
 - [十年期利率越过5%：骚乱、预算僵局和法国债务怎样滚成雪球？](../videos/20261022-public-senat-finances-red-alert.md)
 - [法国示威警务：距离、机动与自由边界](../topics/public-order-policing.md)
 - [多装无人机，还是少制造恐惧？](../videos/20261021-public-senat-senate-public-order-report.md)
@@ -45,6 +46,7 @@
 
 ## 2027 总统选举
 
+- [几枚蓝星怎样骗过一整个舆论场？境外数字干预怎样借国内裂缝放大](../videos/20261023-france-culture-russian-interference-blue-stars.md)
 - [秩序牌能把 RN 送进爱丽舍宫吗？党代会、Bardella 风波与经济软肋](../videos/20261023-public-senat-rn-congress-presidential-strategy.md)
 - [冰箱连着公网，选举连着平台：境外干预与选举保护](../videos/20261022-public-senat-cyber-foreign-interference.md)
 - [网络干预、网络安全与国家韧性](../topics/cybersecurity-and-foreign-interference.md)

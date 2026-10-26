@@ -219,6 +219,11 @@
 - [Aurore Malval](people/aurore-malval.md)
 - [Stewart Chau](people/stewart-chau.md)
 - [Jean-Pierre Farandou](people/jean-pierre-farandou.md)
+- [Marc-Antoine Brillant](people/marc-antoine-brillant.md)
+- [François Saltiel](people/francois-saltiel.md)
+- [Rémi Cardon](people/remi-cardon.md)
+- [David Margueritte](people/david-margueritte.md)
+- [Agnès Andersen](people/agnes-andersen.md)
 
 ## 按机构
 
@@ -236,6 +241,8 @@
 
 ## 按视频
 
+- 2026-10-23 · France Culture · [几枚蓝星怎样骗过一整个舆论场？法国追查俄式干预的低成本链条](videos/20261023-france-culture-russian-interference-blue-stars.md)
+- 2026-10-22 · Public Sénat · [政府说要两条腿走路，校长却说快撑不住了：法国危机回应的三层断裂](videos/20261022-public-senat-government-school-leaders-crisis.md)
 - 2026-10-24 · Public Sénat · [两万亿欧元还不够？欧盟长期预算争论谁出钱、谁拿钱，以及谁说了算](videos/20261024-public-senat-eu-long-term-budget.md)
 - 2026-10-22 · Public Sénat · [民主党要向左，还是先赢回来？美国中期选举把生活成本、身份与党内路线摆上桌](videos/20261022-public-senat-us-democrats-midterms.md)
 - 2026-10-23 · Public Sénat · [秩序牌能把 RN 送进爱丽舍宫吗？党代会、Bardella 风波与经济软肋](videos/20261023-public-senat-rn-congress-presidential-strategy.md)

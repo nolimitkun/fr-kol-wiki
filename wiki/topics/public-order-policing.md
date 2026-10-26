@@ -16,6 +16,8 @@
 
 [Public Sénat 圆桌](../videos/20261021-public-senat-senate-public-order-report.md)把政策选择推到两端。Eustache-Brinio支持随队检察官、无人机、算法视频与更重处罚，认为守法者无需害怕监控；Brengarth则说，警方会把拘留当作预防性维护公共秩序的工具，因此不少案件后来撤案。他另从示威自由出发，认为持续拍摄和中间武器的威慑效应会让一些公民放弃示威。Kanté居中谈操作：他支持中间武器和更快的机动单位，也承认情报低估和静态部署难以同时应付侧街抢掠。（[00:08:23](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#000823)–[00:15:32](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#001532)，[00:19:37](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#001937)–[00:27:47](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#002747)，[00:28:47](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#002847)–[00:34:54](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#003454)）
 
+[次日综合节目](../videos/20261022-public-senat-government-school-leaders-crisis.md)让共同报告人 David Margueritte 直接解释政策工具。他支持算法视频、骑警和经检察官批准的司法取证无人机，也承认 10 月 17 日存在情报预判问题；但面对严重伤情追问，他只给出“越界会调查”的原则回答。正式报告、修正案、伤情与问责数据仍待官方资料核验。（[00:34:49](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#003449)–[00:40:54](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#004054)）
+
 ## 军队边界：释放警力，不等于消除风险
 
 Le Collimateur 主持人一开始就坚持，军队不应对本国公民执行示威警务；Public Sénat 的讨论也口头维持这条线，只让“哨兵行动”军人静态守建筑。可后一场节目没有解决一个现实问题：守点军人若被人群冲击，正当防卫、撤退、呼叫专业警力和保护武器之间如何排序。（[00:01:09](../../sources/le-collimateur/20261009-ZOKdqh7BadM/transcript.md#000109)–[00:02:09](../../sources/le-collimateur/20261009-ZOKdqh7BadM/transcript.md#000209)；[00:38:58](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#003858)–[00:43:02](../../sources/public-senat/20261021-Y996XH0gM9g/transcript.md#004302)）
@@ -30,6 +32,7 @@ Le Collimateur 主持人一开始就坚持，军队不应对本国公民执行�
 
 ## 视频
 
+- [政府说要两条腿走路，校长却说快撑不住了](../videos/20261022-public-senat-government-school-leaders-crisis.md)（Public Sénat，2026-10-22）
 - [多装无人机，还是少制造恐惧？](../videos/20261021-public-senat-senate-public-order-report.md)（Public Sénat，2026-10-21）
 - [示威一变骚乱，规则就该换吗？](../videos/20261014-public-senat-order-policing-nunez.md)（Public Sénat，2026-10-14）
 - [拉开距离，还是冲上去？](../videos/20261009-le-collimateur-french-public-order-doctrine.md)（Le Collimateur，2026-10-09）
