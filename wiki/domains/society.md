@@ -12,6 +12,7 @@
 
 ## 青年动员与公共秩序
 
+- [政府让步了，街头就会散吗？](../videos/20261026-lci-education-concessions-regime-crisis.md)
 - [政府说要两条腿走路，校长却说快撑不住了](../videos/20261022-public-senat-government-school-leaders-crisis.md)
 - [秩序牌能把 RN 送进爱丽舍宫吗？](../videos/20261023-public-senat-rn-congress-presidential-strategy.md)
 - [十年期国债收益率到了5%，该砍支出还是向巨富收一次重税？](../videos/20261022-france-culture-solidarity-tax-debt.md)
@@ -36,6 +37,11 @@
 
 - [青年就业、工作入口与代际承诺](../topics/youth-employment-and-work.md)
 - [文凭越来越高，入口越来越窄：法国青年就业卡在哪里？](../videos/20261007-public-senat-youth-unemployment.md)
+
+## 租住压力与住房权
+
+- [租金管制与住房可负担性](../topics/rent-control-and-housing-affordability.md)
+- [租金管制再试两年：法国参议院为何只肯续命，不肯扩围？](../videos/20261026-public-senat-rent-control-extension.md)
 
 ## 工业地区与劳动身份
 

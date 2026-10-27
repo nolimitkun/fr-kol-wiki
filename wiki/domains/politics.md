@@ -1,5 +1,15 @@
 # 政治
 
+## 社会动员与制度回应
+
+- [政府让步了，街头就会散吗？法国争论教育选择、生活成本与选票失灵](../videos/20261026-lci-education-concessions-regime-crisis.md)
+- [2026年高中生动员：教育诉求、暴力与国家回应](../topics/2026-high-school-mobilization.md)
+
+## 住房立法与地方自治
+
+- [租金管制与住房可负担性](../topics/rent-control-and-housing-affordability.md)
+- [租金管制再试两年：法国参议院为何只肯续命，不肯扩围？](../videos/20261026-public-senat-rent-control-extension.md)
+
 覆盖法国宪政与第五共和国、政党与选举、公共政策、地方治理、欧盟政治及民主制度。具体争议拆分为 `topics/` 专题页，并列不同立场与时间线。
 
 ## 美国选举与经济叙事

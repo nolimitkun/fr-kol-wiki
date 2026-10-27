@@ -6,6 +6,11 @@
 
 - [十年期利率越过5%：主权融资怎样传到住房信贷](../videos/20261022-public-senat-finances-red-alert.md)
 
+## 租金管制与住房可负担性
+
+- [租金管制与住房可负担性](../topics/rent-control-and-housing-affordability.md)
+- [租金管制再试两年：法国参议院为何只肯续命，不肯扩围？](../videos/20261026-public-senat-rent-control-extension.md)
+
 ## 青年住房与就业流动
 
 - [青年就业、工作入口与代际承诺](../topics/youth-employment-and-work.md)

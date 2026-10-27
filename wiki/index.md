@@ -22,6 +22,7 @@
 
 ## 按专题
 
+- [租金管制与住房可负担性](topics/rent-control-and-housing-affordability.md)
 - [欧盟长期预算：共同野心、成员国账本与地方权力](topics/eu-long-term-budget.md)
 - [网络干预、网络安全与国家韧性](topics/cybersecurity-and-foreign-interference.md)
 - [法国示威警务：距离、机动与自由边界](topics/public-order-policing.md)
@@ -53,6 +54,11 @@
 
 ## 按人物
 
+- [Audrey Linkenheld](people/audrey-linkenheld.md)
+- [Amel Gacquerre](people/amel-gacquerre.md)
+- [Ian Brossat](people/ian-brossat.md)
+- [Mathieu Slama](people/mathieu-slama.md)
+- [Valérie Nataf](people/valerie-nataf.md)
 - [Clément Beaune](people/clement-beaune.md)
 - [Younous Omarjee](people/younous-omarjee.md)
 - [Charles Goerens](people/charles-goerens.md)
@@ -241,6 +247,8 @@
 
 ## 按视频
 
+- 2026-10-26 · Public Sénat · [租金管制再试两年：法国参议院为何只肯续命，不肯扩围？](videos/20261026-public-senat-rent-control-extension.md)
+- 2026-10-26 · LCI · [政府让步了，街头就会散吗？法国争论教育选择、生活成本与选票失灵](videos/20261026-lci-education-concessions-regime-crisis.md)
 - 2026-10-23 · France Culture · [几枚蓝星怎样骗过一整个舆论场？法国追查俄式干预的低成本链条](videos/20261023-france-culture-russian-interference-blue-stars.md)
 - 2026-10-22 · Public Sénat · [政府说要两条腿走路，校长却说快撑不住了：法国危机回应的三层断裂](videos/20261022-public-senat-government-school-leaders-crisis.md)
 - 2026-10-24 · Public Sénat · [两万亿欧元还不够？欧盟长期预算争论谁出钱、谁拿钱，以及谁说了算](videos/20261024-public-senat-eu-long-term-budget.md)

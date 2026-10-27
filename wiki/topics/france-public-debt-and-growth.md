@@ -69,6 +69,8 @@ Christian Saint-Étienne 把问题说得更政治化：法德利差扩大不是�
 
 ## 劳动部长的账：把自动规则改成年度谈判
 
+[LCI 的后续圆桌](../videos/20261026-lci-education-concessions-regime-crisis.md)把预算约束直接放进教育让步。Jean-Marc Daniel 说政府是在用未来通胀或失业换眼前六个月的平静；Mathieu Slama 则反对让教育先服从会计，要求先确定国家对青年的承诺。争议不是有没有成本，而是谁有权决定成本优先级。（[00:03:11](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#000311)–[00:08:22](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#000822)，[00:42:34](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#004234)–[00:43:35](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#004335)）
+
 [劳动部长听证](../videos/20261019-public-senat-labor-minister-social-budget.md)给养老金节支补上了执行方案：1260欧元以下全额指数化，以上在初始方案中不涨，再配合税收扣除上限调整，由退休者承担约55亿欧元。Jean-Pierre Farandou 还提出，未来可仿照补充养老金，让社会伙伴每年谈涨幅、国家最后仲裁。反方追问的是生活而非比例：独居且仍付房租的人，即使养老金略高于1260欧元，也未必有吸收通胀的空间。（[00:12:22](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#001222)–[00:14:24](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#001424)，[00:23:33](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#002333)–[00:25:35](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#002535)，[00:49:02](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#004902)–[00:51:04](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#005104)）
 
 ## 邻国视角与再工业化派：两种不同的债务警报
