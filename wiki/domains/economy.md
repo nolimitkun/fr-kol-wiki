@@ -24,6 +24,7 @@
 - [欧盟长期预算：共同野心、成员国账本与地方权力](../topics/eu-long-term-budget.md)
 - [两万亿欧元还不够？欧盟长期预算争论谁出钱、谁拿钱，以及谁说了算](../videos/20261024-public-senat-eu-long-term-budget.md)
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
+- [政府让步了，街头就会散吗？教育承诺怎样碰上预算与增长约束](../videos/20261026-lci-education-concessions-regime-crisis.md)
 - [十年期国债收益率到了5%，该砍支出还是向巨富收一次重税？](../videos/20261022-france-culture-solidarity-tax-debt.md)
 - [十年期利率越过5%：骚乱、预算僵局和法国债务怎样滚成雪球？](../videos/20261022-public-senat-finances-red-alert.md)
 - [养老金藏进部委预算后，谁来买单？](../videos/20261014-lci-public-pensions-generations.md)
@@ -73,3 +74,8 @@
 - [RN进参议院之后：谁在守制度，谁在借制度扩张？](../videos/20260928-public-senat-counterpower-2027.md)
 - [教师缺口早就知道，为什么等到冲突才回应？](../videos/20261005-public-senat-high-school-government-response.md)
 - [高中生均花得不少，为什么教室还是挤？](../videos/20261006-france-culture-lycee-spending-inequality.md)
+
+## 住房成本
+
+- [租金管制与住房可负担性](../topics/rent-control-and-housing-affordability.md)
+- [租金管制再试两年：法国参议院为何只肯续命，不肯扩围？](../videos/20261026-public-senat-rent-control-extension.md)

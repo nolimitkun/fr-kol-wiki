@@ -96,6 +96,7 @@ Tanguy 和 Thévenot 支持追究未成年人父母的赔偿责任，后者直�
 
 ## 视频
 
+- [政府让步了，街头就会散吗？法国争论教育选择、生活成本与选票失灵](../videos/20261026-lci-education-concessions-regime-crisis.md)（LCI，2026-10-26）
 - [政府说要两条腿走路，校长却说快撑不住了](../videos/20261022-public-senat-government-school-leaders-crisis.md)（Public Sénat，2026-10-22）
 - [多装无人机，还是少制造恐惧？法国争论示威警务、司法与军队守卫](../videos/20261021-public-senat-senate-public-order-report.md)（Public Sénat，2026-10-21）
 - [暴力过后只谈秩序，法国政府会不会把诉求也一起清场？](../videos/20261019-public-senat-urban-violence-government-response.md)（Public Sénat，2026-10-19）
