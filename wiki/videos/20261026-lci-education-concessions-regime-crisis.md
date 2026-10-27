@@ -26,7 +26,7 @@ updated: 2026-10-27
 
 ## 摘要
 
-这场圆桌先拿政府刚与高中生代表谈出的方案算账。Mathieu Slama 不愿先问“付不付得起”，坚持教育应先回答国家想给青年什么；Guillaume Roquette 与 Jean-Marc Daniel 则反复把选择、劳动市场和预算约束摆回来。学生代表随后宣布，政府承诺讨论 Parcoursup、提供校舍融资、压低部分高二班额并增加高教名额，但动员仍会继续。节目后半转向制度问题。Dominique Reynié 认为，离总统选举不到半年仍靠社会运动抢先分配政策，说明选票失去中心位置；Slama 反驳说，2024 年选举后的组阁和示威权受限才是民主失灵。节目火药味很足：Roquette 直接把部分学生代表称作“学徒托派”，Slama 则不断用社会再生产和贫富差距回击。（[00:06:16](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#000616)–[00:15:35](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#001535)，[00:25:56](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#002556)–[00:35:23](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#003523)，[00:44:36](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#004436)–[00:53:55](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#005355)）
+这场圆桌先拿政府刚与高中生代表谈出的方案算账。Mathieu Slama 不愿先问“付不付得起”，坚持教育应先回答国家想给青年什么；Guillaume Roquette 与 Jean-Marc Daniel 则反复把选择、劳动市场和预算约束摆回来。学生代表随后宣布，政府承诺讨论 Parcoursup、提供校舍融资、压低部分高一班额并增加高教名额，但动员仍会继续。节目后半转向制度问题。Dominique Reynié 认为，离总统选举不到半年仍靠社会运动抢先分配政策，说明选票失去中心位置；Slama 反驳说，2024 年选举后的组阁和示威权受限才是民主失灵。节目火药味很足：Roquette 直接把部分学生代表称作“学徒托派”，Slama 则不断用社会再生产和贫富差距回击。（[00:06:16](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#000616)–[00:15:35](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#001535)，[00:25:56](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#002556)–[00:35:23](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#003523)，[00:44:36](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#004436)–[00:53:55](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#005355)）
 
 ## 先谈教育，还是先看账本？
 
@@ -36,7 +36,7 @@ Daniel 的账很硬：给一方增加购买力，就得从税、收入或更多�
 
 ## Matignon 给了什么，学生为什么仍不收队？
 
-学生代表列出的方案包括：2028 年前重做 Parcoursup；通过优惠贷款为地方提供约 40 亿欧元校舍资金；另投约 10 亿欧元翻修大学；在较困难学校逐步把高二班级压到最多 28 人；增加教师岗位及约 1.5 万个高教名额。自动字幕在岗位、年级和资金机制处有多处错乱，以上均是节目中的说法，待官方文件核验。（[00:25:56](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#002556)–[00:30:07](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#003007)）
+学生代表列出的方案包括：2028 年前重做 Parcoursup；通过优惠贷款为地方提供约 40 亿欧元校舍资金；另投约 10 亿欧元翻修大学；在较困难学校逐步把高一班级压到最多 28 人；增加教师岗位及约 1.5 万个高教名额。自动字幕在岗位、年级和资金机制处有多处错乱，以上均是节目中的说法，待官方文件核验。（[00:25:56](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#002556)–[00:30:07](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#003007)）
 
 学生代表一面说“对话的方法赢了”，一面说政府害怕、要借这道裂口继续推进。他们把是否停下动员系于学校现场能否看到教师、校舍和升学规则真的变化。这个组合也解释了圆桌的误读：有人只听见“政府害怕”，有人只听见“谢谢对话”。（[00:31:15](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#003115)–[00:35:23](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#003523)，[00:41:33](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#004133)–[00:42:34](../../sources/lci/20261026-6YwlEbbWuoU/transcript.md#004234)）
 
