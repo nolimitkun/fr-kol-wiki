@@ -5,6 +5,10 @@ updated: 2026-10-25
 
 # 法国公共债务、税收与增长路径
 
+## 财政约束为什么也成了政治时间约束？
+
+[France Culture 对谈](../videos/20261026-france-culture-social-crisis-presidential-election.md)没有再算一套新预算，而是解释债务如何缩短危机谈判时间。Patrice Duhamel 说政府同时缺财政空间、议会多数和政治合法性；Anne-Charlène Bezzina 把预算与债务称作社会危机出口前的两道障碍。RN提出的债务“黄金规则”、当前债务率和既有组织法均待官方资料核验。（[00:01:02](../../sources/france-culture/20261026-l8xPb9pE8kI/transcript.md#000102)–[00:03:05](../../sources/france-culture/20261026-l8xPb9pE8kI/transcript.md#000305)，[00:17:18](../../sources/france-culture/20261026-l8xPb9pE8kI/transcript.md#001718)–[00:19:21](../../sources/france-culture/20261026-l8xPb9pE8kI/transcript.md#001921)，[00:34:41](../../sources/france-culture/20261026-l8xPb9pE8kI/transcript.md#003441)–[00:35:42](../../sources/france-culture/20261026-l8xPb9pE8kI/transcript.md#003542)）
+
 ## 政治信用怎样传到家庭利率
 
 Clément Beaune 承认国际通胀也在推高利率，但认为法国预算僵局和选举风险加重了融资压力。他要求尽快通过可信预算，并把市场问题直接落到住房按揭和教育投资；节目对 5% 收益率与法德利差的表述混杂，数值待核验。（[视频](../videos/20261024-public-senat-eu-long-term-budget.md)，[00:15:13](../../sources/public-senat/20261024-npulfIDYc5c/transcript.md#001513)–[00:17:15](../../sources/public-senat/20261024-npulfIDYc5c/transcript.md#001715)）

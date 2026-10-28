@@ -54,6 +54,11 @@
 
 ## 按人物
 
+- [Patrice Duhamel](people/patrice-duhamel.md)
+- [Gaël Sliman](people/gael-sliman.md)
+- [Valérie Gas](people/valerie-gas.md)
+- [Jean-Christophe Rolland](people/jean-christophe-rolland.md)
+- [Adrien Broche](people/adrien-broche.md)
 - [Audrey Linkenheld](people/audrey-linkenheld.md)
 - [Amel Gacquerre](people/amel-gacquerre.md)
 - [Ian Brossat](people/ian-brossat.md)
@@ -247,6 +252,8 @@
 
 ## 按视频
 
+- 2026-10-27 · Public Sénat · [恐袭、街头与高拒绝率候选人：法国大选会被愤怒接管吗？](videos/20261027-public-senat-social-crisis-racist-attack-election.md)
+- 2026-10-26 · France Culture · [街头还在燃，选举已经开跑：法国第五共和国能扛住双重危机吗？](videos/20261026-france-culture-social-crisis-presidential-election.md)
 - 2026-10-26 · Public Sénat · [租金管制再试两年：法国参议院为何只肯续命，不肯扩围？](videos/20261026-public-senat-rent-control-extension.md)
 - 2026-10-26 · LCI · [政府让步了，街头就会散吗？法国争论教育选择、生活成本与选票失灵](videos/20261026-lci-education-concessions-regime-crisis.md)
 - 2026-10-23 · France Culture · [几枚蓝星怎样骗过一整个舆论场？法国追查俄式干预的低成本链条](videos/20261023-france-culture-russian-interference-blue-stars.md)

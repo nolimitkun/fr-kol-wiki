@@ -2,6 +2,10 @@
 
 法国的争论并非简单分成“支持警察”和“支持示威”。几份材料共同问的是：国家怎样保护示威权、旁观者和警员，又不让预防性控制本身驱散合法参与者？
 
+## 赔偿扩大到围观者，会不会把个人责任变成连坐？
+
+[Public Sénat 圆桌](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)介绍“破坏者付费”法案审议中的集体民事责任、福利扣款、外国人附加处罚、司法无人机和平台删帖义务。Jean-Christophe Rolland 质疑把个人责任扩给周围人的合宪性，也担心一份无法通过审查或执行的法律会反过来强化“法官阻止恢复秩序”的叙事。节目所述条款与审议状态均待 Sénat 正式文本核验。（[00:34:42](../../sources/public-senat/20261027-VIG7FSxBung/transcript.md#003442)–[00:39:45](../../sources/public-senat/20261027-VIG7FSxBung/transcript.md#003945)）
+
 ## 理论模型：先降低紧迫性，再降低用力
 
 [Le Collimateur 长访谈](../videos/20261009-le-collimateur-french-public-order-doctrine.md)从机动宪兵的操作逻辑解释“保持距离”。Christophe Maresca 把透明预告、出口、预备队和贴近现场的指挥视为同一套系统：行动越仓促、越无替代方案，就越可能升级用力。他尤其强调“对手不是敌人”，因为羞辱或误伤会进入下一次示威，成为新的对抗资源。（[00:23:33](../../sources/le-collimateur/20261009-ZOKdqh7BadM/transcript.md#002333)–[00:30:42](../../sources/le-collimateur/20261009-ZOKdqh7BadM/transcript.md#003042)，[00:35:46](../../sources/le-collimateur/20261009-ZOKdqh7BadM/transcript.md#003546)–[00:38:52](../../sources/le-collimateur/20261009-ZOKdqh7BadM/transcript.md#003852)，[00:47:00](../../sources/le-collimateur/20261009-ZOKdqh7BadM/transcript.md#004700)–[00:53:03](../../sources/le-collimateur/20261009-ZOKdqh7BadM/transcript.md#005303)）
@@ -32,6 +36,7 @@ Le Collimateur 主持人一开始就坚持，军队不应对本国公民执行�
 
 ## 视频
 
+- [恐袭、街头与高拒绝率候选人](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)（Public Sénat，2026-10-27）
 - [政府说要两条腿走路，校长却说快撑不住了](../videos/20261022-public-senat-government-school-leaders-crisis.md)（Public Sénat，2026-10-22）
 - [多装无人机，还是少制造恐惧？](../videos/20261021-public-senat-senate-public-order-report.md)（Public Sénat，2026-10-21）
 - [示威一变骚乱，规则就该换吗？](../videos/20261014-public-senat-order-policing-nunez.md)（Public Sénat，2026-10-14）

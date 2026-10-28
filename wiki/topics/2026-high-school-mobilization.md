@@ -96,6 +96,8 @@ Tanguy 和 Thévenot 支持追究未成年人父母的赔偿责任，后者直�
 
 ## 视频
 
+- [恐袭、街头与高拒绝率候选人：法国大选会被愤怒接管吗？](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)（Public Sénat，2026-10-27）
+- [街头还在燃，选举已经开跑：法国第五共和国能扛住双重危机吗？](../videos/20261026-france-culture-social-crisis-presidential-election.md)（France Culture，2026-10-26）
 - [政府让步了，街头就会散吗？法国争论教育选择、生活成本与选票失灵](../videos/20261026-lci-education-concessions-regime-crisis.md)（LCI，2026-10-26）
 - [政府说要两条腿走路，校长却说快撑不住了](../videos/20261022-public-senat-government-school-leaders-crisis.md)（Public Sénat，2026-10-22）
 - [多装无人机，还是少制造恐惧？法国争论示威警务、司法与军队守卫](../videos/20261021-public-senat-senate-public-order-report.md)（Public Sénat，2026-10-21）

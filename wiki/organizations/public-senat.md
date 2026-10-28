@@ -1,6 +1,6 @@
 ---
 title: "Public Sénat"
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 # Public Sénat
@@ -9,6 +9,7 @@ updated: 2026-10-27
 
 ## 已收录
 
+- [恐袭、街头与高拒绝率候选人：法国大选会被愤怒接管吗？](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)（种族主义袭击、社会动员、竞选民调与“破坏者付费”法案，2026-10-27）
 - [租金管制再试两年：法国参议院为何只肯续命，不肯扩围？](../videos/20261026-public-senat-rent-control-extension.md)（租金管制实验续期及执行规则审议，2026-10-26）
 - [政府说要两条腿走路，校长却说快撑不住了：法国危机回应的三层断裂](../videos/20261022-public-senat-government-school-leaders-crisis.md)（政府答辩、维护秩序报告与校长工会听证，2026-10-22；报告部分与前一日节目有重叠）
 - [两万亿欧元还不够？欧盟长期预算争论谁出钱、谁拿钱，以及谁说了算](../videos/20261024-public-senat-eu-long-term-budget.md)（欧盟长期预算、产业主权、青年政治与法国融资成本，2026-10-24）

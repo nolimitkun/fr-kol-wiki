@@ -12,6 +12,8 @@
 
 ## 青年动员与公共秩序
 
+- [恐袭、街头与高拒绝率候选人](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)
+- [街头还在燃，选举已经开跑](../videos/20261026-france-culture-social-crisis-presidential-election.md)
 - [政府让步了，街头就会散吗？](../videos/20261026-lci-education-concessions-regime-crisis.md)
 - [政府说要两条腿走路，校长却说快撑不住了](../videos/20261022-public-senat-government-school-leaders-crisis.md)
 - [秩序牌能把 RN 送进爱丽舍宫吗？](../videos/20261023-public-senat-rn-congress-presidential-strategy.md)
@@ -79,6 +81,7 @@
 
 ## 群体、记忆与暴力
 
+- [恐袭、街头与高拒绝率候选人：种族主义袭击如何进入竞选](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)
 - [暴力过后只谈秩序，法国政府会不会把诉求也一起清场？](../videos/20261019-public-senat-urban-violence-government-response.md)
 - [“种族灭绝”概念、国际法门槛与追责](../topics/genocide-international-law.md)
 - [以色列选举、10月7日问责与巴勒斯坦前景](../topics/israel-election-october-7-accountability.md)

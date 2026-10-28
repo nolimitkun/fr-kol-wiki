@@ -1,5 +1,10 @@
 # 教育
 
+## 社会动员与制度信任
+
+- [恐袭、街头与高拒绝率候选人：法国大选会被愤怒接管吗？](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)
+- [街头还在燃，选举已经开跑：法国第五共和国能扛住双重危机吗？](../videos/20261026-france-culture-social-crisis-presidential-election.md)
+
 覆盖基础教育、高等教育、职业培训、教育公平、教师制度、科研人才和法国精英教育体系。
 
 ## 高中生活与学生动员

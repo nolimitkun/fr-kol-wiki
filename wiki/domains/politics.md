@@ -2,6 +2,8 @@
 
 ## 社会动员与制度回应
 
+- [恐袭、街头与高拒绝率候选人：法国大选会被愤怒接管吗？](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)
+- [街头还在燃，选举已经开跑：法国第五共和国能扛住双重危机吗？](../videos/20261026-france-culture-social-crisis-presidential-election.md)
 - [政府让步了，街头就会散吗？法国争论教育选择、生活成本与选票失灵](../videos/20261026-lci-education-concessions-regime-crisis.md)
 - [2026年高中生动员：教育诉求、暴力与国家回应](../topics/2026-high-school-mobilization.md)
 
@@ -56,6 +58,8 @@
 
 ## 2027 总统选举
 
+- [恐袭、街头与高拒绝率候选人：社会危机如何挤压竞选](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)
+- [街头还在燃，选举已经开跑：第五共和国与 RN 的程序边界](../videos/20261026-france-culture-social-crisis-presidential-election.md)
 - [几枚蓝星怎样骗过一整个舆论场？境外数字干预怎样借国内裂缝放大](../videos/20261023-france-culture-russian-interference-blue-stars.md)
 - [秩序牌能把 RN 送进爱丽舍宫吗？党代会、Bardella 风波与经济软肋](../videos/20261023-public-senat-rn-congress-presidential-strategy.md)
 - [冰箱连着公网，选举连着平台：境外干预与选举保护](../videos/20261022-public-senat-cyber-foreign-interference.md)
