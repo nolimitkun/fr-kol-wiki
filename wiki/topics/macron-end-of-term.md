@@ -1,9 +1,15 @@
 ---
 title: "马克龙任期末：外交权威与国内政治"
-updated: 2026-10-20
+updated: 2026-10-28
 ---
 
 # 马克龙任期末：外交权威与国内政治
+
+## 总统还在下场，总理就很难独立负责
+
+[France Culture 对谈](../videos/20261026-france-culture-social-crisis-presidential-election.md)把任期末困境落到总统—总理分工。Patrice Duhamel 认为马克龙在学生危机中亲自会见代表、抢先宣布 Parcoursup 深改，继续把仲裁者与治理者叠在自己身上；在无议会多数时，这种做法既不能保证通过政策，还模糊了谁该负责。Anne-Charlène Bezzina 则说，制度本身能承受相对多数，关键是政治人物能否重新建立交易与对话能力。（[00:04:06](../../sources/france-culture/20261026-l8xPb9pE8kI/transcript.md#000406)–[00:08:08](../../sources/france-culture/20261026-l8xPb9pE8kI/transcript.md#000808)，[00:17:18](../../sources/france-culture/20261026-l8xPb9pE8kI/transcript.md#001718)–[00:20:21](../../sources/france-culture/20261026-l8xPb9pE8kI/transcript.md#002021)）
+
+[Public Sénat 圆桌](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)从传播侧看到同一问题：总理先借内容创作者传播青年方案，总统同日却批评社交平台；嘉宾更倾向把它理解为失败的角色分工，而非已经公开破裂。会见安排、发言原文和民调均待核验。（[00:26:32](../../sources/public-senat/20261027-VIG7FSxBung/transcript.md#002632)–[00:32:42](../../sources/public-senat/20261027-VIG7FSxBung/transcript.md#003242)）
 
 ## 城市暴力把“任期末”变成秩序危机
 

@@ -1,5 +1,9 @@
 # 经济
 
+## 社会危机与财政约束
+
+- [街头还在燃，选举已经开跑：法国第五共和国能扛住双重危机吗？](../videos/20261026-france-culture-social-crisis-presidential-election.md)
+
 覆盖财政、税收、就业、产业、企业、贸易、住房、物价、养老金与法国在欧元区的经济议题。数字性断言优先以 INSEE、Banque de France 和 Cour des comptes 资料核验。
 
 ## 货币政策与家庭消费

@@ -1,6 +1,6 @@
 ---
 title: "2027总统选举：联盟与地方根基"
-updated: 2026-10-24
+updated: 2026-10-28
 ---
 
 # 2027总统选举：联盟与地方根基
@@ -27,6 +27,12 @@ updated: 2026-10-24
 - RN、LR及中间派在参议院表决中合作或划界的实际记录；
 - 社会党、生态党、共产党与LFI如何处理共同候选人和议会合作；
 - 地方选举人网络能否持续转化为全国竞选资源。
+
+## 社会危机把竞选推向两端
+
+[France Culture 对谈](../videos/20261026-france-culture-social-crisis-presidential-election.md)把竞选困境归到“时间不匹配”：青年、预算和制度信任需要长期修复，政府却只剩数月政治时间。Patrice Duhamel 认为马克龙同时扮演总统和政府首脑，加重了责任混乱；Anne-Charlène Bezzina 则坚持第五共和国仍能承受无多数议会，真正的边界是胜选者是否仍承认宪法高于自身授权。（[00:01:02](../../sources/france-culture/20261026-l8xPb9pE8kI/transcript.md#000102)–[00:08:08](../../sources/france-culture/20261026-l8xPb9pE8kI/transcript.md#000808)，[00:25:28](../../sources/france-culture/20261026-l8xPb9pE8kI/transcript.md#002528)–[00:30:34](../../sources/france-culture/20261026-l8xPb9pE8kI/transcript.md#003034)）
+
+[Public Sénat 次日圆桌](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)补上民意与媒体机制。Gaël Sliman 说，选民既拒绝现政府，也以高比例拒绝主要替代者，所以没有像往常一样在大选前等待换人。Valérie Gas 观察到，持续冲突让 Mélenchon 与 Le Pen 垄断抗议和秩序两套叙事；中间候选人谈青年也难被听见。节目民调、候选状态与支持率均待核验。（[00:10:19](../../sources/public-senat/20261027-VIG7FSxBung/transcript.md#001019)–[00:20:25](../../sources/public-senat/20261027-VIG7FSxBung/transcript.md#002025)）
 
 ## 税与公共服务会不会重新划分选民？
 
