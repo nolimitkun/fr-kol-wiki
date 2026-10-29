@@ -54,6 +54,11 @@
 
 ## 按人物
 
+- [Anthony Morlet-Lavallée](people/anthony-morlet-lavallee.md)
+- [François Geerolf](people/francois-geerolf.md)
+- [Catherine Tricot](people/catherine-tricot.md)
+- [Jean-Hervé Lorenzi](people/jean-herve-lorenzi.md)
+- [Michel Picon](people/michel-picon.md)
 - [Patrice Duhamel](people/patrice-duhamel.md)
 - [Gaël Sliman](people/gael-sliman.md)
 - [Valérie Gas](people/valerie-gas.md)
@@ -252,6 +257,8 @@
 
 ## 按视频
 
+- 2026-10-28 · Public Sénat · [债务要快刀止血，还是慢慢收口？法国经济学家争论2027预算](videos/20261028-public-senat-budget-economists.md)
+- 2026-10-28 · LCI · [玻璃碎了，工资也要涨：法国危机的账该交给保险、企业，还是所有人？](videos/20261028-lci-crisis-bill-insurance-wages.md)
 - 2026-10-27 · Public Sénat · [恐袭、街头与高拒绝率候选人：法国大选会被愤怒接管吗？](videos/20261027-public-senat-social-crisis-racist-attack-election.md)
 - 2026-10-26 · France Culture · [街头还在燃，选举已经开跑：法国第五共和国能扛住双重危机吗？](videos/20261026-france-culture-social-crisis-presidential-election.md)
 - 2026-10-26 · Public Sénat · [租金管制再试两年：法国参议院为何只肯续命，不肯扩围？](videos/20261026-public-senat-rent-control-extension.md)

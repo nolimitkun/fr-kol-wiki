@@ -4,7 +4,12 @@
 
 ## 法国利率与按揭传导
 
+- [债务要快刀止血，还是慢慢收口？主权利率上升怎样压住按揭与投资](../videos/20261028-public-senat-budget-economists.md)
 - [十年期利率越过5%：主权融资怎样传到住房信贷](../videos/20261022-public-senat-finances-red-alert.md)
+
+## 住宅节能改造
+
+- [债务要快刀止血，还是慢慢收口？电力供暖住宅的翻修义务值不值](../videos/20261028-public-senat-budget-economists.md)
 
 ## 租金管制与住房可负担性
 
