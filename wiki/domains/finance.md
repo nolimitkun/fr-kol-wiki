@@ -15,6 +15,8 @@
 
 ## 债务、预算与融资
 
+- [债务要快刀止血，还是慢慢收口？法国经济学家争论实际利息与调整速度](../videos/20261028-public-senat-budget-economists.md)
+- [玻璃碎了，工资也要涨：风险溢价、储蓄与财政账单](../videos/20261028-lci-crisis-bill-insurance-wages.md)
 - [欧盟长期预算：共同野心、成员国账本与地方权力](../topics/eu-long-term-budget.md)
 - [两万亿欧元还不够？欧盟长期预算争论谁出钱、谁拿钱，以及谁说了算](../videos/20261024-public-senat-eu-long-term-budget.md)
 - [秩序牌能把 RN 送进爱丽舍宫吗？RN的竞选预算与退休账](../videos/20261023-public-senat-rn-congress-presidential-strategy.md)

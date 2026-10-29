@@ -1,9 +1,15 @@
 ---
 title: "法国公共债务、税收与增长路径"
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 # 法国公共债务、税收与增长路径
+
+## 同意要修财政，为什么还会走向两条相反路线？
+
+[参议院经济学家听证](../videos/20261028-public-senat-budget-economists.md)把分歧压缩得很清楚。Anthony Morlet-Lavallée 说，法国增长、就业与融资条件同时变差，长期渐进方案又从未守住，因此新多数应在三四年内集中调整。François Geerolf 同意必须修复，却强调法国私人储蓄高、经常账户接近平衡，不是危机前的希腊；若紧缩先压低增长，财政目标反而更难完成。他只主张做到欧洲规则要求的程度，并要求保护教育、医院等会积累长期能力的支出。两人的增长、利率、赤字、债务和收入数据均待官方资料核验。（[00:00:10](../../sources/public-senat/20261028-HiWV_8gLwu8/transcript.md#000010)–[00:10:20](../../sources/public-senat/20261028-HiWV_8gLwu8/transcript.md#001020)，[00:11:20](../../sources/public-senat/20261028-HiWV_8gLwu8/transcript.md#001120)–[00:20:28](../../sources/public-senat/20261028-HiWV_8gLwu8/transcript.md#002028)，[00:47:00](../../sources/public-senat/20261028-HiWV_8gLwu8/transcript.md#004700)–[00:57:14](../../sources/public-senat/20261028-HiWV_8gLwu8/transcript.md#005714)）
+
+[LCI 圆桌](../videos/20261028-lci-crisis-bill-insurance-wages.md)则把宏观分歧落到眼前账单。Michel Picon 拒绝让小企业同时承担骚乱损失、最低工资上涨和预算新增负担；Catherine Tricot 反问，过去十年大额财富增长为何不能参与修复；Jean-Hervé Lorenzi 主张重做税制，但警告短期剧烈加薪会淘汰脆弱企业。Benjamin Morel 的补充最政治化：政府没有多数，很多方案甚至找不到议会通过路径。数字、预算措施与就业效应仍待核验。（[00:19:24](../../sources/lci/20261028-Duxc-63Vx_Q/transcript.md#001924)–[00:24:30](../../sources/lci/20261028-Duxc-63Vx_Q/transcript.md#002430)，[00:28:32](../../sources/lci/20261028-Duxc-63Vx_Q/transcript.md#002832)–[00:38:44](../../sources/lci/20261028-Duxc-63Vx_Q/transcript.md#003844)）
 
 ## 财政约束为什么也成了政治时间约束？
 

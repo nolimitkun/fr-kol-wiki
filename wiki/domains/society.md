@@ -12,6 +12,7 @@
 
 ## 青年动员与公共秩序
 
+- [玻璃碎了，工资也要涨：社会愤怒与商铺损失该怎样同时处理](../videos/20261028-lci-crisis-bill-insurance-wages.md)
 - [恐袭、街头与高拒绝率候选人](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)
 - [街头还在燃，选举已经开跑](../videos/20261026-france-culture-social-crisis-presidential-election.md)
 - [政府让步了，街头就会散吗？](../videos/20261026-lci-education-concessions-regime-crisis.md)
@@ -71,6 +72,7 @@
 
 ## 退休与公共服务
 
+- [债务要快刀止血，还是慢慢收口？财政调整会不会先削坏公共服务](../videos/20261028-public-senat-budget-economists.md)
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
 - [养老金藏进部委预算后，谁来买单？](../videos/20261014-lci-public-pensions-generations.md)
 - [三千名替补教师够不够？](../videos/20261015-public-senat-education-minister-hearing.md)

@@ -1,6 +1,6 @@
 ---
 title: "LCI"
-updated: 2026-10-27
+updated: 2026-10-29
 ---
 
 # LCI
@@ -9,6 +9,7 @@ updated: 2026-10-27
 
 ## 已收录
 
+- [玻璃碎了，工资也要涨：法国危机的账该交给保险、企业，还是所有人？](../videos/20261028-lci-crisis-bill-insurance-wages.md)（骚乱损失、保险分摊、最低工资与财政圆桌，2026-10-28）
 - [政府让步了，街头就会散吗？法国争论教育选择、生活成本与选票失灵](../videos/20261026-lci-education-concessions-regime-crisis.md)（教育方案、生活成本与制度危机圆桌，2026-10-26）
 - [一场游行，三种人群：法国多城暴力后，诉求还听得见吗？](../videos/20261017-lci-protests-violence-order.md)（多城示威、破坏与抢掠直播圆桌，2026-10-17）
 - [养老金藏进部委预算后，谁来买单？法国争论公务员退休、青年与债务](../videos/20261014-lci-public-pensions-generations.md)（公务员养老金、代际分配与债务圆桌，2026-10-14）

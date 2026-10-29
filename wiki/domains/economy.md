@@ -2,6 +2,7 @@
 
 ## 社会危机与财政约束
 
+- [玻璃碎了，工资也要涨：骚乱赔偿、最低工资与企业负担](../videos/20261028-lci-crisis-bill-insurance-wages.md)
 - [街头还在燃，选举已经开跑：法国第五共和国能扛住双重危机吗？](../videos/20261026-france-culture-social-crisis-presidential-election.md)
 
 覆盖财政、税收、就业、产业、企业、贸易、住房、物价、养老金与法国在欧元区的经济议题。数字性断言优先以 INSEE、Banque de France 和 Cour des comptes 资料核验。
@@ -25,6 +26,7 @@
 
 ## 公共债务、税收与增长
 
+- [债务要快刀止血，还是慢慢收口？法国经济学家争论2027预算](../videos/20261028-public-senat-budget-economists.md)
 - [欧盟长期预算：共同野心、成员国账本与地方权力](../topics/eu-long-term-budget.md)
 - [两万亿欧元还不够？欧盟长期预算争论谁出钱、谁拿钱，以及谁说了算](../videos/20261024-public-senat-eu-long-term-budget.md)
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)

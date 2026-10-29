@@ -4,6 +4,8 @@
 
 ## 当前收录
 
+- [债务要快刀止血，还是慢慢收口？主权利率怎样传到企业和家庭信贷](../videos/20261028-public-senat-budget-economists.md)
+- [玻璃碎了，工资也要涨：法国保险资产为何被推销到卢森堡](../videos/20261028-lci-crisis-bill-insurance-wages.md)
 - [十年期利率越过5%：国债成本怎样传到银行、企业与家庭信贷](../videos/20261022-public-senat-finances-red-alert.md)
 - [货币政策怎样稳定经济：预期、规则与家庭消费](../topics/monetary-policy-stabilization.md)
 - [央行怎样稳住经济？Woodford 与 Hall 把预期、消费和规则装进模型](../videos/20261012-france-culture-nobel-woodford-hall.md)

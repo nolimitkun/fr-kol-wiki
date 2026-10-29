@@ -2,6 +2,7 @@
 
 ## 社会动员与制度回应
 
+- [玻璃碎了，工资也要涨：禁游行、议会僵局与社会回应](../videos/20261028-lci-crisis-bill-insurance-wages.md)
 - [恐袭、街头与高拒绝率候选人：法国大选会被愤怒接管吗？](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)
 - [街头还在燃，选举已经开跑：法国第五共和国能扛住双重危机吗？](../videos/20261026-france-culture-social-crisis-presidential-election.md)
 - [政府让步了，街头就会散吗？法国争论教育选择、生活成本与选票失灵](../videos/20261026-lci-education-concessions-regime-crisis.md)
@@ -105,6 +106,8 @@
 - [眼镜、病假、互助保险](../videos/20260924-lci-health-insurance-reform.md)
 
 ## 财政选择
+
+- [债务要快刀止血，还是慢慢收口？法国经济学家争论2027预算](../videos/20261028-public-senat-budget-economists.md)
 
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
 - [养老金少涨、短病假少赔：法国劳动部长怎样分摊社保缺口？](../videos/20261019-public-senat-labor-minister-social-budget.md)
