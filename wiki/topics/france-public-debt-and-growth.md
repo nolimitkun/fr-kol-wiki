@@ -1,9 +1,15 @@
 ---
 title: "法国公共债务、税收与增长路径"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 # 法国公共债务、税收与增长路径
+
+## “债务山”为什么会挡住“投资墙”？
+
+[Pierre Moscovici 的 France Culture 访谈](../videos/20261028-france-culture-moscovici-debt-coalition.md)把减债说成恢复行动能力，而不是会计洁癖。他认为利息挤占气候、防务、科研和教育，主权利率还会向按揭与企业借款扩散；但他反对一次性急刹车，主张小幅偏向富裕者的增税、逐项评估支出，并用更大的欧盟预算共同投资。债务、利率、外资持有和节支金额均待官方资料核验。（[00:03:01](../../sources/france-culture/20261028-DU2NhuRM6Lk/transcript.md#000301)–[00:12:13](../../sources/france-culture/20261028-DU2NhuRM6Lk/transcript.md#001213)，[00:29:32](../../sources/france-culture/20261028-DU2NhuRM6Lk/transcript.md#002932)–[00:35:37](../../sources/france-culture/20261028-DU2NhuRM6Lk/transcript.md#003537)）
+
+[次日 LCI 圆桌](../videos/20261029-lci-fuel-tax-social-volcano.md)把抽象约束落到油泵前：降燃油税能缓解眼前价格，却没有对应减支；再用债务补贴，又会扩大利息负担。分歧不在“税高不高”，而在国家是否能同时说清谁少交、谁少拿，以及公共服务为何没有随征收增加而显得更有效。（[00:39:40](../../sources/lci/20261029-b93NF949KrE/transcript.md#003940)–[00:46:47](../../sources/lci/20261029-b93NF949KrE/transcript.md#004647)，[00:49:51](../../sources/lci/20261029-b93NF949KrE/transcript.md#004951)–[00:59:01](../../sources/lci/20261029-b93NF949KrE/transcript.md#005901)）
 
 ## 同意要修财政，为什么还会走向两条相反路线？
 

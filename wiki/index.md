@@ -54,6 +54,10 @@
 
 ## 按人物
 
+- [Pierre Moscovici](people/pierre-moscovici.md)
+- [Véronique Reille-Soult](people/veronique-reille-soult.md)
+- [Jérôme Jaffré](people/jerome-jaffre.md)
+- [Pierre Chasseray](people/pierre-chasseray.md)
 - [Anthony Morlet-Lavallée](people/anthony-morlet-lavallee.md)
 - [François Geerolf](people/francois-geerolf.md)
 - [Catherine Tricot](people/catherine-tricot.md)
@@ -257,6 +261,8 @@
 
 ## 按视频
 
+- 2026-10-29 · LCI · [油价涨、石油公司赚、国家又缺钱：法国的生活成本怒火该冲谁去？](videos/20261029-lci-fuel-tax-social-volcano.md)
+- 2026-10-28 · France Culture · [债务山压住投资墙：Moscovici 为什么把减债、联盟政府和教育改革绑在一起？](videos/20261028-france-culture-moscovici-debt-coalition.md)
 - 2026-10-28 · Public Sénat · [债务要快刀止血，还是慢慢收口？法国经济学家争论2027预算](videos/20261028-public-senat-budget-economists.md)
 - 2026-10-28 · LCI · [玻璃碎了，工资也要涨：法国危机的账该交给保险、企业，还是所有人？](videos/20261028-lci-crisis-bill-insurance-wages.md)
 - 2026-10-27 · Public Sénat · [恐袭、街头与高拒绝率候选人：法国大选会被愤怒接管吗？](videos/20261027-public-senat-social-crisis-racist-attack-election.md)

@@ -1,5 +1,11 @@
 # 2026年高中生动员：教育诉求、暴力与国家回应
 
+## 10月29日：学生议题会不会并入生活成本动员？
+
+[LCI 圆桌](../videos/20261029-lci-fuel-tax-social-volcano.md)把观察点移到11月5日：开学后学生能否与工会行动汇合，以及运输罢工是否真正形成规模。Véronique Reille-Soult 同时看到学生内部松动——一部分人觉得让步不够，另一部分人开始担心封锁影响毕业考试。Jérôme Jaffré 则认为，运动是否持续还取决于公众是否相信总统选举能提供出口。动员人数、工会安排和政府方案均待官方资料核验。（[00:16:18](../../sources/lci/20261029-b93NF949KrE/transcript.md#001618)–[00:23:25](../../sources/lci/20261029-b93NF949KrE/transcript.md#002325)）
+
+[Moscovici 同日播出的访谈](../videos/20261028-france-culture-moscovici-debt-coalition.md)没有把危机缩成 Parcoursup。他从教师缺口、工资、校舍、升学衔接和社会混合谈结构改革，并批评自上而下不断加选项、改规则的总统化治理。教师工资、学生人口和课程数字待教育部门资料核验。（[00:36:38](../../sources/france-culture/20261028-DU2NhuRM6Lk/transcript.md#003638)–[00:38:41](../../sources/france-culture/20261028-DU2NhuRM6Lk/transcript.md#003841)）
+
 ## 10月22日：危机从学生与警方之间，传到校长办公室
 
 [Public Sénat 综合节目](../videos/20261022-public-senat-government-school-leaders-crisis.md)把政府答辩、维护秩序报告与校长工会听证放在一起。政府承诺从替补、学生民主、校舍、升学和班额五处回应；校长工会却说，更急的问题是人员系统接不上空岗、上级要求冒险维持线下课程，以及校领导被迫承担消防、安保和政治沟通三种责任。Agnès Andersen 把这种处境概括成既当“替罪羊”又当“保险丝”。（[00:08:16](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#000816)–[00:11:20](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#001120)，[00:41:54](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#004154)–[00:48:01](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#004801)，[00:59:18](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#005918)–[01:05:26](../../sources/public-senat/20261022-TW4zmeja_28/transcript.md#010526)）

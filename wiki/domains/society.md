@@ -59,6 +59,7 @@
 
 ## 生活成本与交通
 
+- [油价涨、石油公司赚、国家又缺钱：燃油税怎样进入社会怒火](../videos/20261029-lci-fuel-tax-social-volcano.md)
 - [燃油安全、海运咽喉与战争外溢](../topics/fuel-security-and-geopolitics.md)
 - [柴油危机：法国眼前不是一条断供线，而是三层依赖](../videos/20260923-lci-fuel-crisis.md)
 - [左翼初选首辩：单亲家庭、住房和工资](../videos/20260923-lci-left-primary-debate.md)
@@ -72,6 +73,7 @@
 
 ## 退休与公共服务
 
+- [债务山压住投资墙：养老金、教育和公共行动能力](../videos/20261028-france-culture-moscovici-debt-coalition.md)
 - [债务要快刀止血，还是慢慢收口？财政调整会不会先削坏公共服务](../videos/20261028-public-senat-budget-economists.md)
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)
 - [养老金藏进部委预算后，谁来买单？](../videos/20261014-lci-public-pensions-generations.md)

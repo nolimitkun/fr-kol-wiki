@@ -1,6 +1,6 @@
 ---
 title: "燃油安全、海运咽喉与战争外溢"
-updated: 2026-10-01
+updated: 2026-10-30
 ---
 
 # 燃油安全、海运咽喉与战争外溢
@@ -26,6 +26,10 @@ updated: 2026-10-01
 [伊朗战争全球反应圆桌](../videos/20260312-le-grand-continent-iran-war-global-reactions.md)把传导链再向外推了一步：拉美农业国担心化肥和食品价格，南亚国家担心海湾侨民撤离，欧洲则同时盘算能源、难民和乌克兰战场。相关运输占比、人口和战况尚未获一手资料核验。（[00:13:22](../../sources/le-grand-continent/20260312-wIT3jYnijnE/transcript.md#001322)–[00:16:26](../../sources/le-grand-continent/20260312-wIT3jYnijnE/transcript.md#001626)，[00:35:50](../../sources/le-grand-continent/20260312-wIT3jYnijnE/transcript.md#003550)–[00:38:52](../../sources/le-grand-continent/20260312-wIT3jYnijnE/transcript.md#003852)）
 
 [Public Sénat 中美圆桌](../videos/20260929-public-senat-china-us-truce.md)增加两个亚洲视角。一是台湾若遭封锁，中国也可能面对马六甲海峡的反封锁；二是中国虽希望霍尔木兹恢复通行，却未必能让伊朗革命卫队服从。这把“依赖航道”与“能否控制伙伴”区分开来。（[00:19:35](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#001935)–[00:20:36](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#002036)，[00:35:49](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#003549)–[00:40:53](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#004053)）
+
+## 从供应危机到泵前政治
+
+[10月29日 LCI 圆桌](../videos/20261029-lci-fuel-tax-social-volcano.md)补上了供应冲击进入国内政治的最后一段。TotalEnergies 的全球利润、法国泵价和燃油税被公众压成同一张账；嘉宾却拆出三条不同链：全球紧张推高价格，企业覆盖全产业链而获利，国家税收又放大消费者眼前金额。限价既帮助司机，也把客户从小型加油站吸向大型集团。利润、价格、销量和税额均待官方资料核验。（[00:26:29](../../sources/lci/20261029-b93NF949KrE/transcript.md#002629)–[00:36:40](../../sources/lci/20261029-b93NF949KrE/transcript.md#003640)，[00:39:40](../../sources/lci/20261029-b93NF949KrE/transcript.md#003940)–[00:46:47](../../sources/lci/20261029-b93NF949KrE/transcript.md#004647)）
 
 ## 后续核验与补充
 

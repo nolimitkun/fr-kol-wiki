@@ -4,6 +4,7 @@
 
 ## 当前收录
 
+- [债务山压住投资墙：主权利率怎样向按揭与企业借款扩散](../videos/20261028-france-culture-moscovici-debt-coalition.md)
 - [债务要快刀止血，还是慢慢收口？主权利率怎样传到企业和家庭信贷](../videos/20261028-public-senat-budget-economists.md)
 - [玻璃碎了，工资也要涨：法国保险资产为何被推销到卢森堡](../videos/20261028-lci-crisis-bill-insurance-wages.md)
 - [十年期利率越过5%：国债成本怎样传到银行、企业与家庭信贷](../videos/20261022-public-senat-finances-red-alert.md)
