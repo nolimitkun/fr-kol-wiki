@@ -2,6 +2,10 @@
 
 法国的争论并非简单分成“支持警察”和“支持示威”。几份材料共同问的是：国家怎样保护示威权、旁观者和警员，又不让预防性控制本身驱散合法参与者？
 
+## 警力越疲惫，预防部署就越容易扩大
+
+[10月29日 LCI 节目](../videos/20261029-lci-fuel-tax-social-volcano.md)从下一场周末动员的部署切入：路线谈判、万圣节蒙面、象征性地点和警员连续超时工作被放在一起。节目中的记者与警察工会担心疲劳削弱现场判断；商户代表则要求暂停游行。相关警力、伤员、工时、路线和法律解释均待内政与司法官方资料核验。（[00:02:05](../../sources/lci/20261029-b93NF949KrE/transcript.md#000205)–[00:05:08](../../sources/lci/20261029-b93NF949KrE/transcript.md#000508)，[00:12:14](../../sources/lci/20261029-b93NF949KrE/transcript.md#001214)–[00:16:18](../../sources/lci/20261029-b93NF949KrE/transcript.md#001618)）
+
 ## 赔偿扩大到围观者，会不会把个人责任变成连坐？
 
 [Public Sénat 圆桌](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)介绍“破坏者付费”法案审议中的集体民事责任、福利扣款、外国人附加处罚、司法无人机和平台删帖义务。Jean-Christophe Rolland 质疑把个人责任扩给周围人的合宪性，也担心一份无法通过审查或执行的法律会反过来强化“法官阻止恢复秩序”的叙事。节目所述条款与审议状态均待 Sénat 正式文本核验。（[00:34:42](../../sources/public-senat/20261027-VIG7FSxBung/transcript.md#003442)–[00:39:45](../../sources/public-senat/20261027-VIG7FSxBung/transcript.md#003945)）

@@ -2,6 +2,8 @@
 
 ## 社会危机与财政约束
 
+- [油价涨、石油公司赚、国家又缺钱：燃油、税负与生活成本](../videos/20261029-lci-fuel-tax-social-volcano.md)
+- [债务山压住投资墙：减债怎样恢复国家投资能力](../videos/20261028-france-culture-moscovici-debt-coalition.md)
 - [玻璃碎了，工资也要涨：骚乱赔偿、最低工资与企业负担](../videos/20261028-lci-crisis-bill-insurance-wages.md)
 - [街头还在燃，选举已经开跑：法国第五共和国能扛住双重危机吗？](../videos/20261026-france-culture-social-crisis-presidential-election.md)
 

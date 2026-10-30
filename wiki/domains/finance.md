@@ -15,6 +15,8 @@
 
 ## 债务、预算与融资
 
+- [债务山压住投资墙：利差、外资持债与投资空间](../videos/20261028-france-culture-moscovici-debt-coalition.md)
+- [油价涨、石油公司赚、国家又缺钱：降税为什么会撞上债务约束](../videos/20261029-lci-fuel-tax-social-volcano.md)
 - [债务要快刀止血，还是慢慢收口？法国经济学家争论实际利息与调整速度](../videos/20261028-public-senat-budget-economists.md)
 - [玻璃碎了，工资也要涨：风险溢价、储蓄与财政账单](../videos/20261028-lci-crisis-bill-insurance-wages.md)
 - [欧盟长期预算：共同野心、成员国账本与地方权力](../topics/eu-long-term-budget.md)

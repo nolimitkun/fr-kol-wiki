@@ -2,6 +2,8 @@
 
 ## 社会动员与制度回应
 
+- [油价涨、石油公司赚、国家又缺钱：生活成本、街头与选举出口](../videos/20261029-lci-fuel-tax-social-volcano.md)
+- [债务山压住投资墙：Moscovici 谈联盟政府与总统权力](../videos/20261028-france-culture-moscovici-debt-coalition.md)
 - [玻璃碎了，工资也要涨：禁游行、议会僵局与社会回应](../videos/20261028-lci-crisis-bill-insurance-wages.md)
 - [恐袭、街头与高拒绝率候选人：法国大选会被愤怒接管吗？](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)
 - [街头还在燃，选举已经开跑：法国第五共和国能扛住双重危机吗？](../videos/20261026-france-culture-social-crisis-presidential-election.md)

@@ -1,9 +1,13 @@
 ---
 title: "2027总统选举：联盟与地方根基"
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 # 2027总统选举：联盟与地方根基
+
+## 赢下反对票之后，谁进入政府？
+
+[Pierre Moscovici 访谈](../videos/20261028-france-culture-moscovici-debt-coalition.md)认为法国已进入“默认选择”时代：候选人靠反对 RN 的票当选，却在上台后缩回自己的首轮阵营。他主张下一位非 RN 总统若没有议会多数，应让支持其第二轮胜选的不同力量进入正式联盟，共同谈出并执行计划；这与当前逐案凑票的无多数状态不是一回事。他对 Mélenchon、Le Pen 和各阵营胜算的说法属于个人政治判断。（[00:21:22](../../sources/france-culture/20261028-DU2NhuRM6Lk/transcript.md#002122)–[00:25:27](../../sources/france-culture/20261028-DU2NhuRM6Lk/transcript.md#002527)）
 
 ## 范围
 

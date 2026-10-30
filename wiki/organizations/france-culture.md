@@ -1,6 +1,6 @@
 ---
 title: "France Culture"
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 # France Culture
@@ -9,6 +9,7 @@ updated: 2026-10-28
 
 ## 已收录
 
+- [债务山压住投资墙：Moscovici 为什么把减债、联盟政府和教育改革绑在一起？](../videos/20261028-france-culture-moscovici-debt-coalition.md)（公共债务、联盟政治与教育改革访谈，2026-10-28）
 - [街头还在燃，选举已经开跑：法国第五共和国能扛住双重危机吗？](../videos/20261026-france-culture-social-crisis-presidential-election.md)（社会危机、第五共和国与总统竞选，2026-10-26）
 - [几枚蓝星怎样骗过一整个舆论场？法国追查俄式干预的低成本链条](../videos/20261023-france-culture-russian-interference-blue-stars.md)（境外数字干预、媒体放大与生成式AI风险，2026-10-23）
 - [十年期国债收益率到了5%，该砍支出还是向巨富收一次重税？](../videos/20261022-france-culture-solidarity-tax-debt.md)（教育投入、财富税与公共债务辩论，2026-10-22）
