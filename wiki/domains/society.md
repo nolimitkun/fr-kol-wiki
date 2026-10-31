@@ -12,6 +12,7 @@
 
 ## 青年动员与公共秩序
 
+- [街头还要继续，公众却开始喊停：支持转折与长期警务代价](../videos/20261030-lci-protests-public-opinion-police-strain.md)
 - [玻璃碎了，工资也要涨：社会愤怒与商铺损失该怎样同时处理](../videos/20261028-lci-crisis-bill-insurance-wages.md)
 - [恐袭、街头与高拒绝率候选人](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)
 - [街头还在燃，选举已经开跑](../videos/20261026-france-culture-social-crisis-presidential-election.md)

@@ -1,6 +1,6 @@
 ---
 title: "Julien Arnaud"
-updated: 2026-10-10
+updated: 2026-10-31
 ---
 
 # Julien Arnaud
@@ -22,3 +22,9 @@ updated: 2026-10-10
 他认为三千名替补教师的宣布在沟通上适得其反：学区调动并非立刻完成，政府又没有先解释这些人此前为何未在课堂，学生便更容易把它理解成长期敷衍。谈 Édouard Philippe 的家庭补助时，他不反对重做制度，却反复追问资金从哪里来。（[00:09:16](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#000916)–[00:10:16](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#001016)，[00:17:23](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#001723)–[00:18:24](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#001824)，[00:52:56](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#005256)–[00:53:57](../../sources/lci/20261009-MVFAK-m15DY/transcript.md#005357)）
 
 来源：[老师从哪来，钱又从哪来？](../videos/20261009-lci-education-budget-debt.md)
+
+## 2026-10-30 让步为何不一定换来退场
+
+他从家庭月底账本解释支持松动：政府已经摆出替换 Parcoursup 等措施，若学生仍坚持“百亿欧元或什么都没有”，家长和祖父母会更难继续支持。这个判断带有鲜明的政治评论色彩；节目所述政府措施与诉求金额待核验。（[00:41:46](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#004146)–[00:44:48](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#004448)）
+
+来源：[街头还要继续，公众却开始喊停](../videos/20261030-lci-protests-public-opinion-police-strain.md)

@@ -1,5 +1,9 @@
 # 2026年高中生动员：教育诉求、暴力与国家回应
 
+## 10月30日：公众开始把诉求与封锁放进两本账
+
+[LCI 圆桌](../videos/20261030-lci-protests-public-opinion-police-strain.md)援引调查称，多数受访者希望学生动员停止。Frédéric Dabi 认为，与“黄背心”时期相比，公众越来越难把合理诉求、反复封锁和现场暴力完全切开；Philippe Guibert 则把家长视为实际刹车，因为考试和学年都有时间成本。学生代表仍把停止动员与十项措施、百亿欧元和赦免绑定。调查方法、政府措施、诉求代表性和法律条件均待核验。（[00:37:44](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#003744)–[00:44:48](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#004448)）
+
 ## 10月29日：学生议题会不会并入生活成本动员？
 
 [LCI 圆桌](../videos/20261029-lci-fuel-tax-social-volcano.md)把观察点移到11月5日：开学后学生能否与工会行动汇合，以及运输罢工是否真正形成规模。Véronique Reille-Soult 同时看到学生内部松动——一部分人觉得让步不够，另一部分人开始担心封锁影响毕业考试。Jérôme Jaffré 则认为，运动是否持续还取决于公众是否相信总统选举能提供出口。动员人数、工会安排和政府方案均待官方资料核验。（[00:16:18](../../sources/lci/20261029-b93NF949KrE/transcript.md#001618)–[00:23:25](../../sources/lci/20261029-b93NF949KrE/transcript.md#002325)）
@@ -101,6 +105,8 @@ Tanguy 和 Thévenot 支持追究未成年人父母的赔偿责任，后者直�
 - 教育部长与学生组织会谈的正式纪要、咨询安排及后续承诺。
 
 ## 视频
+
+- [街头还要继续，公众却开始喊停：法国动员怎样耗损支持、警力与经济？](../videos/20261030-lci-protests-public-opinion-police-strain.md)（LCI，2026-10-30）
 
 - [恐袭、街头与高拒绝率候选人：法国大选会被愤怒接管吗？](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)（Public Sénat，2026-10-27）
 - [街头还在燃，选举已经开跑：法国第五共和国能扛住双重危机吗？](../videos/20261026-france-culture-social-crisis-presidential-election.md)（France Culture，2026-10-26）

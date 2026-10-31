@@ -2,6 +2,7 @@
 
 ## 社会动员与制度回应
 
+- [街头还要继续，公众却开始喊停：选举为何没有吸收社会愤怒](../videos/20261030-lci-protests-public-opinion-police-strain.md)
 - [油价涨、石油公司赚、国家又缺钱：生活成本、街头与选举出口](../videos/20261029-lci-fuel-tax-social-volcano.md)
 - [债务山压住投资墙：Moscovici 谈联盟政府与总统权力](../videos/20261028-france-culture-moscovici-debt-coalition.md)
 - [玻璃碎了，工资也要涨：禁游行、议会僵局与社会回应](../videos/20261028-lci-crisis-bill-insurance-wages.md)

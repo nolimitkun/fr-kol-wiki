@@ -1,6 +1,6 @@
 ---
 title: "Guillaume Farde"
-updated: 2026-10-18
+updated: 2026-10-31
 ---
 
 # Guillaume Farde
@@ -24,3 +24,9 @@ updated: 2026-10-18
 他继续用分类压住直播画面的混乱：合法示威者、寻求与警方对抗的暴力小组、趁警力分散而抢店的机会型犯罪者，可能先后出现在同一地点，但目的和责任不同。他也不把警力问题简化成“人数不够”：开放城市无法全部封闭，小组多点移动会让调度位置和反应速度比总人数更关键。（[00:12:12](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#001212)–[00:15:13](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#001513)，[00:47:45](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#004745)–[00:54:50](../../sources/lci/20261017-axJ4emsjkYs/transcript.md#005450)）
 
 来源：[一场游行，三种人群](../videos/20261017-lci-protests-violence-order.md)
+
+## 2026-10-30 每周七万人部署的隐形账单
+
+他仍先按时段和人群拆风险，但这次把焦点从一天的战术拉到半年的承受力：取消休假、拖延补休和心理疲劳会累积，追查抢掠也会挤走日常刑事案件的人手。他提醒，情报部门在前次事件后有高估风险以避免再次失准的激励，因此“预判最坏”不能自动当成“最坏必然发生”。（[00:13:17](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#001317)–[00:18:25](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#001825)，[00:35:42](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#003542)–[00:38:45](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#003845)，[00:49:53](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#004953)–[00:51:56](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#005156)）
+
+来源：[街头还要继续，公众却开始喊停](../videos/20261030-lci-protests-public-opinion-police-strain.md)
