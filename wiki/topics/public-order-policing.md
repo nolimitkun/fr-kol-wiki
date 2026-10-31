@@ -2,6 +2,10 @@
 
 法国的争论并非简单分成“支持警察”和“支持示威”。几份材料共同问的是：国家怎样保护示威权、旁观者和警员，又不让预防性控制本身驱散合法参与者？
 
+## 七万人能守住一天，却未必撑得过半年
+
+[10月30日 LCI 圆桌](../videos/20261030-lci-protests-public-opinion-police-strain.md)把警务代价从现场推到系统内部。Guillaume Farde 说，高强度周末部署会取消休假、拖延补休，还会抽走侦办普通刑案的人手；若持续到总统选举，体力、心理和奖金成本都会累积。他也提醒，前次低估风险后，情报部门可能倾向于写出最坏剧本，风险评估不能直接当成事件预告。部署人数、案件积压、人员调配和路线诉讼均待官方资料核验。（[00:13:17](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#001317)–[00:18:25](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#001825)，[00:35:42](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#003542)–[00:38:45](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#003845)，[00:49:53](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#004953)–[00:51:56](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#005156)）
+
 ## 警力越疲惫，预防部署就越容易扩大
 
 [10月29日 LCI 节目](../videos/20261029-lci-fuel-tax-social-volcano.md)从下一场周末动员的部署切入：路线谈判、万圣节蒙面、象征性地点和警员连续超时工作被放在一起。节目中的记者与警察工会担心疲劳削弱现场判断；商户代表则要求暂停游行。相关警力、伤员、工时、路线和法律解释均待内政与司法官方资料核验。（[00:02:05](../../sources/lci/20261029-b93NF949KrE/transcript.md#000205)–[00:05:08](../../sources/lci/20261029-b93NF949KrE/transcript.md#000508)，[00:12:14](../../sources/lci/20261029-b93NF949KrE/transcript.md#001214)–[00:16:18](../../sources/lci/20261029-b93NF949KrE/transcript.md#001618)）
@@ -40,6 +44,7 @@ Le Collimateur 主持人一开始就坚持，军队不应对本国公民执行�
 
 ## 视频
 
+- [街头还要继续，公众却开始喊停](../videos/20261030-lci-protests-public-opinion-police-strain.md)（LCI，2026-10-30）
 - [恐袭、街头与高拒绝率候选人](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)（Public Sénat，2026-10-27）
 - [政府说要两条腿走路，校长却说快撑不住了](../videos/20261022-public-senat-government-school-leaders-crisis.md)（Public Sénat，2026-10-22）
 - [多装无人机，还是少制造恐惧？](../videos/20261021-public-senat-senate-public-order-report.md)（Public Sénat，2026-10-21）

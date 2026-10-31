@@ -10,6 +10,7 @@
 ## 高中生活与学生动员
 
 - [2026年高中生动员：教育诉求、暴力与国家回应](../topics/2026-high-school-mobilization.md)
+- [街头还要继续，公众却开始喊停：学生加码与家长刹车](../videos/20261030-lci-protests-public-opinion-police-strain.md)（LCI，2026-10-30）
 - [政府让步了，街头就会散吗？法国争论教育选择、生活成本与选票失灵](../videos/20261026-lci-education-concessions-regime-crisis.md)（LCI，2026-10-26）
 - [政府说要两条腿走路，校长却说快撑不住了](../videos/20261022-public-senat-government-school-leaders-crisis.md)（Public Sénat，2026-10-22）
 - [十年期国债收益率到了5%，该砍支出还是向巨富收一次重税？](../videos/20261022-france-culture-solidarity-tax-debt.md)（France Culture，2026-10-22）

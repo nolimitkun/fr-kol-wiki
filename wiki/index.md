@@ -54,6 +54,7 @@
 
 ## 按人物
 
+- [Frédéric Dabi](people/frederic-dabi.md)
 - [Pierre Moscovici](people/pierre-moscovici.md)
 - [Véronique Reille-Soult](people/veronique-reille-soult.md)
 - [Jérôme Jaffré](people/jerome-jaffre.md)
@@ -261,6 +262,7 @@
 
 ## 按视频
 
+- 2026-10-30 · LCI · [街头还要继续，公众却开始喊停：法国动员怎样耗损支持、警力与经济？](videos/20261030-lci-protests-public-opinion-police-strain.md)
 - 2026-10-29 · LCI · [油价涨、石油公司赚、国家又缺钱：法国的生活成本怒火该冲谁去？](videos/20261029-lci-fuel-tax-social-volcano.md)
 - 2026-10-28 · France Culture · [债务山压住投资墙：Moscovici 为什么把减债、联盟政府和教育改革绑在一起？](videos/20261028-france-culture-moscovici-debt-coalition.md)
 - 2026-10-28 · Public Sénat · [债务要快刀止血，还是慢慢收口？法国经济学家争论2027预算](videos/20261028-public-senat-budget-economists.md)
