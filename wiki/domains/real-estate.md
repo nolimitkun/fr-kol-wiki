@@ -4,6 +4,7 @@
 
 ## 法国利率与按揭传导
 
+- [5%利率不是今天就爆雷：为什么国家债务不能直接套用家庭房贷逻辑](../videos/20261029-france-culture-monnet-debt-bce.md)
 - [债务山压住投资墙：法国主权利率怎样进入住房贷款](../videos/20261028-france-culture-moscovici-debt-coalition.md)
 - [债务要快刀止血，还是慢慢收口？主权利率上升怎样压住按揭与投资](../videos/20261028-public-senat-budget-economists.md)
 - [十年期利率越过5%：主权融资怎样传到住房信贷](../videos/20261022-public-senat-finances-red-alert.md)

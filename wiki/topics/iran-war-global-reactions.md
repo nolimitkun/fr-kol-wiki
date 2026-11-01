@@ -1,9 +1,13 @@
 ---
 title: "伊朗战争的全球反应：谨慎、碎片化与外溢"
-updated: 2026-09-29
+updated: 2026-11-01
 ---
 
 # 伊朗战争的全球反应：谨慎、碎片化与外溢
+
+## 美国国内政治与欧洲拒绝配合
+
+[Public Sénat 圆桌](../videos/20261028-public-senat-trump-foreign-policy-europe.md)把伊朗战争放进美国中期选举和欧美关系。嘉宾称，燃油价格可能让反对海外战争的 MAGA 选民感到被背叛；Nicole Gnesotto 则把欧洲拒绝通过北约提供更多支持视为少见的集体抵抗。战争状态、霍尔木兹通航、油价和北约协商均待官方资料核验。（[00:44:37](../../sources/public-senat/20261028-0dty60cXfCQ/transcript.md#004437)–[00:46:38](../../sources/public-senat/20261028-0dty60cXfCQ/transcript.md#004638)，[01:20:21](../../sources/public-senat/20261028-0dty60cXfCQ/transcript.md#012021)–[01:22:23](../../sources/public-senat/20261028-0dty60cXfCQ/transcript.md#012223)）
 
 ## 不是两大阵营，而是许多张风险清单
 

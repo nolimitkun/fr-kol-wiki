@@ -15,6 +15,7 @@
 
 ## 债务、预算与融资
 
+- [5%利率不是今天就爆雷：存量债务、投资者结构与欧洲央行托底](../videos/20261029-france-culture-monnet-debt-bce.md)
 - [债务山压住投资墙：利差、外资持债与投资空间](../videos/20261028-france-culture-moscovici-debt-coalition.md)
 - [油价涨、石油公司赚、国家又缺钱：降税为什么会撞上债务约束](../videos/20261029-lci-fuel-tax-social-volcano.md)
 - [债务要快刀止血，还是慢慢收口？法国经济学家争论实际利息与调整速度](../videos/20261028-public-senat-budget-economists.md)

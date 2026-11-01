@@ -1,6 +1,6 @@
 ---
 title: "France Culture"
-updated: 2026-10-30
+updated: 2026-11-01
 ---
 
 # France Culture
@@ -9,6 +9,7 @@ updated: 2026-10-30
 
 ## 已收录
 
+- [5%利率不是今天就爆雷：Éric Monnet 拆解法国债务、市场与欧洲央行的时间差](../videos/20261029-france-culture-monnet-debt-bce.md)（债务存量重定价、投资者结构与欧洲央行托底条件，2026-10-29）
 - [债务山压住投资墙：Moscovici 为什么把减债、联盟政府和教育改革绑在一起？](../videos/20261028-france-culture-moscovici-debt-coalition.md)（公共债务、联盟政治与教育改革访谈，2026-10-28）
 - [街头还在燃，选举已经开跑：法国第五共和国能扛住双重危机吗？](../videos/20261026-france-culture-social-crisis-presidential-election.md)（社会危机、第五共和国与总统竞选，2026-10-26）
 - [几枚蓝星怎样骗过一整个舆论场？法国追查俄式干预的低成本链条](../videos/20261023-france-culture-russian-interference-blue-stars.md)（境外数字干预、媒体放大与生成式AI风险，2026-10-23）
