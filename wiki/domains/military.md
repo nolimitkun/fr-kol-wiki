@@ -2,6 +2,11 @@
 
 覆盖法国国防战略、核威慑、军工、海外部署、欧洲安全、外交政策与战略自主。战争相关材料严格区分当事人观点、公开情报和已核验事实。
 
+## 美国外交与欧洲选择
+
+- [特朗普外交与欧洲选择：安抚、抵抗还是绕行](../topics/trump-foreign-policy-and-europe.md)
+- [夸他，顶他，还是绕开他？法国专家争论特朗普外交与欧洲的三种活法](../videos/20261028-public-senat-trump-foreign-policy-europe.md)
+
 ## 欧洲安全与共同预算
 
 - [欧盟长期预算：共同野心、成员国账本与地方权力](../topics/eu-long-term-budget.md)

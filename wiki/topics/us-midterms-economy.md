@@ -1,9 +1,13 @@
 ---
 title: "美国中期选举的经济账：物价、关税与国家干预"
-updated: 2026-10-25
+updated: 2026-11-01
 ---
 
 # 美国中期选举的经济账：物价、关税与国家干预
+
+## 外交账怎样回到油价和腐败感受
+
+[Public Sénat 的特朗普外交圆桌](../videos/20261028-public-senat-trump-foreign-policy-europe.md)把国际议题重新拉回选票。嘉宾认为，伊朗战争及燃油价格会直接触碰 MAGA 选民；家族商业利益与政府权力的混合，也会在生活成本恶化时放大腐败议题。节目所引油价、腐败民调和国会投票意向均待一手资料核验。（[00:44:37](../../sources/public-senat/20261028-0dty60cXfCQ/transcript.md#004437)–[00:46:38](../../sources/public-senat/20261028-0dty60cXfCQ/transcript.md#004638)，[01:01:58](../../sources/public-senat/20261028-0dty60cXfCQ/transcript.md#010158)–[01:12:10](../../sources/public-senat/20261028-0dty60cXfCQ/transcript.md#011210)）
 
 ## 民主党路线之争
 

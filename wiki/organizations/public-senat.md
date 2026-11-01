@@ -1,6 +1,6 @@
 ---
 title: "Public Sénat"
-updated: 2026-10-29
+updated: 2026-11-01
 ---
 
 # Public Sénat
@@ -9,6 +9,7 @@ updated: 2026-10-29
 
 ## 已收录
 
+- [夸他，顶他，还是绕开他？法国专家争论特朗普外交与欧洲的三种活法](../videos/20261028-public-senat-trump-foreign-policy-europe.md)（特朗普外交、家族利益与欧洲应对；同一上传前半段为已收录社会危机圆桌，2026-10-28）
 - [债务要快刀止血，还是慢慢收口？法国经济学家争论2027预算](../videos/20261028-public-senat-budget-economists.md)（经济学家就增长、利率、债务与财政调整接受参议院听证，2026-10-28）
 - [恐袭、街头与高拒绝率候选人：法国大选会被愤怒接管吗？](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)（种族主义袭击、社会动员、竞选民调与“破坏者付费”法案，2026-10-27）
 - [租金管制再试两年：法国参议院为何只肯续命，不肯扩围？](../videos/20261026-public-senat-rent-control-extension.md)（租金管制实验续期及执行规则审议，2026-10-26）

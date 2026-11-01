@@ -29,6 +29,7 @@
 
 ## 公共债务、税收与增长
 
+- [5%利率不是今天就爆雷：高息新债怎样逐步替换低息旧债](../videos/20261029-france-culture-monnet-debt-bce.md)
 - [债务要快刀止血，还是慢慢收口？法国经济学家争论2027预算](../videos/20261028-public-senat-budget-economists.md)
 - [欧盟长期预算：共同野心、成员国账本与地方权力](../topics/eu-long-term-budget.md)
 - [两万亿欧元还不够？欧盟长期预算争论谁出钱、谁拿钱，以及谁说了算](../videos/20261024-public-senat-eu-long-term-budget.md)
@@ -53,6 +54,8 @@
 
 ## 产业、贸易与能源价格
 
+- [特朗普外交与欧洲选择：安抚、抵抗还是绕行](../topics/trump-foreign-policy-and-europe.md)
+- [夸他，顶他，还是绕开他？外交、腐败争议与生活成本怎样回到美国选票](../videos/20261028-public-senat-trump-foreign-policy-europe.md)
 - [法国去工业化：能源、金融化与全球竞争](../topics/french-deindustrialization.md)
 - [谁杀死了法国工业？一部纪录片追查半世纪的共同责任](../videos/20261003-public-senat-french-deindustrialization.md)
 - [工业没死，但还救得回来吗？](../videos/20261003-public-senat-industry-new-model.md)

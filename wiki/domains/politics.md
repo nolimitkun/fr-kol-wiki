@@ -84,6 +84,8 @@
 
 ## 国际经济与能源安全
 
+- [特朗普外交与欧洲选择：安抚、抵抗还是绕行](../topics/trump-foreign-policy-and-europe.md)
+- [夸他，顶他，还是绕开他？法国专家争论特朗普外交与欧洲的三种活法](../videos/20261028-public-senat-trump-foreign-policy-europe.md)
 - [欧盟长期预算：共同野心、成员国账本与地方权力](../topics/eu-long-term-budget.md)
 - [两万亿欧元还不够？欧盟长期预算争论谁出钱、谁拿钱，以及谁说了算](../videos/20261024-public-senat-eu-long-term-budget.md)
 - [战争生态学：欧洲转型的安全、产业与公平](../topics/war-ecology-and-european-transition.md)
@@ -110,6 +112,7 @@
 
 ## 财政选择
 
+- [5%利率不是今天就爆雷：政治不稳定怎样进入主权融资](../videos/20261029-france-culture-monnet-debt-bce.md)
 - [债务要快刀止血，还是慢慢收口？法国经济学家争论2027预算](../videos/20261028-public-senat-budget-economists.md)
 
 - [法国公共债务、税收与增长路径](../topics/france-public-debt-and-growth.md)

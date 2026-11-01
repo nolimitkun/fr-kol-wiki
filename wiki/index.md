@@ -51,6 +51,7 @@
 - [马克龙任期末：外交权威与国内政治](topics/macron-end-of-term.md)
 - [低成本武器、军工产能与不对称战争](topics/asymmetric-war-and-defense-industry.md)
 - [法国公共债务、税收与增长路径](topics/france-public-debt-and-growth.md)
+- [特朗普外交与欧洲选择：安抚、抵抗还是绕行](topics/trump-foreign-policy-and-europe.md)
 
 ## 按人物
 
@@ -245,6 +246,10 @@
 - [Rémi Cardon](people/remi-cardon.md)
 - [David Margueritte](people/david-margueritte.md)
 - [Agnès Andersen](people/agnes-andersen.md)
+- [Éric Monnet](people/eric-monnet.md)
+- [Nicole Gnesotto](people/nicole-gnesotto.md)
+- [Patricia Allémonière](people/patricia-allemoniere.md)
+- [Jérôme Viala-Gaudefroy](people/jerome-viala-gaudefroy.md)
 
 ## 按机构
 
@@ -263,7 +268,9 @@
 ## 按视频
 
 - 2026-10-30 · LCI · [街头还要继续，公众却开始喊停：法国动员怎样耗损支持、警力与经济？](videos/20261030-lci-protests-public-opinion-police-strain.md)
+- 2026-10-29 · France Culture · [5%利率不是今天就爆雷：Éric Monnet 拆解法国债务、市场与欧洲央行的时间差](videos/20261029-france-culture-monnet-debt-bce.md)
 - 2026-10-29 · LCI · [油价涨、石油公司赚、国家又缺钱：法国的生活成本怒火该冲谁去？](videos/20261029-lci-fuel-tax-social-volcano.md)
+- 2026-10-28 · Public Sénat · [夸他，顶他，还是绕开他？法国专家争论特朗普外交与欧洲的三种活法](videos/20261028-public-senat-trump-foreign-policy-europe.md)
 - 2026-10-28 · France Culture · [债务山压住投资墙：Moscovici 为什么把减债、联盟政府和教育改革绑在一起？](videos/20261028-france-culture-moscovici-debt-coalition.md)
 - 2026-10-28 · Public Sénat · [债务要快刀止血，还是慢慢收口？法国经济学家争论2027预算](videos/20261028-public-senat-budget-economists.md)
 - 2026-10-28 · LCI · [玻璃碎了，工资也要涨：法国危机的账该交给保险、企业，还是所有人？](videos/20261028-lci-crisis-bill-insurance-wages.md)
