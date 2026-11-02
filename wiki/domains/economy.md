@@ -1,5 +1,7 @@
 # 经济
 
+- [选战还在谈人选，五个法国人先问日子怎么过：工业衰退、企业成本与购买力](../videos/20261031-public-senat-presidential-campaign-five-lives.md)
+
 ## 社会危机与财政约束
 
 - [街头还要继续，公众却开始喊停：警务、商户与停滞经济的成本](../videos/20261030-lci-protests-public-opinion-police-strain.md)

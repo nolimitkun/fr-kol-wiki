@@ -11,6 +11,8 @@
 
 ## 财产损失与责任保险
 
+- [选战还在谈人选，五个法国人先问日子怎么过：地方传统为什么突然无险可保？](../videos/20261031-public-senat-presidential-campaign-five-lives.md)
+
 - [玻璃碎了，工资也要涨：“骚乱附加费”能否维持商铺可保性](../videos/20261028-lci-crisis-bill-insurance-wages.md)
 - [十年期利率越过5%：骚乱损失先由谁赔？](../videos/20261022-public-senat-finances-red-alert.md)
 - [校门口要钱，债市却在催账：反破坏法案怎样把损失推向家庭、纳税人与保险](../videos/20261004-lci-lycee-debt-government-pressure.md)

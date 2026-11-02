@@ -1,6 +1,6 @@
 ---
 title: "Public Sénat"
-updated: 2026-11-01
+updated: 2026-11-02
 ---
 
 # Public Sénat
@@ -8,6 +8,9 @@ updated: 2026-11-01
 法国议会公共频道。本库将其节目视为媒体来源而非中立事实本身；每期仍需区分主持人框架、嘉宾观点、纪录片材料和外部核验结果。
 
 ## 已收录
+
+- [人人都想改变，却不再彼此说话：法国总统选战为何从愤怒开局？](../videos/20261031-public-senat-polarized-presidential-campaign.md)（纪录片后的选举社会学圆桌，2026-10-31）
+- [选战还在谈人选，五个法国人先问日子怎么过：RN上升背后的生活账](../videos/20261031-public-senat-presidential-campaign-five-lives.md)（五名普通人的工作、公共服务与投票选择纪录片，2026-10-31）
 
 - [夸他，顶他，还是绕开他？法国专家争论特朗普外交与欧洲的三种活法](../videos/20261028-public-senat-trump-foreign-policy-europe.md)（特朗普外交、家族利益与欧洲应对；同一上传前半段为已收录社会危机圆桌，2026-10-28）
 - [债务要快刀止血，还是慢慢收口？法国经济学家争论2027预算](../videos/20261028-public-senat-budget-economists.md)（经济学家就增长、利率、债务与财政调整接受参议院听证，2026-10-28）
