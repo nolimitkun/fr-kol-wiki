@@ -1,9 +1,15 @@
 ---
 title: "2027总统选举：联盟与地方根基"
-updated: 2026-10-30
+updated: 2026-11-02
 ---
 
 # 2027总统选举：联盟与地方根基
+
+## 五种生活怎样变成一场惩罚性选举？
+
+[Public Sénat 的五人纪录片](../videos/20261031-public-senat-presidential-campaign-five-lives.md)把 RN 上升放回工业衰退、乡村医疗、企业成本、学校缩班和食品援助。受访者并非都支持 RN，但“左右轮替没有改变生活”“不妨试一次”的话反复出现。Hayange 的高炉尤其把地方记忆与政治惩罚连在一起：Hollande 说自己守住了无裁员承诺，当地居民记住的却是生产现场最终关闭。（[00:10:16](../../sources/public-senat/20261031-7Zaw1hXIMzA/transcript.md#001016)–[00:14:19](../../sources/public-senat/20261031-7Zaw1hXIMzA/transcript.md#001419)，[00:39:59](../../sources/public-senat/20261031-7Zaw1hXIMzA/transcript.md#003959)–[00:40:59](../../sources/public-senat/20261031-7Zaw1hXIMzA/transcript.md#004059)）
+
+[随后的分析圆桌](../videos/20261031-public-senat-polarized-presidential-campaign.md)把这种情绪称为“负面政治化”：选民高度关注大选，却主要为了惩罚和决裂。四位嘉宾判断，RN 已明显正常化，但潜在新选民仍常用“不反对”而非积极支持；LFI 能给青年一幅“新法国”愿景，却还要跨过人口结构与高弃权两关。民调、候选状态和司法争议均待官方或完整原始资料核验。（[00:02:01](../../sources/public-senat/20261031-vYA_2C1UJec/transcript.md#000201)–[00:05:04](../../sources/public-senat/20261031-vYA_2C1UJec/transcript.md#000504)，[00:14:13](../../sources/public-senat/20261031-vYA_2C1UJec/transcript.md#001413)–[00:18:16](../../sources/public-senat/20261031-vYA_2C1UJec/transcript.md#001816)，[00:23:21](../../sources/public-senat/20261031-vYA_2C1UJec/transcript.md#002321)–[00:28:27](../../sources/public-senat/20261031-vYA_2C1UJec/transcript.md#002827)）
 
 ## 赢下反对票之后，谁进入政府？
 

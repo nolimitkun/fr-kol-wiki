@@ -1,6 +1,6 @@
 ---
 title: "Pascal Perrineau"
-updated: 2026-10-24
+updated: 2026-11-02
 ---
 
 # Pascal Perrineau
@@ -12,3 +12,9 @@ updated: 2026-10-24
 他判断 RN 党代会本身缺少悬念，反对示威反而替它扩大声量。谈竞选时，他一面说 Jean-Luc Mélenchon 若进入第二轮会给 Marine Le Pen 极大优势，一面提醒六个月前的民调并不等于结果。谈经济，他把 RN 方案概括为“双面”：用退休承诺抓工薪选民，用资本积累制拉传统右翼；这种模糊可以竞选，却很难执政。（[00:46:45](../../sources/public-senat/20261023--22gqoFLWdk/transcript.md#004645)–[00:48:46](../../sources/public-senat/20261023--22gqoFLWdk/transcript.md#004846)，[01:01:59](../../sources/public-senat/20261023--22gqoFLWdk/transcript.md#010159)–[01:04:00](../../sources/public-senat/20261023--22gqoFLWdk/transcript.md#010400)，[01:21:20](../../sources/public-senat/20261023--22gqoFLWdk/transcript.md#012120)–[01:23:23](../../sources/public-senat/20261023--22gqoFLWdk/transcript.md#012323)）
 
 来源：[秩序牌能把 RN 送进爱丽舍宫吗？](../videos/20261023-public-senat-rn-congress-presidential-strategy.md)
+
+## 2026-10-31：负面政治化把人带进选战
+
+他把开局情绪叫作“负面政治化”：法国人想参与，首先却是为了表达愤怒与不安。他把原因连到总统第二任期、政府不稳定与购买力焦虑。谈青年票时，他拒绝把所有年轻人装进一组：18至24岁对 Mélenchon 的支持较强，进入就业阶段后便减弱。相关支持率、年龄交叉表和政府数据待核验。（[00:03:02](../../sources/public-senat/20261031-vYA_2C1UJec/transcript.md#000302)–[00:04:04](../../sources/public-senat/20261031-vYA_2C1UJec/transcript.md#000404)，[00:07:07](../../sources/public-senat/20261031-vYA_2C1UJec/transcript.md#000707)–[00:08:07](../../sources/public-senat/20261031-vYA_2C1UJec/transcript.md#000807)，[00:25:24](../../sources/public-senat/20261031-vYA_2C1UJec/transcript.md#002524)–[00:26:24](../../sources/public-senat/20261031-vYA_2C1UJec/transcript.md#002624)）
+
+来源：[人人都想改变，却不再彼此说话](../videos/20261031-public-senat-polarized-presidential-campaign.md)

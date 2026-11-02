@@ -1,5 +1,8 @@
 # 社会与民生
 
+- [人人都想改变，却不再彼此说话：极化如何吃掉公共讨论](../videos/20261031-public-senat-polarized-presidential-campaign.md)
+- [选战还在谈人选，五个法国人先问日子怎么过：公共服务与生活压力](../videos/20261031-public-senat-presidential-campaign-five-lives.md)
+
 覆盖收入与生活成本、住房、交通、治安、移民与融合、人口、家庭、社会保障、城乡与海外省议题。
 
 ## 媒体、专家与公共讨论

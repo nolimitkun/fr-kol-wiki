@@ -2,6 +2,9 @@
 
 ## 社会动员与制度回应
 
+- [人人都想改变，却不再彼此说话：法国总统选战为何从愤怒开局？](../videos/20261031-public-senat-polarized-presidential-campaign.md)
+- [选战还在谈人选，五个法国人先问日子怎么过：RN上升背后的生活账](../videos/20261031-public-senat-presidential-campaign-five-lives.md)
+
 - [街头还要继续，公众却开始喊停：选举为何没有吸收社会愤怒](../videos/20261030-lci-protests-public-opinion-police-strain.md)
 - [油价涨、石油公司赚、国家又缺钱：生活成本、街头与选举出口](../videos/20261029-lci-fuel-tax-social-volcano.md)
 - [债务山压住投资墙：Moscovici 谈联盟政府与总统权力](../videos/20261028-france-culture-moscovici-debt-coalition.md)

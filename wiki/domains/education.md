@@ -1,5 +1,7 @@
 # 教育
 
+- [选战还在谈人选，五个法国人先问日子怎么过：大众社区学校为何继续缩班？](../videos/20261031-public-senat-presidential-campaign-five-lives.md)
+
 ## 社会动员与制度信任
 
 - [恐袭、街头与高拒绝率候选人：法国大选会被愤怒接管吗？](../videos/20261027-public-senat-social-crisis-racist-attack-election.md)

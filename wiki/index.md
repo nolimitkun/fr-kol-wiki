@@ -55,6 +55,9 @@
 
 ## 按人物
 
+- [Roland Cayrol](people/roland-cayrol.md)
+- [Nathalie Mauret](people/nathalie-mauret.md)
+
 - [Frédéric Dabi](people/frederic-dabi.md)
 - [Pierre Moscovici](people/pierre-moscovici.md)
 - [Véronique Reille-Soult](people/veronique-reille-soult.md)
@@ -266,6 +269,9 @@
 - [Thinkerview](organizations/thinkerview.md)
 
 ## 按视频
+
+- 2026-10-31 · Public Sénat · [人人都想改变，却不再彼此说话：法国总统选战为何从愤怒开局？](videos/20261031-public-senat-polarized-presidential-campaign.md)
+- 2026-10-31 · Public Sénat · [选战还在谈人选，五个法国人先问日子怎么过：RN上升背后的生活账](videos/20261031-public-senat-presidential-campaign-five-lives.md)
 
 - 2026-10-30 · LCI · [街头还要继续，公众却开始喊停：法国动员怎样耗损支持、警力与经济？](videos/20261030-lci-protests-public-opinion-police-strain.md)
 - 2026-10-29 · France Culture · [5%利率不是今天就爆雷：Éric Monnet 拆解法国债务、市场与欧洲央行的时间差](videos/20261029-france-culture-monnet-debt-bce.md)

@@ -1,5 +1,7 @@
 # 医疗
 
+- [选战还在谈人选，五个法国人先问日子怎么过：乡村护士怎样补上医疗荒漠](../videos/20261031-public-senat-presidential-campaign-five-lives.md)
+
 覆盖公共卫生、医保、医院体系、基层医疗、药品与生物医学研究。页面不提供个体医疗建议；高风险断言须经 Santé publique France、HAS、ANSM 或同行评议研究复核。
 
 ## 美国医保与选举
