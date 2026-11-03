@@ -1,5 +1,9 @@
 # 2026年高中生动员：教育诉求、暴力与国家回应
 
+## 11月2日：Parcoursup之外，还有名额和投入
+
+[Public Sénat 圆桌](../videos/20261102-public-senat-parcoursup-selection.md)把学生要求废除 Parcoursup 的诉求拆成平台透明度、BTS 与 IUT 名额、普通本科投入和升学辅导不平等。嘉宾多数不赞成简单删掉平台，却承认等待、地方排序规则和培养路径错配会制造真实焦虑。（[00:01:11](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#000111)–[00:03:13](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#000313)，[00:11:20](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#001120)–[00:16:26](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#001626)）
+
 ## 10月30日：公众开始把诉求与封锁放进两本账
 
 [LCI 圆桌](../videos/20261030-lci-protests-public-opinion-police-strain.md)援引调查称，多数受访者希望学生动员停止。Frédéric Dabi 认为，与“黄背心”时期相比，公众越来越难把合理诉求、反复封锁和现场暴力完全切开；Philippe Guibert 则把家长视为实际刹车，因为考试和学年都有时间成本。学生代表仍把停止动员与十项措施、百亿欧元和赦免绑定。调查方法、政府措施、诉求代表性和法律条件均待核验。（[00:37:44](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#003744)–[00:44:48](../../sources/lci/20261030-h3ND5iWWG88/transcript.md#004448)）

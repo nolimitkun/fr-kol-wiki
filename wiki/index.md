@@ -22,6 +22,8 @@
 
 ## 按专题
 
+- [法国国防预算与再武装：钱、产能与持续作战](topics/defense-budget-and-rearmament.md)
+- [高等教育筛选、名额与培养投入](topics/higher-education-selection.md)
 - [租金管制与住房可负担性](topics/rent-control-and-housing-affordability.md)
 - [欧盟长期预算：共同野心、成员国账本与地方权力](topics/eu-long-term-budget.md)
 - [网络干预、网络安全与国家韧性](topics/cybersecurity-and-foreign-interference.md)
@@ -55,6 +57,10 @@
 
 ## 按人物
 
+- [Catherine Vautrin](people/catherine-vautrin.md)
+- [Alice Ruffau](people/alice-ruffau.md)
+- [Édouard Kaminski](people/edouard-kaminski.md)
+- [Clément Soudaille](people/clement-soudaille.md)
 - [Roland Cayrol](people/roland-cayrol.md)
 - [Nathalie Mauret](people/nathalie-mauret.md)
 
@@ -270,6 +276,8 @@
 
 ## 按视频
 
+- 2026-11-02 · Public Sénat · [军费多65亿，法国就准备好打持久战了吗？参议院追问产能、人员与防空](videos/20261102-public-senat-defense-budget-2027.md)
+- 2026-11-02 · Public Sénat · [Parcoursup该删，还是该把钱投对地方？法国争论大学筛选与七万缺口](videos/20261102-public-senat-parcoursup-selection.md)
 - 2026-10-31 · Public Sénat · [人人都想改变，却不再彼此说话：法国总统选战为何从愤怒开局？](videos/20261031-public-senat-polarized-presidential-campaign.md)
 - 2026-10-31 · Public Sénat · [选战还在谈人选，五个法国人先问日子怎么过：RN上升背后的生活账](videos/20261031-public-senat-presidential-campaign-five-lives.md)
 

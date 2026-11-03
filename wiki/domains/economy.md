@@ -1,5 +1,7 @@
 # 经济
 
+- [军费多65亿，法国就准备好打持久战了吗？预算、订单与军工供应链](../videos/20261102-public-senat-defense-budget-2027.md)
+- [Parcoursup该删，还是该把钱投对地方？教育投入与培养回报](../videos/20261102-public-senat-parcoursup-selection.md)
 - [选战还在谈人选，五个法国人先问日子怎么过：工业衰退、企业成本与购买力](../videos/20261031-public-senat-presidential-campaign-five-lives.md)
 
 ## 社会危机与财政约束

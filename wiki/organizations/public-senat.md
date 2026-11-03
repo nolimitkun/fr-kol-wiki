@@ -1,6 +1,6 @@
 ---
 title: "Public Sénat"
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 # Public Sénat
@@ -9,6 +9,8 @@ updated: 2026-11-02
 
 ## 已收录
 
+- [军费多65亿，法国就准备好打持久战了吗？参议院追问产能、人员与防空](../videos/20261102-public-senat-defense-budget-2027.md)（2027 国防预算、军工产能、人员与装备听证，2026-11-02）
+- [Parcoursup该删，还是该把钱投对地方？法国争论大学筛选与七万缺口](../videos/20261102-public-senat-parcoursup-selection.md)（高校申请、培养名额与教学投入圆桌，2026-11-02）
 - [人人都想改变，却不再彼此说话：法国总统选战为何从愤怒开局？](../videos/20261031-public-senat-polarized-presidential-campaign.md)（纪录片后的选举社会学圆桌，2026-10-31）
 - [选战还在谈人选，五个法国人先问日子怎么过：RN上升背后的生活账](../videos/20261031-public-senat-presidential-campaign-five-lives.md)（五名普通人的工作、公共服务与投票选择纪录片，2026-10-31）
 

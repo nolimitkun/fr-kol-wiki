@@ -1,5 +1,7 @@
 # 教育
 
+- [Parcoursup该删，还是该把钱投对地方？法国争论大学筛选与七万缺口](../videos/20261102-public-senat-parcoursup-selection.md)
+- [高等教育筛选、名额与培养投入](../topics/higher-education-selection.md)
 - [选战还在谈人选，五个法国人先问日子怎么过：大众社区学校为何继续缩班？](../videos/20261031-public-senat-presidential-campaign-five-lives.md)
 
 ## 社会动员与制度信任
