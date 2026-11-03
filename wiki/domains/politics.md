@@ -1,5 +1,11 @@
 # 政治
 
+## 预算选择与议会监督
+
+- [军费多65亿，法国就准备好打持久战了吗？](../videos/20261102-public-senat-defense-budget-2027.md)
+- [法国国防预算与再武装：钱、产能与持续作战](../topics/defense-budget-and-rearmament.md)
+- [Parcoursup该删，还是该把钱投对地方？](../videos/20261102-public-senat-parcoursup-selection.md)
+
 ## 社会动员与制度回应
 
 - [人人都想改变，却不再彼此说话：法国总统选战为何从愤怒开局？](../videos/20261031-public-senat-polarized-presidential-campaign.md)

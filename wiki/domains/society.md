@@ -1,5 +1,7 @@
 # 社会与民生
 
+- [Parcoursup该删，还是该把钱投对地方？升学焦虑、家庭资源与培养错配](../videos/20261102-public-senat-parcoursup-selection.md)
+- [高等教育筛选、名额与培养投入](../topics/higher-education-selection.md)
 - [人人都想改变，却不再彼此说话：极化如何吃掉公共讨论](../videos/20261031-public-senat-polarized-presidential-campaign.md)
 - [选战还在谈人选，五个法国人先问日子怎么过：公共服务与生活压力](../videos/20261031-public-senat-presidential-campaign-five-lives.md)
 

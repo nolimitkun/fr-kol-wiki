@@ -2,6 +2,11 @@
 
 覆盖法国国防战略、核威慑、军工、海外部署、欧洲安全、外交政策与战略自主。战争相关材料严格区分当事人观点、公开情报和已核验事实。
 
+## 国防预算与持续作战
+
+- [法国国防预算与再武装：钱、产能与持续作战](../topics/defense-budget-and-rearmament.md)
+- [军费多65亿，法国就准备好打持久战了吗？参议院追问产能、人员与防空](../videos/20261102-public-senat-defense-budget-2027.md)
+
 ## 美国外交与欧洲选择
 
 - [特朗普外交与欧洲选择：安抚、抵抗还是绕行](../topics/trump-foreign-policy-and-europe.md)

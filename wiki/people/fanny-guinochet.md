@@ -1,6 +1,6 @@
 ---
 title: "Fanny Guinochet"
-updated: 2026-10-23
+updated: 2026-11-03
 ---
 
 # Fanny Guinochet
@@ -18,3 +18,9 @@ updated: 2026-10-23
 她先把 RN 经济方案里企业爱听的减税、降费、简化和削支逐项摆出，再补上两笔硬账：削减欧盟出资可能伤及单一市场利益，把法定退休年龄降回 62 岁又与雇主要求相反。她的分析风格仍像市场清单，先说哪些承诺好卖，再问钱和约束从哪来。（[01:13:11](../../sources/public-senat/20261023--22gqoFLWdk/transcript.md#011311)–[01:17:16](../../sources/public-senat/20261023--22gqoFLWdk/transcript.md#011716)）
 
 来源：[秩序牌能把 RN 送进爱丽舍宫吗？](../videos/20261023-public-senat-rn-congress-presidential-strategy.md)
+
+## 2026-11-02：把学费与国家投入放在同一张表上
+
+她延续报盘式表达，逐项比较本科、硕士、公立工程学校、预科和私校学费，再转向国家为不同路径承担的成本。她的表格让差距一眼可见，也引出 Élise Huillery 对统计口径的纠正：大学平均成本包含科研，不能直接当成本科教学投入。相关金额待官方教育账目核验。（[00:35:42](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#003542)–[00:38:44](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#003844)，[00:41:46](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#004146)–[00:42:47](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#004247)）
+
+来源：[Parcoursup该删，还是该把钱投对地方？](../videos/20261102-public-senat-parcoursup-selection.md)

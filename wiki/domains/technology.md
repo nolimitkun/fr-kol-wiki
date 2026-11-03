@@ -3,6 +3,7 @@
 覆盖人工智能、数字主权、科研、能源技术、航空航天、创业与产业创新，同时关注欧盟监管和法国科研体系。
 ## 产业与人工智能
 
+- [军费多65亿，法国就准备好打持久战了吗？国防AI、无人系统与网络能力](../videos/20261102-public-senat-defense-budget-2027.md)
 - [网络干预、网络安全与国家韧性](../topics/cybersecurity-and-foreign-interference.md)
 - [几枚蓝星怎样骗过一整个舆论场？AI造假、分发与模型投毒的边界](../videos/20261023-france-culture-russian-interference-blue-stars.md)
 - [冰箱连着公网，选举连着平台：网络攻击、生成式AI与平台风险](../videos/20261022-public-senat-cyber-foreign-interference.md)
