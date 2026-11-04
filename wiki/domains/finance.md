@@ -2,6 +2,12 @@
 
 追踪法国的公共债务、财政金融、储蓄、债券、资本市场与金融监管，重点解释政策、利率和市场波动怎样传到企业融资、家庭账本和公共服务。页面不构成投资或交易建议。
 
+## 能源转型融资
+
+- [能源负担与电气化：账单、住房与转型融资](../topics/energy-affordability-and-electrification.md)
+- [放出柴油储备只能顶三个月：CEE、新核电与预算外融资](../videos/20261103-public-senat-energy-budget-hearing.md)
+- [冬天少开暖气，夏天也躲不过热：消费者账单怎样承担转型成本](../videos/20261103-public-senat-winter-energy-costs.md)
+
 ## 利率、预期与稳定化
 
 - [货币政策怎样稳定经济：预期、规则与家庭消费](../topics/monetary-policy-stabilization.md)

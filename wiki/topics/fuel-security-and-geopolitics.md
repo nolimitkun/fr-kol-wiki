@@ -1,6 +1,6 @@
 ---
 title: "燃油安全、海运咽喉与战争外溢"
-updated: 2026-10-30
+updated: 2026-11-04
 ---
 
 # 燃油安全、海运咽喉与战争外溢
@@ -28,6 +28,10 @@ updated: 2026-10-30
 [Public Sénat 中美圆桌](../videos/20260929-public-senat-china-us-truce.md)增加两个亚洲视角。一是台湾若遭封锁，中国也可能面对马六甲海峡的反封锁；二是中国虽希望霍尔木兹恢复通行，却未必能让伊朗革命卫队服从。这把“依赖航道”与“能否控制伙伴”区分开来。（[00:19:35](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#001935)–[00:20:36](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#002036)，[00:35:49](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#003549)–[00:40:53](../../sources/public-senat/20260929-lGHhTItljVo/transcript.md#004053)）
 
 ## 从供应危机到泵前政治
+
+[11月3日能源预算听证](../videos/20261103-public-senat-energy-budget-hearing.md)展示政府怎样把战略库存变成零售降价：低价出售、发票追踪、每周公开和利润检查组成传导机制；争议则在于三个月以后如何补库，以及定向通勤援助漏掉哪些必要出行。（[00:08:24](../../sources/public-senat/20261103-1Qna7sOGa84/transcript.md#000824)–[00:13:28](../../sources/public-senat/20261103-1Qna7sOGa84/transcript.md#001328)，[01:08:41](../../sources/public-senat/20261103-1Qna7sOGa84/transcript.md#010841)–[01:16:53](../../sources/public-senat/20261103-1Qna7sOGa84/transcript.md#011653)）
+
+[同日能源成本圆桌](../videos/20261103-public-senat-winter-energy-costs.md)从零售端提出另一风险：大型网络能较快传下降价，小型乡村站点却可能先消化高价旧库存；储备若在高价期补回，今天的减价还可能变成未来成本。门店价格、关店预测和库存重建计划均待核验。（[00:29:39](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#002939)–[00:35:45](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#003545)）
 
 [10月29日 LCI 圆桌](../videos/20261029-lci-fuel-tax-social-volcano.md)补上了供应冲击进入国内政治的最后一段。TotalEnergies 的全球利润、法国泵价和燃油税被公众压成同一张账；嘉宾却拆出三条不同链：全球紧张推高价格，企业覆盖全产业链而获利，国家税收又放大消费者眼前金额。限价既帮助司机，也把客户从小型加油站吸向大型集团。利润、价格、销量和税额均待官方资料核验。（[00:26:29](../../sources/lci/20261029-b93NF949KrE/transcript.md#002629)–[00:36:40](../../sources/lci/20261029-b93NF949KrE/transcript.md#003640)，[00:39:40](../../sources/lci/20261029-b93NF949KrE/transcript.md#003940)–[00:46:47](../../sources/lci/20261029-b93NF949KrE/transcript.md#004647)）
 
