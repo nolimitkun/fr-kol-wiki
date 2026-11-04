@@ -11,6 +11,8 @@
 
 ## 住宅节能改造
 
+- [能源负担与电气化：账单、住房与转型融资](../topics/energy-affordability-and-electrification.md)
+- [冬天少开暖气，夏天也躲不过热：高耗能住房、剩余自付额与整体翻修](../videos/20261103-public-senat-winter-energy-costs.md)
 - [债务要快刀止血，还是慢慢收口？电力供暖住宅的翻修义务值不值](../videos/20261028-public-senat-budget-economists.md)
 
 ## 租金管制与住房可负担性

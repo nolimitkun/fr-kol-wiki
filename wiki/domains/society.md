@@ -1,5 +1,8 @@
 # 社会与民生
 
+- [能源负担与电气化：账单、住房与转型融资](../topics/energy-affordability-and-electrification.md)
+- [放出柴油储备只能顶三个月：谁能领补助，谁被资格线挡住](../videos/20261103-public-senat-energy-budget-hearing.md)
+- [冬天少开暖气，夏天也躲不过热：能源贫困不只发生在冬天](../videos/20261103-public-senat-winter-energy-costs.md)
 - [Parcoursup该删，还是该把钱投对地方？升学焦虑、家庭资源与培养错配](../videos/20261102-public-senat-parcoursup-selection.md)
 - [高等教育筛选、名额与培养投入](../topics/higher-education-selection.md)
 - [人人都想改变，却不再彼此说话：极化如何吃掉公共讨论](../videos/20261031-public-senat-polarized-presidential-campaign.md)

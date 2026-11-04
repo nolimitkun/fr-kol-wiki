@@ -2,6 +2,8 @@
 
 ## 预算选择与议会监督
 
+- [放出柴油储备只能顶三个月：法国能源预算与议会追问](../videos/20261103-public-senat-energy-budget-hearing.md)
+- [能源负担与电气化：账单、住房与转型融资](../topics/energy-affordability-and-electrification.md)
 - [军费多65亿，法国就准备好打持久战了吗？](../videos/20261102-public-senat-defense-budget-2027.md)
 - [法国国防预算与再武装：钱、产能与持续作战](../topics/defense-budget-and-rearmament.md)
 - [Parcoursup该删，还是该把钱投对地方？](../videos/20261102-public-senat-parcoursup-selection.md)

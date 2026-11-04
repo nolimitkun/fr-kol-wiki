@@ -1,6 +1,13 @@
 # 环境与能源
 
 覆盖气候政策、核能与电力、农业、交通转型、生物多样性和法国及欧盟的能源战略。
+
+## 能源负担与电气化
+
+- [能源负担与电气化：账单、住房与转型融资](../topics/energy-affordability-and-electrification.md)
+- [放出柴油储备只能顶三个月：战略储备、CEE 与新核电融资](../videos/20261103-public-senat-energy-budget-hearing.md)
+- [冬天少开暖气，夏天也躲不过热：住房翻修为何不能被设备替换挤掉](../videos/20261103-public-senat-winter-energy-costs.md)
+
 ## 选举中的气候与产业政策
 
 - [2027总统选举经济政策对照](../topics/2027-presidential-economic-policy.md)

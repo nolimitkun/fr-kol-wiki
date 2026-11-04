@@ -1,5 +1,8 @@
 # 经济
 
+- [能源负担与电气化：账单、住房与转型融资](../topics/energy-affordability-and-electrification.md)
+- [放出柴油储备只能顶三个月：救急、减税与预算边界](../videos/20261103-public-senat-energy-budget-hearing.md)
+- [冬天少开暖气，夏天也躲不过热：能源冲击怎样进入家庭消费](../videos/20261103-public-senat-winter-energy-costs.md)
 - [军费多65亿，法国就准备好打持久战了吗？预算、订单与军工供应链](../videos/20261102-public-senat-defense-budget-2027.md)
 - [Parcoursup该删，还是该把钱投对地方？教育投入与培养回报](../videos/20261102-public-senat-parcoursup-selection.md)
 - [选战还在谈人选，五个法国人先问日子怎么过：工业衰退、企业成本与购买力](../videos/20261031-public-senat-presidential-campaign-five-lives.md)

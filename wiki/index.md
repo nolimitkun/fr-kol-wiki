@@ -22,6 +22,7 @@
 
 ## 按专题
 
+- [能源负担与电气化：账单、住房与转型融资](topics/energy-affordability-and-electrification.md)
 - [法国国防预算与再武装：钱、产能与持续作战](topics/defense-budget-and-rearmament.md)
 - [高等教育筛选、名额与培养投入](topics/higher-education-selection.md)
 - [租金管制与住房可负担性](topics/rent-control-and-housing-affordability.md)
@@ -57,6 +58,11 @@
 
 ## 按人物
 
+- [Maud Bregeon](people/maud-bregeon.md)
+- [Bernard Doroszczuk](people/bernard-doroszczuk.md)
+- [Stéphanie Villers](people/stephanie-villers.md)
+- [Erwan Benezet](people/erwan-benezet.md)
+- [Jean-Sébastien Ferjou](people/jean-sebastien-ferjou.md)
 - [Catherine Vautrin](people/catherine-vautrin.md)
 - [Alice Ruffau](people/alice-ruffau.md)
 - [Édouard Kaminski](people/edouard-kaminski.md)
@@ -276,6 +282,8 @@
 
 ## 按视频
 
+- 2026-11-03 · Public Sénat · [放出柴油储备只能顶三个月：法国能源部长怎样在涨价、减碳与预算之间找钱？](videos/20261103-public-senat-energy-budget-hearing.md)
+- 2026-11-03 · Public Sénat · [冬天少开暖气，夏天也躲不过热：法国能源贫困为何不能只靠电气化？](videos/20261103-public-senat-winter-energy-costs.md)
 - 2026-11-02 · Public Sénat · [军费多65亿，法国就准备好打持久战了吗？参议院追问产能、人员与防空](videos/20261102-public-senat-defense-budget-2027.md)
 - 2026-11-02 · Public Sénat · [Parcoursup该删，还是该把钱投对地方？法国争论大学筛选与七万缺口](videos/20261102-public-senat-parcoursup-selection.md)
 - 2026-10-31 · Public Sénat · [人人都想改变，却不再彼此说话：法国总统选战为何从愤怒开局？](videos/20261031-public-senat-polarized-presidential-campaign.md)
