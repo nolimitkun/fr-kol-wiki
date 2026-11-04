@@ -26,7 +26,7 @@ updated: 2026-11-04
 
 ## 摘要
 
-圆桌从一组令人不安的调查数字开场：越来越多法国人说能源账单难付，年轻人尤其吃力，能源贫困也从冬季取暖延伸到夏季高温。Bernard Doroszczuk 不爱喊大口号。他总把讨论拉回制度缺口：住房不翻修，换成电供暖也只是换一种能源；CEE 由人人付费，最穷的家庭却常因无力先投资而拿不到好处。Erwan Benezet 善用生活化例子，从石油危机后变薄的黑胶唱片讲到塑料包装，解释油价怎样穿透日常商品；他也提醒，过去政府鼓励柴油车和燃气，如今消费者会觉得自己成了“冤大头”。Stéphanie Villers 把 2026 年冲击同 2022 年相比：外部冲击相似，国家财政缓冲却更薄。Jean-Sébastien Ferjou 则把矛头同时对准选民、政治家和技术官僚，要求所有人承认廉价、充足、低碳不可能毫无取舍。几人真正形成的共识很窄：救急补贴仍需要，但没有稳定的住房翻修、用电灵活性和长期投资，下一次油气回落后，法国还会再次忘记转型。（[00:02:02](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#000202)–[00:07:06](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#000706)，[00:10:10](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#001010)–[00:23:22](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#002322)）
+圆桌从一组令人不安的调查数字开场：越来越多法国人说能源账单难付，年轻人尤其吃力，能源贫困也从冬季取暖延伸到夏季高温。Bernard Doroszczuk 不爱喊大口号。他总把讨论拉回制度缺口：住房不翻修，换成电供暖也只是换一种能源；CEE 由人人付费，最穷的家庭却常因无力先投资而拿不到好处。Erwan Benezet 善用生活化例子，从石油危机后变薄的黑胶唱片讲到塑料包装，解释油价怎样穿透日常商品。Stéphanie Villers 把 2026 年冲击同 2022 年相比：外部冲击相似，国家财政缓冲却更薄；她也提醒，过去政府鼓励柴油车和燃气，如今消费者会觉得自己成了“冤大头”。Jean-Sébastien Ferjou 则把矛头同时对准选民、政治家和技术官僚，要求所有人承认廉价、充足、低碳不可能毫无取舍。几人真正形成的共识很窄：救急补贴仍需要，但没有稳定的住房翻修、用电灵活性和长期投资，下一次油气回落后，法国还会再次忘记转型。（[00:02:02](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#000202)–[00:07:06](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#000706)，[00:10:10](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#001010)–[00:23:22](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#002322)）
 
 ## “付不起”具体是什么样？
 
@@ -42,7 +42,7 @@ Doroszczuk 给电气化泼了一盆冷水：把锅炉或汽车换成电动设备
 
 ## 政府朝令夕改，还是危机逼着改？
 
-Villers 认为法国早已诊断出能源翻修和进口依赖问题，但政治系统更擅长发短期支票，而不是维持多年投资。她的句子带着明显的经济顾问风格：2022 年国家还能用大规模价格保护吸收冲击，2026 年财政能力已弱得多。Benezet 也说，消费者过去被鼓励买柴油车、装燃气，如今政策转向，会感觉自己为旧激励买单。两人的因果判断、财政规模和政策历史都待官方预算与法规核验。（[00:03:02](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#000302)–[00:05:04](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#000504)，[00:12:12](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#001212)–[00:13:13](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#001313)，[00:21:20](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#002120)–[00:23:22](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#002322)）
+Villers 认为法国早已诊断出能源翻修和进口依赖问题，但政治系统更擅长发短期支票，而不是维持多年投资。她的句子带着明显的经济顾问风格：2022 年国家还能用大规模价格保护吸收冲击，2026 年财政能力已弱得多。她也说，消费者过去被鼓励买柴油车、装燃气，如今政策转向，会感觉自己为旧激励买单。她的因果判断、财政规模和政策历史都待官方预算与法规核验。（[00:03:02](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#000302)–[00:05:04](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#000504)，[00:12:12](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#001212)–[00:13:13](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#001313)，[00:21:20](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#002120)–[00:23:22](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#002322)）
 
 ## 谁该为矛盾的能源愿望负责？
 
