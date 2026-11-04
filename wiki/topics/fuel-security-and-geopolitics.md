@@ -29,7 +29,7 @@ updated: 2026-11-04
 
 ## 从供应危机到泵前政治
 
-[11月3日能源预算听证](../videos/20261103-public-senat-energy-budget-hearing.md)展示政府怎样把战略库存变成零售降价：低价出售、发票追踪、每周公开和利润检查组成传导机制；争议则在于三个月以后如何补库，以及定向通勤援助漏掉哪些必要出行。（[00:08:24](../../sources/public-senat/20261103-1Qna7sOGa84/transcript.md#000824)–[00:13:28](../../sources/public-senat/20261103-1Qna7sOGa84/transcript.md#001328)，[01:08:41](../../sources/public-senat/20261103-1Qna7sOGa84/transcript.md#010841)–[01:16:53](../../sources/public-senat/20261103-1Qna7sOGa84/transcript.md#011653)）
+[11月3日发布的能源预算听证](../videos/20261103-public-senat-energy-budget-hearing.md)（听证日期待核验）展示政府怎样把战略库存变成零售降价：低价出售、发票追踪、每周公开和利润检查组成传导机制；争议则在于三个月以后如何补库，以及定向通勤援助漏掉哪些必要出行。（[00:08:24](../../sources/public-senat/20261103-1Qna7sOGa84/transcript.md#000824)–[00:13:28](../../sources/public-senat/20261103-1Qna7sOGa84/transcript.md#001328)，[01:08:41](../../sources/public-senat/20261103-1Qna7sOGa84/transcript.md#010841)–[01:16:53](../../sources/public-senat/20261103-1Qna7sOGa84/transcript.md#011653)）
 
 [同日能源成本圆桌](../videos/20261103-public-senat-winter-energy-costs.md)从零售端提出另一风险：大型网络能较快传下降价，小型乡村站点却可能先消化高价旧库存；储备若在高价期补回，今天的减价还可能变成未来成本。门店价格、关店预测和库存重建计划均待核验。（[00:29:39](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#002939)–[00:35:45](../../sources/public-senat/20261103-QkxyMqX0Scc/transcript.md#003545)）
 

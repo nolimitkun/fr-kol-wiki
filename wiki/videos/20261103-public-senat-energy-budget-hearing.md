@@ -17,6 +17,7 @@ updated: 2026-11-04
 - 原视频：[Public Sénat / YouTube](https://www.youtube.com/watch?v=1Qna7sOGa84)
 - 原始资料：[法语自动字幕逐字稿](../../sources/public-senat/20261103-1Qna7sOGa84/transcript.md)
 - 发布日期：2026-11-03
+- 听证日期：待核验；节目开场称听证发生在“上周”（[00:00:10](../../sources/public-senat/20261103-1Qna7sOGa84/transcript.md#000010)）
 - 时长：约 88 分钟
 - 审校状态：`draft`（全文已读；部长及参议员身份、PLF 2027 条文、援助资格、能源价格、库存、核电融资与全部数字缺少仓库内同期官方一手资料，均待核验；自动字幕把若干专名和数值转写错误）
 
