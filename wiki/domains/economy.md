@@ -98,3 +98,5 @@
 
 - [租金管制与住房可负担性](../topics/rent-control-and-housing-affordability.md)
 - [租金管制再试两年：法国参议院为何只肯续命，不肯扩围？](../videos/20261026-public-senat-rent-control-extension.md)
+- [旱灾后先救命，还是先改造农场？农业救助、投资与地方共同融资](../videos/20261104-public-senat-agriculture-budget-2027.md)
+- [换掉Parcoursup之后呢？高教名额、培养成本与就业出口](../videos/20261105-public-senat-parcoursup-senate-debate.md)

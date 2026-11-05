@@ -1,6 +1,6 @@
 ---
 title: "Public Sénat"
-updated: 2026-11-04
+updated: 2026-11-05
 ---
 
 # Public Sénat
@@ -9,6 +9,8 @@ updated: 2026-11-04
 
 ## 已收录
 
+- [换掉Parcoursup之后呢？法国参议院把筛选、透明度与大学名额摊牌](../videos/20261105-public-senat-parcoursup-senate-debate.md)（Parcoursup、大学筛选、录取透明度与培养名额的参议院辩论，2026-11-05）
+- [旱灾后先救命，还是先改造农场？法国农业预算在保险、水利与传承之间拉扯](../videos/20261104-public-senat-agriculture-budget-2027.md)（2027 农业预算、气候救助、作物保险与水利听证，2026-11-04）
 - [放出柴油储备只能顶三个月：法国能源部长怎样在涨价、减碳与预算之间找钱？](../videos/20261103-public-senat-energy-budget-hearing.md)（能源预算、战略柴油储备、CEE 与新核电融资听证，2026-11-03）
 - [冬天少开暖气，夏天也躲不过热：法国能源贫困为何不能只靠电气化？](../videos/20261103-public-senat-winter-energy-costs.md)（家庭能源负担、住房翻修与电气化圆桌，2026-11-03）
 - [军费多65亿，法国就准备好打持久战了吗？参议院追问产能、人员与防空](../videos/20261102-public-senat-defense-budget-2027.md)（2027 国防预算、军工产能、人员与装备听证，2026-11-02）

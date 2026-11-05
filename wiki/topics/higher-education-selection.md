@@ -1,6 +1,6 @@
 ---
 title: "高等教育筛选、名额与培养投入"
-updated: 2026-11-03
+updated: 2026-11-05
 ---
 
 # 高等教育筛选、名额与培养投入
@@ -11,6 +11,7 @@ updated: 2026-11-03
 
 ## 现有观点
 
+- 11 月 5 日的参议院辩论把专家问题变成政治选择。Philippe Baptiste 要求议会明确是否保留筛选，并承诺公开本地排序权重；Max Brisson 要公开承认先修要求和筛选；左翼发言者则把平台视为公共名额不足的排队器，要求先扩供给。（[视频页](../videos/20261105-public-senat-parcoursup-senate-debate.md)，[00:32:36](../../sources/public-senat/20261105-pNkbDERxsJ0/transcript.md#003236)–[00:39:41](../../sources/public-senat/20261105-pNkbDERxsJ0/transcript.md#003941)，[01:09:15](../../sources/public-senat/20261105-pNkbDERxsJ0/transcript.md#010915)–[01:13:21](../../sources/public-senat/20261105-pNkbDERxsJ0/transcript.md#011321)）
 - Élise Huillery 认为平台只是分配工具，真正缺口集中在 BTS、IUT 和部分地区、专业；她估算需约七万个合适位置，并同时提高普通本科的课时和师生比。（[视频页](../videos/20261102-public-senat-parcoursup-selection.md)，[00:11:20](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#001120)–[00:14:25](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#001425)）
 - Édouard Kaminski 支持提高排序透明度，也反对把开放等同于无条件录取；他的判断是，明知成功概率极低仍录取，可能只是把失败推迟。（[视频页](../videos/20261102-public-senat-parcoursup-selection.md)，[00:26:37](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#002637)–[00:28:40](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#002840)）
 - Clément Soudaille 把不平等追到高中升学辅导：学校落实不一、家庭资源有别，会让部分学生在填志愿前已经处于劣势。（[视频页](../videos/20261102-public-senat-parcoursup-selection.md)，[00:15:25](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#001525)–[00:16:26](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#001626)）

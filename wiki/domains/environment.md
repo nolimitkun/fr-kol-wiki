@@ -25,3 +25,5 @@
 - [中国靠什么跑得快？Dan Wang 谈能源自主与工业竞争](../videos/20260914-thinkerview-dan-wang-china-industry.md)
 - [Thierry Breton 谈油价与海湾基础设施风险](../videos/20260422-le-grand-continent-asymmetric-war-thierry-breton.md)
 - [钱留在法国，工厂就会回来吗？EPR2 成本与核燃料循环](../videos/20260512-thinkerview-lluansi-montebourg-reindustrialization.md)
+- [农业气候风险、保险与生产韧性](../topics/agricultural-climate-risk-and-resilience.md)
+- [旱灾后先救命，还是先改造农场？干旱、储水与气候适应](../videos/20261104-public-senat-agriculture-budget-2027.md)

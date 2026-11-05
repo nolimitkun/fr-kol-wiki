@@ -63,3 +63,4 @@
 ## 职业教育与工业人才
 
 - [工业没死，但还救得回来吗？](../videos/20261003-public-senat-industry-new-model.md)
+- [换掉Parcoursup之后呢？法国参议院把筛选、透明度与大学名额摊牌](../videos/20261105-public-senat-parcoursup-senate-debate.md)

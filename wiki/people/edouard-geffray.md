@@ -1,6 +1,6 @@
 ---
 title: "Édouard Geffray"
-updated: 2026-10-15
+updated: 2026-11-05
 ---
 
 # Édouard Geffray
@@ -18,3 +18,9 @@ updated: 2026-10-15
 这次他仍喜欢用一句行政原则统领长回答：已有替补必须先被充分调动，才有理由向外新增招聘。他报数字很密，也频繁纠正议员的时间线和口径；遇到仍在讨论的政策，则反复区分已部署、计划部署与留给总统选举的结构改革。他把学生诉求与暴力严格切开，承诺公开投稿、扩大职业高中生代表，并用“三分之一回收、三分之二留用”解释人口下降后的岗位安排。（[00:03:01](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#000301)–[00:15:11](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#001511)，[00:52:50](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#005250)–[00:55:54](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#005554)，[01:37:45](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#013745)–[01:44:54](../../sources/public-senat/20261015-PkmIIGe_yAw/transcript.md#014454)）
 
 来源：[三千名替补教师够不够？](../videos/20261015-public-senat-education-minister-hearing.md)
+
+## 2026-11-05 Parcoursup 参议院辩论
+
+他把升学指导延伸成一条从高中到大学的连续记录，提出每名学生每年至少接受一到两次个人面谈，并允许转方向。他仍然喜欢用行政逻辑压住口号，但这次用了一个很形象的说法：若不谈先修能力就让所有人进入任何专业，只是在“把雪往前推”，把挫败从录取季推到大学一年级。（[02:02:18](../../sources/public-senat/20261105-pNkbDERxsJ0/transcript.md#020218)–[02:07:23](../../sources/public-senat/20261105-pNkbDERxsJ0/transcript.md#020723)）
+
+来源：[换掉Parcoursup之后呢？](../videos/20261105-public-senat-parcoursup-senate-debate.md)
