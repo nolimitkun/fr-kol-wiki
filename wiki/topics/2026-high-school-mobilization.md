@@ -127,3 +127,7 @@ Tanguy 和 Thévenot 支持追究未成年人父母的赔偿责任，后者直�
 - [教师缺口早就知道，为什么等到冲突才回应？](../videos/20261005-public-senat-high-school-government-response.md)（Public Sénat，2026-10-05）
 - [高中生均花得不少，为什么教室还是挤？](../videos/20261006-france-culture-lycee-spending-inequality.md)（France Culture，2026-10-06）
 - [高中生的怒火会烧到别处吗？](../videos/20261006-public-senat-high-school-movement-convergence.md)（Public Sénat，2026-10-06）
+
+## 11月5日：政府承诺换平台，议会却在入学权上分裂
+
+[参议院辩论](../videos/20261105-public-senat-parcoursup-senate-debate.md)没有再争论是否要改 Parcoursup，而是争论改完后谁有权进入大学。政府和中右派把重点放在先修能力、透明筛选和避免本科失败；左翼把平台当作名额不足的排队器，要求增加公共高教位置。Édouard Geffray 同时提出从高中起建立连续的个人升学辅导记录。（[00:32:36](../../sources/public-senat/20261105-pNkbDERxsJ0/transcript.md#003236)–[00:39:41](../../sources/public-senat/20261105-pNkbDERxsJ0/transcript.md#003941)，[02:02:18](../../sources/public-senat/20261105-pNkbDERxsJ0/transcript.md#020218)–[02:07:23](../../sources/public-senat/20261105-pNkbDERxsJ0/transcript.md#020723)）

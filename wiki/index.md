@@ -22,6 +22,7 @@
 
 ## 按专题
 
+- [农业气候风险、保险与生产韧性](topics/agricultural-climate-risk-and-resilience.md)
 - [能源负担与电气化：账单、住房与转型融资](topics/energy-affordability-and-electrification.md)
 - [法国国防预算与再武装：钱、产能与持续作战](topics/defense-budget-and-rearmament.md)
 - [高等教育筛选、名额与培养投入](topics/higher-education-selection.md)
@@ -58,6 +59,10 @@
 
 ## 按人物
 
+- [Annie Genevard](people/annie-genevard.md)
+- [Laurent Duplomb](people/laurent-duplomb.md)
+- [Philippe Baptiste](people/philippe-baptiste.md)
+- [Max Brisson](people/max-brisson.md)
 - [Maud Bregeon](people/maud-bregeon.md)
 - [Bernard Doroszczuk](people/bernard-doroszczuk.md)
 - [Stéphanie Villers](people/stephanie-villers.md)
@@ -282,6 +287,8 @@
 
 ## 按视频
 
+- 2026-11-05 · Public Sénat · [换掉Parcoursup之后呢？法国参议院把筛选、透明度与大学名额摊牌](videos/20261105-public-senat-parcoursup-senate-debate.md)
+- 2026-11-04 · Public Sénat · [旱灾后先救命，还是先改造农场？法国农业预算在保险、水利与传承之间拉扯](videos/20261104-public-senat-agriculture-budget-2027.md)
 - 2026-11-03 · Public Sénat · [放出柴油储备只能顶三个月：法国能源部长怎样在涨价、减碳与预算之间找钱？](videos/20261103-public-senat-energy-budget-hearing.md)
 - 2026-11-03 · Public Sénat · [冬天少开暖气，夏天也躲不过热：法国能源贫困为何不能只靠电气化？](videos/20261103-public-senat-winter-energy-costs.md)
 - 2026-11-02 · Public Sénat · [军费多65亿，法国就准备好打持久战了吗？参议院追问产能、人员与防空](videos/20261102-public-senat-defense-budget-2027.md)

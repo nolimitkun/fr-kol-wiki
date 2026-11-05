@@ -141,3 +141,5 @@
 - [Philippe Sands：这个概念为什么既不可少，也可能妨碍追责？](../videos/20250213-le-grand-continent-genocide-concept-philippe-sands.md)
 - [以色列选举、10月7日问责与巴勒斯坦前景](../topics/israel-election-october-7-accountability.md)
 - [战争还没结账，以色列先要投票](../videos/20261007-public-senat-israel-election-accountability.md)
+- [换掉Parcoursup之后呢？法国参议院把筛选、透明度与大学名额摊牌](../videos/20261105-public-senat-parcoursup-senate-debate.md)
+- [旱灾后先救命，还是先改造农场？法国农业预算听证](../videos/20261104-public-senat-agriculture-budget-2027.md)

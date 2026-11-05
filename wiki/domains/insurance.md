@@ -11,6 +11,7 @@
 
 ## 财产损失与责任保险
 
+- [旱灾后先救命，还是先改造农场？作物保险、国家补偿与农场流动性怎样分工](../videos/20261104-public-senat-agriculture-budget-2027.md)
 - [选战还在谈人选，五个法国人先问日子怎么过：地方传统为什么突然无险可保？](../videos/20261031-public-senat-presidential-campaign-five-lives.md)
 
 - [玻璃碎了，工资也要涨：“骚乱附加费”能否维持商铺可保性](../videos/20261028-lci-crisis-bill-insurance-wages.md)

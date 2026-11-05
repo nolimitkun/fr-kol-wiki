@@ -100,3 +100,5 @@
 - [以色列选举、10月7日问责与巴勒斯坦前景](../topics/israel-election-october-7-accountability.md)
 - [战争还没结账，以色列先要投票](../videos/20261007-public-senat-israel-election-accountability.md)
 - [Dan Wang 谈侨民、监控与国家控制的边界](../videos/20260914-thinkerview-dan-wang-china-industry.md)
+- [换掉Parcoursup之后呢？升学焦虑、社会筛选与青年路径](../videos/20261105-public-senat-parcoursup-senate-debate.md)
+- [旱灾后先救命，还是先改造农场？农场退出、接班与农村服务](../videos/20261104-public-senat-agriculture-budget-2027.md)
