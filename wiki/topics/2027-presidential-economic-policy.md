@@ -1,6 +1,6 @@
 ---
 title: "2027总统选举经济政策对照"
-updated: 2026-10-24
+updated: 2026-11-06
 ---
 
 # 2027总统选举经济政策对照
@@ -16,6 +16,8 @@ updated: 2026-10-24
 [LCI 左翼初选首辩](../videos/20260923-lci-left-primary-debate.md)补上了普通选民提问下的左翼内部比较。五人普遍接受提高低工资、绿色工业投资和税收再分配，但在普遍补贴还是定向补贴、公共支出怎么省、以及是否与 LFI 合作上分裂。
 
 [Public Sénat 的 RN 圆桌](../videos/20261023-public-senat-rn-congress-presidential-strategy.md)补入右翼民粹路线。节目分析认为，RN 一面向企业承诺减税、降费与简化，一面向工薪选民承诺把法定退休年龄降回62岁；削减欧盟出资、限制劳动移民和加入退休资本积累制又分别牵动企业、传统右翼与基层选民。方案数字与正式版本均待核验。（[01:13:11](../../sources/public-senat/20261023--22gqoFLWdk/transcript.md#011311)–[01:25:25](../../sources/public-senat/20261023--22gqoFLWdk/transcript.md#012525)）
+
+[雇主组织参议院听证](../videos/20261105-public-senat-social-budget-employers.md)没有为候选人背书，却把企业侧的竞选筛选条件说得很清楚：减轻生产负担、暂缓部分规范、保住投资，并反对让加薪和新增缴费同时发生。Sophie Primas 被追问具体候选人时拒绝点名；因此这份材料应视为利益议程，而不是候选名单。（[01:21:41](../../sources/public-senat/20261105-7e4nx0oIUlc/transcript.md#012141)–[01:26:46](../../sources/public-senat/20261105-7e4nx0oIUlc/transcript.md#012646)）
 
 ## 初步政策坐标
 

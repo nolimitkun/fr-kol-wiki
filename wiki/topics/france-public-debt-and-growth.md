@@ -1,6 +1,6 @@
 ---
 title: "法国公共债务、税收与增长路径"
-updated: 2026-11-01
+updated: 2026-11-06
 ---
 
 # 法国公共债务、税收与增长路径
@@ -100,3 +100,7 @@ Christian Saint-Étienne 把问题说得更政治化：法德利差扩大不是�
 [Public Sénat 的欧洲记者圆桌](../videos/20261009-public-senat-france-crises-left-primary.md)既警告利息与选举僵局，也反对把法国直接类比希腊：法国仍有投资吸引力和更厚的经济资产。嘉宾所引外资持债比例、利息金额和南欧财政数据仍待官方核验。（[00:34:45](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#003445)–[00:43:55](../../sources/public-senat/20261009-P4t3LbLxh2o/transcript.md#004355)）
 
 [Thinkerview 对谈](../videos/20260512-thinkerview-lluansi-montebourg-reindustrialization.md)则区分“维持生活方式的坏债”和用于教育、基础设施、生产投资的“好债”，并试图用居民储蓄少靠新增公共债务恢复产能。分类很清楚，但仍需回答项目回报和风险由谁承担。（[00:15:32](../../sources/thinkerview/20260512-q3KU2-L0cv4/transcript.md#001532)–[00:17:34](../../sources/thinkerview/20260512-q3KU2-L0cv4/transcript.md#001734)，[00:31:45](../../sources/thinkerview/20260512-q3KU2-L0cv4/transcript.md#003145)–[00:48:06](../../sources/thinkerview/20260512-q3KU2-L0cv4/transcript.md#004806)）
+
+## 社保债务碰上企业减负：两边都说已到极限
+
+[Public Sénat 周报](../videos/20261105-public-senat-social-budget-employers.md)把两种“不能再加”放在同一期。Olivier Henno 称社保融资空间逼近上限，因此要恢复退休改革、冻结部分养老金并减少重复医疗；Patrick Martin 则称企业利润和投资已弱，新增缴费会挤掉工资谈判空间。前者守公共账户，后者守企业账户，但节目没有算清减支、减负后由退休者、患者、劳动者或其他纳税人接走多少成本。（[00:31:42](../../sources/public-senat/20261105-7e4nx0oIUlc/transcript.md#003142)–[00:46:59](../../sources/public-senat/20261105-7e4nx0oIUlc/transcript.md#004659)，[01:13:32](../../sources/public-senat/20261105-7e4nx0oIUlc/transcript.md#011332)–[01:21:41](../../sources/public-senat/20261105-7e4nx0oIUlc/transcript.md#012141)）

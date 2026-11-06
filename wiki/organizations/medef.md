@@ -1,6 +1,6 @@
 ---
 title: "Medef"
-updated: 2026-09-25
+updated: 2026-11-06
 ---
 
 # Medef
@@ -9,5 +9,6 @@ updated: 2026-09-25
 
 ## 已收录
 
+- [养老金、工资、企业缴费挤在一张账上：法国参议院和雇主组织都说不能再加了](../videos/20261105-public-senat-social-budget-employers.md)（企业缴费、工资谈判、投资与竞选担忧，2026-11-05；金额和因果均待核验）
 - [2027大选经济首辩：七个人都说要救法国，账却完全不是一套](../videos/20260827-lci-medef-2027-economic-debate.md)（2026-08-27）
 - [眼镜、病假、互助保险：法国医保省钱，究竟把账单推给谁？](../videos/20260924-lci-health-insurance-reform.md)（节目讨论其负责人提出的短期病假方案，2026-09-24）

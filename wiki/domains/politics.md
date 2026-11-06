@@ -1,5 +1,7 @@
 # 政治
 
+- [养老金、工资、企业缴费挤在一张账上：参议院社保路线与雇主竞选诉求](../videos/20261105-public-senat-social-budget-employers.md)
+
 ## 预算选择与议会监督
 
 - [放出柴油储备只能顶三个月：法国能源预算与议会追问](../videos/20261103-public-senat-energy-budget-hearing.md)
