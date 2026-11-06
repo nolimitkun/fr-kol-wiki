@@ -9,6 +9,7 @@ updated: 2026-11-06
 
 ## 已收录
 
+- [一边要拆掉儿童保护的部门高墙，一边说自己从未管过课外托管](../videos/20261105-public-senat-child-protection-hearings.md)（Sarah El Haïry 的跨部门保护方案与 Dominique Versini 对巴黎课外托管责任归属的反驳；视频标题元数据错误，2026-11-05）
 - [养老金、工资、企业缴费挤在一张账上：法国参议院和雇主组织都说不能再加了](../videos/20261105-public-senat-social-budget-employers.md)（社保预算、退休改革、企业缴费与工资空间；同一上传的 Parcoursup 和农业预算片段已有独立页面，2026-11-05）
 - [换掉Parcoursup之后呢？法国参议院把筛选、透明度与大学名额摊牌](../videos/20261105-public-senat-parcoursup-senate-debate.md)（Parcoursup、大学筛选、录取透明度与培养名额的参议院辩论，2026-11-05）
 - [旱灾后先救命，还是先改造农场？法国农业预算在保险、水利与传承之间拉扯](../videos/20261104-public-senat-agriculture-budget-2027.md)（2027 农业预算、气候救助、作物保险与水利听证，2026-11-04）

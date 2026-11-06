@@ -37,6 +37,7 @@
 ## 儿童保护与课外托管
 
 - [课外托管、儿童保护与责任连续性](../topics/periscolaire-child-protection.md)
+- [一边要拆掉儿童保护的部门高墙，一边说自己从未管过课外托管](../videos/20261105-public-senat-child-protection-hearings.md)（Public Sénat，2026-11-05）
 - [孩子进了校门，谁负责到底？](../videos/20261001-public-senat-periscolaire-violence.md)（Public Sénat，2026-10-01）
 
 ## 专题
