@@ -59,6 +59,9 @@
 
 ## 按人物
 
+- [Olivier Henno](people/olivier-henno.md)
+- [Patrick Martin](people/patrick-martin.md)
+- [Sophie Primas](people/sophie-primas.md)
 - [Annie Genevard](people/annie-genevard.md)
 - [Laurent Duplomb](people/laurent-duplomb.md)
 - [Philippe Baptiste](people/philippe-baptiste.md)
@@ -287,6 +290,7 @@
 
 ## 按视频
 
+- 2026-11-05 · Public Sénat · [养老金、工资、企业缴费挤在一张账上：法国参议院和雇主组织都说不能再加了](videos/20261105-public-senat-social-budget-employers.md)
 - 2026-11-05 · Public Sénat · [换掉Parcoursup之后呢？法国参议院把筛选、透明度与大学名额摊牌](videos/20261105-public-senat-parcoursup-senate-debate.md)
 - 2026-11-04 · Public Sénat · [旱灾后先救命，还是先改造农场？法国农业预算在保险、水利与传承之间拉扯](videos/20261104-public-senat-agriculture-budget-2027.md)
 - 2026-11-03 · Public Sénat · [放出柴油储备只能顶三个月：法国能源部长怎样在涨价、减碳与预算之间找钱？](videos/20261103-public-senat-energy-budget-hearing.md)

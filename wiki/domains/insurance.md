@@ -4,6 +4,7 @@
 
 ## 补充医疗保险与社会保障
 
+- [养老金、工资、企业缴费挤在一张账上：补充保险、预防与社保赤字](../videos/20261105-public-senat-social-budget-employers.md)
 - [医保分工、补充保险与病假成本](../topics/health-insurance-cost-sharing.md)
 - [养老金少涨、短病假少赔：法国劳动部长怎样分摊社保缺口？](../videos/20261019-public-senat-labor-minister-social-budget.md)
 - [社保赤字砍一半，账单给谁？基本医保、自付与补充保险](../videos/20261013-public-senat-social-security-budget.md)

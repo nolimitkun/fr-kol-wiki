@@ -1,5 +1,6 @@
 # 经济
 
+- [养老金、工资、企业缴费挤在一张账上：劳动成本、投资与增长](../videos/20261105-public-senat-social-budget-employers.md)
 - [能源负担与电气化：账单、住房与转型融资](../topics/energy-affordability-and-electrification.md)
 - [放出柴油储备只能顶三个月：救急、减税与预算边界](../videos/20261103-public-senat-energy-budget-hearing.md)
 - [冬天少开暖气，夏天也躲不过热：能源冲击怎样进入家庭消费](../videos/20261103-public-senat-winter-energy-costs.md)

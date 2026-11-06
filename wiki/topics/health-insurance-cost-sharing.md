@@ -1,6 +1,6 @@
 ---
 title: "医保分工、补充保险与病假成本"
-updated: 2026-10-20
+updated: 2026-11-06
 ---
 
 # 医保分工、补充保险与病假成本
@@ -34,3 +34,7 @@ updated: 2026-10-20
 ## 劳动部长把短假和长假分开，证据够不够？
 
 [劳动部长听证](../videos/20261019-public-senat-labor-minister-social-budget.md)提出另一种病假改革：降低短期病假的保护或激励，把资源转向严重长假与缺少雇主补充保障的约三百万劳动者。Jean-Pierre Farandou 认为短假来不及核查、部分企业协议又覆盖等待期，已经接近“随手请假”；参议员则提醒，标准建议时长未必充分处理多病共存。争议因此不只是由谁付钱，也包括怎样区分滥用、工作条件和真实医疗需要。（[00:16:25](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#001625)–[00:17:26](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#001726)，[00:25:35](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#002535)–[00:28:39](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#002839)，[01:01:17](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#010117)–[01:02:18](../../sources/public-senat/20261019-StX9cGvBfes/transcript.md#010218)）
+
+## “适当治疗”能不能替代提高自付？
+
+[参议院多数派的后续方案](../videos/20261105-public-senat-social-budget-employers.md)把重点从报销边界转到重复医疗。Olivier Henno 以共享病历和重复检查为例，称法国可从“不适当治疗”中节省约 150 亿欧元，并主张更强制地使用共享病历。这条路线可能少把成本直接推给患者，但估算来源、执行成本、隐私边界和对医生诊疗自主的影响都没有在节目中展开，仍待核验。（[00:45:59](../../sources/public-senat/20261105-7e4nx0oIUlc/transcript.md#004559)–[00:46:59](../../sources/public-senat/20261105-7e4nx0oIUlc/transcript.md#004659)）

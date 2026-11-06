@@ -2,6 +2,8 @@
 
 追踪法国的公共债务、财政金融、储蓄、债券、资本市场与金融监管，重点解释政策、利率和市场波动怎样传到企业融资、家庭账本和公共服务。页面不构成投资或交易建议。
 
+- [养老金、工资、企业缴费挤在一张账上：社保融资上限与市场利率](../videos/20261105-public-senat-social-budget-employers.md)
+
 ## 能源转型融资
 
 - [能源负担与电气化：账单、住房与转型融资](../topics/energy-affordability-and-electrification.md)
