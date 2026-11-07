@@ -1,9 +1,13 @@
 ---
 title: "医保分工、补充保险与病假成本"
-updated: 2026-11-06
+updated: 2026-11-07
 ---
 
 # 医保分工、补充保险与病假成本
+
+## 养老金指数化与退休融资再起冲突
+
+[Public Sénat 辩论](../videos/20261106-public-senat-budget-retirement-tax-clash.md)没有讨论医疗报销细节，却继续追踪同一部社保融资法案中的退休账。Matthias Renault主张以42年缴费期为主要参数并提高劳动参与；Ian Brossat反对冻结养老金，要求扩大资本收入税基。恢复64岁退休、冻结门槛和节省金额都属于节目断言，待正式文本核验。（[00:13:21](../../sources/public-senat/20261106-7muwubN8H2E/transcript.md#001321)–[00:21:26](../../sources/public-senat/20261106-7muwubN8H2E/transcript.md#002126)）
 
 ## 省公共医保的钱，不等于社会少花钱
 

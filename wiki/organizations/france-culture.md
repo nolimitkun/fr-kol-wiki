@@ -1,6 +1,6 @@
 ---
 title: "France Culture"
-updated: 2026-11-01
+updated: 2026-11-07
 ---
 
 # France Culture
@@ -9,6 +9,7 @@ updated: 2026-11-01
 
 ## 已收录
 
+- [工会重新上桌，能把街头怒气谈成工资吗？法国社会对话卡在代表性与生产率之间](../videos/20261107-france-culture-unions-wages-social-dialogue.md)（工会代表性、行业协议、最低工资与社会会议，2026-11-07）
 - [5%利率不是今天就爆雷：Éric Monnet 拆解法国债务、市场与欧洲央行的时间差](../videos/20261029-france-culture-monnet-debt-bce.md)（债务存量重定价、投资者结构与欧洲央行托底条件，2026-10-29）
 - [债务山压住投资墙：Moscovici 为什么把减债、联盟政府和教育改革绑在一起？](../videos/20261028-france-culture-moscovici-debt-coalition.md)（公共债务、联盟政治与教育改革访谈，2026-10-28）
 - [街头还在燃，选举已经开跑：法国第五共和国能扛住双重危机吗？](../videos/20261026-france-culture-social-crisis-presidential-election.md)（社会危机、第五共和国与总统竞选，2026-10-26）
