@@ -1,6 +1,6 @@
 ---
 title: "Ian Brossat"
-updated: 2026-10-27
+updated: 2026-11-07
 ---
 
 # Ian Brossat
@@ -14,3 +14,4 @@ updated: 2026-10-27
 ## 相关页面
 
 - [租金管制再试两年](../videos/20261026-public-senat-rent-control-extension.md)
+- [预算无人认领，账单却人人争](../videos/20261106-public-senat-budget-retirement-tax-clash.md)——他把预算问题直接翻成付款人之争：公共服务要有收入，就应先向大企业、财富和资本收益筹钱；冻结养老金则是在让普通退休者买单。他还用RN地方政府的市长津贴与社会补贴选择反击对方的节支叙事，语气比住房辩论更具攻击性。（[00:07:16](../../sources/public-senat/20261106-7muwubN8H2E/transcript.md#000716)–[00:09:18](../../sources/public-senat/20261106-7muwubN8H2E/transcript.md#000918)，[00:17:23](../../sources/public-senat/20261106-7muwubN8H2E/transcript.md#001723)–[00:18:24](../../sources/public-senat/20261106-7muwubN8H2E/transcript.md#001824)，[00:22:27](../../sources/public-senat/20261106-7muwubN8H2E/transcript.md#002227)–[00:24:29](../../sources/public-senat/20261106-7muwubN8H2E/transcript.md#002429)）

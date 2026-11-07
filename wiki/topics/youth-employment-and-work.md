@@ -1,9 +1,13 @@
 ---
 title: "青年就业、工作入口与代际承诺"
-updated: 2026-10-10
+updated: 2026-11-07
 ---
 
 # 青年就业、工作入口与代际承诺
+
+## 工会能替青年谈什么？
+
+[France Culture 对谈](../videos/20261107-france-culture-unions-wages-social-dialogue.md)把青年就业接到两个通常分开的制度：企业内工会代表性和法定最低工资。Rémi Bourguignon主张把讨论下沉到企业，谈真实工作、培训与进入岗位；Pierre Cahuc则警告最低工资继续快于生产率会先伤到低技能青年，并要求改善教育到就业的衔接。青年失业率、最低工资覆盖和政策效应均待官方数据核验。（[00:27:27](../../sources/france-culture/20261107-qNTbzSZgpo0/transcript.md#002727)–[00:33:33](../../sources/france-culture/20261107-qNTbzSZgpo0/transcript.md#003333)）
 
 这个专题追踪的不是一句“青年失业率很高”，而是青年怎样从学校走到稳定生活：统计分母如何定义，住房和实习怎样筛掉没有家庭支持的人，文凭回报是否下降，企业需求能否指导教育，以及 AI 提高效率后岗位和工时怎么分配。
 

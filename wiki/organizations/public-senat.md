@@ -1,6 +1,6 @@
 ---
 title: "Public Sénat"
-updated: 2026-11-06
+updated: 2026-11-07
 ---
 
 # Public Sénat
@@ -9,6 +9,7 @@ updated: 2026-11-06
 
 ## 已收录
 
+- [预算无人认领，账单却人人争：法国共产党与RN正面冲撞税收、退休和公共支出](../videos/20261106-public-senat-budget-retirement-tax-clash.md)（2027预算、企业税、退休制度与公共支出路线辩论，2026-11-06）
 - [一边要拆掉儿童保护的部门高墙，一边说自己从未管过课外托管](../videos/20261105-public-senat-child-protection-hearings.md)（Sarah El Haïry 的跨部门保护方案与 Dominique Versini 对巴黎课外托管责任归属的反驳；视频标题元数据错误，2026-11-05）
 - [养老金、工资、企业缴费挤在一张账上：法国参议院和雇主组织都说不能再加了](../videos/20261105-public-senat-social-budget-employers.md)（社保预算、退休改革、企业缴费与工资空间；同一上传的 Parcoursup 和农业预算片段已有独立页面，2026-11-05）
 - [换掉Parcoursup之后呢？法国参议院把筛选、透明度与大学名额摊牌](../videos/20261105-public-senat-parcoursup-senate-debate.md)（Parcoursup、大学筛选、录取透明度与培养名额的参议院辩论，2026-11-05）

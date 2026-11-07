@@ -1,5 +1,8 @@
 # 政治
 
+- [工会重新上桌，能把街头怒气谈成工资吗？](../videos/20261107-france-culture-unions-wages-social-dialogue.md)——工会能否把街头动员转成谈判，以及危机社会会议如何被选举日历压缩。
+- [预算无人认领，账单却人人争](../videos/20261106-public-senat-budget-retirement-tax-clash.md)——无多数议会、49.3条风险与共产党—RN的税收路线冲突。
+
 - [养老金、工资、企业缴费挤在一张账上：参议院社保路线与雇主竞选诉求](../videos/20261105-public-senat-social-budget-employers.md)
 
 ## 预算选择与议会监督

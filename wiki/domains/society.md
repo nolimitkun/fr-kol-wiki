@@ -1,5 +1,9 @@
 # 社会与民生
 
+- [工会代表性、工资与社会对话](../topics/social-dialogue-wages.md)
+- [工会重新上桌，能把街头怒气谈成工资吗？](../videos/20261107-france-culture-unions-wages-social-dialogue.md)——低入会率、普遍协议覆盖与工资购买力如何同时存在。
+- [预算无人认领，账单却人人争](../videos/20261106-public-senat-budget-retirement-tax-clash.md)——64岁、42年缴费和养老金指数化背后的代际与分配冲突。
+
 - [养老金、工资、企业缴费挤在一张账上：退休者、劳动者与企业谁先承担](../videos/20261105-public-senat-social-budget-employers.md)
 - [能源负担与电气化：账单、住房与转型融资](../topics/energy-affordability-and-electrification.md)
 - [放出柴油储备只能顶三个月：谁能领补助，谁被资格线挡住](../videos/20261103-public-senat-energy-budget-hearing.md)

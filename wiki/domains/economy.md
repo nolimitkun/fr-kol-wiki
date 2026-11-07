@@ -1,5 +1,9 @@
 # 经济
 
+- [工会代表性、工资与社会对话](../topics/social-dialogue-wages.md)
+- [工会重新上桌，能把街头怒气谈成工资吗？](../videos/20261107-france-culture-unions-wages-social-dialogue.md)——行业协议覆盖、小企业成本、最低工资与生产率之间的冲突。
+- [预算无人认领，账单却人人争](../videos/20261106-public-senat-budget-retirement-tax-clash.md)——共产党与RN分别从资本税基和削减公共支出寻找预算空间。
+
 - [养老金、工资、企业缴费挤在一张账上：劳动成本、投资与增长](../videos/20261105-public-senat-social-budget-employers.md)
 - [能源负担与电气化：账单、住房与转型融资](../topics/energy-affordability-and-electrification.md)
 - [放出柴油储备只能顶三个月：救急、减税与预算边界](../videos/20261103-public-senat-energy-budget-hearing.md)

@@ -22,6 +22,7 @@
 
 ## 按专题
 
+- [工会代表性、工资与社会对话](topics/social-dialogue-wages.md)
 - [农业气候风险、保险与生产韧性](topics/agricultural-climate-risk-and-resilience.md)
 - [能源负担与电气化：账单、住房与转型融资](topics/energy-affordability-and-electrification.md)
 - [法国国防预算与再武装：钱、产能与持续作战](topics/defense-budget-and-rearmament.md)
@@ -59,6 +60,8 @@
 
 ## 按人物
 
+- [Pierre Cahuc](people/pierre-cahuc.md)
+- [Matthias Renault](people/matthias-renault.md)
 - [Sarah El Haïry](people/sarah-el-hairy.md)
 - [Dominique Versini](people/dominique-versini.md)
 - [Olivier Henno](people/olivier-henno.md)
@@ -292,6 +295,8 @@
 
 ## 按视频
 
+- 2026-11-07 · France Culture · [工会重新上桌，能把街头怒气谈成工资吗？法国社会对话卡在代表性与生产率之间](videos/20261107-france-culture-unions-wages-social-dialogue.md)
+- 2026-11-06 · Public Sénat · [预算无人认领，账单却人人争：法国共产党与RN正面冲撞税收、退休和公共支出](videos/20261106-public-senat-budget-retirement-tax-clash.md)
 - 2026-11-05 · Public Sénat · [一边要拆掉儿童保护的部门高墙，一边说自己从未管过课外托管](videos/20261105-public-senat-child-protection-hearings.md)
 - 2026-11-05 · Public Sénat · [养老金、工资、企业缴费挤在一张账上：法国参议院和雇主组织都说不能再加了](videos/20261105-public-senat-social-budget-employers.md)
 - 2026-11-05 · Public Sénat · [换掉Parcoursup之后呢？法国参议院把筛选、透明度与大学名额摊牌](videos/20261105-public-senat-parcoursup-senate-debate.md)
