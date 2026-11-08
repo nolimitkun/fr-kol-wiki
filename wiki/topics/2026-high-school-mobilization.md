@@ -1,5 +1,9 @@
 # 2026年高中生动员：教育诉求、暴力与国家回应
 
+[Public Sénat 10月26日圆桌](../videos/20261026-public-senat-lula-election-congress.md)补出一个政策反馈悖论：政府终于在 Parcoursup、班额、教师和校舍上让步，可能既缓和不满，也向参与者证明力量已经形成。节目还区分增加警力与改变示威权制度；具体措施、预算与法律状态均待官方资料核验。（[00:11:14](../../sources/public-senat/20261026-QP2-DM-IzTo/transcript.md#001114)–[00:23:25](../../sources/public-senat/20261026-QP2-DM-IzTo/transcript.md#002325)）
+
+[Mélenchon 随后的纲领发布](../videos/20261107-lci-melenchon-program-bourget.md)则把取消 Parcoursup、校舍翻修和16岁投票权收入竞选方案，明确尝试把学生运动转成总统选举授权。（[00:20:26](../../sources/lci/20261107-yO2-DIjpkYI/transcript.md#002026)–[00:22:31](../../sources/lci/20261107-yO2-DIjpkYI/transcript.md#002231)）
+
 ## 11月2日：Parcoursup之外，还有名额和投入
 
 [Public Sénat 圆桌](../videos/20261102-public-senat-parcoursup-selection.md)把学生要求废除 Parcoursup 的诉求拆成平台透明度、BTS 与 IUT 名额、普通本科投入和升学辅导不平等。嘉宾多数不赞成简单删掉平台，却承认等待、地方排序规则和培养路径错配会制造真实焦虑。（[00:01:11](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#000111)–[00:03:13](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#000313)，[00:11:20](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#001120)–[00:16:26](../../sources/public-senat/20261102-HIRHB9gLZCI/transcript.md#001626)）

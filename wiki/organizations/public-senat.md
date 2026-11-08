@@ -1,9 +1,11 @@
 ---
 title: "Public Sénat"
-updated: 2026-11-07
+updated: 2026-11-08
 ---
 
 # Public Sénat
+
+- [Lula逆转赢下总统，国会却更难过：巴西选举、平台动员与国会制衡](../videos/20261026-public-senat-lula-election-congress.md)（法国社会危机与巴西选举双段圆桌，2026-10-26）
 
 法国议会公共频道。本库将其节目视为媒体来源而非中立事实本身；每期仍需区分主持人框架、嘉宾观点、纪录片材料和外部核验结果。
 

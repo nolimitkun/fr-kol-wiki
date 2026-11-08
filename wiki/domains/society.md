@@ -1,5 +1,7 @@
 # 社会与民生
 
+- [社会紧急状态、反种族主义与公民罢免：Mélenchon的“新法国”](../videos/20261107-lci-melenchon-program-bourget.md)
+- [多个抗议火点同时出现，是否等于斗争汇合？](../videos/20261026-public-senat-lula-election-congress.md)
 - [工会代表性、工资与社会对话](../topics/social-dialogue-wages.md)
 - [工会重新上桌，能把街头怒气谈成工资吗？](../videos/20261107-france-culture-unions-wages-social-dialogue.md)——低入会率、普遍协议覆盖与工资购买力如何同时存在。
 - [预算无人认领，账单却人人争](../videos/20261106-public-senat-budget-retirement-tax-clash.md)——64岁、42年缴费和养老金指数化背后的代际与分配冲突。

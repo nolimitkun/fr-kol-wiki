@@ -1,9 +1,13 @@
 ---
 title: "2027总统选举：联盟与地方根基"
-updated: 2026-11-02
+updated: 2026-11-08
 ---
 
 # 2027总统选举：联盟与地方根基
+
+## Mélenchon拒绝把纲领磨圆
+
+[Bourget 纲领发布会](../videos/20261107-lci-melenchon-program-bourget.md)显示，Mélenchon 不接受用零散热门措施替代整体路线。他把社会紧急状态、生态规划、不结盟外交、公共医保和持续人民主权视为同一套转型，并公开拒绝为了“少一点分裂性”而淡化主张。现场说明了政治方向，资金、法律权限和实施次序仍待补证。（[00:30:45](../../sources/lci/20261107-yO2-DIjpkYI/transcript.md#003045)–[00:34:50](../../sources/lci/20261107-yO2-DIjpkYI/transcript.md#003450)，[00:54:18](../../sources/lci/20261107-yO2-DIjpkYI/transcript.md#005418)–[00:58:31](../../sources/lci/20261107-yO2-DIjpkYI/transcript.md#005831)）
 
 ## 五种生活怎样变成一场惩罚性选举？
 

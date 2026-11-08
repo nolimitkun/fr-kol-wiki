@@ -22,6 +22,7 @@
 
 ## 按专题
 
+- [巴西选举、平台动员与国会制衡](topics/brazil-election-platforms-and-congress.md)
 - [工会代表性、工资与社会对话](topics/social-dialogue-wages.md)
 - [农业气候风险、保险与生产韧性](topics/agricultural-climate-risk-and-resilience.md)
 - [能源负担与电气化：账单、住房与转型融资](topics/energy-affordability-and-electrification.md)
@@ -60,6 +61,10 @@
 
 ## 按人物
 
+- [Bérangère Bonte](people/berangere-bonte.md)
+- [Sophie Briand-Guimond](people/sophie-briand-guimond.md)
+- [Armelle Enders](people/armelle-enders.md)
+- [Stéphane Fournier](people/stephane-fournier.md)
 - [Pierre Cahuc](people/pierre-cahuc.md)
 - [Matthias Renault](people/matthias-renault.md)
 - [Sarah El Haïry](people/sarah-el-hairy.md)
@@ -295,6 +300,8 @@
 
 ## 按视频
 
+- 2026-11-07 · LCI · [不改口，也不只改一条：Mélenchon 把2027纲领押在生态规划、社会国家与第六共和国上](videos/20261107-lci-melenchon-program-bourget.md)
+- 2026-10-26 · Public Sénat · [Lula逆转赢下总统，国会却更难过：巴西选举把平台动员、主权与议会交易绑在一起](videos/20261026-public-senat-lula-election-congress.md)
 - 2026-11-07 · France Culture · [工会重新上桌，能把街头怒气谈成工资吗？法国社会对话卡在代表性与生产率之间](videos/20261107-france-culture-unions-wages-social-dialogue.md)
 - 2026-11-06 · Public Sénat · [预算无人认领，账单却人人争：法国共产党与RN正面冲撞税收、退休和公共支出](videos/20261106-public-senat-budget-retirement-tax-clash.md)
 - 2026-11-05 · Public Sénat · [一边要拆掉儿童保护的部门高墙，一边说自己从未管过课外托管](videos/20261105-public-senat-child-protection-hearings.md)

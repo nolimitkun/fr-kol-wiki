@@ -5,6 +5,10 @@ updated: 2026-10-07
 
 # Jean Garrigues
 
+## 2026-10-26 社会危机圆桌
+
+他用1968年作对照：今天同样有学生运动向多类社会不满扩散，但缺少当年的增长余地，政府更难用谈判资源回应。他也把 Macron 的发言描述为失去政治合法性后的“空转权威”。（[视频页](../videos/20261026-public-senat-lula-election-congress.md)，[00:05:09](../../sources/public-senat/20261026-QP2-DM-IzTo/transcript.md#000509)–[00:06:09](../../sources/public-senat/20261026-QP2-DM-IzTo/transcript.md#000609)，[00:35:35](../../sources/public-senat/20261026-QP2-DM-IzTo/transcript.md#003535)–[00:36:35](../../sources/public-senat/20261026-QP2-DM-IzTo/transcript.md#003635)）
+
 法国历史学者。Public Sénat 在 2026-10-06 节目中介绍他为议会史国际委员会负责人，并提到其新书；姓名拼写、职务与出版信息待一手资料核验。（[00:03:15](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#000315)–[00:04:16](../../sources/public-senat/20261006-fmeHtI68aqU/transcript.md#000416)）
 
 ## 2026-10-06：没有新改革，反而说明不满积得更深

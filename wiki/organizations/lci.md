@@ -1,6 +1,6 @@
 ---
 title: "LCI"
-updated: 2026-10-31
+updated: 2026-11-08
 ---
 
 # LCI
@@ -9,6 +9,7 @@ updated: 2026-10-31
 
 ## 已收录
 
+- [不改口，也不只改一条：Mélenchon 把2027纲领押在生态规划、社会国家与第六共和国上](../videos/20261107-lci-melenchon-program-bourget.md)（2027纲领发布会转播，2026-11-07）
 - [街头还要继续，公众却开始喊停：法国动员怎样耗损支持、警力与经济？](../videos/20261030-lci-protests-public-opinion-police-strain.md)（公众支持、长期警务与经济成本圆桌，2026-10-30）
 - [油价涨、石油公司赚、国家又缺钱：法国的生活成本怒火该冲谁去？](../videos/20261029-lci-fuel-tax-social-volcano.md)（燃油、石油利润、税负与社会动员圆桌，2026-10-29）
 - [玻璃碎了，工资也要涨：法国危机的账该交给保险、企业，还是所有人？](../videos/20261028-lci-crisis-bill-insurance-wages.md)（骚乱损失、保险分摊、最低工资与财政圆桌，2026-10-28）
