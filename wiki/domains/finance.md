@@ -1,5 +1,7 @@
 # 金融
 
+- [Mélenchon主张把居民储蓄导向生态与社会投资](../videos/20261107-lci-melenchon-program-bourget.md)
+- [巴西选举后的市场冲击与财政约束](../videos/20261026-public-senat-lula-election-congress.md)
 - [预算无人认领，账单却人人争](../videos/20261106-public-senat-budget-retirement-tax-clash.md)——预算收入部分遭否决后，企业附加税、养老金指数化和退休融资成为党派冲突焦点；程序与数字均待官方核验。
 
 追踪法国的公共债务、财政金融、储蓄、债券、资本市场与金融监管，重点解释政策、利率和市场波动怎样传到企业融资、家庭账本和公共服务。页面不构成投资或交易建议。

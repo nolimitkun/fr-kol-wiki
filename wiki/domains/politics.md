@@ -1,5 +1,7 @@
 # 政治
 
+- [Mélenchon把2027纲领押在生态规划、社会国家与第六共和国上](../videos/20261107-lci-melenchon-program-bourget.md)——拒绝稀释路线，以完整制度转向争取授权。
+- [Lula逆转赢下总统，国会却更难过](../videos/20261026-public-senat-lula-election-congress.md)——数字动员、国家主权与分裂国会如何同时塑造执政。
 - [工会重新上桌，能把街头怒气谈成工资吗？](../videos/20261107-france-culture-unions-wages-social-dialogue.md)——工会能否把街头动员转成谈判，以及危机社会会议如何被选举日历压缩。
 - [预算无人认领，账单却人人争](../videos/20261106-public-senat-budget-retirement-tax-clash.md)——无多数议会、49.3条风险与共产党—RN的税收路线冲突。
 

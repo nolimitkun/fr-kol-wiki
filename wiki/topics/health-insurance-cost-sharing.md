@@ -5,6 +5,10 @@ updated: 2026-11-07
 
 # 医保分工、补充保险与病假成本
 
+## Mélenchon要把补充保险问题直接改成“100%社保”
+
+[2027纲领发布会](../videos/20261107-lci-melenchon-program-bourget.md)没有在法定医保与补充保险之间重新切比例，而是主张由社保全额覆盖，并恢复缴费者选举。他还把污染预防、免费有机食堂与公共药品部门放进同一套卫生政策。成本比较、疾病因果和融资数字涉及高风险信息，均待官方一手资料核验。（[00:58:31](../../sources/lci/20261107-yO2-DIjpkYI/transcript.md#005831)–[01:03:43](../../sources/lci/20261107-yO2-DIjpkYI/transcript.md#010343)）
+
 ## 养老金指数化与退休融资再起冲突
 
 [Public Sénat 辩论](../videos/20261106-public-senat-budget-retirement-tax-clash.md)没有讨论医疗报销细节，却继续追踪同一部社保融资法案中的退休账。Matthias Renault主张以42年缴费期为主要参数并提高劳动参与；Ian Brossat反对冻结养老金，要求扩大资本收入税基。恢复64岁退休、冻结门槛和节省金额都属于节目断言，待正式文本核验。（[00:13:21](../../sources/public-senat/20261106-7muwubN8H2E/transcript.md#001321)–[00:21:26](../../sources/public-senat/20261106-7muwubN8H2E/transcript.md#002126)）

@@ -1,5 +1,6 @@
 # 医疗
 
+- [“100%社保”之外，Mélenchon还把污染预防、食堂和药品放进同一张账](../videos/20261107-lci-melenchon-program-bourget.md)
 - [养老金、工资、企业缴费挤在一张账上：共享病历与重复检查能省多少](../videos/20261105-public-senat-social-budget-employers.md)
 - [选战还在谈人选，五个法国人先问日子怎么过：乡村护士怎样补上医疗荒漠](../videos/20261031-public-senat-presidential-campaign-five-lives.md)
 

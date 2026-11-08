@@ -5,6 +5,10 @@ updated: 2026-10-25
 
 # Christine Ockrent
 
+## 2026-10-26 巴西大选圆桌
+
+她最关注平台基础设施与地缘政治。她把 WhatsApp 写成巴西日常就业和竞选动员共用的网络，又把 Lula 胜选放到特朗普重建西半球支配的战略中，视为一次明确挫折。平台规模、美国政策和选举影响均待一手资料核验。（[视频页](../videos/20261026-public-senat-lula-election-congress.md)，[00:55:54](../../sources/public-senat/20261026-QP2-DM-IzTo/transcript.md#005554)–[00:58:58](../../sources/public-senat/20261026-QP2-DM-IzTo/transcript.md#005858)，[01:01:01](../../sources/public-senat/20261026-QP2-DM-IzTo/transcript.md#010101)–[01:05:05](../../sources/public-senat/20261026-QP2-DM-IzTo/transcript.md#010505)）
+
 节目介绍其为《Sens public》评论员；出版与职业经历待一手资料核验。
 
 ## 观点

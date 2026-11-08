@@ -1,5 +1,7 @@
 # 经济
 
+- [Mélenchon的需求拉动、工资指数化与生态规划](../videos/20261107-lci-melenchon-program-bourget.md)
+- [Lula胜选后的市场反应与国会交易](../videos/20261026-public-senat-lula-election-congress.md)
 - [工会代表性、工资与社会对话](../topics/social-dialogue-wages.md)
 - [工会重新上桌，能把街头怒气谈成工资吗？](../videos/20261107-france-culture-unions-wages-social-dialogue.md)——行业协议覆盖、小企业成本、最低工资与生产率之间的冲突。
 - [预算无人认领，账单却人人争](../videos/20261106-public-senat-budget-retirement-tax-clash.md)——共产党与RN分别从资本税基和削减公共支出寻找预算空间。

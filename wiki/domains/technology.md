@@ -1,5 +1,7 @@
 # 科技
 
+- [AI省下的时间归谁？Mélenchon谈数字主权、基础设施与劳动分配](../videos/20261107-lci-melenchon-program-bourget.md)
+- [WhatsApp如何从生活基础设施变成竞选机器](../videos/20261026-public-senat-lula-election-congress.md)
 覆盖人工智能、数字主权、科研、能源技术、航空航天、创业与产业创新，同时关注欧盟监管和法国科研体系。
 ## 产业与人工智能
 
