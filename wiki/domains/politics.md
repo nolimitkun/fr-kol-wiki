@@ -1,5 +1,6 @@
 # 政治
 
+- [最低工资涨22欧元，是救急还是把成本推给小企业？](../videos/20261108-lci-smic-wages-productivity.md)——社会会议前夕，工资让步怎样被总统竞选与议会僵局挤压。
 - [Mélenchon把2027纲领押在生态规划、社会国家与第六共和国上](../videos/20261107-lci-melenchon-program-bourget.md)——拒绝稀释路线，以完整制度转向争取授权。
 - [Lula逆转赢下总统，国会却更难过](../videos/20261026-public-senat-lula-election-congress.md)——数字动员、国家主权与分裂国会如何同时塑造执政。
 - [工会重新上桌，能把街头怒气谈成工资吗？](../videos/20261107-france-culture-unions-wages-social-dialogue.md)——工会能否把街头动员转成谈判，以及危机社会会议如何被选举日历压缩。

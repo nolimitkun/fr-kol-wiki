@@ -5,6 +5,10 @@ updated: 2026-11-07
 
 # 法国公共债务、税收与增长路径
 
+## 减缴费能涨净工资，也会把缺口送进公共账本
+
+[LCI 工资圆桌](../videos/20261108-lci-smic-wages-productivity.md)把“拉近税前与税后工资”接回社保融资。Christian Saint-Étienne说，若不同时处理退休和医疗支出，降低工资缴费只会扩大赤字并推高利息负担；这是一项政策主张，节目没有用官方预算资料核验。（[00:59:04](../../sources/lci/20261108-pY8VvRAWP7g/transcript.md#005904)–[01:00:06](../../sources/lci/20261108-pY8VvRAWP7g/transcript.md#010006)）
+
 ## 预算退回参议院：税还是支出，双方连付款人都谈不拢
 
 [Public Sénat 辩论](../videos/20261106-public-senat-budget-retirement-tax-clash.md)里，Ian Brossat主张向大企业、财富和资本收入筹资，以保公共服务和养老金；Matthias Renault反对延长企业附加税，要求先削移民、欧盟出资、行政层级和部分能源补贴，并降低燃油税。两边都说政府预算失去合法性，却没有给出可直接比较的完整动态测算。预算表决、赤字、税负和支出比例均待官方资料核验。（[00:02:11](../../sources/public-senat/20261106-7muwubN8H2E/transcript.md#000211)–[00:12:21](../../sources/public-senat/20261106-7muwubN8H2E/transcript.md#001221)，[00:20:25](../../sources/public-senat/20261106-7muwubN8H2E/transcript.md#002025)–[00:24:29](../../sources/public-senat/20261106-7muwubN8H2E/transcript.md#002429)）

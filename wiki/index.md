@@ -61,6 +61,9 @@
 
 ## 按人物
 
+- [Denis Gravouil](people/denis-gravouil.md)
+- [Sylvain Bersinger](people/sylvain-bersinger.md)
+- [Bernard Cohen-Hadad](people/bernard-cohen-hadad.md)
 - [Bérangère Bonte](people/berangere-bonte.md)
 - [Sophie Briand-Guimond](people/sophie-briand-guimond.md)
 - [Armelle Enders](people/armelle-enders.md)
@@ -300,6 +303,7 @@
 
 ## 按视频
 
+- 2026-11-08 · LCI · [最低工资涨22欧元，是救急还是把成本推给小企业？法国工资圆桌把短期止痛与长期增长摆上同一张桌](videos/20261108-lci-smic-wages-productivity.md)
 - 2026-11-07 · LCI · [不改口，也不只改一条：Mélenchon 把2027纲领押在生态规划、社会国家与第六共和国上](videos/20261107-lci-melenchon-program-bourget.md)
 - 2026-10-26 · Public Sénat · [Lula逆转赢下总统，国会却更难过：巴西选举把平台动员、主权与议会交易绑在一起](videos/20261026-public-senat-lula-election-congress.md)
 - 2026-11-07 · France Culture · [工会重新上桌，能把街头怒气谈成工资吗？法国社会对话卡在代表性与生产率之间](videos/20261107-france-culture-unions-wages-social-dialogue.md)

@@ -1,5 +1,6 @@
 # 金融
 
+- [最低工资涨22欧元，是救急还是把成本推给小企业？](../videos/20261108-lci-smic-wages-productivity.md)——降低工资缴费如何传导到社保融资、赤字与利息负担。
 - [Mélenchon主张把居民储蓄导向生态与社会投资](../videos/20261107-lci-melenchon-program-bourget.md)
 - [巴西选举后的市场冲击与财政约束](../videos/20261026-public-senat-lula-election-congress.md)
 - [预算无人认领，账单却人人争](../videos/20261106-public-senat-budget-retirement-tax-clash.md)——预算收入部分遭否决后，企业附加税、养老金指数化和退休融资成为党派冲突焦点；程序与数字均待官方核验。
