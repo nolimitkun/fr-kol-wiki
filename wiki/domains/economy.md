@@ -1,5 +1,6 @@
 # 经济
 
+- [最低工资涨22欧元，是救急还是把成本推给小企业？](../videos/20261108-lci-smic-wages-productivity.md)——最低工资、工资档位、企业成本与生产率的短长期冲突。
 - [Mélenchon的需求拉动、工资指数化与生态规划](../videos/20261107-lci-melenchon-program-bourget.md)
 - [Lula胜选后的市场反应与国会交易](../videos/20261026-public-senat-lula-election-congress.md)
 - [工会代表性、工资与社会对话](../topics/social-dialogue-wages.md)

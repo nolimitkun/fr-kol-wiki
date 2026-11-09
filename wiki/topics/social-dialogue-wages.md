@@ -2,6 +2,12 @@
 
 这个专题追踪三件互相牵制的事：谁有资格代表劳动者，行业谈判怎样落到大小企业，以及工资上涨最终由生产率、利润还是公共财政承担。
 
+## 22欧元的信号，碰上整张工资表的成本
+
+[LCI 工资圆桌](../videos/20261108-lci-smic-wages-productivity.md)把第二天社会会议可能讨论的最低工资上调拆成三本账。Denis Gravouil说，若1月本来就会自动调整，提前到12月的22欧元只是一月救急；Bernard Cohen-Hadad担心最低工资、行业工资档位和企业缴费连锁上涨；Sylvain Bersinger则提醒企业可能涨价或少招人。（[00:10:20](../../sources/lci/20261108-pY8VvRAWP7g/transcript.md#001020)–[00:17:24](../../sources/lci/20261108-pY8VvRAWP7g/transcript.md#001724)，[00:27:34](../../sources/lci/20261108-pY8VvRAWP7g/transcript.md#002734)–[00:31:37](../../sources/lci/20261108-pY8VvRAWP7g/transcript.md#003137)）
+
+这场圆桌也补上前一日 France Culture 对谈中的时间冲突。Christian Saint-Étienne要求靠更长付薪工时、投资和再工业化提高生产率；Arlette Chabot则追问这些五到七年的路径如何回应眼前账单。短期信号与长期支付能力，仍没有被同一项政策接起来。（[00:33:39](../../sources/lci/20261108-pY8VvRAWP7g/transcript.md#003339)–[00:35:42](../../sources/lci/20261108-pY8VvRAWP7g/transcript.md#003542)，[00:59:04](../../sources/lci/20261108-pY8VvRAWP7g/transcript.md#005904)–[01:00:06](../../sources/lci/20261108-pY8VvRAWP7g/transcript.md#010006)）
+
 ## 工会回到谈判桌，基层却没有同步回来
 
 [France Culture 对谈](../videos/20261107-france-culture-unions-wages-social-dialogue.md)里，Rémi Bourguignon把这轮动员视为工会重新组织分散诉求的一次成功，但承认运动并非由工会发起。他把低入会率归因于普遍享受谈判成果、入会的职业风险，以及政府长期绕开工会。Pierre Cahuc则认为，全国联合会凭常设人员与制度资源拥有强大政治影响，却与企业基层脱节。（[00:01:01](../../sources/france-culture/20261107-qNTbzSZgpo0/transcript.md#000101)–[00:09:07](../../sources/france-culture/20261107-qNTbzSZgpo0/transcript.md#000907)）

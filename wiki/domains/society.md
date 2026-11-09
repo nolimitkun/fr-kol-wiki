@@ -1,5 +1,6 @@
 # 社会与民生
 
+- [最低工资涨22欧元，是救急还是把成本推给小企业？](../videos/20261108-lci-smic-wages-productivity.md)——工会、小企业与经济学家争论谁来承担生活成本冲击。
 - [社会紧急状态、反种族主义与公民罢免：Mélenchon的“新法国”](../videos/20261107-lci-melenchon-program-bourget.md)
 - [多个抗议火点同时出现，是否等于斗争汇合？](../videos/20261026-public-senat-lula-election-congress.md)
 - [工会代表性、工资与社会对话](../topics/social-dialogue-wages.md)
