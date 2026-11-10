@@ -1,5 +1,7 @@
 # 社会与民生
 
+- [退休金少涨、家庭福利冻结，谁先承担社保修账？](../videos/20261110-public-senat-social-security-budget-senate-debate.md)
+- [海岸上涨时，谁能搬走、谁留在风险里？](../videos/20261110-public-senat-ocean-warming-carbon-sink.md)——海洋升温对沿海居民、渔业生计和气候迁徙的分配冲击。
 - [最低工资涨22欧元，是救急还是把成本推给小企业？](../videos/20261108-lci-smic-wages-productivity.md)——工会、小企业与经济学家争论谁来承担生活成本冲击。
 - [社会紧急状态、反种族主义与公民罢免：Mélenchon的“新法国”](../videos/20261107-lci-melenchon-program-bourget.md)
 - [多个抗议火点同时出现，是否等于斗争汇合？](../videos/20261026-public-senat-lula-election-congress.md)

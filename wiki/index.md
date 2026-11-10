@@ -22,6 +22,7 @@
 
 ## 按专题
 
+- [海洋升温、碳汇与沿海风险](topics/ocean-warming-carbon-sink.md)
 - [巴西选举、平台动员与国会制衡](topics/brazil-election-platforms-and-congress.md)
 - [工会代表性、工资与社会对话](topics/social-dialogue-wages.md)
 - [农业气候风险、保险与生产韧性](topics/agricultural-climate-risk-and-resilience.md)
@@ -61,6 +62,9 @@
 
 ## 按人物
 
+- [Stéphanie Rist](people/stephanie-rist.md)
+- [Claire Nouvian](people/claire-nouvian.md)
+- [Françoise Vimeux](people/francoise-vimeux.md)
 - [Denis Gravouil](people/denis-gravouil.md)
 - [Sylvain Bersinger](people/sylvain-bersinger.md)
 - [Bernard Cohen-Hadad](people/bernard-cohen-hadad.md)
@@ -303,6 +307,8 @@
 
 ## 按视频
 
+- 2026-11-10 · Public Sénat · [社保赤字要砍近百亿，谁来补？法国参议院从听证走到法案正面交锋](videos/20261110-public-senat-social-security-budget-senate-debate.md)
+- 2026-11-10 · Public Sénat · [海洋替人类吞下九成余热，还能撑多久？法国圆桌追问升温、碳汇与沿海退路](videos/20261110-public-senat-ocean-warming-carbon-sink.md)
 - 2026-11-08 · LCI · [最低工资涨22欧元，是救急还是把成本推给小企业？法国工资圆桌把短期止痛与长期增长摆上同一张桌](videos/20261108-lci-smic-wages-productivity.md)
 - 2026-11-07 · LCI · [不改口，也不只改一条：Mélenchon 把2027纲领押在生态规划、社会国家与第六共和国上](videos/20261107-lci-melenchon-program-bourget.md)
 - 2026-10-26 · Public Sénat · [Lula逆转赢下总统，国会却更难过：巴西选举把平台动员、主权与议会交易绑在一起](videos/20261026-public-senat-lula-election-congress.md)

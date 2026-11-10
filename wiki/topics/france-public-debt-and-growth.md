@@ -5,6 +5,7 @@ updated: 2026-11-07
 
 # 法国公共债务、税收与增长路径
 
+- [社保赤字要砍近百亿，谁来补？](../videos/20261110-public-senat-social-security-budget-senate-debate.md)——社保赤字、多年融资轨迹与企业缴费减免。
 ## 减缴费能涨净工资，也会把缺口送进公共账本
 
 [LCI 工资圆桌](../videos/20261108-lci-smic-wages-productivity.md)把“拉近税前与税后工资”接回社保融资。Christian Saint-Étienne说，若不同时处理退休和医疗支出，降低工资缴费只会扩大赤字并推高利息负担；这是一项政策主张，节目没有用官方预算资料核验。（[00:59:04](../../sources/lci/20261108-pY8VvRAWP7g/transcript.md#005904)–[01:00:06](../../sources/lci/20261108-pY8VvRAWP7g/transcript.md#010006)）

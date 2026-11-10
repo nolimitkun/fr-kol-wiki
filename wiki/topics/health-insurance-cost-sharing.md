@@ -5,6 +5,7 @@ updated: 2026-11-07
 
 # 医保分工、补充保险与病假成本
 
+- [社保赤字要砍近百亿，谁来补？](../videos/20261110-public-senat-social-security-budget-senate-debate.md)——2027法案正式审议中的基本医保、补充保险、病假与医疗行业分担。
 ## Mélenchon要把补充保险问题直接改成“100%社保”
 
 [2027纲领发布会](../videos/20261107-lci-melenchon-program-bourget.md)没有在法定医保与补充保险之间重新切比例，而是主张由社保全额覆盖，并恢复缴费者选举。他还把污染预防、免费有机食堂与公共药品部门放进同一套卫生政策。成本比较、疾病因果和融资数字涉及高风险信息，均待官方一手资料核验。（[00:58:31](../../sources/lci/20261107-yO2-DIjpkYI/transcript.md#005831)–[01:03:43](../../sources/lci/20261107-yO2-DIjpkYI/transcript.md#010343)）

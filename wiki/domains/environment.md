@@ -1,5 +1,7 @@
 # 环境与能源
 
+- [海洋替人类吞下九成余热，还能撑多久？](../videos/20261110-public-senat-ocean-warming-carbon-sink.md)——海洋热浪、海平面、碳汇衰减与沿海适应。
+- [海洋升温、碳汇与沿海风险](../topics/ocean-warming-carbon-sink.md)
 - [规范性生态规划：国家支持要不要以规划目标为条件？](../videos/20261107-lci-melenchon-program-bourget.md)
 覆盖气候政策、核能与电力、农业、交通转型、生物多样性和法国及欧盟的能源战略。
 
