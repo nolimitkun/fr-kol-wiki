@@ -1,5 +1,7 @@
 # 金融
 
+- [社保赤字从226亿压到127亿的融资路径](../videos/20261110-public-senat-social-security-budget-senate-debate.md)——赤字轨迹、社保债务与补充保险成本转移；数字待核验。
+- [海洋升温如何传进资产、转型资金与沿海融资](../videos/20261110-public-senat-ocean-warming-carbon-sink.md)——气候损失、投资缺口与金融机构化石能源敞口；相关断言待核验。
 - [最低工资涨22欧元，是救急还是把成本推给小企业？](../videos/20261108-lci-smic-wages-productivity.md)——降低工资缴费如何传导到社保融资、赤字与利息负担。
 - [Mélenchon主张把居民储蓄导向生态与社会投资](../videos/20261107-lci-melenchon-program-bourget.md)
 - [巴西选举后的市场冲击与财政约束](../videos/20261026-public-senat-lula-election-congress.md)

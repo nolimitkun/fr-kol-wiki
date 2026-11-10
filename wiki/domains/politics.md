@@ -1,5 +1,6 @@
 # 政治
 
+- [社保赤字要砍近百亿，谁来补？](../videos/20261110-public-senat-social-security-budget-senate-debate.md)——国民议会否决收入部分后，参议院各党团争夺社保法案的负担分配。
 - [最低工资涨22欧元，是救急还是把成本推给小企业？](../videos/20261108-lci-smic-wages-productivity.md)——社会会议前夕，工资让步怎样被总统竞选与议会僵局挤压。
 - [Mélenchon把2027纲领押在生态规划、社会国家与第六共和国上](../videos/20261107-lci-melenchon-program-bourget.md)——拒绝稀释路线，以完整制度转向争取授权。
 - [Lula逆转赢下总统，国会却更难过](../videos/20261026-public-senat-lula-election-congress.md)——数字动员、国家主权与分裂国会如何同时塑造执政。
